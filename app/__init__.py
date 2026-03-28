@@ -1,0 +1,1 @@
+"""LawBridge backend package."""
