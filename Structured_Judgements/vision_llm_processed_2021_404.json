@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2021_404.pdf",
+        "court_name": "T.C. İSTANBUL 3.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/222",
+        "karar_no": "2023/187",
+        "case_subject": "MARKANIN KULLANMAMA NEDENİYLE İPTALİ",
+        "dava_tarihi": "18/09/2019",
+        "karar_tarihi": "16/11/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davayı markanın kullanılmasına dayanarak iptal talep etti. Markanın 2012'de tescili edildiği ve 5 yıl boyunca kullanılmadığı iddia edildi. Karşı dava, markanın aktif olarak kullanıldığını ve ticari faaliyetlerde yer aldığını savundu.",
+        "reasoning_text": "Mahkeme, markanın 2015-2019 yılları arasında aktif olarak kullanıldığını tespit etti. Markanın iptal taleplerinin reddedildiği ve davacı-karşı davacı arasındaki iddiaların değerlendirildiği karar verildi.",
+        "verdict_text": "Asıl davanın reddine, karşı davanın kabulüne karar verildi. Davacıya 269,85 TL ilam harcı ve 225,15 TL ek harç, davacı vekiline 25.500,00 TL vekalet ücreti verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı SİNAİ MÜLKİYET KANUNU",
+            "6/1 maddesi",
+            "6/5 maddesi",
+            "25. maddesi",
+            "26. maddesi",
+            "4/1 maddesi",
+            "192/1-a maddesi",
+            "9. maddesi",
+            "26/1-a maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, markanın aktif olarak kullanıldığını tespit ederek iptal talebini reddetmiştir. Davacı-karşı davacı arasındaki iddialar değerlendirilmiştir.",
+    "summary_for_model": "Markanın kullanılmasına dayanarak iptal talebi reddedildi. Markanın aktif kullanımı ve ticari faaliyetleri tespit edildi. Davacı-karşı davacı arasındaki iddialar değerlendirildi."
+}

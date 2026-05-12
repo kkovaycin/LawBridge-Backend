@@ -1,0 +1,33 @@
+{
+    "meta_data": {
+        "file_name": "2020_351.pdf",
+        "court_name": "T.C. ANKARA 5. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2020/351",
+        "karar_no": "2021/334",
+        "case_subject": "Endüstriyel Tasarım (Endüstriyel Tasarımla İlgili Kurum Kararlarının İptali)",
+        "dava_tarihi": "22/12/2020",
+        "karar_tarihi": "06/10/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Dava, Endüstriyel Tasarım ile ilgili kurum kararlarının iptali için açıldı. Müvekkil, 26.12.2019'da TÜRK PATENT VE MARKA KURUMU'na (TPMK) tescil numarası ile başvuruda bulunduğunu, tasarımların 24.02.2020 tarihli 335 numaralı bültende yayınlandığını ve tescil kararı verildiğini iddia etti. Davacı firma, TPMK tarafından verilen tasarım tescilinin hukuksuz olduğunu iddia etti. Davacı, tasarımların müvekkil tarafından özgün bir şekilde oluşturulduğunu, davacı firma tarafından haksız bir şekilde ele geçirildiğini ve TPMK tarafından verilen kararın iptali için talep etti.",
+        "reasoning_text": "Mahkeme, dava konusu olan tasarımların yeni ve ayırt edici olup olmadığı hususunda bilirkişi incelemesi yaptı. Mahkeme, tasarımların bilinen kullanıcı tarafından algılanabilirliğini ve ayırt edici niteliğini değerlendirerek, davacı firmanın tasarımları ile davacı firma tarafından oluşturulan tasarımların aynı olduğunu tespit etti. Mahkeme, TPMK'nın verdiği kararın hukuka uygun olmadığını ve davacı firmanın tasarımlarını haksız bir şekilde ele geçirdiğini tespit etti.",
+        "verdict_text": "HÜKÜM:\n1-Davanın REDDİNE,\n2-Harçlar Kanunu uyarınca alınması gereken 59,30 TL maktu karar ve ilam harcıdan peşin alınan 54,40 TL'nin düşümü ile bakiye kalan 4,90 TL'nin davacıdan tahsili ile hazineye gelir kaydına,\n3-Davalar kendilerini vekil ile temsil ettiğinden karar verildiği tarihte yürürlükte bulunan AAÜT m.3 hükmü gereği hesaplanan 5.900,00 TL vekalet ücretinin davacıdan alınarak davallara verilmesine,\n4-Davacı tarafından yapılan 54,40 TL başvurma harcı, 54,40 TL peşin harç, 7,80 TL vekalet harcı, 132,00 TL posta, 2.100,00 TL bilirkişi ücreti olmak üzere toplam 2.348,60 TL, yargılama giderinin davacı üzerinde bırakılmasına,\n5-Davacı ... Kuruyemiş Gıda Aktariye Kimyevi Maddeler Tarım Ürünleri San. Ve Tic. A.Ş. tarafından yapılan 25,50 TL vekalet harç sarfiyatı ilişkili yargılama giderinin davacıdan alınarak davalı ... Kuruyemiş Gıda Aktariye Kimyevi Maddeler Tarım Ürünleri San. Ve Tic. A.Ş.'ye verilmesine,\n6-HMK m.333 hükmü gereği karar kesinleştiğinde artan avansın yatıran tarafa re'sen iaadesine,\nDaır, davacı vekilinin, davalı kurum vekilinin ve davalı şirket vekilinin yüzüne karşı, HMK m.341 ve m.345 hükümleri gereği kararın taraflara tebliğinden itibaren iki hafta içerisinde Ankara Bölge Adliye Mahkemesi ilgili hukuk dairesi nezdiğinde İSTINAFA yasa yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 06/10/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Harçlar Kanunu",
+            "AAÜT m.3",
+            "HMK m.333",
+            "HMK m.341",
+            "HMK m.345",
+            "5700 sayılı SMK'nin 56. maddesi",
+            "5700 sayılı SMK'nin 56/4. maddesi",
+            "5700 sayılı SMK'nin 56/5. maddesi",
+            "5700 sayılı SMK'nin 58/2. maddesi",
+            "5700 sayılı SMK m.57/2 hükmü",
+            "5700 sayılı SMK m.57/1 hükmü"
+        ]
+    },
+    "summary_for_human": "Mahkeme, Endüstriyel Tasarım ile ilgili kurum kararlarının iptali davasında, davacı firmanın tasarımlarını haksız bir şekilde ele geçirdiğini ve TPMK'nın verdiği kararın hukuksuz olduğunu tespit etti. Davacı firmaya karşı dava reddedildi ve davacıya harçlar ve vekalet ücretleri tahsil edildi.",
+    "summary_for_model": "Mahkeme, dava konusu olan tasarımların yeni ve ayırt edici olup olmadığı hususunda bilirkişi incelemesi yaptı. Mahkeme, tasarımların bilinen kullanıcı tarafından algılanabilirliğini ve ayırt edici niteliğini değerlendirerek, davacı firmanın tasarımları ile davacı firma tarafından oluşturulan tasarımların aynı olduğunu tespit etti. Mahkeme, TPMK'nın verdiği kararın hukuka uygun olmadığını ve davacı firmanın tasarımlarını haksız bir şekilde ele geçirdiğini tespit etti. Davacı firmaya karşı dava reddedildi ve davacıya harçlar ve vekalet ücretleri tahsil edildi."
+}

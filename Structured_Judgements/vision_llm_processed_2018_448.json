@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2018_448.pdf",
+        "court_name": "Bursa Asliye Ticaret Mahkemesi",
+        "esas_no": "2018",
+        "karar_no": "2019",
+        "case_subject": "Davacı, davalının kredi borçlarını ödemediği için dava açmıştır.",
+        "dava_tarihi": "02/04/2018",
+        "karar_tarihi": "18/02/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının kredi borçlarını ödemediği için dava açmıştır. Davacı, davalının kredi borçlarını ödemediği için 20.000 TL tutarında bir bono talep etmiştir. Davacı, davalının kredi borçlarını ödemediği için dava açmıştır.",
+        "reasoning_text": "Mahkeme, davacının kredi borçlarını ödemediği için dava açtığını ve davacının kredi borçlarını ödemediği için 20.000 TL tutarında bir bono talep ettiğini değerlendirmiştir. Mahkeme, davacının kredi borçlarını ödemediği için dava açtığını ve davacının kredi borçlarını ödemediği için 20.000 TL tutarında bir bono talep ettiğini kabul etmiştir.",
+        "verdict_text": "HÜKM: Yukarıda açıklanan nedenlerle, 1-Davanın REDDİNE, 2-HMK 339/2 fikrası gereği davacının yargılama gideri ödemeden tamamen muaf tutulmasına 3-Davalı tarafından yapılan yargılama giderinin kendi üzerine bırakılmasına Dair, davacı vekilinin yüzüne karşı, davalı vekilinin yokluğundan hükmün tebliğinden itibaren 2 haftalık süre içerisinde BAM'da istinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 18/02/2019 Katip ... ,e-imzalıdır"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMG 339/2",
+            "İK 170/a-son fikrası",
+            "Yargıtay HGK 14.03.2018 tarihli 2017/19-897 esas,2018/464 karar sayılı ilamı"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının kredi borçlarını ödemediği için dava açmıştır. Mahkeme, davacının kredi borçlarını ödemediği için dava açtığını ve davacının kredi borçlarını ödemediği için 20.000 TL tutarında bir bono talep ettiğini kabul etmiştir.",
+    "summary_for_model": "Davacı, davalının kredi borçlarını ödemediği için dava açmıştır. Mahkeme, davacının kredi borçlarını ödemediği için dava açtığını ve davacının kredi borçlarını ödemediği için 20.000 TL tutarında bir bono talep ettiğini kabul etmiştir. Mahkeme, davacının kredi borçlarını ödemediği için dava açtığını ve davacının kredi borçlarını ödemediği için 20.000 TL tutarında bir bono talep ettiğini değerlendirmiştir."
+}

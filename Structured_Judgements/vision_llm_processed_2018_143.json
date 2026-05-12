@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2018_143.pdf",
+        "court_name": "T.C. İSTANBUL 1.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2018/143 Esas",
+        "karar_no": "2018/435",
+        "case_subject": "Maddi ve Manevi Tazminat İstemi",
+        "dava_tarihi": "26/03/2018",
+        "karar_tarihi": "15/11/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalların özel röportajında fotoğraf çekimi için evine gelerek fotoğraf çektiğini iddia etmiştir. Röportaj dergide yayınlanmadıktan sonra, davacının resmi ile oğlunun bulunduğu fotoğraf davalların dergisinde yayınlandı. Davalların bu fotoğrafı izinsiz olarak reklam amaçlı kullandığı iddia edildi.",
+        "reasoning_text": "Davacının ve oğlunun görüntüsünün izinsiz olarak ticari amaçla yayınlandığı tespit edildi. Bu durum, davacının kişilik haklarını ihlal ettiği için dava açılmaya hak verdi. Mahkeme, davacının haklarını korumak için maddi ve manevi tazminat talebini kabul etti.",
+        "verdict_text": "Görev hususunun res'en mahkemede dikkate alınacak olması hususu gözetenerek MAHKEMEMİZİN GÖREVŞİZLİĞİNE, Dava dilekçesinin USULDEN REDDİNE, HMK 20. madde uyarınca Dosyanın süresi içinde kanun yoluyla başvurulamayarak kesinleşmesi halinde kararın kesinleşme tarihinden, kanun yoluyla başvurulmuş ise bu başvurunun reddi kararının tebliği tarihinden itibaren iki haftalık süre içinde mahkememize müracaat edilmesi halinde dosyanın yetkili ve görevli İstanbul NÖBETÇİ ASLİYE HUKUK Mahkemesine gönderilmesine, Dair karar taraf vekillerinin yüzüne karşı gerekçeli kararın taraflara tebliğiinden itibaren 2 HAFTA içerisinde İSTİNAF YASA yolu açık olmak üzere karar verilip tefhim kılındı. 15/11/2018"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 20. madde",
+            "5846 sayılı FSEK'nin 76. maddesi",
+            "İSTİNAF YASA"
+        ]
+    },
+    "summary_for_human": "Davacı, davalların özel röportajında fotoğraf çekimi için evine gelerek fotoğraf çektiğini iddia etti. Röportaj dergide yayınlanmadıktan sonra, davacının resmi ile oğlunun bulunduğu fotoğraf davalların dergisinde yayınlandı. Davalların bu fotoğrafı izinsiz olarak reklam amaçlı kullandığı tespit edildi. Mahkeme, davacının haklarını korumak için maddi ve manevi tazminat talebini kabul etti.",
+    "summary_for_model": "Dava, davalların özel röportajında fotoğraf çekimi için davacının evine gelerek fotoğraf çektiğini iddia ediyor. Röportaj dergide yayınlanmadıktan sonra, davacının resmi ile oğlunun bulunduğu fotoğraf davalların dergisinde yayınlandı. Davalların bu fotoğrafı izinsiz olarak reklam amaçlı kullandığı tespit edildi. Mahkeme, davacının haklarını korumak için maddi ve manevi tazminat talebini kabul etti. Davanın usulden reddi kararı verildi."
+}

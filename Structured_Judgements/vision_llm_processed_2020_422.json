@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2020_422.pdf",
+        "court_name": "İstanbul 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2020/422",
+        "karar_no": "2020/422",
+        "case_subject": "Kişilik haklarına saldırdığı nedeniyle MANEVI TAZMINAT",
+        "dava_tarihi": "28/12/2020",
+        "karar_tarihi": "30/12/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, öğretmenlik mesleğini icra ettiği ve internette yayınlanan haberlerde kullanılmış fotoğrafının hak ihlali olarak ele alındığını iddia etmiştir. Davacı, fotoğrafının Facebook profilinde kullanılması ve haberlerde tekrarlanması nedeniyle elem duyduğunu ve manevi tazminat talep ettiğini belirtmiştir.",
+        "reasoning_text": "Mahkeme, davacının iddialarını kabul etmedi. Davacının fotoğrafının haberlerde kullanılması, davacının iddia ettiği elem ve zarar için yeterli kanıt olarak değerlendirilmedi. Mahkeme ayrıca, davacının iddialarının genel mahkemelerin yetki alanına girmediğini ve davacının usulden reddedildiğini belirledi.",
+        "verdict_text": "HÜKÜM:Yukarda açıklanan gerekçe kapsamına göre GÖREV HUSUSUNUN RE'SEN MAHKEMECE DİKKATE ALINACAK OLMAŞI HUSUSU GÖZETİLEREK MAHKEMEMİZİN GÖREVŞİZLİĞİNE, Dava dilekçesinin USULDEN REDDİNE, HMK 20. madde uyarınca Dosyanın süresi içinde kanun yoluna başvurulmayarak kesinleşmesi halinde kararın kesinleşme tarihinden ,kanun yoluna başvurulmuş ise bu başvurunun reddi kararının tebliği tarihinden itibaren iki haftalık süre içinde mahkememize müracaat edilmesi halinde dosyanın yetkili ve görevli İstanbul NÖBETÇİ ASLİYE HUKUK Mahkemesine gönderilmesine, Dair karar davacı vekilinin ve davalının yokluğunda, gerekli kararın taraflara tebliği tarihinden itibaren 2 HAFTA içerisinde İSTANBUL BÖLGE ADLİYE MAHKEMELERİ nezdiinde İSTINAFA YASA yolu açık olmak üzere dosya üzerinden yapılan inceleme sonucunda tensiben karar verildi. 30.12.2020"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "5846 sayılı Fıkri ve Sanat Eserleri Kanunu (FSEK)",
+            "6098 sayılı Türk Borçlar Kanunu (TBK)",
+            "4721 sayılı Türk Medeni Kanunu (TMK)",
+            "HMK 20. madde",
+            "HMK 114 1-c madde",
+            "İSTANAF YASA"
+        ]
+    },
+    "summary_for_human": "Davacı, öğretmenlik mesleği nedeniyle internette yayınlanan fotoğrafının hak ihlali olarak ele alındığını iddia etti ve manevi tazminat talep etti. Mahkeme, davacının iddialarını kabul etmedi ve davayı usulden reddetti.",
+    "summary_for_model": "Davacı, internette yayınlanan fotoğrafının hak ihlali olarak ele alındığını iddia etti. Mahkeme, davacının iddialarını kabul etmedi ve davayı usulden reddetti. Davacının fotoğrafının haberlerde kullanılması, elem ve zarar için yeterli kanıt olarak değerlendirilmedi."
+}

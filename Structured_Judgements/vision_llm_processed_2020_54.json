@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2020_54.pdf",
+        "court_name": "T.C. İZMİR 2. AŞLİYE TİCARET MAHKEMESİ",
+        "esas_no": "2020/54",
+        "karar_no": "2022/505",
+        "case_subject": "Rekabet Yasası ihlali ve cezai şart talepleri",
+        "dava_tarihi": "20/01/2020",
+        "karar_tarihi": "28/06/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davanın ticari dava niteliğinde olduğunu iddia etti. Davacı, davanın iş mahkemesinde görülmemesi gerektiğini, ancak görevi kamu düzenine ilgisinin olduğu için ilk olarak iş mahkemelerinde görüleceğini savundu. Davacı, davanın 5 yıl boyunca İzmir'de yönetici olarak çalışmadığını, 3 yıl Antalya'da satış temsilciliği, 1 yıl İzmir'de satış şefliği ve 1 yıl İzmir'de satış yöneticiliği pozisyonunda çalıştığını iddia etti. Davacı, davanın rekabet yasasını ihlal ettiğini iddia etti ve dava konusu olarak davanın ticari sır kaplamındaki bilgileri kötüye kullandığını, davanın davacı şirketiyle aynı coğrafi bölgede aynı sektörde farklı bir şirkette aynı görev pozisyonunda çalıştığını ve bu durumun rekabet yasasının ihlali olarak değerlendirildiğini savundu.",
+        "reasoning_text": "Mahkeme, davanın ticari dava niteliğinde olduğunu kabul etti. Mahkeme, davanın iş mahkemesinde görülmemesi gerektiğini, ancak görevi kamu düzenine ilgisinin olduğu için ilk olarak iş mahkemelerinde görüleceğini karar verdi. Mahkeme, davanın rekabet yasasını ihlal ettiğini iddia etti ve dava konusu olarak davanın ticari sır kaplamındaki bilgileri kötüye kullandığını, davanın davacı şirketiyle aynı coğrafi bölgede aynı sektörde farklı bir şirkette aynı görev pozisyonunda çalıştığını ve bu durumun rekabet yasasının ihlali olarak değerlendirildiğini kabul etti. Mahkeme, davanın davacı şirketiyle aynı coğrafi bölgede aynı sektörde farklı bir şirkette aynı görev pozisyonunda çalıştığını ve bu durumun rekabet yasasının ihlali olarak değerlendirildiğini kabul etti.",
+        "verdict_text": "Davayı kabul edilmiştir. Davacıya 5.000,00 TL cezai şart tazminatı, dava tarihinden itibaren yasal faiz ile ödenmesi kararı verilmiştir. Davacı vekiline 5.000,00 TL vekalet ücreti, davacı tarafından ödenen 85,39 TL harç ve 1.906,90 TL yargılama giderleri davalıdan alınarak davacıya verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Ticaret Kanunu 444 ve 447. maddeleri",
+            "6102 sayılı TTK",
+            "7036 sayılı İş Mahkemeleri Kanunu",
+            "5521 sayılı İş Mahkemeleri Kanunu",
+            "TBK 444/2. maddesi",
+            "TBK 420. maddesi",
+            "TBK 447/2. Maddesi",
+            "6100 sayılı HMK",
+            "5070 sayılı yasa"
+        ]
+    },
+    "summary_for_human": "Davacı, davanın ticari dava niteliğinde olduğunu iddia etti ve davanın rekabet yasasını ihlal ettiğini savundu. Mahkeme, davayı kabul etti ve davacıya 5.000,00 TL cezai şart tazminatı, dava tarihinden itibaren yasal faiz ile ödenmesi kararı verdi.",
+    "summary_for_model": "Davacı, davanın ticari dava niteliğinde olduğunu iddia etti ve davanın rekabet yasasını ihlal ettiğini savundu. Mahkeme, davayı kabul etti ve davacıya 5.000,00 TL cezai şart tazminatı, dava tarihinden itibaren yasal faiz ile ödenmesi kararı verdi. Davacı vekiline 5.000,00 TL vekalet ücreti, davacı tarafından ödenen 85,39 TL harç ve 1.906,90 TL yargılama giderleri davalıdan alınarak davacıya verilmiştir."
+}

@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2019_1137.pdf",
+        "court_name": "20. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2019/1137",
+        "karar_no": "2022/306",
+        "case_subject": "Menfi Tespit, İstirdat (Ticari Satımdan Kaynaklanan)",
+        "dava_tarihi": "24/10/2019",
+        "karar_tarihi": "12/05/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı firmaya ait iplik satışı ve teknik şartnameye uygun kumaş üretimi için anlaşma yapmıştır. Ancak, davalı firmanın teknik şartnameye uygun iplik üretmediği, test raporlarının yetersiz olduğu ve faturaların ödenmediği iddia edilmiştir.",
+        "reasoning_text": "Mahkeme, davalı firmanın teknik şartnameye uygun iplik üretmediğini ve bu nedenle davacı firmanın ödenmeyen faturalarından dolayı borçlu olmadığını tespit etmiştir. Ayrıca, davalı firmanın iplik üretimine sorumlu olduğu ve bu nedenle davacı firmanın reddini talep ettiği belirtilmiştir.",
+        "verdict_text": "Davacı firmanın davalı firmanın iplik üretimine sorumlu olduğu ve bu nedenle davacı firmanın reddini talep ettiği kararı verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Ticaret Kanunu",
+            "Halk Mahkemeleri Kanunu",
+            "5070 Sayılı Elektronik İmza Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı firmanın teknik şartnameye uygun iplik üretmediği ve bu nedenle ödenmeyen faturalarından dolayı borçlu olduğunu iddia etmiştir. Mahkeme, davalı firmanın iplik üretimine sorumlu olduğu ve bu nedenle davacı firmanın reddini talep ettiği kararı vermiştir.",
+    "summary_for_model": "Davacı, davalı firmanın teknik şartnameye uygun iplik üretmediği ve bu nedenle ödenmeyen faturalarından dolayı borçlu olduğunu iddia etmiştir. Mahkeme, davalı firmanın iplik üretimine sorumlu olduğu ve bu nedenle davacı firmanın reddini talep ettiği kararı vermiştir."
+}

@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2024_604.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2024/604",
+        "karar_no": "2024/1036",
+        "case_subject": "Marka (Marka Hükmüsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "20/02/2024",
+        "karar_tarihi": "30/05/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı şirketin yetkilisiyle imzalanan sözleşme uyarınca davalı davayı ibareli markayı kullanmayacağını ve İstanbul'da ticari faaliyet göstermeyeceğini taahhüt etmiştir. Davacı, davalı tarafından markanın ticari etki yaratacak şekilde arama motorlarında ve web sitelerinde anahtar kelime olarak kullanıldığını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, HMK 353 ve 356 maddeleri uyarınca, davacı vekilinin tedbir talebinin reddine karar vermiştir. Mahkeme, davacı vekilinin talebinin yetersiz olduğu ve davalı tarafından markanın ticari etki yaratacak şekilde kullanıldığına dair yeterli kanıt sunulmadığı gerekçesiyle talebi reddetmiştir.",
+        "verdict_text": "İstanbul Bölge Adlıye Mahkemesi 16. Hukuk Dairesi, 30/05/2024 tarihli kararında, davacı vekilinin tedbir talebini reddetmiştir. Davacı vekilinin talebinin yetersiz olduğu ve davalı tarafından markanın ticari etki yaratacak şekilde kullanıldığına dair yeterli kanıt sunulmadığı gerekçesiyle talebi reddetmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 356",
+            "SMK 159",
+            "SMK 6/9",
+            "TTK m.55/1-a-4",
+            "HMK 390/son",
+            "HMK 396/1",
+            "HMK 353/1-b-1"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin davalı tarafından markanın ticari etki yaratacak şekilde kullanıldığına dair talebini reddetmiştir. Davacı vekilinin talebinin yetersiz olduğu ve davalı tarafından markanın ticari etki yaratacak şekilde kullanıldığına dair yeterli kanıt sunulmadığı gerekçesiyle talebi reddetmiştir.",
+    "summary_for_model": "Mahkeme, HMK 353 ve 356 maddeleri uyarınca davacı vekilinin tedbir talebini reddetmiştir. Davacı vekilinin talebinin yetersiz olduğu ve davalı tarafından markanın ticari etki yaratacak şekilde kullanıldığına dair yeterli kanıt sunulmadığı gerekçesiyle talebi reddetmiştir. Davacı vekilinin talebinin reddine karar verilmiştir."
+}

@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2019_1218.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2019/1218 Esas",
+        "karar_no": "2019/1255",
+        "case_subject": "İtiraz İptali (Ticari Satımdan Kaynaklanan)",
+        "dava_tarihi": "06/06/2015",
+        "karar_tarihi": "30/05/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı ile 06/06/2015 tarihli franchise sözleşmesi ve 15/07/2016 tarihli tadil sözleşmesi imzalandıklarını iddia etti. Davalı, sözleşmenin haksız olarak feshedildiğini, fesih tarihi itibarıyla davalının İstanbul ... İcra Müdürlüğü'ünün ... Esas sayılı icra dosyasında konu edilen fatura ve ... Ususal tanıtım fonu, ... ve ... tanıtım bedeli ile eğitim programı katılım bedeli alacağını iddia etti. Davalı, takibe haksız olarak itiraz ettiğini, itirazın iptali, takibin devamı %20 tazminata mahkum edilmesini, borca yetersiz miktarda borcun taşınması ve taşınmaz malları ile üçüncü şahıslardaki alacaklar üzerinden ihtiyati haciz konulmasını talep etti.",
+        "reasoning_text": "Mahkeme, ilk derece mahkemesinin 26/02/2019 tarihli kararının gerekçesinde açıklandığı üzere, sözleşme ilişkisinin fesihinin haklı olup olmadığı, alacağın miktarı ve takip tarihi itibarıyla muaccel olup olmadığı hususları yargılama gerektirdiğini, yaklaşık ispat koşulları ve İK'nin 257. maddesi ön görülen koşullar oluşmadığından ilk derece mahkemesinin ihtiyati haciz reddine ilişkin kararının yerinde olduğunu kanaatle davacı vekilinin istinaf başvurusunun reddine karar verdi.",
+        "verdict_text": "Hüküm: Yukarıda açıklanan gerekçe ile 1:e-6100 sayılı HMK'nın 353/1-b-1 maddesi gereğince davacı vekilinin yerinde görülmeyen istinaf isteminin REDDİNE,2-Harc peşin alındığından yeniden harç alınmasına yer olmadığına,3-Istinaf inceleme duruşması yapılmadığından avukatlık ücreti takdirine yer olmadığına,4-Istinaf yargılama giderlerinin davacı üzerinde bırakılmasına,5-Artan gider avanslarının karar kesinleştiğinde ve talep halinde taraflara iaşesine, Dair, dosya üzerinde yapılan inceleme sonucu 30/05/2019 tarihinde oy birliği ile kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 356",
+            "İK 257"
+        ]
+    },
+    "summary_for_human": "Davacı, franchise sözleşmesi ve tadil sözleşmesi ile ilgili davayı açtı. Davalı, sözleşmenin haksız olarak feshedildiğini iddia etti. Mahkeme, ilk derece mahkemesinin kararını onaylayarak davacı vekilinin istinaf başvurusunu reddetti.",
+    "summary_for_model": "Davacı vekili, davalı ile imzalanan franchise ve tadil sözleşmeleri ile ilgili davayı açtı. Davalı, sözleşmenin haksız olarak feshedildiğini iddia etti. Mahkeme, ilk derece mahkemesinin kararını onaylayarak davacı vekilinin istinaf başvurusunu reddetti."
+}

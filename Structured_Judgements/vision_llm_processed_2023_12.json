@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2023_12.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 14. Hukuk Dairesi",
+        "esas_no": "2023/12",
+        "karar_no": "2023/83",
+        "case_subject": "Haksız Rekabetin Tespiti ve Tazminat",
+        "dava_tarihi": "11/11/2022",
+        "karar_tarihi": "26/01/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın müvekkili şirketin yetkili bayisi olarak aracın satın alındığını ve sürekli arazada bulunduğunu iddia etti. Müvekkilin arazada hizmet vermediği, ancak vekil olarak arabuluculuk dışında başka bir işlem yapmadığı ve davacının aracın değiştirilmesini talep ettiği belirtildi. Davacı, müvekkilin sosyal medyada markasını kötülediğini ve aracın rayiç değerle satıldığını iddia etti.",
+        "reasoning_text": "İlk derece mahkemesi, HMK'nın 389. maddesine dayanarak ihtiyatı tedbir kararı verdi. Ancak bu karar, istinaf mahkemesi tarafından reddedildi çünkü somut bir tehdit göstermedi. İstinaf mahkemesi, TTK'nın 61. maddesine dayanarak davanın haklı olduğunu ve tedbir kararı verilmesinin gerekliliğini savundu.",
+        "verdict_text": "Davacı vekilinin istinaf başvurusunun esastan reddine, davacı tarafından yatırılan istinaf başvuru harcının Hazineye gelmesine, davacı tarafından istinaf kanun yoluyla başvuru için yapılan masrafların kendi üzerlerinde bırakılmasına, gerekçeli kararın ilk derece mahkemesine tarafılara tebliği ve dosyanın ilk derece mahkemesine gönderilmesine karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 389",
+            "TTK 61",
+            "HMK 353/1.b.1",
+            "HMK 391/3",
+            "HMK 362/1.f"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, davacı vekilinin istinaf başvurusunu reddetti. İlk derece mahkemesi, müvekkilin sosyal medyada markasını kötülediğini iddia etti ancak somut bir tehdit göstermediği için tedbir kararı verilemedi. İstinaf mahkemesi, TTK'nın 61. maddesine dayanarak davanın haklı olduğunu ve tedbir kararı verilmesinin gerekliliğini savundu.",
+    "summary_for_model": "Dava, haksız rekabet iddiası ve tazminat talebini içeriyor. İlk derece mahkemesi, HMK 389'a dayanarak tedbir kararı verdi ancak istinaf mahkemesi bu kararı reddetti. İstinaf mahkemesi, TTK 61 maddesine dayanarak davanın haklı olduğunu ve tedbir kararı verilmesinin gerekliliğini savundu. Karar, HMK 353/1.b.1 ve 391/3 maddeleri uyarınca verildi."
+}

@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2018_1282.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 12. Hukuk Dairesi",
+        "esas_no": "2015/258",
+        "karar_no": "2020/433",
+        "case_subject": "Tazminat (Rekabet Etmeme Yasasından Kaynaklanan)",
+        "dava_tarihi": "17/04/2018",
+        "karar_tarihi": "20/04/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının finansal şirketlere tahsil gecikmiş alacakların tahsiline yardımcı olmakta ve tahsil sürelerinde sistem yönetimi konularında danışmanlık hizmeti sunmakta olduğunu iddia etmiştir. Davalının müvekkili şirkette 23.07.2013 tarihinde 02.06.2014 tarihine kadar Analist pozisyonunda çalıştığını, şirketin işiyle ilgili her türlü bilgiyi sır olarak saklaması gerektiğini ve 6 aylık bir süre sonra başka bir şirkette çalışmaya başladığını belirtmiştir.",
+        "reasoning_text": "İlk derece mahkemesi, davalının müvekkili şirketten ayrıldıktan sonra başka bir şirkette çalışmaya başladığında, şirketin ticari sır niteliğindeki bilgilerin şirketin dışına çıktığını ve bu durumun davalının müvekkili için büyük bir risk oluşturduğunu değerlendirmiştir. Davalının müvekkili şirkette çalışırken elde ettiği ticari sır niteliğindeki bilgilerin şirketin dışına çıktığını iddia eden davacı vekili, bu durumun davalının üç aylık ücret tutarı olan 18.750 TL'nin davalından tahsiline karar verilmesini talep etmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle: Davacı vekilinin istinaf başvurusunun HMK'nun 353(jb-1) maddesi uyarınca ES ASTAN REDDİNE, Alınması gereken 54-40 TL istinaf karar harcından davacı tarafından peşin yatırılan 35,90 TL harcin mahsubu ile bakiye 18,50 TL harcin davacidan alınarak hazinede gelir kaydına, İstinaf yoluna başvuran davacı tarafından yapılan giderlerin üzerinde bırakılmasına, Dosya üzerinde yapılan inceleme sonunda HMK 362(1)-a maddesi uyarınca kesin olmak üzere oy birliği ile karar verildi. 20/04/2020"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TBK 444. madde",
+            "TBK 444/2 m. hükmü",
+            "Türk Borçlar Kanunu 158. madde 2. fikra hükmü",
+            "Hukuk Muhakemeleri Kanunu 353(jb-1) maddesi",
+            "Hukuk Muhakemeleri Kanunu 362(1)-a maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davalının finansal şirketlere tahsil gecikmiş alacakların tahsiline yardımcı olmakta olduğunu iddia etmiştir. İlk derece mahkemesi, davalının müvekkili şirketten ayrıldıktan sonra başka bir şirkette çalışmaya başladığında, şirketin ticari sır niteliğindeki bilgilerin şirketin dışına çıktığını ve bu durumun davalının müvekkili için büyük bir risk oluşturduğunu değerlendirmiştir. Sonucunda, davacı vekilinin istinaf başvurusunun reddedildiği ve davacı tarafından istinaf harcı ödenmesi kararı verildi.",
+    "summary_for_model": "Dava, davalının finansal şirketlere tahsil gecikmiş alacakların tahsiline yardımcı olmakta olduğunu iddia eden davacı vekili tarafından açılmıştır. İlk derece mahkemesi, davalının müvekkili şirketten ayrıldıktan sonra başka bir şirkette çalışmaya başladığında, şirketin ticari sır niteliğindeki bilgilerin şirketin dışına çıktığını ve bu durumun davalının müvekkili için büyük bir risk oluşturduğunu değerlendirmiştir. Sonucunda, davacı vekilinin istinaf başvurusunun reddedildiği ve davacı tarafından istinaf harcı ödenmesi kararı verildi."
+}

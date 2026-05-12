@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2021_76.pdf",
+        "court_name": "T.C. ANKARA 5. FİKRİ VE SANATİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/76",
+        "karar_no": "2021/141",
+        "case_subject": "Tazminat (Fikri Ve Sanat Eserleri Sahipliğinden Kaynaklanan)",
+        "dava_tarihi": "18/03/2021",
+        "karar_tarihi": "25/03/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın internet alan adı ve Twitter hesabının kapatılması ve hak ihlali iddiaları ile dava açmıştır. Mahkeme, davaların birleştirilmesinin uygun olduğunu tespit etmiştir.",
+        "reasoning_text": "Mahkeme, davaların birleştirilmesinin, aynı dava konusu ve bağlanabilirlik durumuna dayanarak uygun olduğunu ve Hüküm Kanunu 166. maddesi uyarınca birleştirilme kararı verdiğini açıklamıştır.",
+        "verdict_text": "1-Mahkememizin bu dosyasının bağlantılı bulunduğu Ankara ...Fikri ve Sanai Haklar Hukuk Mahkemesi'nin ... Esas sayılı dosyasıyla BİRLLEŞTİRİLMESİNE, 2-Mahkememizin 2021/76 Esas sayısının bu şekilde kapatılmasına, bundan sonraki tüm işlemlerin birleştirilen dosya üzerinden yürütülmesine, 3-Yargılama giderlerinin asıl dosya içinde ele alınmasına, Dair, taraf vekillerinin yokluğunda, dosya üzerinde yapılan inceleme sonunda 6100 sayılı HMK m.168 hükmü gereği esas hükmüle birlikte istinaf yolu açık olmak üzere karar verildi. 25/03/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hüküm Kanunu m.166",
+            "Hüküm Kanunu m.166/1",
+            "Hüküm Kanunu m.166/4",
+            "Hüküm Kanunu m.168"
+        ]
+    },
+    "summary_for_human": "Mahkeme, iki davayı birleştirerek aynı dava konusu olarak değerlendirmiştir. Davacı, internet alan adı ve Twitter hesabının kapatılması ve hak ihlali iddiaları ile dava açmıştır. Mahkeme, birleştirme kararı vererek davaların tek bir dosyada ele alınmasını sağlamıştır.",
+    "summary_for_model": "Mahkeme, davaların birleştirilmesinin uygun olduğunu tespit ederek Hüküm Kanunu 166. maddesi uyarınca birleştirme kararı vermiştir. Davacı vekili, internet alan adı ve Twitter hesabının kapatılması ve hak ihlali iddiaları ile dava açmıştır. Karar, birleştirilen dosyaların tek bir süreçte ele alınmasını sağlamaktadır."
+}

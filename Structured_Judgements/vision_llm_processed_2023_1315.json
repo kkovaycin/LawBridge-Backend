@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2023_1315.pdf",
+        "court_name": "BAKIRKÖY 1. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2022/232 Esas",
+        "karar_no": "2023/135 Karar",
+        "case_subject": "Fikir Ve Sanat Eseri (Manevi Tazminat İstemi)",
+        "dava_tarihi": "06/06/2023",
+        "karar_tarihi": "01/11/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, 2011'de alenleştirilmiş bir proje için fikir ürettiğini iddia ediyor. Proje, FSEK kanunu ile tescillenmiş ancak davacı, projenin halka açık olarak yayınlandığını ve kendi eserinin kopyalandığını iddia ediyor. Davacı, maddi ve manevi tazminat talep ediyor.",
+        "reasoning_text": "Mahkeme, davacının iddialarını reddetmiştir. Davacının haritası FSEK kapsamında eser olarak kabul edilmediği ve davacının hak ihlalinin kanıtlanamadığı tespit edilmiştir. Davacının internetteki yayınları da eserin niteliğini kanıtlamamıştır.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle;1-Davacı vekilinin istinaf talebinin HMK'nun 353/1-b-1 maddesi uyarınca ESASTAN REDDİNE,2-Alınması gereken 269,85-TL harçtan, peşin alınan 179,90 TL harçın mahsubu ile bakiye 89,95-TL harçın davacidan alınarak hazineye irat kaydırna,3-Davacı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına,4-Istinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda, HMK'nun 361.maddesi uyarınca tebligden itibaren iki haftalık süre içerisinde Yargıtay ilgili hukuk dairesinde temyiz yolu açık olmak üzere oy birliği ile karar verildi.01/11/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 355. Maddesi",
+            "Fikir ve Sanat Eserlerinin Kayıt ve Tescili Hakkında Yönetmeliğin 1. maddesi",
+            "Fikir ve Sanat Eserlerinin Kayıt ve Tescili Hakkında Yönetmeliğin 5. maddesi",
+            "FSEK 84. madde",
+            "HMK 361. Maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, 2011'de alenleştirilmiş bir proje için fikir ürettiğini iddia ediyor ve maddi/manevi tazminat talep ediyor. Mahkeme, davacının iddialarını reddetmiştir. Davacının haritası FSEK kapsamında eser olarak kabul edilmediği ve davacının hak ihlalinin kanıtlanamadığı tespit edilmiştir.",
+    "summary_for_model": "Davacı, 2011'de alenleştirilmiş bir proje için fikir ürettiğini iddia ediyor. Mahkeme, davacının iddialarını reddetmiştir. Davacının haritası FSEK kapsamında eser olarak kabul edilmediği ve davacının hak ihlalinin kanıtlanamadığı tespit edilmiştir. Davacının internetteki yayınları da eserin niteliğini kanıtlamamıştır."
+}

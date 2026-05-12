@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2019_377.pdf",
+        "court_name": "Antalya 2. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2019/377",
+        "karar_no": "2021/103",
+        "case_subject": "Menfi Tespit ve İtirazın İptali davası",
+        "dava_tarihi": "22/03/2017",
+        "karar_tarihi": "10/02/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili ASIL, davanın kendisini bir kafe işletmeciliği markasının tek pazarlayıcısı ve sahibi olarak tanıttığını, bu marka adı altında kafeler işletmeye hazır ve anahtar teslim şekilde hazırlayıp franchise isteyenlere teslim ettiğini iddia etti. Davalı vekili BİRLESEN ise davaya cevap vermedi.",
+        "reasoning_text": "Mahkeme, davacı tarafından verilen imalat bedellerinin davalı tarafından ödenmediğini, davacı tarafından işin tamamlanmadığını ve davalı tarafından işin tamamlanması için gereken süre verilmediğini tespit etti. Davacı tarafından verilen imalat bedellerinin davalı tarafından ödenmediği ve davalı tarafından işin tamamlanmadığı için davacı tarafından davayı fesih talep edildi.",
+        "verdict_text": "A- Asıl dava yönünden; Davanın KABULÜNE, Davacının ... tanzim ... vade tarihli ....TL bedelli bonodan dolayı davalıya BORÇLU OLMADIĞININ TESPİTİNE, ... tarih ve ... harç nolu harç tahsil müzekkeresi ile alınması gerekli harç davalıdan alındığından yeniden alınmasına YER OLMADIĞINA, Davalı tarafa sehven yatırılan ... nolu kesif yolluğuna ilişkin harçın talep halinde karar kesinleştiğinde davalı tarafa İADESİNE, Asıl dava yönünden davacı tarafa bozmadan önce yapılan yapılan ....TL yargılama giderleri, bozmadan sonra yapılan ....TL tebligat, ....TI bilirkişi ücreti olmak üzere toplam ....TL'nin ve mahkememizce peşin olarak alınan ....TL peşin harç olmak üzere ....TL'nin davalıdan alınarak davacıya VERİLMESİNE, Davacı tarafa yatırılan gider avansından artanının karar kesinleştiğinde talebi halinde davacıya İADE EDİLMESİNE, Avukatlık Asgari Ücret tarifesi uyarınca davada kabul edilen miktar dikkate alınarak hesap edilen ....TL vekâlet ücretinin davalıdan alınarak DAVACIYA VERİLMESİNE, B- Birleşen dava yönünden; Davanın KABULÜNE, Davacının Antalya ... İcra müdürlüğü ... sayılı dosyası ile davalı/borçlu aleyhine başlattığı icra takibine İTİRAZIN İPTALİNE, Takibin ....TL asıl alacak (takip tarihine kadar işlemsi faiz çıkartılmak suretiyle) üzerinden ve tahsilde tekerür olmamak kaydıyla takip tarihindeki koşullarla aynı DEVAMINA, Takip talebindeki alacak likit olmadığından, yargılamağı gerektirdiğinden davacının icra inkâr tazminatı talebi ile davacının kötü niyetli olduğunun ispat edilememesi nedeniyle davalı'nın kötü niyet tazminatı taleplerinin REDDİNE, Alınması gerekli ....TL harçtan, peşin olarak alınan ....TL harçın mahsubu ile kalan ....TL harçın birleşen dosya davalisından ALINMASINA, ( ... tarih ve ... harç nolu harç tahsil müzekkeresi ile ....TL'nin alındığı anlaşıldığından ....TL'nin BİRLESEN DOSYA DAVALISINDAN ALINMASINA) Birleşen dosya yönünden davacı tarafa bozmadan önce yapılan ....TL'nin ve mahkememizce peşin olarak alınan ....TL peşin harç olmak üzere toplam ....TL'nin davalıdan alınarak DAVACIYA VERİLMESİNE, fazlasının davacı üzerinde BIRAKILMASINA, Davacı tarafa yatırılan gider avansından artanının karar kesinleştiğinde talebi halinde DAVACIYA İADE EDİLMESİNE, Avukatlık Asgari Ücret tarifesi uyarınca davada kabul edilen miktar dikkate alınarak hesap edilen ....TL vekâlet ücretinin davalıdan alınarak DAVACIYA VERİLMESİNE, Dair davacının yüzüne karşı, HMK'nun 345 maddesi uyarınca gerekli kararın taraflara tebliginden itibaren iki haftalık süre içinde Antalya Bölge Adliye Mahkemesi ilgili hukuk dairesinde istinaf kanun yolu açık olmak üzere verilen karar açıkça okunup usulüne anlatıldı.10/02/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "2004 sayılı İK'nin 67/1. fikrası",
+            "İK'nun 40.maddesi",
+            "6100 Sayılı HMK'nin 240/2. maddesi",
+            "6100 Sayılı HMK'nin 353/1-a-6. maddesi",
+            "HMK'nun 345 maddesi"
+        ]
+    },
+    "summary_for_human": "Antalya Ticaret Mahkemesi, davacı ASIL ve davalı BİRLESEN arasındaki menfi tespit ve itiraz iptali davasında, davacı tarafından verilen imalat bedellerinin ödenmediğini ve işin tamamlanmadığını tespit etti. Davacı tarafından işin tamamlanması için gereken süre verilmediği için davayı fesih talep edildi. Mahkeme, davacı tarafından verilen imalat bedellerinin davalı tarafından ödenmediğini ve davalı tarafından işin tamamlanmadığı için davacı tarafından davayı fesih talep edildiğini kabul etti.",
+    "summary_for_model": "Mahkeme, davacı tarafından verilen imalat bedellerinin davalı tarafından ödenmediğini ve davalı tarafından işin tamamlanmadığını tespit etti. Davacı tarafından işin tamamlanması için gereken süre verilmediği için davayı fesih talep edildi. Mahkeme, davacı tarafından verilen imalat bedellerinin davalı tarafından ödenmediğini ve davalı tarafından işin tamamlanmadığı için davacı tarafından davayı fesih talep edildiğini kabul etti. Davacı tarafından verilen imalat bedellerinin davalı tarafından ödenmediği ve davalı tarafından işin tamamlanmadığı için davacı tarafından davayı fesih talep edildi."
+}

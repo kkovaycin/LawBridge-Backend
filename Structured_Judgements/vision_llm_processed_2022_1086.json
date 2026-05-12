@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_1086.pdf",
+        "court_name": "Bakirköy 2. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/183 Esas",
+        "karar_no": "2021/238 Karar",
+        "case_subject": "Marka (Marka Hükmüsüzlüğü, Markaya Tecavüzden Kaynaklanan)",
+        "dava_tarihi": "03/12/2021",
+        "karar_tarihi": "08/04/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, 2013'ten beri faaliyet gösteren bir şirkettir ve lüks telefon aksesuarları üretmekte, pazarlama yapmaktadır. Davacı, 2014'te Türkiye'de özel tasarım telefon satışı için faturalar almıştır. Davacı, 2015'te TPMAK'a \"Golden Concept\" markasını tescil etmiştir. Davacı, davalının markasını kullanmakla suçlamaktadır.",
+        "reasoning_text": "Davacı, davalının markasını kullanmasının hak ihlali olduğunu iddia etmektedir. Davacı, davalının markasını kullanmasının ticari hayata başladığı tarihten beri kullanıldığını ve davalının markasını kullanmasının davacı markasına tecavüz oluşturduğunu savunmaktadır. Davacı, davalının markasını kullanmasının davacı markasına benzersizlik oluşturduğunu iddia etmektedir.",
+        "verdict_text": "Davacı vekilinin istinaf başvurusunun KISMEN KABÜLÜNE, Davalı vekilinin istinaf başvurusunun ESASLAN REDDİNE, 6100 sayılı HMK'nın 353/1-b-2 maddesi gereğince Bakırköy 2. Fikri ve Sınai Haklar Hukuk Mahkemesi 03/12/2021 Tarihli, 2021/183 Esas, 2021/238 Karar sayılı kararının KALDIRILMASINA, Davanın KISMEN KABÜLÜ ile; Davalı yana ait ... tescil numaralı markanın hükmüsüzlüğü istemin REDDİNE, Davalı yana ait ... tescil numaralı markanın kullanımının, davacının markalarından doğan haklarına tecavüz ve haksız rekabet oluşturduğunun tesbiti, meni ve ref'i verilmesine karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK'nın 353/1-b-2 maddesi",
+            "TPMK",
+            "556 sayılı KHK'nın m.8/1 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markasını kullanmasının hak ihlali olduğunu iddia etmektedir. Davacı, davalının markasını kullanmasının ticari hayata başladığı tarihten beri kullanıldığını ve davalının markasını kullanmasının davacı markasına tecavüz oluşturduğunu savunmaktadır. Mahkeme, davacı vekilinin istinaf başvurusunun kısmen kabulüne ve davalı vekilinin istinaf başvurusunun esastan reddine karar vermiştir.",
+    "summary_for_model": "Davacı, davalının markasını kullanmasının hak ihlali olduğunu iddia etmektedir. Davacı, davalının markasını kullanmasının ticari hayata başladığı tarihten beri kullanıldığını ve davalının markasını kullanmasının davacı markasına tecavüz oluşturduğunu savunmaktadır. Mahkeme, davacı vekilinin istinaf başvurusunun kısmen kabulüne ve davalı vekilinin istinaf başvurusunun esastan reddine karar vermiştir. Davacı, davalının markasını kullanmasının davacı markasına benzersizlik oluşturduğunu iddia etmektedir."
+}

@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2017_1244.pdf",
+        "court_name": "T.C. ISTANBUL ANADOLU 2. ASLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2017/1244",
+        "karar_no": "2021/730",
+        "case_subject": "Tazminat (Haksız Rekabetten Kaynaklanan)",
+        "dava_tarihi": "16/11/2017",
+        "karar_tarihi": "22/06/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının müvekkili şirkete ithalat ihracat sorumlusu olarak başladığını, iş akdinin müvekkili tarafından feshedildiğini ve facebook hesabından müvekkili adına hizmet ilişkisinde kendisine satış sunduğunu iddia etmiştir. Davalı, davacı şirkette pazarlama olarak çalıştığını, portföy oluşturduğunu ve haklı bir nedensizlikle iş akdinin sonlandırıldığını savunmuştur.",
+        "reasoning_text": "Mahkeme, davacı ve davalının iddialarını değerlendirerek maddi ve manevi tazminat taleplerini incelemiştir. Davacı tarafından sunulan müşteri portföyünün üçüncü kişilerle paylaşılması, haklı rekabet kurallarına aykırı olduğu ve zarar tehlikesinin yeterli olduğu tespit edilmiştir.",
+        "verdict_text": "HÜKÜM: Gerekenci yukarıda açıklanmış üzere;\n1.Maddi tazminat istemi yönelik davanın geri alma nedeni ile AÇILMAMIŞ SAYILMASINA,\n2.Manevi tazminat istemi yönelik davanın KİSMEN KABULÜ İLE;\n--- manevi tazminatın--- tarihinden itibaren işleyecek ticari faizi ile birlikte davalından tahsiline, Asan istemin reddine,\n3.Maddi tazminat yönünden alınması gerekli karar ve ilam harcı olan 59,30.-TL'nin davacı tarafça dava açılırken yatırılan 187,86 TL peşin harçtan tahsile hazıneye irat kaydına,\n4.Manevi tazminat yönünden alınması gerekli karar ve ilam harcı olan 341,55.-TL'den davacı tarafça dava açılırken yatırılan bakiye 128,56 TL peşin harçın mahsubu ile bakiye kalan 212,99 TL harçın davaldan tahsili ile hazıneye irat kaydına,\n5.Davacı tarafça dava açılırken yatırılan yatırılan 187,86.-TL peşin harç, 31,40.-TL başvuru harcı olmak üzere toplam 219,26.-TL harçın davaldan alınarak davacıya verilmesine,\n6.Davacı tarafından yapılan 2.400,00 TL bilirkişi ücreti ve 236,00.-TL posta gideri olmak üzere toplam 2.636,00.-TL yargılama giderinin davada haklı çıktığı %50 oranında olmak üzere 1.318,00.-TL'sinin davaldan tahsili ile davacıya verilmesine, bakiye kısmın davacı üzerinde bırakılmasına,\n7.Davalı tarafından yapılan 19,00.-TL posta giderinin davada haklı çıktığı %50 oranında olmak üzere 9,50.-TL'sinin davacidan tahsili ile davalıya verilmesine, bakiye kısmın davalı üzerinde bırakılmasına,\n8.Davacı kendisini vekil ile temsil ettiğinden, kabul edilen kısım için karar tarihinde yürürlükte bulunan AAÜT'ye göre belirlenen 4.080,00.-TL vekalet ücretinin davaldan tahsili ile davacıya verilmesine,\n9.Davalı kendilerini vekil ile temsil ettiğinden reddedilen kısım için karar tarihinde yürürlükte bulunan AAÜT'ye göre belirlenen 4.080,00.-TL vekalet ücretinin davacidan tahsili ile davalıya verilmesine,\n10.Kararın kesinleşmesi halinde kullanılmayan gider avansının ilgili tarafa iadesine,\nDaır; Davacı Vekilinin ve Davalı Vekilinin yüzlerine karşı gerçekçi kararın tebliğinden itibaren 2 hafta süre içerisinde ------- nezinde istinaf yolu açık olmak üzere verilen karar açıkça okundu. 22/06/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK md. 55/1-d",
+            "HMK md. 123"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının müvekkili şirkete ithalat ihracat sorumlusu olarak başladığını ve iş akdinin feshedildiğini iddia etmiştir. Mahkeme, davacı tarafından sunulan müşteri portföyünün üçüncü kişilerle paylaşılması ve haklı rekabet kurallarına aykırılığı nedeniyle manevi tazminat talebini kısmen kabul etmiştir.",
+    "summary_for_model": "Davacı, davalının müvekkili şirkete ithalat ihracat sorumlusu olarak başladığını ve iş akdinin feshedildiğini iddia etmiştir. Mahkeme, davacı tarafından sunulan müşteri portföyünün üçüncü kişilerle paylaşılması ve haklı rekabet kurallarına aykırılığı nedeniyle manevi tazminat talebini kısmen kabul etmiştir. Maddi tazminat talepleri reddedilmiştir."
+}

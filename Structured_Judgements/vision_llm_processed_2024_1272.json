@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2024_1272.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2024/146 D.İş - 2024/143 K.",
+        "karar_no": "2024/1676",
+        "case_subject": "Tespit (D.İş)",
+        "dava_tarihi": "17/10/2024",
+        "karar_tarihi": "24/04/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, vekil tarafından sunulan tasarım ve ticari faaliyetler ile ilgili olarak, tasarım haklarının ihlali ve ticari kazanç elde edilmesi iddiaları içerir. İlk derece mahkemesi tarafından verilen karar, vekilin tasarım ve ticari faaliyetlerini taklit ettiği iddiasını reddetmiştir.",
+        "reasoning_text": "İhtiyati tedbir talebinin reddedilmesi, dava konusu ile ilgili kanıtların yetersizliği ve vekilin tasarım haklarına tecavüz iddialarının temelsizliği nedeniyle gerekçelendirilmiştir. Mahkeme, vekilin tasarım haklarına tecavüz iddialarının kanıtlanmadığını ve dava konusu ile ilgili teknik ve hukuki değerlendirmelerin yetersiz olduğunu belirtmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Üslü ve yasaya uygun Bakırköy 1. Fikri Ve Sınai Haklar Hukuk Mahkemesi'nin 24/04/2024 tarih ve 2024/146 D.İş, 2024/143 K. sayılı kararına karşı ihtiyati tedbir talep eden davacı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESATAN REDDİNE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gereken 427,60 TL istinaf karar harcı davacı tarafından peşin yatırıldığından yeniden harç alınmasına yer olmadığına, 3-Davacı tarafından istinaf aşamasında yapılan yargılama sıderlerinin üzerinde bırakılmasına, 4-İncelemenin duruşmasız olarak yapılması sebebiyle taraflara vekalet ücreti tayinine yer olmadığına, 5-Taraflarca yatırılan gider avansından harcanmayan kısmın karar kesinleştiğinde iadesine, 6-Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin ilk derece Mahkemesine yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/1-a maddesi gereğince, miktar itibarıyla kesin olmak üzere oy birliğiyle karar verildi. 17/10/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Sınai Mülkiyet Kanunu",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "2-492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, vekil tarafından yapılan tasarım ve ticari faaliyetler ile ilgili ihtiyati tedbir talebini reddetmiştir. Mahkeme, vekilin tasarım haklarına tecavüz iddialarının kanıtlanmadığını ve dava konusu ile ilgili teknik ve hukuki değerlendirmelerin yetersiz olduğunu belirtmiştir.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, vekil tarafından yapılan tasarım ve ticari faaliyetler ile ilgili ihtiyati tedbir talebini reddetmiştir. Mahkeme, vekilin tasarım haklarına tecavüz iddialarının kanıtlanmadığını ve dava konusu ile ilgili teknik ve hukuki değerlendirmelerin yetersiz olduğunu belirtmiştir. İhtiyati tedbir talebinin reddedilmesi, dava konusu ile ilgili kanıtların yetersizliği ve vekilin tasarım haklarına tecavüz iddialarının temelsizliği nedeniyle gerekçelendirilmiştir."
+}

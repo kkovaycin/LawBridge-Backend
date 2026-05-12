@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2024_732.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2024/732 Esas",
+        "karar_no": "2024/1168 Karar",
+        "case_subject": "Marka (Maddi Tazminat İstemi)",
+        "dava_tarihi": "09/02/2024",
+        "karar_tarihi": "13/06/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davaların aynı anda ticaret yaptıklarını, davaların markanın ticari değerini etkilediğini ve davaların markayı kullanmalarının önlenmesini talep etti. Davalar, davacı adına tescilli markaların kullanılmasına karşı hak talepleriyle dava açtı.",
+        "reasoning_text": "Mahkeme, dava kapsamında markanın ticari değerinin korunması ve davaların markayı kullanmalarının önlenmesi için tedbir talebini kabul etti. Davacı vekili, davaların markayı kullanmalarının önlenmesini talep etti ve davaların markayı kullanmalarının önlenmesi için tedbir talebini kabul etti.",
+        "verdict_text": "İstanbul 4.Fıkri ve Sınai Haklar Hukuk Mahkemesi 09/02/2024 tarihli 2024/25 E. sayılı ara kararıyla; \"...Tüm dosya kapsamı, yaklaşık ispat şartı dikkate alınarak talebe konu tedbir yönünden Marka hükmüsüzlüğü ve iptali talepli davalarda marka tescil belgesinin üçüncü kişilere devrin önlenmesi bakımından gerek usul ekonomisi gerekse yargılama taraf değişikliğinin önüne geçilmesi amacıyla ölçülü olduğuundan davacının tedbir talebinin kısmen kabulü, sair tedbir talepleri yönünden bu aşamada esası çözüm niteliğinde verilebilecek bir tedbir kararının ölçülülük ilkesi uymayacağı, davacının tedbir talebinin esas dava içinde uzman bilirkişiler vasitası ile takdirinin yapılacağı, değerlendirilerek talebe konu tedbir yönünden yasal şartların oluşmadığı, markaların faaliyetinin durdurulmasına dair tedbir talebinin yargılama gerektirdiği\" gerekçesiyle; 1-Davacı vekilinin ihtiyati tedbir talebinin KİSMEN KABULÜ İLE, ileride muhtemel zarar ve ziyanalara karşılık olmak üzere tedbir talep eden davacı tarafından takdir edilen dava için 20.000 TL nakdi veya müteber bir bankaya ait kesin ve süreiz teminat mektubunun kararı tebrik tarihinden itibaren 1 hafta içinde icra edilmesi ve tedbir talep edilmişinden itibaren davaya kaydolması için 12/02/2019 tarihli... tescil numaralı markanın üçüncü kişilere devrin ve temlinin İHTİYATI TEDBİREN ÖNLENMESİNE, bu hususta tedbir istemlerinin reddine,\" karar verildiği görülmüştür."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 356",
+            "HMK 390/son",
+            "HMK 396/1",
+            "HMK 353/1-b-1"
+        ]
+    },
+    "summary_for_human": "Davacı, davaların markayı kullanmalarının önlenmesini talep etti. Mahkeme, davaların markayı kullanmalarının önlenmesi için tedbir talebini kısmen kabul etti.",
+    "summary_for_model": "Davacı vekili, davaların markayı kullanmalarının önlenmesini talep etti. Mahkeme, davaların markayı kullanmalarının önlenmesi için tedbir talebini kısmen kabul etti. Davacı vekili, davaların markayı kullanmalarının önlenmesi için tedbir talebini kabul etti."
+}

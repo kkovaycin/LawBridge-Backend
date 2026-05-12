@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_2039.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ BAM 20. HUKUK DAİRESİ",
+        "esas_no": "2022/2039",
+        "karar_no": "2022/1575",
+        "case_subject": "İhtiyati tedbir talebinin reddi",
+        "dava_tarihi": "23/05/2022",
+        "karar_tarihi": "08/12/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davada, vekil tarafından ihityati tedbir talebiyle ilgili olarak, vekilin müvekkilinin patentini ihlal ettiği iddia edildi. İlk derece mahkemesi, talebin reddine karar verdi.",
+        "reasoning_text": "Mahkeme, talebin reddilmesinin esasını, vekilin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi uyarınca esastan reddine dayandırdı. Ayrıca, istinaf kararının alınması ve ilam harcinin ödenmemesi gibi faktörlere bakıldı.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda belirtildiği üzere; 1-İhtiyati tedbir isteyen vekilin istinaf başvurusunun HMK'nun 353/1-b.1 maddesi gereğince ESASTAN REDDİNE, 2-Alınması gereken istinaf karar ve ilam harci, ihityati tedbir isteyen tarafından peşin olarak yatırıldığından başka harç alınmasına yer olmadığına, 3-İstinaf aşamasında ihityati tedbir isteyen tarafından yapılan yargılama giderlerin uhdesinde bırakılmasına, 4-İstinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına, 5-Kararın tebliğ işlemlerinin yerel mahkeme tarafından yaptırılmasına, Dosya üzerinde yapılan inceleme sonucunda oybirliği ile 08/12/2022 tarihinde HMK'nun 362/1-f maddesi uyarınca KESİN olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK) 355. madde",
+            "Hukuk Muhakemeleri Kanunu (HMK) 353/1-b.1 madde",
+            "Hukuk Muhakemeleri Kanunu (HMK) 362/1-f madde"
+        ]
+    },
+    "summary_for_human": "Davada ihityati tedbir talebi reddedildi. Mahkeme, vekilin istinaf başvurusunun esastan reddine karar verdi.",
+    "summary_for_model": "İhtiyati tedbir talebi reddedildi. HMK 353/1-b.1 maddesi uyarınca esastan reddine karar verildi. İstinaf aşamasında duruşma açılmadığından vekalet ücreti takdirine yer olmadı."
+}

@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2022_1787.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 4. Hukuk Dairesi",
+        "esas_no": "2022/7",
+        "karar_no": "2022/63",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "16/09/2021",
+        "karar_tarihi": "15/06/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın 16/09/2021 ve 25/09/2021 tarihlerinde sosyal medya platformlarında vekilinin ticari itibarını zedeleyen paylaşımlar yapmış ve vekilinin ticari itibarını zedelediği iddia edilmiştir. Davacı, vekilinin ticari itibarını zedelediği için 100.000,00 TL manevi tazminat talep etmiştir.",
+        "reasoning_text": "Davayı ticari dava olarak nitelendirmekte zorluk vardır çünkü davacı vekilinin ticari işletmesi ile ilgili bir nispî ticari dava niteliği yoktur. Mahkeme, davanın Aslıye Hukuk Mahkemesi'nde görüleceğini kararlaştırmıştır.",
+        "verdict_text": "Davacı vekilinin istinaf talebi reddedilmiş ve dava Aslıye Hukuk Mahkemesi'ne gönderilmiştir. Davacı vekilinin istinaf talebi HMK 353/1-b.1 maddesi uyarınca esastan reddedilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 4. madde",
+            "TTK 5/1. madde",
+            "HMK 353. madde",
+            "HMK 115/2. madde",
+            "HMK 20. madde",
+            "HMK 359. madde",
+            "HMK 362/1-a madde"
+        ]
+    },
+    "summary_for_human": "Davacı vekilinin ticari itibarını zedelediği iddia edilen davada, mahkeme davayı Aslıye Hukuk Mahkemesi'ne göndermiştir. Davacı vekilinin istinaf talebi reddedilmiştir.",
+    "summary_for_model": "Davacı vekilinin ticari itibarını zedelediği iddia edilen davada, mahkeme davayı Aslıye Hukuk Mahkemesi'ne göndermiştir. Davacı vekilinin istinaf talebi HMK 353/1-b.1 maddesi uyarınca esastan reddedilmiştir."
+}

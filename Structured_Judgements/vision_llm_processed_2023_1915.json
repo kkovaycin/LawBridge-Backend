@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2023_1915.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2023/1915",
+        "karar_no": "2023/1509",
+        "case_subject": "Tazminat (Haksız Rekabetten Kaynaklanan)",
+        "dava_tarihi": "13/07/2023",
+        "karar_tarihi": "06/10/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın TTK'nin 55/1/a-1 maddesi kapsamında haksız rekabet teşkil ettiğini iddia etti. Davacı, vekilinin Twitter hesabından yalan bilgilere sahip olarak toplumu kırmayı ve güven ortamını bozmayı amaçladığını iddia etti. Davacı, vekil şirketin ticari itibarını zedelediğini iddia etti.",
+        "reasoning_text": "Mahkeme, davanın usulden reddine karar verdi. Davanın dava şartı olan arabuluculuk sürecinin tamamlanmadığını ve davanın dava şartı eksikliğinden dolayı reddedildiğini belirledi. Davanın maddi ve manevi tazminat talepleri, arabuluculuk sürecine tabi olmadığından reddedildi.",
+        "verdict_text": "Davacı vekili tarafından istinaf edilen davanın usulden reddine karar verildi. Davanın maddi ve manevi tazminat talepleri reddedildi. Davanın yeniden görülmesi için dava dosyasının kararı veren mahkemeye gönderilmesi kararı verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK'nin 55/1/a-1 maddesi",
+            "TTK'nin 4. maddesi",
+            "6100 sayılı HMK'nin 110. maddesi",
+            "6100 sayılı HMK'nin 114/1 ve 114/2 maddeleri",
+            "7155 sayılı Kanun",
+            "6102 sayılı TTK",
+            "5/A maddesi",
+            "HMK'nin 353(1)a-4 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davanın usulden reddine karar verdi. Davanın maddi ve manevi tazminat talepleri reddedildi. Davanın yeniden görülmesi için dava dosyasının kararı veren mahkemeye gönderilmesi kararı verildi.",
+    "summary_for_model": "Davacı vekili, davanın usulden reddine karar verdi. Davanın maddi ve manevi tazminat talepleri reddedildi. Davanın yeniden görülmesi için dava dosyasının kararı veren mahkemeye gönderilmesi kararı verildi. Davanın TTK'nin 55/1/a-1 maddesi kapsamında haksız rekabet teşkil ettiğini iddia etti."
+}

@@ -1,0 +1,33 @@
+{
+    "meta_data": {
+        "file_name": "2024_1057.pdf",
+        "court_name": "Bakırköy 1. Fikri Ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2024/207",
+        "karar_no": "2024/458",
+        "case_subject": "Tespit (D.İş)",
+        "dava_tarihi": "19/09/2024",
+        "karar_tarihi": "20/05/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, vekilinin TPMK'de tescilini ve markanın kullanımını içerir. İlk derece mahkemesi, pasif husumet nedeniyle tedbir talebini reddetmiştir. İstinaf mahkemesi, davanın sosyal medya hesabının kullanıldığını ve vekilinin sorumluluğunun olmadığını tespit etmiştir.",
+        "reasoning_text": "İstinaf mahkemesi, ilk derece mahkemesinin hatalı değerlendirmesini ve vekilinin sorumluluğunun olmadığını tespit etmiştir. HMK'nın 353/1-a.6 ve 353/1-b.1 maddeleri uyarınca kararın kaldırılmasına karar verilmiştir.",
+        "verdict_text": "ESASTAN REDDİNE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gereken 427,60-TL istinaf karar harcı karşı tarafından peşin yatırıldığından yeniden harç alınmasına yer olmadığına, 3-Karşı tarafa istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, 4-İncelemenin duruşmasız olarak yapılması sebebiyle taraflara vekalet ücreti tayinine yer olmadığına, 5-Taraflarca yatırılan gider avansından harçanmayan kısmın karar kesinleştiğinde iadesine, 6-Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin ilk derece Mahkemesince yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/(1)-f. ve 394/(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi. 19/09/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "2-492 Sayılı Harçlar Kanunu",
+            "159/1. madde",
+            "159/3. madde",
+            "353/1-a.6 madde",
+            "353/1-b.1 madde",
+            "362/(1)-f. madde",
+            "394/(5). madde",
+            "389/1. madde",
+            "300/3. madde",
+            "390/3. madde"
+        ]
+    },
+    "summary_for_human": "İstinaf mahkemesi, ilk derece mahkemesinin vekilinin sorumluluğunu yanlış değerlendirdiğini tespit etti ve kararın kaldırılmasına karar verdi. Vekilinin sosyal medya hesabının kullanıldığı iddiası reddedildi.",
+    "summary_for_model": "İstinaf mahkemesi, ilk derece mahkemesinin hatalı değerlendirmesini ve vekilinin sorumluluğunun olmadığını tespit etti. HMK'nın 353/1-b.1 maddesi uyarınca kararın kaldırılmasına karar verildi."
+}

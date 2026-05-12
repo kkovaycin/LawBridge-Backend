@@ -1,0 +1,34 @@
+{
+    "meta_data": {
+        "file_name": "2024_1127.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2024/1127",
+        "karar_no": "2024/1843",
+        "case_subject": "İtiraz İptali",
+        "dava_tarihi": "01/02/2024",
+        "karar_tarihi": "19/12/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; davacıya zorunlu mali sorumluluk sigorta policesi ile sigortalı, davanın sigortalısı olduğu dava dışı ... idaresindeki ... plakalı arac ile ... plakalı aracın 10/01/2023 tarihinde karıştığı çift taraflı trafik kazası sonucu karşı araçta yolcu olarak bulunan dava dışı ... ve ...'in yaralandığını, kaza tespit tutanağında müvekkiline sigortalı aracın sürücüüsü ...'nun %100 oranında kusurlu olduğu ve sürücü belgesinin olmadığının tespit edildiğini, başvuru üzerine müvekkili tarafından kazada yaralanan ... için 218.737,77 TL ve ... için 183.583,07 TL süreli sakatik tazminatı ödemesi yapıldığını, bu ödemenin rüçuen tahsili amacıyla müvekkili tarafından davalı sigortalı aleyhine ... sayılı dosyası ile başlatılan takibe davanın haksız olarak itiraz ettiğini belirterek öncelikle davacı taraf ... yetkisine yönelik itirazin reddine, akabinde itirazin iptaline, takibin devamına karar verilmesini talep etmiştir.",
+        "reasoning_text": "İlk derece mahkemesince; Tüketici Mahkemesinin görevli olduğu, mahkemenin görevlisi olduğu gerekçesiyle HMK'nin 114/1-c ve 115/2 maddeleri uyarınca davanın usulden reddine karar verilmiştir. Karara karşı istinaf başvurusunda bulunan davacı vekili dilekçesinde özetle; sigortalı aracın polisçe ve araç ruhsatından da görüleceği üzere kamyon olup hususi amaçlarla kullanıldığının kabulünün hayatı olan akışa aykırı olduğu, araç ruhsatında hususi yazasının aracın hususi amaçlarda kullanıldığı, dolayısıyla da Tüketici Mahkemelerinin görev alanına girdiğini göstermeyeceğini, her ne kadar aracın ruhsat kaydında hususi yazası da hariçen yaptıkları ve davayla ait ... isimli firmanın facebook sayfasından alınan görüntülerde sigortalı aracın ticari amaçlarla kullanıldığı ve dolayısıyla da davanın Tüketici Mahkemelerinin görevine girmeyip Ticaret Mahkemelerinde görülmesi gerektiğini belirterek ilk derece mahkemesi kararının kaldırılmasını talep etmiştir.",
+        "verdict_text": "KARAR:Gereçleri yukarıda açıkladığı üzere;1-Davacı vekilinin istinaf başvurusunun kabulü ile ilk derece mahkemesi kararının HMK'nin 353/1-a/3. maddesi uyarınca kaldırılmasına,2-Davanın yeniden görülmesi için dosyanın mahkemesine gönderilmesine,3-İstinaf başvurusu için yatırılan karar ve ilam harcının istek halinde ilk derece mahkemesince yatırana iaadesine,4-İstinaf incelemesi duruşmalı yapılmadığından vekâlet ücreti hükmedilmesine yer olmadığına,5-Davacı tarafından yapılan istinaf yargılama giderinin ilk derece mahkemesince yeniden verilecek kararda dikkate alınmasına,6-İstinaf talep eden tarafından istinaf aşaması için yatırılan gider avansının yatıran tarafa iaadesine,Dosya üzerinde yapılan inceleme sonucunda, HMK'nin 353/1-a ve 362/1-c-g maddeleri uyarınca kesin olmak üzere oy birliğiyle karar verildi. 19/12/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nin 114/1-c ve 115/2 maddeleri",
+            "HMK'nin 355. maddesi",
+            "6502 sayılı Tüketicinin Korunması Hakkında Kanunu (TKHK)",
+            "TKHK 2. maddesi",
+            "TKHK 3/1 maddesi",
+            "TKHK 73. maddesi",
+            "TKHK 83. maddesi",
+            "6102 sayılı Türk Ticaret Kanunu (TTK)",
+            "TTK 1401 vd. maddeleri",
+            "TTK 1483 vd. maddeleri",
+            "TTK 4/1 maddesi",
+            "HMK'nin 353/1-a ve 362/1-c-g maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, sigortalı aracın ticari amaçla kullanıldığını iddia ederek ilk derece mahkemesi kararının kaldırılmasını talep etmiştir. Mahkeme, davanın Tüketici Mahkemelerinde görülmesi gerektiğini kararlaştırmıştır.",
+    "summary_for_model": "Davacı vekili, sigortalı aracın ticari amaçla kullanıldığını iddia ederek ilk derece mahkemesi kararının kaldırılmasını talep etmiştir. Mahkeme, davanın Tüketici Mahkemelerinde görülmesi gerektiğini HMK'nin 353/1-a ve 362/1-c-g maddeleri uyarınca kararlaştırmıştır."
+}

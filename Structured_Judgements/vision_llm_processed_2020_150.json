@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2020_150.pdf",
+        "court_name": "T.C. İSTANBUL 2.FİKRÎ VE SINAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2020/150",
+        "karar_no": "2021/188",
+        "case_subject": "Marka Tecavüzü ve Haksız Rekabetin Tespiti, Önlenmesi, Sonuçlarının Ortadan Kaldırılması",
+        "dava_tarihi": "08/04/2020",
+        "karar_tarihi": "15/04/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili tarafından Avusturya'da yerleşik bir şirket olan davacı, davacı vekilinin dünya çapında tanınmış markalarını kullanan davalı şirketin internet sitelerinde ve sosyal medya hesaplarında davacı markalarını kullanmakta olduğunu iddia etmiştir. Davalı, davacı markalarını kullanmakta olduğunu inkâr etmiştir.",
+        "reasoning_text": "Davacı, davalı şirketin davacı markalarını kullanmakta olduğunu iddia etmiştir. Davacı, davalı şirketin davacı markalarını kullanmakta olduğunu iddia etmiştir. Davacı, davalı şirketin davacı markalarını kullanmakta olduğunu iddia etmiştir.",
+        "verdict_text": "Davacı davasının kabulüne karar verilmiştir. Davalı şirketi davacı markalarını kullanmakta olduğu için dava kabul edilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı SMK",
+            "6102 sayılı TTK",
+            "149. madde",
+            "7. madde",
+            "29. madde",
+            "54. madde",
+            "55. madde",
+            "345/1 madde",
+            "58. madde"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin davacı markalarını kullanmakta olduğunu iddia etmiştir. Davacı davasının kabulüne karar verilmiştir.",
+    "summary_for_model": "Davacı, davalı şirketin davacı markalarını kullanmakta olduğunu iddia etmiştir. Davacı davasının kabulüne karar verilmiştir. Davacı, davalı şirketin davacı markalarını kullanmakta olduğunu iddia etmiştir."
+}

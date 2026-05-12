@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2018_560.pdf",
+        "court_name": "T.C. BAKIRKÖY 1. AŞLİYE TİCARET MAHKEMESİ",
+        "esas_no": "2018/560",
+        "karar_no": "2019/728",
+        "case_subject": "İtirazın İptali",
+        "dava_tarihi": "06/06/2018",
+        "karar_tarihi": "25/06/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde; müvekkilin haber ajansı, program hazırlama, tanıtım ve teknik destek ile uydu yayını konusunda hizmet verdiğini, bu kapsamda davalı şirkete gençlik festivali basın toplantısı uydu yayını yapımı hizmetinin verildiğini, davalının 08/05/2017 tarih ve 944,00 USD bedelli ile 08/05/2017 tarih ve 2.950,00 TL tutarlı faturaları ödemediğini, bunun üzerine davalının hakkında Bakırköy ... İcra Müdürlüğü'nün ... Esas sayılı dosyası ile takip başlatıldığını, davalının takibe hakksız olarak itiraz ettiğini, tarafların uydu yayını konusunda whatsapp aracılığıyla anlaştıklarını, hatta borçunun yazışmalarında borcu kabul ettiğini, faturaların birinin ödendiği iddia edilmesine rağmen şimdiye kadar ödeme yapılmadığını belirterek davalının itirazının iptali ile %20 oranında tazminata karar verilmesini talep etmiştir. Davalı davaya cevap vermemiştir.",
+        "reasoning_text": "Bakırköy ... İcra Müdürlüğü'nün ... Esas sayılı dosyasının incelenmesinde; alacaklı ... tarafından borclu ... hakkında 6.280,00 TL alacakın işlemsi faizyle birlikte tahsili istemeyle ilamsız takip başlatıldığı, borçunun itirazı üzerine takibin durdurulmasına karar verildiği görülmüştür. Taraflarca bildirilen deliller toplandıktan sonra dosya ve ticari defter kayıtları üzerinde bilirkişi incelemesi yapılmıştır, bilirkişi tarafından düzenlenen 25/02/2019 tarihli raporda; davacının ticari defter kayıtlarına göre 2 adet faturaya dayalı olarak davalından 6.310,26 TL alacaklı olduğu, davalının ticari defterlerini inceleme günü hazır etmediği, dayanak faturalarda teslim alan imza ve isminin bulunmadığı belirtilmiştir. Dava, İtirazın iptali istemine ilişkindir.",
+        "verdict_text": "HÜKÜM : Yukarıda Açıklanan Nedenlerle;\n1-DAVANIN KABULÜNE,\n2-Davalının Bakırköy ... İcra Müdürlüğü'nün ... Esas sayılı icra takibine yönelik itirazının iptaline, takibin devamına,\n3-Takip konusu asıl alacak tutarı olan 6.280,00 TL üzerinden hesaplanacak %20 oranında tazminatin davalından alınarak davacıya verilmesine,\n4-Harçlar tarifesi uyarınca alınması gereken 428,98 TL harçtan davacı tarafından peşin yatırılan 108,79 TL harçın mahsubu ile bakiye 320,19 TL harçın davalından tahsili ile hazineye irat kaydına,\n5-Davacı tarafından sarf edilen 108,79 TL peşin harç, 600,00 TL bilirkişi ücreti, 70,00 TL tebligat ve posta masrafı olmak üzere toplam 778,79 TL yargılama giderinin davalından alınarak davacıya verilmesine,\n6-Karar tarihinde yürürlükte bulunan Avukatlık Ücret tarifesi gereğince 2.725,00 TL vekalet ücretinin davalından alınarak davacıya verilmesine,\n7-Davacı tarafından yatırılan ve kullanılayan bakiye gider avansının karar kesinleştiğinde davacıya iadesine,\nDair; 6100 sayılı HMK.'nun 341. ve devamı maddeleri gereğince gerekli kararın tebliğiinden itibaren 2 haftalık süre içerisinde İstanbul Bölge Adliye Mahkemesi nezdinde İSTINAFA kanun yolu açık olmak üzere davacı vekilinin yüzüne karşı arar verildi.25/06/2019"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK"
+        ]
+    },
+    "summary_for_human": "Bu davada, davacı vekili, davalının uydu yayını hizmetleri için ödemediği faturalar ve borçlar nedeniyle itirazın iptali ve %20 oranında tazminat talep etmiştir. Mahkeme, davalının itirazının haklı bulunmadığını ve davacının haklı olduğunu kararlaştırmıştır. Mahkeme ayrıca, davacıya tazminat, harçlar ve vekalet ücreti gibi ek taleplerini kabul etmiştir.",
+    "summary_for_model": "Dava, davacı vekili tarafından itirazın iptali ve %20 tazminat talebiyle açılmıştır. Davalı, itirazda haklı bulunmamıştır. Mahkeme, davacının haklı olduğunu kararlaştırmış ve davacıya tazminat, harçlar ve vekalet ücreti gibi ek taleplerini kabul etmiştir. 6100 sayılı HMK maddeleri esas alınmıştır."
+}

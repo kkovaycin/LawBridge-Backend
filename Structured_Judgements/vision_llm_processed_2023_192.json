@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2023_192.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2023/192",
+        "karar_no": "2023/141",
+        "case_subject": "İhtiyati Tedbir",
+        "dava_tarihi": "07/12/2022",
+        "karar_tarihi": "08/03/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "İhtiyati tedbir isteyen vekili, müvekkili adına tescilli markaların bulunduğunu iddia etti. Karşı taraf ise aynı markayı kullanmakta ve internet sitesinde satış yapmaktadır. Bu durum markaya tecavüz ve haklı rekabeti ihlal ettiği için ihityati tedbir talep edildi.",
+        "reasoning_text": "İhtiyati tedbir talebi, dava esası olarak markanın hukuksuz kullanılması ve haklı rekabetin ihlali gibi maddelerin varlığına dayanıyor. Ancak ilk derece mahkemesi, bu maddelerin kanıtlanmadığını ve ihityati tedbir talebinin reddedilmesi gerektiğini kararlaştırdı.",
+        "verdict_text": "İhtiyati tedbir isteyen vekilin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ES ASTAN REDDİNE, 179,90 TL maktu istinaf kararı ve ilam harcından, 80,70 TL istinaf kararı ve ilam harcının mahsubu ile kalan 99,20 TL bakiye harcın ihityati tedbir isteyen ... Şirketten tahsili ile hazneye irat kaydına, istinaf aşamasında ihityati tedbir isteyen tarafından yapılan yargılama giderlerinin uhdesinde bırakılmasına, istinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına, kararın tebliği ve harç tahsil işlemlerinin ilk derece mahkemesince yapılmasına, Dair, dosya üzerinde yapılan inceleme sonucunda oybirliği ile 09/02/2023 tarihinde HMK 362/1-f maddesi uyarınca KESİN olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nın 355. madde",
+            "HMK'nın 390/3. madde",
+            "HMK'nın 353/1-b.1 madde",
+            "HMK 362/1-f madde",
+            "5070 sayılı Yasa"
+        ]
+    },
+    "summary_for_human": "İhtiyati tedbir talebi, markanın hukuksuz kullanılması ve haklı rekabetin ihlali iddiasına dayanıyor. Ancak ilk derece mahkemesi bu iddiaları kanıtlamadığı için talebi reddetti.",
+    "summary_for_model": "İhtiyati tedbir talebi, markanın hukuksuz kullanılması ve haklı rekabetin ihlali iddiasına dayanıyor. İlk derece mahkemesi, bu maddelerin kanıtlanmadığını ve talebin reddedilmesi gerektiğini kararlaştırdı. İstinaf başvurusu reddedildi."
+}

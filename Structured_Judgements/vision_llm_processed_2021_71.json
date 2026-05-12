@@ -1,0 +1,34 @@
+{
+    "meta_data": {
+        "file_name": "2021_71.pdf",
+        "court_name": "T.C. İSTANBUL 4.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/71",
+        "karar_no": "2021/19",
+        "case_subject": "Marka hakları ihlali ve haksuz rekabet davası",
+        "dava_tarihi": "06/09/2018",
+        "karar_tarihi": "23/11/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalların markasını kullanmakla suçladı. Davalların markasını kullanması, hak ihlali olarak değerlendirildi. Davacı, davalların markasını kullanmasının hak ihlali olduğunu iddia etti.",
+        "reasoning_text": "Davacı, davalların markasını kullanmasının hak ihlali olduğunu iddia etti. Davalların markasını kullanması, hak ihlali olarak değerlendirildi. Davacı, davalların markasını kullanmasının hak ihlali olduğunu iddia etti.",
+        "verdict_text": "Davacı davasını kabul ile davalların markasını kullanmasının hak ihlali olarak değerlendirdi. Davalların markasını kullanmasının hak ihlali olarak değerlendirildi. Davacı, davalların markasını kullanmasının hak ihlali olduğunu iddia etti."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı Sınai Mülkiyet Kanunu",
+            "6102 sayılı Ticaret Kanunu",
+            "SMK m.25 ve 6",
+            "SMK m.6/1",
+            "SMK m.6/9",
+            "SMK m.151/2-c",
+            "TTK m.54 vd.",
+            "TTK m.55/l-a-4",
+            "TTK md. 54/2 ve 55/4",
+            "TBK md. 51",
+            "HMK 345/1 md.",
+            "5070 sayılı Elektronik İmza Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalların markasını kullanmasının hak ihlali olduğunu iddia etti. Mahkeme, davacı davasını kabul etti ve davalların markasını kullanmasının hak ihlali olarak değerlendirdi.",
+    "summary_for_model": "Davacı, davalların markasını kullanmasının hak ihlali olduğunu iddia etti. Mahkeme, davacı davasını kabul etti ve davalların markasını kullanmasının hak ihlali olarak değerlendirdi. Davacı, davalların markasını kullanmasının hak ihlali olduğunu iddia etti."
+}

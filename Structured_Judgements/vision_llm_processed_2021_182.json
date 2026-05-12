@@ -1,0 +1,28 @@
+{
+  "meta_data": {
+    "file_name": "2021_182.pdf",
+    "court_name": "İSTANBUL BÖLGE ADLİYE MAHKEMESİ 13. HUKUK DAİRESİ",
+    "esas_no": "2021/182",
+    "karar_no": "2023/304",
+    "case_subject": "Haksız Rekabetin Tespiti ve Tazminat",
+    "dava_tarihi": "01/10/2019 (İlk Derece Kararı)",
+    "karar_tarihi": "23/02/2023"
+  },
+  "rrl_segments": {
+    "facts_text": "ÖZET: Gıda firması (davacı), ürününden kurt çıktığını iddia ederek sosyal medyada sert eleştirilerde bulunan ve fotoğraflar paylaşan tüketiciye (davalı) karşı haksız rekabet davası açmıştır. Davacı, bu paylaşımların ticari itibarını zedelediğini savunmuştur. Davalı, aldığı kapalı üründen kurt çıktığını ve bunu kamu sağlığı adına paylaştığını belirtmiştir.",
+    "reasoning_text": "ÖZET: Resmi analiz raporlarıyla ürünün içinden kurt çıktığı sabittir. Davalı bir rakip değil, tüketicidir. TTK 54 ve 55. maddeleri kapsamında, bir tüketicinin yaşadığı gerçek bir olumsuzluğu, ticari bir menfaat gütmeden ve gerçeğe aykırı olmayan beyanlarla paylaşması 'kötüleme' veya 'haksız rekabet' sayılmaz. İfade özgürlüğü ve tüketici hakkı kapsamındadır.",
+    "verdict_text": "Davacının istinaf başvurusunun ESASTAN REDDİNE karar verilmiştir."
+  },
+  "structural_features": {
+    "mentioned_laws": [
+      "TTK Madde 54",
+      "TTK Madde 55",
+      "TTK Madde 55/1-a-1",
+      "HMK Madde 355",
+      "HMK Madde 353/1-b1",
+      "HMK Madde 361/1"
+    ]
+  },
+  "summary_for_human": "Bir gıda firması, konservesinden kurt çıktığını sosyal medyada paylaşan müşteriye 'markamızı kötülüyor' diye dava açmış. Mahkeme, 'Müşteri doğruyu söylüyor, analizle kanıtlanmış. Rakip firma değil, sadece şikayetini dile getirmiş, bu haksız rekabet değildir' diyerek firmayı haksız bulmuş.",
+  "summary_for_model": "TTK 54 ve 55. maddeleri uyarınca haksız rekabet iddiasıyla açılan davada, davalı tüketicinin sosyal medya paylaşımlarının maddi vakıaya (üründe kurt çıkması) dayandığı ispatlanmıştır. Mahkeme, tüketicinin ticari saikle hareket etmediği ve beyanlarının 'gereksiz yere incitici' boyuta ulaşmadığı gerekçesiyle eylemin haksız rekabet teşkil etmediğine hükmederek istinaf talebini reddetmiştir."
+}

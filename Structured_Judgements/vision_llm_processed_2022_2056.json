@@ -1,0 +1,32 @@
+{
+    "meta_data": {
+        "file_name": "2022_2056.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ BAM 20. HUKUK DAİRESİ",
+        "esas_no": "2022/2056",
+        "karar_no": "2025/169",
+        "case_subject": "Tasarima Tecavüzün Teşbiti, Maddi ve Manevi Tazminat",
+        "dava_tarihi": "28/09/2022",
+        "karar_tarihi": "30/01/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacılar, Ankara'da uzun yıllardır mobilya, tasarım, üretim ve satış işi yürüten bir şirketin, 2020/00574 sayılı tasarımının kullanıldığını iddia etmiştir. Davacı vekili, tasarımın ticari faaliyetlerde kullanıldığını, Instagram hesabında da paylaşıldığını ve Ankara 63. Noterliği tarafından tespit edildiğini belirtmiştir. SMK'nin 151/2-b maddesi uyarınca 1.000,00 TL maddi ve 10.000,00 TL manevi tazminat talep edilmiştir.",
+        "reasoning_text": "Mahkeme, tasarımın ticari faaliyetlerde kullanıldığını ve kullanıcılar tarafından algılanan benzerlik nedeniyle tasarımın tecavüz edildiğini tespit etmiştir. TBK 50. maddesi uyarınca maddi ve manevi tazminat kararı verilmiştir. Davacı vekilinin davayı TBK 50. maddesi uyarınca izlah etmesi ve dava sürecindeki tutumları dikkate alınmıştır.",
+        "verdict_text": "ESASTAN REDDİNE, 615,40 TL maktu istinaf kararı ve ilam harcından, davacılar tarafından istinaf başvurusunda yatırılan 80,70 TL istinaf kararı ve ilam harcının mahsubu ile bakiye 534,70 TL'nin davacılardan tahsili ile Hazineye irat kaydına, 683,10 TL nispi istinaf kararı ve ilam harcından, davalı tarafından istinaf başvurusunda yatırılan 182,00 TL nispi istinaf kararı ve ilam harcının mahsubu ile bakiye 501,10 TL'nin davalıdan tahsili ile Hazineye irat kaydına, istinaf aşamasında taraflarca yapılan yargılama giderlerinin taraflar uhdesinde bırakılmasına, istinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda oybirliği ile 30/01/2025 tarihinde HMK 361. maddesi uyarınca kararın tebliğinden itibaren iki hafta içerisinde Yargıtay temyiz yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 151/2-b",
+            "TBK 50",
+            "TBK 50/2",
+            "HMG 355",
+            "HMG 353/1-b-1",
+            "HMG 361",
+            "Borçlar Kanunu 50/2",
+            "Yargıtay 11. Hukuk Dairesi",
+            "Yargıtay 2015/4580 Esas, 2016/2044 Karar",
+            "5070 sayılı Yasa"
+        ]
+    },
+    "summary_for_human": "Davacılar, bir şirketin tasarımını ticari faaliyetlerde kullandığını iddia ederek maddi ve manevi tazminat talep etmiştir. Mahkeme, tasarımın ticari faaliyetlerde kullanıldığını ve kullanıcılar tarafından algılanan benzerlik nedeniyle tasarımın tecavüz edildiğini tespit etmiştir. TBK 50. maddesi uyarınca maddi ve manevi tazminat kararı verilmiştir.",
+    "summary_for_model": "Dava, bir şirketin tasarımını ticari faaliyetlerde kullandığını iddia eden davacılar tarafından açılmıştır. Mahkeme, tasarımın ticari faaliyetlerde kullanıldığını ve kullanıcılar tarafından algılanan benzerlik nedeniyle tasarımın tecavüz edildiğini tespit etmiştir. TBK 50. maddesi uyarınca maddi ve manevi tazminat kararı verilmiştir. Davacı vekilinin davayı TBK 50. maddesi uyarınca izlah etmesi ve dava sürecindeki tutumları dikkate alınmıştır."
+}

@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_835.pdf",
+        "court_name": "BAKIRKÖY 2. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2022/835 Esas",
+        "karar_no": "2024/594 Karar",
+        "case_subject": "Marka (Marka Hakkına Tecavüzden Kaynaklanan)",
+        "dava_tarihi": "18/02/2022",
+        "karar_tarihi": "26/03/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; müvekkiline ait \"...\", \"...\" ve \"...\" markaları uzun yıllardır dünya genelinde yoğun ve yaygın bir şekilde kullanıldığını ve tescil kayıtları ile koruma altına alındığını, müvekkili şirkete ait \"...\" ve \"...\" markalarının Paris Sözleşmesi ile 6769 Sayılı SMK'nın 6/4 ve 6/5.maddeleri anlamında tanınmış marka olduğunu, davalının müvekkiline izni olmadan bu markalarla benzer markaları kullandığını, davalı tarafın eylemlerinin 6769 sayılı SMK uyarınca marka tecavüzü teşkil ettiğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, dava konusu markaların hitap ettikleri tüketicinin belirlenmesi önem arz ettiğini, taraflar markalarının bulunduğu ürünlerin hitap ettiği tüketici özel bir tecrübe ve eğitime sahip olmadığını, ürünü satın alma sürecinde ortalama bir süreden daha fazla zaman ayırmayan tüketici olduğunu tespit etmiştir. Her iki marka arasında benzerlik ve karıştırma ihtimali olması karşısında hukuksuzluk koşullarının oluştuğu hukuki kanaatine ulaşmıştır.",
+        "verdict_text": "BAKIRKÖY 2. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ'NİN 18/02/2022 TARİH VE 2021/381 ESAS, 2022/17 KARAR SAYILI KARARIYLA; \"...Somut olarak karıştırma ihtimali belirlenirken dava konusu markaların hitap ettikleri tüketici kitlesinin belirlenmesi önem arz etmektedir. Buna göre davacı ve davalı markalarının tescilli oldukları mal ve hizmetler yönünden ortalama tüketici \"ortalama tüketici\"dir. Yani taraf markalarının bulunduğu ürünlerin hitap ettiği tüketici özel bir tecrübe ve eğitime sahip olmayan, ürünü satın alma sürecinde ortalama bir süreden daha fazla zaman ayırmayan tüketici. Böyle bir tüketici davacı markası ile daha önce karşılaşmış ve fikir sahibi olmuşsa, davalı markalarını, davacı markaları ile idari, işletmesel ya da ekonomik olarak bağlantılı olduğu izlenimine kapılabilir ve karar verme sürecini bu yanılgının etkisi ile gerçekleştirebilir. Her iki marka arasında benzerlik ve karıştırma ihtimali olması karşısında hukuksuzluk koşullarının oluştuğu hukuki kanaate ulaşılmıştır. Kötüniyetli tescilli iddiası yönünden yapılan değerlendirmede ise; tarafların aynı sektörde faaliyet gösterdikleri; davacının faaliyet gösterdiği söz konusu sektörde varlığının uzun yıllara dayandığı ve tüketiciler nezdiğinde belli bir bilinirliğe ulaştığı, bir tacir olan davalının, basireti bir tacir gibi davranma yükümlülüğü çerçevesinde davacı marka ve hizmetlerinden habersiz olmasının olağan hayatın akışına aykır olduğu ve bu bilme-bilmevi gerekmeye durumuna rağmen tüketiciler nezdiğinde davacı markalarına benzer markayı tescil ettiği; bu durumda söz konusu tescilin iyiniyetli bir tescil olarak kabul edilemeyeceği, somut olarak \"kaynak\" kavramını kullanmak için vicdan kanatına ulaşmıştır. SMK'nun 3-e maddesine göre \"içerikte (markanın) kötüniyetini ya da isteme gerçeği hakkına tecavüz hallerini\" isteme hakkı doğurur. Somut olarak, davacı markasının davalına ait ticaret unvanında esas unsur olarak yer aldığı, terk koşullarının bulunduğu anlaşılmıştır. Yukarıda açıklanan gerekçelerle davacının davasının tümden kabulüne\" kararı verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HUKUKKURULU 353. ve 356. maddeleri",
+            "SMK 6/4 ve 6/5.maddeleri",
+            "SMK 7/3-e maddesi",
+            "HUKUKKURULU 1-1600 sayılı HMK'nın 352/1-b-1 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının müvekkiline ait markaları kötü niyetle kullanarak marka tecavüzü yaptığını iddia etmiştir. Mahkeme, davacı ve davalı markalarının hitap ettiği tüketici kitlesinin ortalama tüketici olduğunu ve her iki marka arasında benzerlik ve karıştırma ihtimali bulunduğunu tespit ederek davacı davasının kabulüne karar vermiştir.",
+    "summary_for_model": "Davacı, davalının müvekkiline ait markaları kötü niyetle kullanarak marka tecavüzü yaptığını iddia etmiştir. Mahkeme, taraflar markalarının hitap ettiği tüketici kitlesinin ortalama tüketici olduğunu ve her iki marka arasında benzerlik ve karıştırma ihtimali bulunduğunu tespit ederek davacı davasının kabulüne karar vermiştir. SMK 6/4, 6/5 ve 7/3-e maddeleri ile HUKUKKURULU 353 ve 356. maddeleri ve HUKUKKURULU 1-1600 sayılı HMK'nın 352/1-b-1 maddesi esas alınmıştır."
+}

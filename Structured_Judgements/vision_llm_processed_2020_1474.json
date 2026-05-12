@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2020_1474.pdf",
+        "court_name": "İzmir Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2018/126",
+        "karar_no": "2019/137",
+        "case_subject": "Faydali modelin tecavuzü ve durdurulması",
+        "dava_tarihi": "25/04/2018",
+        "karar_tarihi": "28/09/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davada faydali modellerin kullanılmasına karşı itiraz etti. Davalı, modellerin haklı olarak kullanıldığını savundu. İlk derece mahkemesi, davanın reddine karar verdi.",
+        "reasoning_text": "İstinaf mahkemesi, ilk derece kararının hukuka aykır olduğunu tespit etti. Davanın itirazları kabul edildi ve kararın kaldırılmasına karar verildi.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacı vekilinin İzmir Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 2018/126 Esas-2019/137 Karar sayılı kararına yönelik istinaf itirazlarının HMK'nın 353/1-b-1. maddesi gereğince ESASLAN REDDİNE, 2-İstinaf aşamasında; alınması gereken 80,70 TL istinaf karar harcından peşin alınan 44,40 TL harcin mahsubu ile eksik kalan 36,30 TL'nin davacidan alınarak Hazineye gelir kaydına, 3-Davacı tarafından yapılan yargılama giderlerinin kendisi üzerinde bırakılmasına, 4-HMK 333.maddesi uyarınca karar kesinleştiğinde varsa taraflarca yatırılan gider avansından kalan bakiyenin yerel mahkemeye hesaplanarak ilgili olduğu tarafa iadesine, 5-İstinaf incelemesi durusmasız yapıldığından vekalet ücretine hükmedilmesine yer olmadığına, 6-Kararın, temyize tabi bulunması nedeniyle Dairemizce taraflara tebliğine, Dair; dosya üzerinde yapılan inceleme neticesinde HMK'nın 361. maddesi uyarınca gerekli kararın tebliğiinden itibaren 2 haftalık süre zarfinda Yargıtaya temyiz yolu açık olmak üzere oy birliği ile karar verildi. 28/09/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu'nun 353/1-b-1. maddesi",
+            "Hukuk Muhakemeleri Kanunu'nun 361. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, faydali modellerin kullanılmasına karşı itiraz etti. İlk derece mahkemesi davayı reddetti, ancak istinaf mahkemesi kararın hukuka aykır olduğunu tespit etti ve davayı kabul etti.",
+    "summary_for_model": "İstinaf mahkemesi, ilk derece kararının hukuka aykır olduğunu tespit etti ve davayı kabul etti. Davacı vekilinin itirazları kabul edildi ve kararın kaldırılmasına karar verildi."
+}

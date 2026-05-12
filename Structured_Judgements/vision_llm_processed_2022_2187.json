@@ -1,0 +1,41 @@
+{
+    "meta_data": {
+        "file_name": "2022_2187.pdf",
+        "court_name": "İstanbul Anadolu 11. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2019/198",
+        "karar_no": "2022/514",
+        "case_subject": "Haksız Fiilden Kaynaklanan Tazminat",
+        "dava_tarihi": "14/09/2022",
+        "karar_tarihi": "12/06/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, internet haber sitesi tarafından yayınlanan haberlerin yanlış ve yanıltıcı olduğunu iddia ediyor. Davacı, haberlerin hakaret ve hak ihlali içerdiğini, ayrıca hak ihlali nedeniyle maddi ve manevi tazminat talep ediyor.",
+        "reasoning_text": "Mahkeme, davacının iddialarını değerlendirerek hak ihlali ve hakaret iddialarının kanıtlanamadığını tespit etti. Ayrıca, haberlerin hak ihlali oluşturmadığı ve hak ihlali nedeniyle maddi ve manevi tazminat talebinin haklı olmadığı sonucuna vardı.",
+        "verdict_text": "Davacının istinaf başvurusu reddedildi. Davacıya karşı istinaf kararı verildi. Davacıya 615,40 TL istinaf kararı harci ödenmesi kararı verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Halkın Hakları Kanunu",
+            "Türk Ticaret Kanunu",
+            "Halkın Hakları Kanunu 54. Madde",
+            "Halkın Hakları Kanunu 55. Madde",
+            "Halkın Hakları Kanunu 56. Madde",
+            "Halkın Hakları Kanunu 57. Madde",
+            "Halkın Hakları Kanunu 279. Madde",
+            "Halkın Hakları Kanunu 282. Madde",
+            "Halkın Hakları Kanunu 353. Madde",
+            "Halkın Hakları Kanunu 362. Madde",
+            "Halkın Hakları Kanunu 176. Madde",
+            "Halkın Hakları Kanunu 177. Madde",
+            "Halkın Hakları Kanunu 184. Madde",
+            "Halkın Hakları Kanunu 186. Madde",
+            "Halkın Hakları Kanunu 5. Madde",
+            "Halkın Hakları Kanunu 5/2. Madde",
+            "Halkın Hakları Kanunu 24. Madde",
+            "Halkın Hakları Kanunu 25. Madde",
+            "Halkın Hakları Kanunu 9. Madde"
+        ]
+    },
+    "summary_for_human": "Davacı, internet haber sitesi tarafından yayınlanan haberlerin yanlış ve yanıltıcı olduğunu iddia ediyor. Mahkeme, davacının iddialarını değerlendirerek hak ihlali ve hakaret iddialarının kanıtlanamadığını tespit etti. Davacının istinaf başvurusu reddedildi.",
+    "summary_for_model": "Davacı, internet haber sitesi tarafından yayınlanan haberlerin yanlış ve yanıltıcı olduğunu iddia ediyor. Mahkeme, davacının iddialarını değerlendirerek hak ihlali ve hakaret iddialarının kanıtlanamadığını tespit etti. Davacının istinaf başvurusu reddedildi. Davacıya karşı istinaf kararı verildi."
+}

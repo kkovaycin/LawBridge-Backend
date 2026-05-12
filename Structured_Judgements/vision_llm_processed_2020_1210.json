@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2020_1210.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2017/508 E. - 2018/403 K.",
+        "karar_no": "2022/1272",
+        "case_subject": "Endüstriyel Tasarım (Endüstriyel Tasarımın Hükümsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "30/10/2018",
+        "karar_tarihi": "22/09/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davayı dilekçesinde özetleyerek, davalı şirketin Türk Patent ve Marka Kurumu'nda 23.12.2015 tarih ve ... no ile tescilli \"peynir tabağı sunum şekli\" tasarımının 6769 sayılı Sanayi Mülkiyet Kanunu'nun 55., 56. ve 77/1-a maddeleri uyarınca hükümsüzlüğüne, TPMK tasarım sicilinden terkine karar verilmesini talep etmiştir. İlk Derece Mahkemesi, tasarımın yeni ve ayırt edici niteliği olmadığı, benzerlik nedeniyle hükümsüz olduğu ve kamuya sunulmuş olduğu gerekçeleriyle hükümsüzlük kararı vermiştir.",
+        "reasoning_text": "İstanbul 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi, davanın kabulüne karşı istinaf talebini reddetmiştir. Mahkeme, tasarımın kamuya sunulmuş olması, benzerlik nedeniyle hükümsüz olduğu ve yeni/ayırt edici niteliği olmadığı gerekçeleriyle hüküm vermiştir. İstinaf talebinin reddi, 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b/1. maddesi uyarınca yapılmıştır.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1- Üşül ve yasaya uygun İstanbul 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi'nin 30/10/2018 tarih ve 2017/508 E. 2018/403 K. Sayılı kararına karşı davacı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2- 492 Sayılı Harçlar Kanunu gereğince alınması gereken 80,70 TL maktu istinaf kararı ve ilam harcından pesin yatırılan 44,40 TL harcin mahsubu ile bakiye 36,30 TL harcin davalıdan tahsiliyle Hazineye gelir kaydedilmesine, 3- Davalı tarafından istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına,4- İncelemenin duruşmasız olarak yapılması sebebiyle taraflara vekalet ücreti tayinine yer olmadığına, 5- Taraflarca yatırılan gider avansından harçnamayan kısmın karar kesinleştiğinde iadesine, 6- Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin İlk Derece Mahkemesince yerine getirilmesine, Dosya üzerinde yapılan inceleme sonucunda, 20/07/2017 tarih ve 7035 Sayılı Kanunun 31. maddesiyle değişik 6100 Sayılı HMK'nın 361/1. maddesi gereğince, kararın tebliğinden itibaren 2 hafta içerisinde Yargıtay'a temiz başvurusunda bulunma yolu açık olmak üzere, oy birliğiyle karar verildi: 22/09/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 Sayılı Sanayi Mülkiyet Kanunu",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "492 Sayılı Harçlar Kanunu",
+            "7035 Sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, davalı şirketin tescilli \"peynir tabağı sunum şekli\" tasarımının hükümsüz olduğunu kararlaştırmıştır. Tasarımın yeni ve ayırt edici niteliği olmadığı, benzerlik nedeniyle hükümsüz olduğu ve kamuya sunulmuş olduğu gerekçeleriyle hüküm verilmiştir. İstinaf talebi reddedilmiştir.",
+    "summary_for_model": "İstanbul 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi, davalı şirketin tescilli tasarımının hükümsüz olduğunu kararlaştırmıştır. Tasarımın yeni/ayırt edici niteliği olmadığı, benzerlik nedeniyle hükümsüz olduğu ve kamuya sunulmuş olduğu gerekçeleriyle hüküm verilmiştir. İstinaf talebi reddedilmiştir. 6100 Sayılı HMK'nın 353/1-b/1. maddesi uyarınca istinaf talebinin reddi yapılmıştır."
+}

@@ -1,0 +1,35 @@
+{
+    "meta_data": {
+        "file_name": "2024_857.pdf",
+        "court_name": "İstanbul 12. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2023/407",
+        "karar_no": "2024/243",
+        "case_subject": "Tazminat (Simsarlık ve Hizmet Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "23/10/2024",
+        "karar_tarihi": "21/03/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Dava, davacı vekili tarafından davayı özetle; davacıların davayı açan davacı vekili tarafından davayı özetle; davacıların davayı açan davacı vekili tarafından davayı özetle. Grubun vereceği hizmet karşılığında, davacıların davayı açan davacı vekili tarafından davayı özetle.",
+        "reasoning_text": "Mahkeme, davacıların davayı açan davacı vekili tarafından davayı özetle; davacıların davayı açan davacı vekili tarafından davayı özetle. Grubun vereceği hizmet karşılığında, davacıların davayı açan davacı vekili tarafından davayı özetle.",
+        "verdict_text": "İSTİNAF KABULÜ ile İstanbul 12. Aslıye Ticaret Mahkemesi'nin 21/03/2024 tarihli 2023/407 E. 2024/243 K. sayılı kararının 6100 sayılı Hukuk Muhakemeleri Kanununun 353/1.a.3 bendi uyarınca KALDIRILMASINA, 2-Dairemizin kararı doğrultusunda işlem yapılması için dosyanın mahkemesine İADESİNE, 3-Taraflarca ayrı ayrı yatırılan istinaf başvuru harçlarının ayrı ayrı Hazineye irat kaydına, Taraflarca ayrı ayrı yatırılan istinaf karar harçlarının ilk derece mahkemesince ayrı ayrı iadesine;4-Tarafların yapmış olduğu istinaf yargılama giderlerinin ilk derece mahkemesince yeniden verilecek kararda dikkate alınmasına;5-Istinaf yargılama sırasında duruşma açılmadığından vekalet ücreti takdirine yer olmadığına;6-Yatırılan gider avansından kalan kısım davacıya ilk derece mahkemesince iadesine;7-Kararın ilk derece mahkemesince taraflara tebliğine; Dosya üzerinden yapılan inceleme notisinde, 6100 sayılı Hukuk Muhakemeleri Kanununun 353/1.a.3 ve 362/1.g bendi gereğince kesin olmak üzere oybirliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "Türk Ticaret Kanunu",
+            "Türk Borçlar Kanunu",
+            "Türk Medeni Kanunu",
+            "Türk Vergi Kanunu",
+            "Türk Ticaret Kanunu",
+            "Türk Borçlar Kanunu",
+            "Türk Medeni Kanunu",
+            "Türk Vergi Kanunu",
+            "Türk Ticaret Kanunu",
+            "Türk Borçlar Kanunu",
+            "Türk Medeni Kanunu",
+            "Türk Vergi Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacıların davayı açan davacı vekili tarafından davayı özetle; davacıların davayı açan davacı vekili tarafından davayı özetle. Grubun vereceği hizmet karşılığında, davacıların davayı açan davacı vekili tarafından davayı özetle.",
+    "summary_for_model": "Mahkeme, davacıların davayı açan davacı vekili tarafından davayı özetle; davacıların davayı açan davacı vekili tarafından davayı özetle. Grubun vereceği hizmet karşılığında, davacıların davayı açan davacı vekili tarafından davayı özetle. Davacıların davayı açan davacı vekili tarafından davayı özetle."
+}

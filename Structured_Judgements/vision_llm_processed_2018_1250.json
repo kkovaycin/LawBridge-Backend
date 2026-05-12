@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2018_1250.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 15. Hukuk Dairesi",
+        "esas_no": "2018/1250",
+        "karar_no": "2018/1004",
+        "case_subject": "İhtiyati Tedbir",
+        "dava_tarihi": "24/04/2018",
+        "karar_tarihi": "17/07/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "İstanbul 4. Asliye Ticaret Mahkemesi'nde 24/04/2018 tarihli ve 2018/411 D.i., 2018/409 Karar sayılı kararla dava açıldı. Davacı vekili, tarafa karşı 3 adet terminat mektubu teslim edildiği ve şirketin iflas durumunda bulunduğu iddia edildi. İstanbul 4. Asliye Ticaret Mahkemesi'nin 24/04/2018 tarihli kararıyla dava açıldı.",
+        "reasoning_text": "Hukuk Muhakemesi Kanunu'nun 389. maddesine göre, ihtiyati tedbir kararı verilemez. Davacı vekili, ihtiyati tedbir şartlarının doşmadığını iddia etti. Mahkeme, dava açılırken ihtiyati tedbir kararı verilemez.",
+        "verdict_text": "Dair, dosya üzerinden yapılan inceleme sonucunda HMK'nın 362/1-f bendi gereğince KESİN olmak üzere 17/07/2018 tarihinde oybirliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemesi Kanunu (HMK)",
+            "HMK 353/1-b.1",
+            "HMK 362/1-f",
+            "HMK 389",
+            "HMK 390/3"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, karşı tarafa karşı terminat mektuplarını teslim ettiği ve şirketin iflas durumunda bulunduğu iddia etti. Mahkeme, dava açılırken ihtiyati tedbir kararı verilemez diyerek davayı açıldı.",
+    "summary_for_model": "Davacı vekili, karşı tarafa karşı terminat mektuplarını teslim ettiği ve şirketin iflas durumunda bulunduğu iddia etti. Mahkeme, dava açılırken ihtiyati tedbir kararı verilemez diyerek davayı açıldı. HMK 389 ve 390/3 maddeleri uygulanmıştır."
+}

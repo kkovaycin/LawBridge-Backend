@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2017_534.pdf",
+        "court_name": "T.C. İSTANBUL 15. AŞLİYE TİCARET MAHKEMESİ",
+        "esas_no": "2017/534",
+        "karar_no": "2018/306",
+        "case_subject": "Tazminat (Haksız Rekabetten Kaynaklanan)",
+        "dava_tarihi": "09/06/2017",
+        "karar_tarihi": "28/03/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Dava davacı vekili, müvekkillerinin reklam filmi setinde 16 saat çalışma sonrası iş bırakmaları, SGP çalışanları ile çekimleri bitirdikleri ve 16 Aralık 2016'da kendi Twitter hesabından paylaşım yapmaları nedeniyle haksız rekabetten kaynaklı tazminat talep etmiştir. Davacı, iş kanununa aykırı çalışma sürelerinin 12 saati geçtiğini ve bu durumun iş güvenliğini tehlikeye attığını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, dava dosyasında mahkememin görevsizliğine ve dava şartı yokluğuna dayanarak usulen reddiye karar vermiştir. HMK 115/2 maddesi hükmüne göre dava şartı noksanlığı nedeniyle dava reddedilmiştir. Ayrıca, dava dosyasının incelenmesinde dava şartı yokluğunun ortaya çıktığı için mahkeme davayı bakmakla görevli değildir.",
+        "verdict_text": "1-Dava dosyasında mahkememin görevsizliğine, HMK 114/1-c 115 maddesi gereğince davanın dava şartı yokluğu nedeniyle usulen reddine, talep halinde dava dosyasının görevli İSTANBUL AŞLİYE HUKUK MAHKEMESİNE gönderilmesine, 2-HMK nun 331/2 maddesi gereğince yargılama giderlerinin yetkili ve görevli mahkemeye hükmü altına alınmasına, 3-İş bu ilam taraflardan birinin süresi içinde kanun yoluna başvurulamayarak kesilmiş ise kararın kesinleştiği tarihten; kanun yoluna başvurulmuşsa bu başvurunun reddi kararının tebliği tarihinden itibaren iki hafta içinde kararı veren mahkemeye başvurarak, dava dosyasının görevli ya da yetkili mahkemeye gönderilmesini talep etmesi gerektiği, aksi takdirde talep halinde HMK 20. maddesi gereğince mahkememizce davanın açılmamış sayılmasına karar verileceği hususunun taraflara ihbaratına 4-HMK 331. maddesine göre yargılama gideri ve vekalet ücretinin görevli mahkemeye değerlendirilmesine, Dosya üzerinde yapılan inceleme sonunda tarafların yokluğunda, kararın tebliği tarihinden itibaren 2 hafta içinde mahkememize verilecek dilekçe ile İstanbul BAM'da İstinaf yolu açık olmak üzere karar verildi. 28/03/2018"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 55",
+            "TTK 4 ve 5 maddeleri",
+            "HMK 1. Maddesi",
+            "HMK 114/1-c",
+            "HMK 115/1",
+            "HMK 115/2",
+            "HMK 331/2",
+            "HMK 20. maddesi",
+            "HMK 331. maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, dava dosyasında mahkememin görevsizliğine ve dava şartı yokluğuna dayanarak davayı reddetmiştir. Haksız rekabetten kaynaklı tazminat talebi reddedilmiştir.",
+    "summary_for_model": "Dava, haksız rekabetten kaynaklı tazminat talebi olarak açılmıştır. Mahkeme, dava şartı yokluğu ve mahkememin görevsizliği nedeniyle davayı reddetmiştir. HMK 115/2 maddesi hükmüne göre dava şartı noksanlığı nedeniyle dava reddedilmiştir."
+}

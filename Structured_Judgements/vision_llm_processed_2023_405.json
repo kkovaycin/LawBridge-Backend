@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2023_405.pdf",
+        "court_name": "T.C. İstanbul Anadolu 5. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2023/405",
+        "karar_no": "2024/477",
+        "case_subject": "Tespit davası",
+        "dava_tarihi": "01/06/2023",
+        "karar_tarihi": "21/05/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; davanın kimlik, telefon numarası ve adres bilgilerinin tespiti için öncelikle emniyetin sonuc alınmaması halinde davalının tespit edilen yerleşim yeri adresine veya mernis adresine tebligat çıkartılması talep edildi. Davanın haklı olarak davayı açtığı ancak kimlik ve adres bilgileri tespit edilemediği için dava açılmamış sayıldı.",
+        "reasoning_text": "Davada haklı olarak hak ihlali iddia edildi ancak davanın kimlik ve adres bilgileri tespit edilemediği için dava açılmamış sayıldı. Davacı vekili tarafından yapılan taleplerin yerine getirilemediği için dava reddedildi.",
+        "verdict_text": "1-Davanın açılmamış sayılmasına, 2-Alınması gerekli karar harcı 427,60-TL'den davacı taraflıca peşin olarak yatırılan 179,90-TL harcin mahsubu ile bakiye 247,70-TL harcin davacidan tahsili ile hazineye irat kaydına, 3-Yapılan yargılama giderlerinin davacı üzerinde bırakılmasına, 4-Davalı tarafından yapılan yargılama gideri bulunmadığından bu hususta karar verilmesine yer olmadığına, 5-Taraflarca mahkemeler veznesine yatırılan gider avansından artacak kısmin karar kesinleştiğinde talep halinde ilgili tarafa iadesine, Dair karar, davacı vekilinin yüzüne karşı, davalı tarafın yokluğunda karar gerekçesinin tebliginden itibaren 2 hafta içinde Adliye Mahkemesinde istinaf yolu açık olarak verildi, açıkça okundu usulen tefhim olundu. 13/06/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "119/1b"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davanın kimlik ve adres bilgileri tespit edilemediği için davayı açılmamış saydı. Davacı vekili tarafından yapılan talepler yerine getirilemediği için dava reddedildi.",
+    "summary_for_model": "Dava, kimlik ve adres bilgileri tespit edilemediği için reddedildi. Davacı vekili tarafından yapılan talepler yerine getirilemediği için dava açılmamış sayıldı. Karar, davacı vekilinin yokluğunda verildi."
+}

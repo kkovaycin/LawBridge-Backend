@@ -1,0 +1,32 @@
+{
+    "meta_data": {
+        "file_name": "2021_413.pdf",
+        "court_name": "İstanbul 2. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/413",
+        "karar_no": "2022/126",
+        "case_subject": "Marka hükmüsüzlüğü ve markaya tecavüzden kaynaklanan dava",
+        "dava_tarihi": "29/12/2021",
+        "karar_tarihi": "13/09/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekilinin davayı açtığını ve vekilinin markanın tescilini talep ettiğini iddia ediyor. Markanın tanınmışlığı ve internetteki faaliyetleri, dava konusu olarak ele alınıyor.",
+        "reasoning_text": "Mahkeme, markanın hükmüsüzlüğü ve tecavüz iddialarını değerlendirerek, dava konusu markanın internetteki faaliyetinin tecavüz oluşturduğunu tespit etti. Kötü niyetli tescil iddiası da dikkate alındı.",
+        "verdict_text": "Davacıya hükmüsüzlük ve tecavüz iddiaları reddedildi. Davacıya karşı 4.738,60 TL yargılama gideri ve vekalet ücretleri tahakkuk etti."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı Sınai Mülkiyet Kanunu",
+            "6600 sayılı Hükümsüzlük Kanunu",
+            "6769 sayılı Sınai Mülkiyet Kanunu'nun 159. maddesi",
+            "6769 sayılı Sınai Mülkiyet Kanunu'nun 25. maddesi",
+            "6769 sayılı Sınai Mülkiyet Kanunu'nun 4/1 maddesi",
+            "6769 sayılı Sınai Mülkiyet Kanunu'nun 6/9 maddesi",
+            "6769 sayılı Sınai Mülkiyet Kanunu'nun 7. maddesi",
+            "6769 sayılı Sınai Mülkiyet Kanunu'nun 29. maddesi",
+            "6769 sayılı Sınai Mülkiyet Kanunu'nun 149. maddesi",
+            "6769 sayılı Sınai Mülkiyet Kanunu'nun 7/2-b maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, markanın hükmüsüzlüğü ve tecavüz iddialarıyla dava açtı. Mahkeme, bu iddiaları reddederek davacıya karşı yargılama giderleri ve vekalet ücretleri tahakkuk etti.",
+    "summary_for_model": "Dava, markanın hükmüsüzlüğü ve tecavüz iddialarıyla ilgilidir. Mahkeme, bu iddiaları reddederek davacıya karşı mali yükümlülükler belirledi."
+}

@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2019_1828.pdf",
+        "court_name": "İstanbul Anadolu 4. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2018/481 Esas",
+        "karar_no": "2019/331 Karar",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "21/03/2019",
+        "karar_tarihi": "24/06/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesi ile, davacı şirketin kurulduğu günden bu yana toplumsal sorumluluk bilinci ile kültür, sanat, spor gibi farklı alanlarda çok sayıda projeye destek verdiğini, çocukların eğitimini desteklemek amacıyla da bugüne değin pek çok projenin önemli destekçilerinden olduğunu, ancak davacı şirketin gençlere ve eğitime verdiği destek gündemde yer alan tecavüz suçundan ciddî bir şekilde çarpıldığını ve sosyal medyada davacı şirketi adına bir karalama kampanyasına dönüştürüldüğünü iddia etmiştir.",
+        "reasoning_text": "İlk derece Mahkemesi'nin kararının istinaf incelenmesi sonucunda, davacı vekili tarafından yapılan istinaf dilekçesi kabul edilmiştir. Davanın kısmen kabulüne karar verilmiştir. Davacı vekili tarafından yapılan istinaf dilekçesi, davanın kısmen kabulüne karar verildiği ilk derece mahkemesi kararının kaldırılmasına ve yeniden karar verilmesine yol açmıştır.",
+        "verdict_text": "Hüküm: Davanın istinaf başvurusu kabul edilmiştir. İstanbul Anadolu 4. Aslıye Ticaret Mahkemesi'nin 21/03/2019 tarih ve 2018/481 Esas - 2019/331 Karar Karar sayılı kararının HMK'nın 353/1-b2 maddesi uyarınca KALDIRILMASINA, Dairemizce yeniden hüküm kurulmak sureti ile; 1-Davanın REDDİNE, İLK DERECE MAHKEMESİ YÖNÜNDEN: 2-Dairemiz karar tarihi itibarıyla alınması gereken 59,30.TL harcin, davacı tarafından dava açılırken peşin olarak yatırılan 170,78.TL harctan mahsubu ile bakiye 111,48.TL'nin talep halinde davacıya iadesine, 3-Davacı tarafından sarf edilen yargılama giderlerinin davacı üzerinde bırakılmasına, 4-Davalı tarafından sarf edilen 11,00.TL yargılama giderinin davacıdan alınarak davalya verilmesine, 5-Davalı taraf kendisini vekil ile temsil ettiğinden Dairemiz karar tarihi itibarıyla yürürlükte olan AAÜT uyarınca hesap ve takdir olan 4.080,00.TL vekalet ücretinin davacıdan alınarak davalya verilmesine, 6-Artan gider avansı bulunduğu takdirde talep halinde avansı yatan tarafa iadesine, İSTİNAF YÖNÜNDEN: 7-Harçlar Kanunu gereğince istinaf eden tarafından yatırılan 121,30.TL istinaf başvuru harcının hazinede gelir kaydına, 44,40.TL istinaf karar harcının talep halinde davalya iadesine, 8-Davalı tarafından sarf edilen 121,30.TL istinaf kanun yoluna başvurma harci ile 31,50.TL dosyanın istinafa gidiş/ dönüş gideri olmak üzere; toplam 152,80.TL yargılama giderinin davacıdan alınarak davalya verilmesine, 9-Bakiye gider avansı varsa talep halinde avansı yatan tarafa iadesine, 10-Kararın ilk derece mahkemesince taraflara tebliği gönderilmesine, Dosya üzerinde yapılan inceleme sonucunda 24/06/2021 tarihinde HMK'nın 362/1-a maddesi gereğince kesin olarak oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TMK'nin 24, 25 ve TBK'nin 58. Maddeleri",
+            "TTK'nin 55 ve 56. Maddeleri",
+            "TMK'nin 25. Maddesi",
+            "TBK'nin 49. Maddesi",
+            "TBK'nin 58. Maddesi",
+            "HMK'nın 355. Maddesi",
+            "HMK'nın 353/1-b2 Maddesi",
+            "HMK'nın 362/1-a Maddesi",
+            "Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı şirketi, çocuk tacizine destek verdiği iddiasıyla dava açıldı. İlk mahkeme, davacı şirketin haklarını ihlal ettiği ve haksız rekabete yol açtığı gerekçesiyle manevi tazminat kararı verdi. Davacı vekili, bu kararı istinaf etti ve ilk mahkeme kararının kaldırılması talep edildi. İstinaf mahkemesi, ilk mahkeme kararının hatalı olduğunu belirleyerek yeniden karar verdi.",
+    "summary_for_model": "Dava, davacı şirketin çocuk tacizine destek verdiği iddiasıyla açıldı. İlk mahkeme, davacı şirketin haklarını ihlal ettiği ve haksız rekabete yol açtığı gerekçesiyle manevi tazminat kararı verdi. Davacı vekili, bu kararı istinaf etti ve ilk mahkeme kararının kaldırılması talep edildi. İstinaf mahkemesi, ilk mahkeme kararının hatalı olduğunu belirleyerek yeniden karar verdi. Davanın kısmen kabulüne karar verildi."
+}

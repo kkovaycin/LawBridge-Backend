@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2018_1832.pdf",
+        "court_name": "İstanbul Anadolu 5. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2017/646",
+        "karar_no": "2018/613",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "22/06/2018",
+        "karar_tarihi": "04/06/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının 26/03/2016'da kişisel Twitter hesabından yaptığı paylaşımların çocuk tecavüzüne sponsor olduğu iddiasıyla dava açtı. Davacı, bu paylaşımların hak ihlali ve ticari itibarını zedelediğini iddia etti.",
+        "reasoning_text": "İlki derecede mahkeme, davalının paylaşımlarının ifade özgürlüğü kapsamında değerlendirildiğini ancak hak ihlali ve ticari itibar ihlali nedeniyle dava reddedildiğini kararlaştırdı. İstinaf mahkemesi ise, davalının paylaşımlarının hak ihlali ve ticari itibar ihlali nedeniyle dava kabul edildiğini kararlaştırdı.",
+        "verdict_text": "Davacının istinaf başvurusu kabul edilerek ilk derecede mahkeme kararı iptal edildi. Davacıya karşı 10.000,00 TL manevi tazminat verilmesine karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TMK 25. maddesi",
+            "TBK 49 ve 58 maddeleri",
+            "Türk Ticaret Kanunu 55-56 maddeleri",
+            "TTK 55. maddesi",
+            "Hukuk Muhakemesi Kanunu 355. maddesi",
+            "Hukuk Muhakemesi Kanunu 362/1-a maddesi",
+            "Harcılar Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının çocuk tecavüzüne sponsor olduğu iddiasıyla dava açtı. İlki derecede mahkeme dava reddedildi ancak istinaf mahkemesi davayı kabul etti ve davacıya 10.000,00 TL manevi tazminat verilmesine karar verdi.",
+    "summary_for_model": "Dava, davalının çocuk tecavüzüne sponsor olduğu iddiasıyla açıldı. İlki derecede mahkeme dava reddedildi ancak istinaf mahkemesi davayı kabul etti ve davacıya manevi tazminat verilmesine karar verdi. Hukuki gerekçeler, ifade özgürlüğü ve ticari itibar ihlali etrafında dönüyor."
+}

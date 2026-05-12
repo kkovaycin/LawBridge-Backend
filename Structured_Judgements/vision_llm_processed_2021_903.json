@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2021_903.pdf",
+        "court_name": "Güziantep Bölgesi Adlîye Mahkemesi 11. Hukuk Dairesi",
+        "esas_no": "2020/205",
+        "karar_no": "2022/1842",
+        "case_subject": "Ticari Proje ve Danışmanlık Hizmetinden Doğan",
+        "dava_tarihi": "22/12/2020",
+        "karar_tarihi": "30/11/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, mükvelli şirket tarafından davalı borçlu şirkete vermiş olduğu hizmete binaen 03/05/2018 tarihli ... seri ...sıra numaralı, ... TL bedelli \"iç mimari proje ve danışmanlık hizmeti\" fatura sının kesildiğini, ancak davalı şirketin fatura bedelini ödemediğini belirterek ... içra Müdürlüğü ... esas sayılı içra takibine vaki haksız itirazın iptaline, asgari % 20 iýkar tazminatına hükmedilmesini talep ve dava etmiştir.",
+        "reasoning_text": "Mahkemecesi, davalının takip konusu faturaya yasal süre içerisinde itiraz ettiği, tarafların tacir oldukları, ispat yükü üzerine düşen davacın delil olarak ticari defter ve kayıtlara ve mail ve whatsapp yazışmalarına dayandığı, taraflar arasında düzenlenmiş yazılı bir sözleşmenin bulunmadığı, bilirişi incelemesi neticesinde; takip ve dava konusu yapılan 41.300,00 TL tutarılı faturanın davacının usulüne uygun tutulan ticari defterlerinde kayıtlı olduğu, ancak bu durumun alacağın varlığını tek başına ispata yeterli olmadığı, bu hususun kesin delil niteliği taşıması için her iki tarafın da bir birini teyit eden ticari kayıtlarında bulunması gerektiği, davacının ayrıca elektronik posta ve whatsapp yazışmalarını delil olarak gösterdiği, öte yandan tanklın ifadelerinde takip konusu fatura alacağı hususunda ispata yarar, net ifadelerde bulunmadıkları, tanklının genel ve soyut ifadelerde bulundukları, diğer yandan bilirişi raporlarında da tespit edildiği üzerine, taraflar arasındaki yazışmaların, takip konusu fatura içeriğini ispata yarar yazışmalar içermedikleri, bu yazışmaların fatura tarihinden önce olduğu, salt fatura düzenlenerek takip konulması ve faturanın davacının defterlerinde kayıtlı olması faturada yazılı hizmetin sunulması bakımından ispat yükü kendisine düşen davacı tarafın, faturaya konu hizmeti sunduğunun ispati anlama gelmediği gerekçelerle davanın reddine, kötü niyet sabit görülmediğinden tazminat talebinin reddine karar verilmiştir.",
+        "verdict_text": "HÜKÜM / Yukarıda açıklanan nedenlerle;\n1-Davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b-1 maddesi uyarınca ESİSTAN REDDİNE,\n2-Alınması gereken 80,70 TL istinaf karar harçından peşin alınan 59,30 TL harçın mahsubu ile artan 21,40 TL harçın davacıdan alınarak hazinede irad kaydına,\n3-Davacı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına,\n4-HMK'nın 333. maddesi uyarınca artan gider avansının ilgili tarafa iadesine,\n5-HMK'nın 359/4. maddesi uyarınca kararın ilk derece mahkemesince taraflara tebliğine,\nDair, dosya üzerinden yapılan inceleme neticesinde HMK'nın 353 ve 362/1-a bendi uyarınca kesin olmak üzere oy birliği ile karar verilmiştir. 30/11/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nin 353. maddesi",
+            "HMK'nin 200. maddesi",
+            "HMK'nin 333. maddesi",
+            "HMK'nin 359/4. maddesi",
+            "HMK'nin 362/1-a bendi",
+            "5070 Sayılı Yasanın 5. ve 22. maddeleri"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacının ticari fatura için itiraz talebini reddetmiştir. Davacı, bir şirketin fatura bedelini ödemediği iddiasıyla dava açmıştı. Mahkeme, taraflar arasında yazılı sözleşme bulunmadığını, fatura için yeterli delil bulunmadığını ve davacı tarafının haksız içtiyarını iptal etmesini talep ettiğini kararlaştırıp, davacı vekilinin istinaf başvurusunu reddetmiştir. Karar, HMK'nun ilgili maddeleri uyarınca verilmiştir.",
+    "summary_for_model": "Davacı vekili, ticari fatura bedelinin ödenmediği iddiasıyla dava açmıştır. Mahkeme, taraflar arasında yazılı sözleşme bulunmadığını, fatura için yeterli delil bulunmadığını ve davacı tarafının haksız içtiyarını iptal etmesini talep ettiğini kararlaştırıp, HMK'nun 353/1-b-1, 333, 359/4 ve 362/1-a maddeleri uyarınca istinaf başvurusunu ESİSTAN REDDİNE, istinaf karar harçını davacı tarafından alınmasını, istinaf yargılama giderlerini davacı tarafının üzerinde bırakılmasını ve artan gider avansını ilgili tarafa iadesini kararlaştırıp, HMK'nun 353 ve 362/1-a maddeleri uyarınca kesin karar vermiştir."
+}

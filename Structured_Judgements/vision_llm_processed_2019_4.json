@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2019_4.pdf",
+        "court_name": "4. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2019/4",
+        "karar_no": "2022/197",
+        "case_subject": "Haksız rekabet ve hak ihlali davası",
+        "dava_tarihi": "25/07/2018",
+        "karar_tarihi": "07/03/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının EPİDK'dan aldığı üretim lisansı ile rüzgar enerji santralı faaliyetlerini yürütmesini, bu santralin 2015'ten beri rüzgar enerjisi ile elektrik üretmesini ve ülkenin elektrik enerjisi havuzuna elektrik sağlamasını iddia etmiştir. Davalı, bu santralin 2014'ten beri müvekkili tarafından inşa edilmesini istemiş ve bu nedenle müvekkili rakip olarak algılamıştır. Davalılar, müvekkili hakkında hak ihlali iddiaları ile suçlamalar yapmıştır.",
+        "reasoning_text": "Mahkeme, davaların 6102 sayılı TTK'nun 54 ve 55. maddeleri ve 24. maddesi ile Hakksız Rekabet Kanunu'na uygunluğunu değerlendirmiştir. Davaların hak ihlali iddiaları ve maddi/manevi zarar iddiaları dikkate alınmıştır. Davaların dava süresinin geçmesi nedeniyle dava dosyasının kapatılmasına karar verilmiştir.",
+        "verdict_text": "HÜKÜM ; Yukarıda yazılı bulunan gerekçeye göre;\n1-Davacının davasının HMK'nın 150/5. maddesi gereğince AÇILMAMIŞ SAYILMASINA,\n2-Harçlar Kanunu gereğince alınması gereken 80,70 TL harçın peşin olarak yatırılan 5.464,80 TL harçtan düşülmesi ile kalan 5.384,10 TL harçın karar kesinleştiğinde isteği halinde davacı tarafa iadesine,\n3-Davacı tarafa yapılan yargılama giderlerinin davacı üzerinde bırakılmasına,\n4-Karar tarihinde yürürlükte bulunan AAÜT'ye göre takdir ve tayin edilen 5.100,00 TL vekalet ücretinin davacıdan alınarak, davalılar ... ile ... ve ... İnşaat Sanayi ve Ticaret A.Ş.'ye eşit olarak verilmesine,\n5-Taraflarca yatırılan gider avansından kalan kısmın karar kesinleştiğinde yatıran tarafa iadesine,\nDair; dosya üzerinde yapılan inceleme sonucunda, tarafların yokluklarında, tebliginden itibaren iki haftalık süre içerisinde Bölge Adliye Mahkemeleri nezdiinde istinaf yolu açık olmak üzere oy birliği karar verildi. 07/03/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6102 sayılı TTK'nun 54 ve 55. maddeleri",
+            "Hakksız Rekabet Kanunu",
+            "Harçlar Kanunu",
+            "Hukuk Muhakemeleri Kanunu'nun 150/5. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının rüzgar enerji santralı faaliyetlerini ve hak ihlali iddialarını iddia etmiştir. Mahkeme, davaların Hakksız Rekabet Kanunu ve diğer kanunlara uygunluğunu değerlendirmiştir. Davaların dava süresinin geçmesi nedeniyle dava dosyasının kapatılmasına karar verilmiştir.",
+    "summary_for_model": "Davacı, davalının rüzgar enerji santralı faaliyetlerini ve hak ihlali iddialarını iddia etmiştir. Mahkeme, davaların 6102 sayılı TTK'nun 54 ve 55. maddeleri ve 24. maddesi ile Hakksız Rekabet Kanunu'na uygunluğunu değerlendirmiştir. Davaların dava süresinin geçmesi nedeniyle dava dosyasının kapatılmasına karar verilmiştir."
+}

@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2020_1933.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2020/1933",
+        "karar_no": "2022/1629",
+        "case_subject": "Menfi Tespit (Ticari İlişkiden Kaynaklanan)",
+        "dava_tarihi": "24/12/2019",
+        "karar_tarihi": "06/10/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, İstanbul İcra Müdürlüğü tarafından takip başlatıldığını iddia ediyor. Davacı, borç ödemelerini takdir halinde yapacağını ve ödeme dekontlarını davalıya göndermeyi teklif ediyor. Davacı, davalıya takibi dayandıran senetle davalıya devrettiğini iddia ediyor. Davalı davaya cevap vermemiş.",
+        "reasoning_text": "İstanbul 18. Asliye Ticaret Mahkemesi'nin 24/12/2019 tarihli kararıyla, davacı tarafından borcun ödenmesi için sunmuş olduğu banka dekontlarında yapılan ödemenin neye istinaden yapıldığının açıklanmadığı ve ödemelerin senet miktarı ile örtüşmediği için davanın ispatlanamadığı gerekçesiyle davanın reddine karar verildi.",
+        "verdict_text": "Davanın reddine karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemesi Kanunu (HMK) 353. ve 356. maddeleri",
+            "Hukuk Muhakemesi Kanunu (HMK) 353/1-b-1 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, İstanbul İcra Müdürlüğü tarafından takip edildiğini iddia ediyor. Davacı, borç ödemelerini takdir halinde yapacağını ve ödeme dekontlarını davalıya göndermeyi teklif ediyor. Davalı davaya cevap vermemiş. Mahkeme, davacı tarafından sunulan banka dekontlarında yapılan ödemenin neye istinaden yapıldığının açıklanmadığı ve ödemelerin senet miktarı ile örtüşmediği için davanın ispatlanamadığı gerekçesiyle davanın reddine karar verdi.",
+    "summary_for_model": "Davacı, İstanbul İcra Müdürlüğü tarafından takip edildiğini iddia ediyor. Davacı, borç ödemelerini takdir halinde yapacağını ve ödeme dekontlarını davalıya göndermeyi teklif ediyor. Davalı davaya cevap vermemiş. Mahkeme, davacı tarafından sunulan banka dekontlarında yapılan ödemenin neye istinaden yapıldığının açıklanmadığı ve ödemelerin senet miktarı ile örtüşmediği için davanın ispatlanamadığı gerekçesiyle davanın reddine karar verdi. HMK 353. ve 356. maddeleri ve HMK 353/1-b-1 maddesi bahsedildi."
+}

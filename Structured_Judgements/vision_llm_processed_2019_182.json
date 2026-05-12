@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2019_182.pdf",
+        "court_name": "T.C. İSTANBUL 2.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2019/182",
+        "karar_no": "2020/451",
+        "case_subject": "Marka (Tecavüzün Tesbiti İstemli)",
+        "dava_tarihi": "14/06/2019",
+        "karar_tarihi": "09/12/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davacının mülk sahibi olduğu markanın 31.01.2019'da tescil edildiğini, davalı şirketin bu markayı kullanmak için yetkili olmadığını ve davalı şirketin davacı markaya benzeyen bir isimle internet siteleri ve Instagram hesapları oluşturduğunu iddia etmiştir. Davalı, davacı ile 23.11.2012'de imzalanan bir distribütörlük sözleşmesi ile bağlanmıştı ancak bu sözleşme feshedilmişti.",
+        "reasoning_text": "Marka haklarına tecavüz, 6769 sayılı SMK'nın 6/1 ve 7/2 maddeleri uyarınca değerlendirildi. Davalı, davacı markasına benzeyen bir isim ve ürünlerle ticaret yapıyordu. Bu durum, davacı markasına tecavüz olarak değerlendirildi.",
+        "verdict_text": "Davanın kabulü ile, davalı tarafından davacı markasına tecavüz teşkil edildiği tespit edildi. Davalıya karşı 54.40 TL harçtan 44.40 TL'nin mahsubu ile 10.00 TL bakiye kararı harcı tahsil edildi. Davacı vekiline 5.900,00 TL vekalet ücreti verildi. Davacıya 1.616,40 TL bilirkişi ücreti, 216,40 TL posta gideri ve 88,80 TL harç (pesin+başvuru) toplam 1.705,20 TL yargılama gideri verildi. Davalı tarafından yapılan yargılama giderleri kendisine bırakıldı. Yürürlükte bulunan Harçlar Tarife uyarınca alınması gereken 54,40 TL harçtan pesin yatırılan 44,40 TL'nin mahsubu ile kalan 10,00 TL bakiye kararı harcı davalılardan tahsil edildi. Davacı vekili tarafından hesap olan 5.900,00 TL vekalet ücreti davalılardan alınarak kendisine vekil olarak temsil eden davacıya verildi. Davacı tarafından yapılan 1.400,00 TL bilirkişi ücreti, 216,40 TL posta gideri olmak üzere toplam 1.616,40 TL ve 88,80 TL harç (pesin+başvuru) olmak üzere toplam 1.705,20 TL yargılama giderinin davalılardan alınarak davacıya verildi. Davalı tarafından yapılan yargılama giderlerinin kendi üzerinde bırakılmasına, yatırılan gider avanslarından kullanılan kısmının talep halinde ve karar kesinleştiğinde yatıran tarafa iadesine karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı SMK",
+            "6769 sayılı SMK mm 6/1 maddesi",
+            "6769 sayılı SMK mm 7/2 (a) ve (b) maddeleri",
+            "6769 sayılı SMK mm 29/1. Maddesi",
+            "SMK Md. 6/1 maddesi",
+            "HMK 266. madde",
+            "HMK 345/1 md.",
+            "5070 sayılı Elektronik İmza Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin kendisinin markasına benzeyen bir isim ve ürünlerle ticaret yaparak marka haklarına tecavüz ettiğini iddia etti. Mahkeme, davalı şirketin davacı markasına tecavüz yaptığını tespit etti ve davalıya karşı para cezası ve giderler tahsil edildi.",
+    "summary_for_model": "Bu dava, 6769 sayılı SMK'nın 6/1 ve 7/2 maddeleri uyarınca değerlendirildi. Davalı, davacı markasına benzeyen bir isim ve ürünlerle ticaret yapıyordu. Mahkeme, davalı şirketin davacı markasına tecavüz yaptığını tespit etti ve davalıya karşı para cezası ve giderler tahsil edildi."
+}

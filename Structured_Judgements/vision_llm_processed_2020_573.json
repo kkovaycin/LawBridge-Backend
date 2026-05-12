@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2020_573.pdf",
+        "court_name": "T.C. İzmir 7. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2020/573",
+        "karar_no": "2021/518",
+        "case_subject": "Trafik kazası sonucunda hasar ve değer kaybı talepleri",
+        "dava_tarihi": "26/10/2020",
+        "karar_tarihi": "29/06/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, 20.06.2020'de meydana gelen trafik kazasında plakalı aracın hasar ve değer kaybını talep etmiştir. Kazanın sorumluluğu sigortalı araca atfedilmiştir.",
+        "reasoning_text": "Hakimsiz fiil ve sorumluluk sigortası kuralları çerçevesinde, davacı haklı olarak hasar ve değer kaybı taleplerini savunmuştur. Sigorta şirketi tarafından sorumluluk kabul edilmiştir.",
+        "verdict_text": "Davacı davasını kabul edilmiştir. Davacıya 4.379,40 TL maddi tazminat, 50,00 TL avans faizi ve 608,75 TL vekalet ücreti verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6098 sayılı Türk Borçlar Kanunu",
+            "6102 sayılı Türk Ticaret Kanunu",
+            "2918 sayılı Karayolları Trafik Kanunu",
+            "5684 sayılı Sigortacılık Kanunu",
+            "Avukatlık Asgari Ücret Tarifi"
+        ]
+    },
+    "summary_for_human": "Davacı, trafik kazası sonucunda hasar ve değer kaybı taleplerini savunmuştur. Mahkeme, davayı kabul ederek maddi tazminat ve vekalet ücreti kararı vermiştir.",
+    "summary_for_model": "Trafik kazası sonucunda hasar ve değer kaybı talepleriyle açılan davada, hakimsiz fiil ve sorumluluk sigortası kuralları çerçevesinde davacı haklı bulunmuştur. Maddi tazminat ve vekalet ücreti kararı verilmiştir."
+}

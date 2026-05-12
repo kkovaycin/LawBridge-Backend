@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_1267.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ BAM 20. HUKUK DAİRESİ",
+        "esas_no": "2021/1267",
+        "karar_no": "2023/1193",
+        "case_subject": "Marka YİDK Kararının İptali ile Hükmüsüzlük",
+        "dava_tarihi": "22/04/2021",
+        "karar_tarihi": "28/10/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilin 86/094352, 2001/00973, 2010/25845, 2010/25846, 2010/25847, 2011/46726 ve 2011/46735 tescil numaralı markalarının sahibi olduğunu iddia etti. Bu markalar 17.12.2018'de devralındı. Müvekkilin bu markaları mesnet göstererek davalı şirketin 2019/59232 sayılı ve \"...+şekil\" ibareli marka başvurusuna itiraz etti. İtiraz, davalı şirketin müvekkilin markalarını kullanmanın ispatlanamadığı gerekçesiyle reddedildi. Davacı, YİDK'nin 2020-M-3156 sayılı kararının iptali ile davanın konusu markanın hükmüsüzlüğüne karar verilmesini talep etti.",
+        "reasoning_text": "Mahkeme, dava konusu markanın hükmüsüzlüğü için istinaf dilekçesinin incelendiğini ve dava konusu markanın davacı markaları ile benzerlik taşıdığını tespit etti. Ancak davacı tarafından sunulan delillerin yetersiz olduğu ve davacı markalarının tanınmışlık düzeyi ulaşmadığı için davanın reddine karar verildi. İstinaf başvurusu, davacı vekilinin itiraz mesnet markalarının kullanımını ispatlamadığı ve davacı markalarının son beş yılda ciddî ve pazar payı yaratmayacak şekilde kullanıldığı için reddedildi.",
+        "verdict_text": "GEREKÇE: Davacı vekilinin istinaf başvurusunun HMK'nin 353/1.b. maddesi gereğince ES ASTAN REDDİNE, Harçlar Kanunu uyarınca alınması gereken 269,85-TL miktarı istinaf karar ve ilam harçından, davacı vekili tarafından istinaf başvurusunda yatırılan 59,30-TL istinaf karar ve ilam harçının mahsubu ile bakiye 210,55-TL'nin davacıdan tahsili ile Hazineye irat kaydına, İstinaf aşamasında davacı tarafından yapılan yargılama giderlerinin davacı uhdesinde bırakılmasına, İstinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda oybirliği ile 05/10/2023 tarihinde HMK 361. maddesi uyarınca kararın tebliğinden itibaren iki hafta içerisinde temyiz yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemesi Kanunu (HMK)",
+            "Harçlar Kanunu",
+            "Marka Kanunu (SMK)"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkilin markalarının davalı şirketin markası ile benzerlik taşıdığını iddia etti. Ancak mahkeme, davacı tarafından sunulan delillerin yetersiz olduğunu ve davacı markalarının tanınmışlık düzeyi ulaşmadığını tespit etti. Dolayısıyla dava reddedildi.",
+    "summary_for_model": "Dava, davacı vekilinin müvekkilin markalarının davalı şirketin markası ile benzerlik taşıdığını iddia ettiği ve YİDK'nin kararının iptali ile hükmüsüzlük talep ettiği konuyla ilgilidir. Mahkeme, davacı tarafından sunulan delillerin yetersiz olduğunu ve davacı markalarının tanınmışlık düzeyi ulaşmadığını tespit etti. Dolayısıyla dava reddedildi."
+}

@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2022_1000.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2022/1000",
+        "karar_no": "2024/1164",
+        "case_subject": "Davacılar ve davalı arasındaki hak ihlali ve haksuz rekabet davası",
+        "dava_tarihi": "03/03/2022",
+        "karar_tarihi": "12/06/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacılar, davalı tarafından YouTube'da yayınlanan bir videonun hak ihlali ve haksuz rekabet nedeniyle zarar gördüklerini iddia etmiştir. Davalı, videonun haber niteliğinde olduğunu savunmuştur.",
+        "reasoning_text": "Mahkeme, davacıların iddialarını kabul etmemiş ve davalıya karşı hak ihlali ve haksuz rekabet iddialarını reddetmiştir. Davacıların taleplerinin reddedilmesi, davalı tarafından verilen haberin haber niteliğinde olduğu ve hak ihlali yapmadığı için kararlaştırılmıştır.",
+        "verdict_text": "Gerekçesi yukarıda belirtilmiş olan üzere;\n1-Davacılar vekilinin istinaf başvurusu HMK'nın 353/1-a-6 maddesi gereğince KABULÜ ile Ankara 2. Fikri ve Sınai Haklar Hukuk Mahkemesince verilen 03/03/2022 gün ve 2020/250 Esas - 2022/76 Karar sayılı kararın KALDIRILMASINA,\n2-Dosyanın, davanın yeniden görülmesi için mahkemesine İADESİNE,\n3-Davacılar vekilinin sair; davalı vekilinin ise tüm istinaf itirazlarının bu aşamada incelenmesine yer olmadığına.\n4-Davacılar ile davalı tarafından istinaf başvurusunda ayrı ayrı peşin olarak yatırılan 80,70-TL. maktu istinaf karar ve ilam harcının istekte davacılar ve davalıya ayrı ayrı iaadesine,\n5-Istinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına,\n6-Istinaf aşamasında yapılan yargılama giderlerinin ilk derece mahkemesince yapılacak yargılama da değerlendirilmesine,\n7-Kararın tebliğ ve harç işlemlerinin yerel mahkeme tarafından yaptırılmasına,\nDaır, dosya üzerinde yapılan inceleme sonucunda oy birliği ile 12/06/2024 tarihinde HMK 353/1-a-6 maddesi uyarınca KESİN olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "5846 sayılı Kanun",
+            "6098 sayılı Borçlar Kanunu",
+            "4721 sayılı Tüketici Kanunu",
+            "6102 sayılı Ticaret Kanunu",
+            "6100 sayılı Hukuk Muhakemeleri Kanunu",
+            "353/1-a-6 maddesi",
+            "5070 sayılı Yasa"
+        ]
+    },
+    "summary_for_human": "Davacılar, davalı tarafından yayınlanan bir videonun hak ihlali ve haksuz rekabet nedeniyle zarar gördüklerini iddia etmiştir. Mahkeme, davacıların iddialarını reddetmiş ve davalıya karşı hak ihlali ve haksuz rekabet iddialarını kabul etmemiştir.",
+    "summary_for_model": "Davacılar, davalı tarafından yayınlanan bir videonun hak ihlali ve haksuz rekabet nedeniyle zarar gördüklerini iddia etmiştir. Mahkeme, davacıların iddialarını reddetmiş ve davalıya karşı hak ihlali ve haksuz rekabet iddialarını kabul etmemiştir. Davacıların taleplerinin reddedilmesi, davalı tarafından verilen haberin haber niteliğinde olduğu ve hak ihlali yapmadığı için kararlaştırılmıştır."
+}

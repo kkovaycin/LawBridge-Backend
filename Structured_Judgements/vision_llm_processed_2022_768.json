@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_768.pdf",
+        "court_name": "İstanbul Anadolu 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2022/768 Esas",
+        "karar_no": "2022/1028",
+        "case_subject": "Marka Hukuksuzluğu, Endüstriyel Tasarım, Hakısız rekabet",
+        "dava_tarihi": "08/03/2022",
+        "karar_tarihi": "07/06/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili itibar taleplerini temelli dava dilekçesinde özetledi. Davanın Mükelliği ...'un Türkiye'de dünya çapında pek çok ülkede tescilli ve tanınmış ...' esas unsuru markaları ile iltisab yaratacak derecede benzer olan ...' markasının ve bu marka altında ...' ibareli markalarının, müvekkilin ... başvuru numaralı tasarım tescili, tescilsiz kullandığı tasarımlarını kötü niyetli ve hakısız olarak kullanarak marka ve tasarım hakkında tecavüz ettiğini belirterek, fazladan iliskin hakları saklı kalmak şartıyla; dava sonunda verilecek esas hükmün kesinleşineye kadar davanın ...' markaları üzerindeki tek başına yahut sair tali unsurlarıyla birlikte her türlü hakısız ve hukuka aykırı kullanımlarının, müvekkilin ... sayılı tasarım tesciline konu tasarım ve müvekkillerinin tescilsiz olarak uzun yıllardır kullandığı ambalaj tasarımları ile ayın/benzer tasarımları taşıyan her türlü ürünlerin ve tabela kartvizit vs. gibi tanıtım materyallerinin toplanmasına ve muhafaza altına alınmasına, www....com alan adı ile işletilen internet sitesine, davanın https //www.facebook.com/... https //www.instagram.com/... https www.youtube.com/... https //www. ... erişilen Facebook, Instagram, Youtube ve LinkedIn hesaplarına ve üçüncü kişilere ait e-ticaret sitelerindeki ihtilafa konu ürünlerin satışı yapılan web sayfalarına Türkiye'den erişimin engellenmesine, davanın TÜRKPATENT nezdiinde, 19/10/2017 tarih ve ... numarası ile tescilli ...' marka tescili'nin bu dava sonunda verilecek esas hükmün kesinleştiği tarihe kadar üçüncü kişilere devrinin önlenmesine, davanın kötü niyet mahsulü ... numaralı işbu marka tesciline dayanarak müvekkillerine ve Türkiye'deki şirketlerine / bayilerine / satıcılarına karşı herhangi bir hak öne sürmesinin ve markasını bu kimselere karşı kullanmasının önlenmesine, verilecek ihtiyati tedbir kararının dava sonunda verilecek esas hükmün kesinleşine kadar devamına karar verilmesini talep etmiştir.",
+        "reasoning_text": "İstinaf istemi, dava vekili tarafından itibar taleplerinin temelli olduğu ve dava konusu markaların hakksız kullanıldığı iddia edildiği için reddedildi. Davanın markalarının davacının tescilli markaları ile benzer olduğu ve davanın markalarını kötü niyetle kullandığı iddia edildi. Davanın markalarının davacının tescilli markaları ile benzer olduğu ve davanın markalarını kötü niyetle kullandığı iddia edildi. Davanın markalarının davacının tescilli markaları ile benzer olduğu ve davanın markalarını kötü niyetle kullandığı iddia edildi. Davanın markalarının davacının tescilli markaları ile benzer olduğu ve davanın markalarını kötü niyetle kullandığı iddia edildi.",
+        "verdict_text": "İstinaf istemi reddedildi. Davanın markalarının davacının tescilli markaları ile benzer olduğu ve davanın markalarını kötü niyetle kullandığı iddia edildi. Davanın markalarının davacının tescilli markaları ile benzer olduğu ve davanın markalarını kötü niyetle kullandığı iddia edildi. Davanın markalarının davacının tescilli markaları ile benzer olduğu ve davanın markalarını kötü niyetle kullandığı iddia edildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "1-6100 sayılı HMK'nın 353/1-b maddesi",
+            "SMK'nun 159/2-c maddesi",
+            "Hukuk Muhakemesi Kanunu (HMK) 353. Maddesi",
+            "Tüketicinin Korunması Kanunu (TükKorKan) 159/2-c maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı vekili itibar taleplerini temelli dava dilekçesinde özetledi. Davanın markalarının davacının tescilli markaları ile benzer olduğu ve davanın markalarını kötü niyetle kullandığı iddia edildi. İstinaf istemi reddedildi.",
+    "summary_for_model": "Davacı vekili itibar taleplerini temelli dava dilekçesinde özetledi. Davanın markalarının davacının tescilli markaları ile benzer olduğu ve davanın markalarını kötü niyetle kullandığı iddia edildi. İstinaf istemi reddedildi."
+}

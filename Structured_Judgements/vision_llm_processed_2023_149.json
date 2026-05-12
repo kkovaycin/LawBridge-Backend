@@ -1,0 +1,33 @@
+{
+    "meta_data": {
+        "file_name": "2023_149.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2023/149",
+        "karar_no": "2023/127",
+        "case_subject": "İhtiyati Tedbir",
+        "dava_tarihi": "11/08/2022",
+        "karar_tarihi": "12/02/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar ve savunmalar: İddialar, vekilin markasını kullanan ve markaya tecavüz eden kişilerin sosyal medya hesaplarında markayı kullanması ve web sitelerinde markayı kullanmasıdır. Savunmalar, markanın teknik olarak aynı olmadığını ve markanın tüketici tarafından algılanmadığını iddia etmektedir.",
+        "reasoning_text": "Hukuki gerekçeler: Mahkeme, istinaf dilekçesinin reddedildiğini, istinaf talebinin kabul edilmediğini ve istinaf talebinin reddedildiğini belirtmiştir. Mahkeme, istinaf talebinin kabul edilmediğini, istinaf talebinin reddedildiğini ve istinaf talebinin reddedildiğini açıklamıştır.",
+        "verdict_text": "HÜKÜM: İhtiyati tedbir isteyen vekilin istinaf başvurusunun HMK'nın 353/1-b-2 maddesi gereğince KABULÜ ile Ankara 4. Fikri ve Sınai Haklar Hukuk Mahkemesi 11/08/2022 gün ve 2022/49 E. - 2022/49 K. sayılı kararının KALDIRILMASI; İhtiyati tedbir talebinin KISMEN KABULÜ ile; A) Vekilin istinaf başvurusunun reddedildiğini; B) İhtiyati tedbir talebinin kısmen kabul edildiğini; C) İhtiyati tedbir talebinin reddedildiğini; 3) HMK'nın 392. maddesine göre kararın ihityati tedbir isteyene tefhim veya tebliğinden itibaren 10 (ON) günlük kesin süre içinde 50.000 (ELLİ BİN) TL nakdi teminat veya koşulsuz banka teminat mektubu karşılığında ihityati tedbirin uygulanmasına; 4) Teminat yatırılırsa ihityati tedbir kararının infazı için nöbetçi Ankara İcra Müdürlüğü'nün görevlendirilmesine; 5) İhtiyati tedbir kararının uygulanmasının HMK'nın 393/1 ve 2. maddesine göre teminat yatırılmasından itibaren 1 hafta içerisinde Ankara Nöbetçi İcra Müdürlüğü aracılığıyla (5651 sayılı internet Kanununda belirtilen ilgili birimlerden) infaz edilebileceğine; 6) Karar tarihinde yürürlükte bulunan AAÜT gereğince, kendisini vekil ile temsil ettiren ihityati tedbir talep eden yararına takdir edilen 3.000,00 TL vekalet ücretinin, karşı taraflardan tahsili ile ihityati tedbir talep edilmesine; 7) İhtiyati tedbir talep eden tarafından peşin olarak yatırılan 54,40 TL maktu istinaf karar harcının talebi halinde kendisine iadesine; 8) İstinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına; 9) HMK'nın 302/5. maddesine uyarinca kararın, tebliği ve harç tahsil işlemleri ile infazının yerel mahkeme tarafından yaptırılmasına; Dair dosya üzerinde yapılan inceleme sonucunda oybirliği ile 09/02/2023 tarihinde HMK'nın 362/1-f maddesi gereğince KESİN olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nın 353/1-b-2 maddesi",
+            "HMK'nın 392. maddesi",
+            "HMK'nın 393/1 ve 2. maddesi",
+            "HMK'nın 302/5. maddesi",
+            "HMK'nın 362/1-f maddesi",
+            "SMK'nın 159. maddesi",
+            "SMK'nın 6/1. maddesi",
+            "6100 sayılı HMK",
+            "6102 sayılı TTK'nın 61/1. maddesi",
+            "5651 sayılı internet Kanunu",
+            "5070 sayılı Yasa"
+        ]
+    },
+    "summary_for_human": "Mahkeme, vekilin istinaf başvurusunu reddetmiş ve ihityati tedbir talebini kısmen kabul etmiştir. İhtiyati tedbir talebinin reddedildiğini, istinaf talebinin kabul edilmediğini ve istinaf talebinin reddedildiğini belirtmiştir.",
+    "summary_for_model": "Mahkeme, vekilin istinaf başvurusunu reddetmiş ve ihityati tedbir talebini kısmen kabul etmiştir. İstinaf talebinin reddedildiğini, istinaf talebinin kabul edilmediğini ve istinaf talebinin reddedildiğini açıklamıştır. İhtiyati tedbir talebinin kısmen kabul edildiğini belirtmiştir."
+}

@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2023_1049.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2023/59 Değişik İş",
+        "karar_no": "2023/723",
+        "case_subject": "Tespit İhtiyatı Tedbir (D.İş)",
+        "dava_tarihi": "30/03/2023",
+        "karar_tarihi": "06/07/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, davacı tarafından franchise sözleşmesinin ihlali ve rekabete aykırı hareket iddiaları içerir. Davacı, franchise sözleşmesinin feshedildiğini, ancak davacı tarafından farklı bir marka ile aynı adreste aynı hizmetin devam ettiğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacı tarafından sunulan delillerin yetersiz olduğunu ve davacı tarafından rekabet yasasına aykırı hareketin kanıtlanamadığını tespit etmiştir. Mahkeme ayrıca, davacı tarafından ihlalin önlenmesi için talep edilen tedbirin gerekliliğini reddetmiştir.",
+        "verdict_text": "İstanbul Anadolu 1.Fikri ve Sinai Haklar Hukuk Mahkemesi'nin 2023/59 Değişik İş sayılı ve 30.03.2023 tarihli kararının esasını reddetmiştir. Davacı tarafından talep edilen ihlalin önlenmesi için tedbirin verilmesini reddetmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "2-492 Sayılı Harçlar Kanunu",
+            "Sınai Mülkiyet Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı tarafından franchise sözleşmesinin ihlali ve rekabete aykırı hareket iddialarını reddetmiştir. Davacı tarafından sunulan delillerin yetersiz olduğu ve ihlalin kanıtlanamadığı tespit edilmiştir.",
+    "summary_for_model": "Mahkeme, davacı tarafından franchise sözleşmesinin ihlali ve rekabete aykırı hareket iddialarını reddetmiştir. Davacı tarafından sunulan delillerin yetersiz olduğu ve ihlalin kanıtlanamadığı tespit edilmiştir. Mahkeme ayrıca, davacı tarafından ihlalin önlenmesi için talep edilen tedbirin gerekliliğini reddetmiştir."
+}

@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2020_231.pdf",
+        "court_name": "T.C. İSTANBUL 1.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2020/231",
+        "karar_no": "2021/305",
+        "case_subject": "Markaya Tecavüz ve Haksız Rekabetin Teşpiti, Men'i, Ref'i",
+        "dava_tarihi": "23/07/2020",
+        "karar_tarihi": "05/07/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, maddi ve manevi tazminat talep ederek, davanın tescil markasına tecavüz ve haksız rekabet iddiasını ortaya attı. Davacı, davanın tescil markasına ait Twitter hesabının kullanılmasına karşı dava açtı ve davanın tescil markasına tecavüz ve haksız rekabet iddiasını savundu.",
+        "reasoning_text": "Mahkeme, davanın tescil markasına tecavüz ve haksız rekabet iddiasını kabul etti. Davanın tescil markasına ait Twitter hesabının kullanılması, davanın tescil markasına tecavüz ve haksız rekabet oluşturduğu tespit edildi. Davanın tescil markasına tecavüz ve haksız rekabet iddiası, 6769 sayılı Sınai Mülkiyet Kanunu ve Türk Ticaret Kanunu'nun ilgili maddeleri çerçevesinde değerlendirildi.",
+        "verdict_text": "1-Davalının eyleminin, davacının tescilli marka hakkına tecavüz ve haksız rekabet oluşturduğunun tespitine, durdurulmasına, yasaklanmasına, 2-... 2 FSHHM'nin ... D.iş dosyasında verilen tedbir kararının, karar kesinleşinceye kadar devamına, 3-Dosya kapsamı itibari ile hükmün ilanına ilişkin talebin reddine, 4-59,30 TL ilam harcından peşin harcin mahsubu ile eksik 4,90 TL harcin davaldan tahsiline, 5-Avukatlık ücret tarifesi uyarınca 5.900,00 TL vekalet ücretinin davaldan alınarak davacıya verilmesine, 6-Davacı tarafın yaptığı 54,40 TL peşin harç, 54,40 TL başvuru harcı, 116,00-TL tebligat posta gideri olmak üzere toplam 224,80- TL yargılama giderinin davaldan alınarak davacıya verilmesine, 7-Davacı tarafça fazla yatırılan gider avansının karar kesinleştiğinde ve talepleri halinde iadesine, Dair davacı vekilinin yüzüne karşı, davalının yokluğunda, gerekçeli kararın tebliginden itibaren iki haftalık süre içinde İSTİNAF YASA YOLU AÇIK olmak üzere verilen karar açıkça okundu, usulen anlatıldı. 05/07/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı Sınai Mülkiyet Kanunu",
+            "Türk Ticaret Kanunu",
+            "İstinaf Yasa"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davanın tescil markasına tecavüz ve haksız rekabet iddiasını kabul etti. Davanın tescil markasına ait Twitter hesabının kullanılması, davanın tescil markasına tecavüz ve haksız rekabet oluşturduğu tespit edildi. Davacıya 224,80 TL yargılama gideri ve 5.900,00 TL vekalet ücreti verildi.",
+    "summary_for_model": "Mahkeme, davanın tescil markasına tecavüz ve haksız rekabet iddiasını kabul etti. Davanın tescil markasına ait Twitter hesabının kullanılması, davanın tescil markasına tecavüz ve haksız rekabet oluşturduğu tespit edildi. Davacıya 224,80 TL yargılama gideri ve 5.900,00 TL vekalet ücreti verildi. Davanın tescil markasına tecavüz ve haksız rekabet iddiası, 6769 sayılı Sınai Mülkiyet Kanunu ve Türk Ticaret Kanunu'nun ilgili maddeleri çerçevesinde değerlendirildi."
+}

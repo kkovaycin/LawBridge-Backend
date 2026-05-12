@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_58.pdf",
+        "court_name": "T.C. İSTANBUL 18. ASLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2022/58",
+        "karar_no": "2022/733",
+        "case_subject": "Davacı vekili tarafından yapılan vekalet ücretinin davalılardan alınması ve dava reddedilmesi",
+        "dava_tarihi": "24/01/2022",
+        "karar_tarihi": "03/11/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının mimarlık ve mimari danışmanlık faaliyetleri yürütmesini, eski eş davası ve borçluluk durumunu iddia etmiştir. Davalının 2015'teki araç ve taşınmaz satışları, İstanbul'daki taşınmazlarla ilgili davalar ve 2021'deki takibi konu edilmiştir.",
+        "reasoning_text": "Mahkeme, davacı vekilinin vekalet ücretinin davalılardan alınması ve dava reddedilmesi taleplerini reddetmiştir. Davacı vekilinin vekalet ücretini alması için herhangi bir tedbir alınmadığı ve dava reddedildiği için arabulculuk ücretinin alınması reddedildiği belirtilmiştir.",
+        "verdict_text": "Davacının davasının reddine, davalı tarafın kötü niyet tazminat talebinin reddine, davacı vekilinin vekalet ücretinin davalılardan alınarak davalığa verilmesine, davacı tarafından yapılan yargılama giderlerinin kendi üzerinde bırakılmasına, gider avansından kullanılmayan kısmın karar kesinleştiğinde resen yazı işleri müdürüne iladesine, menfi tespit davası zorunlu arabulculuğa tabi olmamasına rağmen davacı tarafından zorunlu arabulculuğa başvurulduğundan ve dava reddedildiğinden Adalet Bakanlığı Bütçesinden ödenen 1.360,00 TL arabulculuk ücretinin davalılardan alınarak hazineye irat kaydına, bu dava sebebiyle 80,70 TL karar ve ilam harci alınması gerektiğinden peşin alınan 12.785,07 TL'den mahsubu ile fazla alınan 12.704,37 TL'nin karar kesinleştiğinde davalılara iladesine karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İİK m. 170/3 C.3",
+            "İİK 72/4",
+            "Mahkemesine İstinaf Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davalının mimarlık faaliyetleri ve borçluluk durumunu iddia etti. Mahkeme, davacı vekilinin vekalet ücretini davalılardan alınması ve dava reddedilmesi taleplerini reddetti. Davacı vekilinin vekalet ücretini alması için herhangi bir tedbir alınmadığı ve dava reddedildiği için arabulculuk ücretinin alınması reddedildi.",
+    "summary_for_model": "Davacı vekili, davalının mimarlık faaliyetleri ve borçluluk durumunu iddia etti. Mahkeme, davacı vekilinin vekalet ücretini davalılardan alınması ve dava reddedilmesi taleplerini reddetti. Davacı vekilinin vekalet ücretini alması için herhangi bir tedbir alınmadığı ve dava reddedildiği için arabulculuk ücretinin alınması reddedildi."
+}

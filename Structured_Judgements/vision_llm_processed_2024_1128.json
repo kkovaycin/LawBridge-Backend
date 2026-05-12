@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2024_1128.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2024/1128",
+        "karar_no": "2024/1583",
+        "case_subject": "Marka (Maddi Tazminat İstemi) | Marka (Manevi Tazminat İstemi)",
+        "dava_tarihi": "17/04/2024",
+        "karar_tarihi": "10/10/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın markasını kullanan kuruluşların ticari faaliyetlerini durdurmak için ihtiyatı tedbir talebiyle dava açtı. Davacı, üniversite ile bağ kuruluşunun markasını kullanmanın hukuksuz olduğunu iddia etti. Mahkeme, davanın teminat talebini kısmen kabul etti ve davayı durdurma kararı verdi.",
+        "reasoning_text": "Mahkeme, 5072 sayılı Kanun'un 2. maddesi ve 6769 sayılı SMK'nın 159/2-c maddesi çerçevesinde, davacı vekilinin talebini kısmen kabul etti. Davanın markasını kullanmanın hukuksuz olduğu tespit edildi ve davayı durdurma kararı verildi.",
+        "verdict_text": "Davacı vekilinin ihtiyatı tedbir talebinin KİSMEN KABULÜNE, KİSMEN REDDİNE Davalların ihtiyatı tedbir kararının TEBLİĞ TARİHİNDEN İTBAREN 1 HAFTA LİK KESİN SÜRE İÇERİSİNDE 6769 sayılı SMK'nun 159/2-c maddesi uyarınca toplam 250.000,00 TL (ikiyüzellibintürk lirası) nakdi terminat ya da kesin ve süresiz banka terminat mektubunu Mahkemeye depo etmelerine,2-Kesin süre içerisinde terminatın depo edilmemesi halinde İHTİYATİ TEDBİR KARARININ AĞIRLAŞTIRILACAKININ İHTARINA,3-Davacının fazla ilişkin taleplerinin reddine... karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "5072 sayılı Dernekler ve Vakıfların Kamu Kurumları ile İlişkilere Dair Kanun",
+            "6769 sayılı SMK 159/2-c maddesi",
+            "Hukuk Muhakemeleri Kanunu 353. ve 356. maddeleri",
+            "Hukuk Muhakemeleri Kanunu 393/1. maddesi"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, davacı vekilinin markasını kullanan kuruluşların ticari faaliyetlerini durdurmak için açtığı davayı kısmen kabul etti. Mahkeme, davayı durdurma kararı verdi ve davacı vekilinin talebini kısmen kabul etti.",
+    "summary_for_model": "Mahkeme, 5072 sayılı Kanun ve 6769 sayılı SMK'nın 159/2-c maddesi çerçevesinde, davacı vekilinin markasını kullanan kuruluşların ticari faaliyetlerini durdurmak için açtığı davayı kısmen kabul etti. Davayı durdurma kararı verildi."
+}

@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_1243.pdf",
+        "court_name": "T.C. İSTANBUL BÖLGE ADLİYE MAHKEMESİ 16. HUKUK DAİRESİ",
+        "esas_no": "2023/1243 Esas",
+        "karar_no": "2023/1539",
+        "case_subject": "İhtiyati Tedbir",
+        "dava_tarihi": "13/07/2023",
+        "karar_tarihi": "23/10/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "İhtiyati tedbir talep eden vekili tedbir talebi dilekçesi ile, Türk Patent ve Marka Kurumu nezdiinde A.Ş adına tescilli markaların sahibi olup Beyoğlu Noterlik vekiliye nolu sözleşme ile markalar, 18/11/2019 tarihinden itibaren 3 yıl süre ile A.Ş ye kiralandığını, bu marka kira sözleşmesinin sona ermesine rağmen karşı taraf müvekkillerine ait olan markaların sanki kendi inhisarlarında olduğu ve bu markaları kendi insiyatifinde gibi kullandıklarını, gazetesinin henüz yayın hayatına başlamadan, marka kira sözleşmesinin son günlerinde gazetesinde devam eden yazılar yayınlandıklarını, bu eylemlerle müvekkilinin ciddî zarara uğradığını iddia etmiştir.",
+        "reasoning_text": "Mahkemenin duruşmalı inceleme ara kararına 13.07.2023 tarihli kararda; \"Dosya kapsamı delillere göre HMK 389 ile SMK 159 ve devamı maddelerinde aranan yaklaşık ispat koşulu gerçekleşmediğinden ve bu hal ile uyuşmazlık yarılama gerektirdiğinden ihtiyati tedbir talebinin reddine\" karar verilmiştir. İstinaf isteminde özetle; Karşı yana, yeni sözleşmenin imzalanmaması halinde mevcut sözleşmenin tamamıyla fesholacağı ve kira sözleşmesi kapsamındaki hiçbir markanın kullanımına bu tarihten sonra muvafakat edilmeyeceği hususlarının Beyoğlu Noterinin vekiliye numara ve 14/11/2022 tarihli ihtarnamesi ile A.Ş ye 17.11.2022 tarihinde tebliğ edildiğini, Marka kira sözleşmesinin sona ermesi ile birlikte davalı, A.Ş adına basılı olarak, www.com sitesi üzerinden gazetecilik faaliyetini sürdürdüğünü, marka ve kullanım hakkı müvekkillerine ait olan gazetesi ve www.com markalarının sanki kendi inhisarlarında olduğu ve bu markaları kendi insiyatifleri ile dönüştürmüş oldukları algısını yaratmaya çalışarak sürdürmeye başladığını, iaade edilmesi gereken telefon ücretleri de teslim edilmemiş olduğunu, Beykoz 2. Sulh Hukuk Mahkemesi 2022/68D.İş - 2022/68K. sayılı delili tespit dosyasının dikkate alınması gerektiğini, www.youtube.com adresinde gazetesinin sayfasında yayın yapılmaya devam edildiğini, delili tespit dosyasındaki raporda www.youtube.com/... URL'sinde gazetesinin yayın yaptığı tespit edildiğini, davalının sürecin devamında ise youtube kanalinin uzantısını, kendi ismine çevirdiğini, müvekkilin markası ile maruf ve meşhur hale gelmiş, onbinlerce abone elde edilmiş olan hesabın şifrelerinin kira sözleşmesi nihayetinde müvekkiline verilmeksizin isminin değiştirilmesinin ve markaya güvenerek ilgili hesaba abone olan onbinlerce kişinin aboneliklerinin devam ile ticari menfaat elde etmenin doğrudan marka hakkını ihlal olduğunu iddia etmiştir.",
+        "verdict_text": "Gerekçesi ayrıntılı kararda açıklanmıştır; 1-6100 sayılı HMK'nın 353/1-b-1 maddesi gereğince, ihtiyati tedbir talep edenlerin vekilinin yerinde görülmeyen istinaf isteminin ESASTAN REDDİNE, 2-Harç peşin alındığından yeniden alınmasına yer olmadığına, 3-İstinafa başvuran tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, 4-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinden yapılan inceleme sonunda, oy birliğiyle kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "SMK 159",
+            "1-6100 sayılı HMK'nın 353/1-b-1 maddesi",
+            "FSEK m.18/2"
+        ]
+    },
+    "summary_for_human": "Mahkeme, ihtiyati tedbir talebini reddetmiştir. İstinaf isteminin esasından reddine karar verilmiştir. Taraflar arasında 18.11.2019 tarihli ve 3 yıllık imtiyaz hakkı devir sözleşmesi mevcut olduğundan, bu durum dikkate alınmıştır.",
+    "summary_for_model": "Mahkeme, HMK 353 ve SMK 159 maddeleri çerçevesinde, istinaf isteminin esasından reddine karar vermiştir. Taraflar arasında 18.11.2019 tarihli ve 3 yıllık imtiyaz hakkı devir sözleşmesi mevcut olduğundan, bu durum dikkate alınmıştır. İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığı belirtilmiştir."
+}

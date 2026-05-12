@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2019_1868.pdf",
+        "court_name": "İSTANBUL BÖLGE ADLİYE MAHKEMESİ 16. HUKUK DAİRESİ",
+        "esas_no": "2019/1868",
+        "karar_no": "2019/2012",
+        "case_subject": "Markaya Tecavüzün Meni, Tespit, Ticaret Unvanının Kısmen İptali, Maddi ve Manevi Tazminat",
+        "dava_tarihi": "07/10/2019",
+        "karar_tarihi": "07/10/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, dava dilekçesinde, müvekkili adına tescilli markaya tecavüz edildiğini iddia etmiştir. Tecavüz teşkil eden her türlü fiilin önlenmesi, durdurulması, toplanan ürünlerin imhası, davanın ticaret ünvanından belirli kelimelerin çıkarılması, belirli isimli Instagram hesabının kullanımının durdurulması, davalar tarafından marka başvuru bulunmuş olduğundan dava sonuçlanıncaya kadar marka hakkının 3 kişilere devrinin önlenmesi, şimdilik 30.000 TL Manevi 1.000 TL Maddi Tazminata hükmedilmesi, maddi tazminat talebinin tesbiti amacıyla SMK 159/2-c uyarınca lisans bedelinin tesbitini talep ve dava etmiştir.",
+        "reasoning_text": "İstanbul 1. Fıkrı ve Sınai Haklar Hukuk Mahkemesi, dava açılmış olduğu gerekçesine dayanarak davanın usulden reddine karar vermiştir. İstinaf istemi, davanın usulden reddine karar verildiğinden hatası olduğu belirtilerek kararı kaldırmak için talep edilmiştir. Davacı vekili, mahkemenin kararı yerinde olduğunu, yargılama giderlerinin karşı tarafa bırakılmasını talep etmiştir.",
+        "verdict_text": "Gerekçesi ayrıntılı kararda açıklanmıştır. 1-6100 sayılı HMK.'nin 353/1-b-1 maddesi gereğince davacı vekilinin yerinde görülmeyen istinaf isteminin ESAS TAN REDDİNE, 2-Harc peşin alındığından yeniden harç alınmasına yer olmadığına, 3-İstinaf incelemesi duruşması yapıldığından avukatlık ücreti takdirine yer olmadığına, 4-Davacı tarafından yapılan masrafların üzerinde bırakılmasına, 5-Artan gider avanslarının karar kesinleştiğinde ve talep halinde taraflara iadesine, Dair, dosya üzerinde yapılan inceleme sonucunda iş bu kararın tebliğinden itibaren 2 hafta içinde Yargıtay temyiz yolu açık olmak üzere 07/10/2019 tarihinde oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 356",
+            "SMK 159/2-c",
+            "TTK 5/A",
+            "6100 sayılı HMK",
+            "HMK 353/1-b-1"
+        ]
+    },
+    "summary_for_human": "Davacı, tescilli markaya tecavüz iddiasıyla dava açtı. Mahkeme, davayı usulden reddetti. İstinaf talebi reddedildi ve yargılama giderleri karşı tarafa bırakıldı.",
+    "summary_for_model": "Dava, tescilli markaya tecavüz iddiasıyla açıldı. İlk derece mahkemesi davayı reddetti. İstinaf talebi reddedildi. Karar, HMK 353/1-b-1 maddesine dayanarak verildi."
+}

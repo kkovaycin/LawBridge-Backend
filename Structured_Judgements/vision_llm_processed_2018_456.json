@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2018_456.pdf",
+        "court_name": "T.C. İstanbul Anadolu 2. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2018/456",
+        "karar_no": "2018/1169",
+        "case_subject": "Tazminat (Haksız Fillden Kaynaklanan)",
+        "dava_tarihi": "17/04/2018",
+        "karar_tarihi": "15/11/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davasında mobil elektroik hizmeti sunan, hisseleri Borsasında kote olan ilk şirketi olduğu iddia etti. Şirketin isim ve logosu ile birçok ürünü markalaştırılmış ve koruma altına alınmıştı. Davacı, şirketin Twitter hesabından çocuk tecavüzcülerine sponsor olmayı sürdürdüğünü iddia etti. Davacı, bu davranışın haksız, mesnetsiz ve hukuksuz olduğunu iddia ederek 10.000 TL manevi tazminat talep etti.",
+        "reasoning_text": "Davacı vekili, dava konusu olan kamu düzenini ilgilendirmediğini ve kamu düzenini sarsıcı bir olaydan dolayı duygularını ifade ettiğini savundu. Davacı şirketi zarara uğratmadığından, rekabet amaçlı bir hareketin mümkün olmadığını iddia etti. İddiaların haklı olmadığı ve talebin fahiş miktarda olduğu için davanın reddedilmesi gerektiğini savundu.",
+        "verdict_text": "Davanın kısmen kabulüne dair; 1-1.000,00 TL manevi tazminatın dava tarihinden işleyecek yasal faizi ile birlikte davalıdan tahsili ile davacıya ödenmesine, fazlaya ilişkin talebin reddine, 2-Alınması gerekli 68,31 TL harçtan mahsubu ile, 102,47 TL harçın karar kesinleştikten sonra talep halinde davacı tarafa iadesine, 3-Davacı tarafından yatırılan 68,31 TL peşin harçın davalı tarafından tahsili ile davacı tarafa ödenmesine, 4-Davacı kendisini vekille temsil ettiğinden karar tarihinde yürürlükte olan AAÜT 10. ve 13.maddeleri uyarınca 1.000,00 TL vekalet ücretinin davalıdan alınarak davacıya verilmesine, 5-Davacı tarafından sarf edilen 230,50 TL yargılama giderinin davanın kabul ve red oranı gözetenerek 206,95 TL'nin davacı üzerinde bırakılmasına, kalan 23,05 TL'nin davalıdan alınarak davacıya verilmesine, 6-Kullanılmayan gider avansının karar kesinleştikten sonra talep halinde yatıran tarafa iadesine, Dair, Davacı Vekilinin yüzüne karşı, davalının yokluğunda tebliğinden itibaren 2 hafta süre içinde İstinaf yolu açık olmak üzere verilen karar açıkça okunup, usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Avrupa İnsan Hakları Sözleşmesi'nin 10.maddesi",
+            "T.C. Anayasası'nın 26.maddesi",
+            "6102 sayılı TTK'nun 55/1-a maddesi",
+            "6102 sayılı TTK'nun 56.maddesi",
+            "TBK'nun 58.maddesi",
+            "TBK'nun 58/1.maddesi",
+            "AAÜT 10. ve 13.maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, bir şirketin çocuk tecavüzcülerine sponsor olmasını iddia ederek 10.000 TL manevi tazminat talep etti. Mahkeme, talebin kısmen kabul edilerek 1.000,00 TL manevi tazminat verilmesine karar verdi. Davacı tarafından sarf edilen harç ve giderler de dağıtılarak davacıya iade edildi.",
+    "summary_for_model": "Dava, bir şirketin çocuk tecavüzcülerine sponsor olmasını iddia eden davacı tarafından açıldı. Mahkeme, davanın kısmen kabul edilerek 1.000,00 TL manevi tazminat verilmesine karar verdi. Davacı tarafından sarf edilen harç ve giderler de dağıtılarak davacıya iade edildi. Davada Avrupa İnsan Hakları Sözleşmesi, T.C. Anayasası, 6102 sayılı TTK ve TBK maddeleri kullanıldı."
+}

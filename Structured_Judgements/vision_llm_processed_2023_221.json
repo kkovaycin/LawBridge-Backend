@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_221.pdf",
+        "court_name": "İzmir 5. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2023/221",
+        "karar_no": "2023/548",
+        "case_subject": "Tazminat (Ticari Satımdan Kaynaklanan)",
+        "dava_tarihi": "14/03/2023",
+        "karar_tarihi": "04/07/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili mahkemeye verdiği 14.03.2023 tevzi tarihli dava dilekçesinde özetle; davacı, davasını belirsiz alacak davası olarak niteleyerek taraflarca akdedilen 29.04.2022 tarihli sözleşmenin davalı tarafa tek taraflı haksız fesih nedeniyle davacının teslimini gerçekleştiremediği (satışını yapamadığı) ürünler sebebiyle kar yoksunluğu zararının tahsiline karar verilmesini talep ve dava etmiştir. Davalı ... Telekomünikasyon ve Bilisim Hizmetleri Ltd. Şti. vekili cevap dilekçesinde özetle; satışı yapılan ürünlerden arizainin tesbiti için bilirkişi incelemesi yapılması gerektiğini ve ürünlerdeki ariza oranının tesbitinin yapılmasını, teslim edilen ürünlerin sözleşmeye aykırı şekilde ayipli çıktığını, ayibin gizli ayip olduğunu, iadesini almadıklarını belirterek davanın reddini talep etmiştir. Davalı ...'na usulüne uygun davetiye tebliğ edilmiş ancak davaya yazılı bir cevap vermemiştir.",
+        "reasoning_text": "Toplanan deliller, bütün dosya kapsamına göre; davacı, davasını belirsiz alacak davası olarak niteleyerek taraflarca akdedilen 29.04.2022 tarihli sözleşmenin davalı tarafa tek taraflı haksız fesih nedeniyle davacının teslimini gerçekleştiremediği (satışını yapamadığı) ürünler sebebiyle kar yoksunluğu zararının tahsiline talep edildiği, dosya kapsamı itibarıyla tarafların tacir oldukları, taraflar arasında yapılan sözleşmeye göre davacının tedarik ettiği ürünlerin sözleşmeye uygun olmadığından bahisle, davalının sözleşmeyi haksız olarak fesih etmesi sebebiyle davacı firma tarafından 220.000 Adet ürünün teslimatının gerçekleşmemesi sebebiyle kardan mahrum kalarak zarara uğradığını, oluşan zararın HMK 107 maddesi kapsamında belirsiz alacak davası olarak niteleyerek zararın tazmininin talep edildiği, 6102 sayılı yasanın 11. Ve devamı maddelerine göre tacirin uymakla ve yapmakla mükellef olduğu hususlar ayrıntılı olarak gösterildiği, sözleşmeden kaynaklanan zararı bakımından tacir vasfıyla zararın kapsamını belirleyebileceği, belirlenebilecek zarar bakımından belirsiz alacak davası açılamayacağı, kısmi dava açılmasının söz konusu olabileceği anlaşıldığından; Açılan davanın belirsiz alacak davası olarak açılması yönünde hukuki yarar yokluğundan reddine dair aşağıdaki hüküm kurulmuştur.",
+        "verdict_text": "Yukarıda açıklanan gerekçeye göre; 1-Açılan davanın belirsiz alacak davası olarak açılması yönünde hukuki yarar yokluğundan reddine, 2-Alınması lazım gelen 179,90-TL harcin, peşin alınan 4.269,38-TL harçtan mahsubu ile fazla yatan 4.089,48-TL'nin karar kesinleştiğinde ve talep halinde davacıya iadesine, 3-Davalı ... Telekomünikasyon ve Bilisim Hizmetleri Ltd. Şti. kendisini vekil ile temsil etmiş olduğundan karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesine göre red edilen kısım üzerinden hesaplanan 9.200-TL vekalet ücretinin davacıdan alınarak bu davalya verilmesine, 4-Davacının yaptığı yargılama giderlerinin üzerinde bırakılmasına, 5-HMK 333 md gereğince davacı tarafa peşin yatırılan gider avansından arta kalan kısmın karar kesinleştiğinde davacıya iadesine, 6-Dava şartı arabulculuk ücreti olan ve 6325 sy Hukuk Uyuşmazlıklarında Arabulculuk Kanununun 18/A-13 maddesi uyarınca tarafların anlaşamaması nedeniyle Adalet Bakanlığı Bütçesinden karşılanan 1.320-TL'nin davacıdan alınarak hazineye irad kaydına, Dair davacı vekilinin yüzüne karşı, davalı tarafın yokluğunda tebliğ tarihinden itibaren iki hafta içerisinde istinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 04/07/2023 Katip... e-imzalı Hakim ... e-imzalı"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 107",
+            "6102 sayılı yasa",
+            "HMK 333 md",
+            "6325 sy Hukuk Uyuşmazlıklarında Arabulculuk Kanunu 18/A-13 md"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı tarafından açılan belirsiz alacak davasını reddetmiştir. Davacı, 29.04.2022 tarihli sözleşme ile davalıya teslim etmesi gereken ürünlerin satılamaması nedeniyle kar yoksunluğu zararı talep etmiştir. Ancak mahkeme, davanın belirsiz alacak davası olarak açılmasına hukuki yarar olmadığını belirlemiştir. Ayrıca, davacıya karşı 179,90 TL harç, 4.089,48 TL vekalet ücreti ve 1.320 TL arabulculuk ücreti tahakkuk etmiştir.",
+    "summary_for_model": "Davacı, 29.04.2022 tarihli sözleşme ile davalıya teslim etmesi gereken ürünlerin satılamaması nedeniyle kar yoksunluğu zararı talep etmiştir. Mahkeme, davanın belirsiz alacak davası olarak açılmasına hukuki yarar olmadığını belirlemiştir. HMK 107 maddesi ve 6102 sayılı yasanın 11. maddesine dayanarak, davanın reddine, 179,90 TL harç, 4.089,48 TL vekalet ücreti ve 1.320 TL arabulculuk ücretinin tahakkukuna karar verilmiştir. HMK 333 maddesine göre davacıya peşin yatırılan gider avansından arta kalan kısmın iadesi kararlaştırılmıştır."
+}

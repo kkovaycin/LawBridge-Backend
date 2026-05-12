@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2023_105.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2023/105",
+        "karar_no": "2025/749",
+        "case_subject": "Marka (Tecavüzün Tesbiti İstemli)",
+        "dava_tarihi": "17/02/2022",
+        "karar_tarihi": "15/05/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, müvekkili şirketin 2010 yılından bugüne dek farklı spor dallarında faaliyet gösterdiğini, profesyonel ekiple ortaklaşa gerçekleştirildiğini ve her organizasyonunda daha kaliteli, daha heyecanlı, zorlu yarışlar ve organizasyonlarla Türk sporuna katkı sağlamayı hedef olarak belirlediğini iddia etmiştir. Davacı vekili, müvekkilin her etkinlik ve organizasyonunun yurt içi ve yurt dışında yoğun ilgi ve talebe karşılandığını ve etkinlik adlarının tanınır ve bilinen markalar olduğunu belirtmiştir.",
+        "reasoning_text": "Mahkeme, davacının iddialarını değerlendirirken, müvekkilin markasını kullanan davalının sosyal medya hesaplarında hak ihlali ve haksuz rekabet oluşturduğunu tespit etmiştir. Davalının davacı markasına benzeyen markaları kullandığını, aynı hizmetleri sunduğunu ve aynı hedef kitleye hitap ettiğini tespit etmiştir. Bu durum, Türk Ticaret Kanunu'nun 55/1 ve 55/4. maddeleri uyarınca haksuz rekabet teşkil ettiğini ve davacı markasına tecavüz oluşturduğunu değerlendirmiştir.",
+        "verdict_text": "Gerekçesi yukarıda açıklanmış olduğu üzere:1-Davacı vekilinin istinaf isteminin KABULÜ ile,2-İstanbul 3. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 17/02/2022 tarihli 2021/297 E, 2022/7 K. sayılı kararının 6100 Sayılı HMK'nın 353/1-b-2. maddesi gereğince KALDIRILMASINA, ancak belirtilen hususlar yeniden yargılama gerektirmediğinden yeniden esas hakkında hüküm kurulmasına,3-DAVANIN KABULÜNE Davalının 41.sınıf hizmetler kapsamında tescilsiz \"...\"iabareli markasal kullanımlarının davacının tescilli \"...\"iabareli marka haklarına tecavüz ve haksuz rekabet teşkil ettiğinin TESBITINE, ÖNLENMESINE VE DURDURULMASINA,-Davalının kullandığı \"...\"markasının davalının her türlü fiziki, dijital görsel ve yazılı iletişim araçlarından KALDIRILMASINA,... sitesine erişimin ENGELLENMESINE, Davalının davacı hakkında haksuz rekabet teşkil eden yayınlarının yer aldığı ... sosyal medya hesaplarından bu içeriklerin kaldırılmasına, 4-lik derece mahkemesinde yapılan yargılama giderleri ve harca ilişkin 4/a-492 Sayılı Harçlar Kanunu gereğince alınması gereken 615,40 TL karar harcından peşin alınan 54,40 TL'nin mahsubu ile 561,00 TL harcin davaldan tahsiliyle Hazineye gelir kaydedilmesine, 4/b-Davacı tarafından ilk derece mahkemesinde yapılan:54,40 TL başvurma harcı, 54,40 TL peşin harç, 7,80-TL vekalet harcı, 6,000 TL bilirkişi ücreti, 378,00-TL tebligat, müzekkere ve posta gideri olmak üzere toplam 6.494,60 TL'nin, davanın kabul edilmiş olması sebebiyle, davaldan tahsiliyle davacıya verilmesine, 4/c-Davalı tarafından ilk derece mahkemesinde yapılan, yargılama giderlerinin üzerinde bırakılmasına,4/c-Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesine göre davanın kabul edilmiş olması sebebiyle 40.000,00 TL vekalet ücretinin davaldan tahsiliyle davacıya verilmesine, 5/a-İstinaf aşamasında yapılan yargılama giderleri ve harca ilişkin/5/a-İstinaf talebi kabul edildiğinden davacı taraflıca yatırılan istinaf harcının karar kesinleştiğinde ve talep halinde iadesine/5/b-İstinaf yargılama için davacı tarafından yapılan 220,70 TL istinaf yoluna başvurma harcı, 282,00 TL tebligat, müzekkere ve posta gideri olmak üzere toplam 502,7 TL'nin davaldan tahsiliyle davacıya verilmesine,5/c-İstinaf incelemesi duruşmasız yapıldığından vekalet ücreti tayinine yer olmadığına,6-6100 Sayılı HMK'nın 333. maddesi gereğince var ise bakiye gider avansının karar kesinleştiğinde taraflara iadesine,Dosya üzerinde yapılan inceleme sonucunda, 20/07/2017 tarih ve 7035 Sayılı Kanunun 31. maddesiyle değişik 6100 Sayılı HMK'nın 361/1. maddesi gereğince, kararın tebliginden itibaren 2 hafta"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Ticaret Kanunu",
+            "Türk Patent ve Marka Kurumu",
+            "Türk Medeni Kanunu",
+            "Harçlar Kanunu",
+            "Avukatlık Asgari Ücret Tarifesi",
+            "İstanbul Bölge Adlıye Mahkemesi Kararı"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkili şirketin markasını kullanan davalının sosyal medya hesaplarında hak ihlali ve haksuz rekabet oluşturduğunu iddia etmiştir. Mahkeme, davalının davacı markasına benzeyen markaları kullandığını ve aynı hizmetleri sunduğunu tespit ederek, haksuz rekabet ve markaya tecavüz oluşturduğunu karar vermiştir.",
+    "summary_for_model": "Davacı vekili, müvekkili şirketin markasını kullanan davalının sosyal medya hesaplarında hak ihlali ve haksuz rekabet oluşturduğunu iddia etmiştir. Mahkeme, davalının davacı markasına benzeyen markaları kullandığını ve aynı hizmetleri sunduğunu tespit ederek, haksuz rekabet ve markaya tecavüz oluşturduğunu karar vermiştir. Davalının davacı markasına benzeyen markaları kullandığı ve aynı hizmetleri sunduğu için, Türk Ticaret Kanunu'nun 55/1 ve 55/4. maddeleri uyarınca haksuz rekabet teşkil ettiği ve davacı markasına tecavüz oluşturduğu tespit edilmiştir."
+}

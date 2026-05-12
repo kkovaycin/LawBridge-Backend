@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2015_1106.pdf",
+        "court_name": "T.C. İstanbul 3. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2015/1106",
+        "karar_no": "2019/1030",
+        "case_subject": "İtirazın İptali (Ticari Nitelikteki Hizmet Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "20/11/2015",
+        "karar_tarihi": "13/11/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, müvekkili şirketin davalı şirkete sunduğu sosyal medya hizmetleri kapsamında davalı şirketin Facebook, Twitter gibi platformlardaki hesaplarının içeriklerinin yönetimi, bu platformlardaki hesaplarının takibi ve reklamlarının yapılması gibi konularda hizmet sunduğunu iddia etmiştir. Davalı şirketin bu hizmetler karşılığında fatura düzenlediğini ancak hak ettiği ücretin ödenmediğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacı vekilinin iddialarını değerlendirerek, davalı şirketin müvekkili şirkete fatura düzenlediğini ancak bu faturaların ödenmediğini tespit etmiştir. Davalı şirketin davacı vekilinin taleplerini kabul etmediğini ve davacı vekilinin haklı itiraz haklarını ihmal ettiğini tespit etmiştir.",
+        "verdict_text": "HÜKÜM : Ayrıntısı ve gerekçesi yukarıda açıklandığı üzere :\n1-Davanın KABULÜ ile davalının ... 32. İcra Dairesinin ... esas sayılı dosyasina itirazın iptali ile takibinin talep edildiği şekilde devamına,\n2-8.199,30 TL icra inkar tazminatının davaldan alınarak davacıya verilmesine,\n3-Karar ve ilam harci 2.800,47 TL'den peşin alınan 700,12 TL harcin mahsubu ile kalan 2.100,35 TL'nin davaldan alınarak Hazineye gelir kaydedilmesine,\n4-Davacı tarafından yapılan 266.000 TL posta ve tebligat masrafı, 3.100,00 TL bilirkişi ücreti olmak üzere toplam 3.366,00 TL yargılama gideri ile 727,82 TL ilk harcin davaldan alınarak davacıya verilmesine,\n5-Davacı kendisini vekil ile temsil ettiğinden karar tarihinde yürürlükte bulunan AAÜT uyarınca hesaplanan 5.960,00 TL vekalet ücretinin davaldan alınarak davacıya verilmesine,\n6-Taraflarca yatırılan gider avansından kalan kısmın karar kesinleştiğinde iadesine,\nDaır, taraf vekillerinin yüzüne karşı kararın tebliginden itibaren 2 haftalık yasal süre içerisinde İstanbul Bölge Adliye Mahkemesinde istinaf yasa yolu açık olmak üzere karar verildi. 13/11/2019"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Ticari Kanun",
+            "Hukuk Muhakemesi Kanunu (HMK)",
+            "Anayasa"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin sosyal medya hizmetleri karşılığında fatura düzenlediğini ancak ücretin ödenmediğini iddia etmiştir. Mahkeme, davacı vekilinin iddialarını kabul ederek davalı şirkete fatura ödemesi ve diğer mali taleplerini emretmiştir.",
+    "summary_for_model": "Davacı vekili, davalı şirketin sosyal medya hizmetleri karşılığında fatura düzenlediğini ancak ücretin ödenmediğini iddia etmiştir. Mahkeme, davacı vekilinin iddialarını kabul ederek davalı şirkete fatura ödemesi ve diğer mali taleplerini emretmiştir. Davalı şirketin davacı vekilinin taleplerini kabul etmediğini ve davacı vekilinin haklı itiraz haklarını ihmal ettiğini tespit etmiştir."
+}

@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2018_1460.pdf",
+        "court_name": "İzmir 5. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2018/1460",
+        "karar_no": "2023/82",
+        "case_subject": "Alacak (Eser Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "11/12/2018",
+        "karar_tarihi": "07/02/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Dava, davacı vekili tarafından davalının davalı şirketin alt müteahhidi olarak üstlendiği işlerin tamamlanmaması ve yanlış ücretlendirme nedeniyle açıldı. Davalı vekili, davacı tarafından verilen işlerin tamamlanmadığını ve davacı tarafından yapılan ödemelerin yetersiz olduğunu savundu.",
+        "reasoning_text": "Mahkeme, davacı tarafından yapılan işlerin tamamlanmadığını ve davalı tarafından yapılan ödemelerin yetersiz olduğunu tespit etti. Davacı tarafından yapılan işlerin maliyetinin davalı tarafından karşılanmadığını ve davacı tarafından yapılan ödemelerin yetersiz olduğunu belirledi.",
+        "verdict_text": "HÜKMÜ: 1- Davacı davasının KISMEN KABULÜNE, 38.964,88 TL alacağını dava tarihinden itibaren işleyecek ticari faizi ile birlikte davalıdan alınarak davaciya verilmesine, fazlaya ilişkin isteminin reddine, 2- Alınması gereken 2.661,69-TL karar ve ilam harcından davacı tarafından peşin yatırılan 1.455,66 TL'nin mahsubu ile bakiye 1.206,03-TL'nin davalıdan alınarak hazineye gelir kaydına, 3- Davanın kısmen kabul edildiğinden davacı tarafından yaptığı 5,20 TL vekalet süret harcı, 314,00 TL keşif harcı, 2.972,20-TL tebligat, posta gideri ve bilirkişi ücreti olmak üzere toplam 3.291,40 TL yargılama giderinden davanın kabul oranı nazar alınarak 1.504,49 TL yargılama gideri ile davacı tarafından karşıladığı 35,90 TL başvurma harcı, 1.455,66 TL peşin harç olmak üzere toplam 2.996,05 TL'nin davalı tarafından alınarak davacı tarafa verilmesine, davacı tarafından fazladan yaptığı yargılama giderinin kendi üzerinde bırakılmasına, 4- Davanın kısmen reddedildiğinden; davalı tarafından yapılan 1.231,00 TL yargılama giderinden davanın red oranı nazar alınarak 668,30 TL yargılama giderinin davacı tarafından alınarak davalı tarafa verilmesine, davalı tarafından fazladan yaptığı yargılama giderinin kendi üzerinde bırakılmasına, 5- Hüküm tarihinde yürürlükte olan Avukatlık Asgari Ücret Tarifesine göre takdir ve hesaplanmış olan 9.200,00 TL vekalet ücretinin davalıdan alınarak davaciya verilmesine, 6- Hüküm tarihinde yürürlükte olan Avukatlık Asgari Ücret Tarifesine göre takdir ve hesaplanmış olan 9.200,00 TL vekalet ücretinin davacidan alınarak davalıya verilmesine, 7- HMK'nun 333.maddesi uyarınca taraflarca yatırılan gider avansının sarf edilmeyen kısmının karar kesinleştiğinde yatırana iadesine."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemesi Kanunu (HMK) 294/4 mad.",
+            "Hukuk Muhakemesi Kanunu (HMK) 333.maddesi",
+            "Avukatlık Asgari Ücret Tarifesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı tarafından yapılan işlerin tamamlanmadığını ve davalı tarafından yapılan ödemelerin yetersiz olduğunu tespit etti. Davacı davasının kısmen kabul edildiğini ve davalı tarafından alınacak 38.964,88 TL alacağını kararlaştırdı.",
+    "summary_for_model": "Dava, davacı tarafından yapılan işlerin tamamlanmaması ve davalı tarafından yapılan ödemelerin yetersiz olması nedeniyle açıldı. Mahkeme, davacı tarafından yapılan işlerin tamamlanmadığını ve davalı tarafından yapılan ödemelerin yetersiz olduğunu tespit etti. Davacı davasının kısmen kabul edildiğini ve davalı tarafından alınacak 38.964,88 TL alacağını kararlaştırdı."
+}

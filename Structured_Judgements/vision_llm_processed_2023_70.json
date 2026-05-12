@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2023_70.pdf",
+        "court_name": "BÖLGE ADLIYE MAHKEMESİ 16. HUKUK DAİRESİ",
+        "esas_no": "2023/70",
+        "karar_no": "2024/1114",
+        "case_subject": "Endüstriyel Tasarım (Maddi Tazminat İstemli)",
+        "dava_tarihi": "20/10/2022",
+        "karar_tarihi": "12/06/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, davacının tasarlımını ihlal ettiği iddia ediyor. Davalı, tasarlımını internet siteleri ve Instagram sayfasında satışa sunduğunu iddia ediyor. Davacının tasarlımını çalışmasını engellemek, tecavüz teşkil etmek ve maddi tazminat talep etmek istiyor.",
+        "reasoning_text": "Mahkeme, davacının iddialarını destekleyecek yeterli kanıt sunmadığı ve davalıının tasarlımını ihlal ettiği iddialarını ispatlamadığı sonucunda davanın reddine karar verdi.",
+        "verdict_text": "Davacının istinaf talebinin HMK'nun 353/1-b1 maddesi uyarınca ESİASTAN REDDİNE, 427,60 TL harçtan, peşin alınan 80,70 TL harçin mahsubu ile bakiye 346,90 TL harçin davacıdan alınarak hazinede irat kaydına, Davacının istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, istinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda, HMK'nun 361.maddesi uyarınca tebliğten itibaren iki haftalık süre içerisinde Yargıtay İlgi hukuk dairesinde temyiz yolu açık olmak üzere oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 183",
+            "HMK 361",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "6769 Sayılı Sinaı Mülkiyçet Kanunu 59. madde"
+        ]
+    },
+    "summary_for_human": "Davacının tasarlımını ihlal ettiği iddialarını destekleyecek yeterli kanıt sunmadığı ve davalıının tasarlımını ihlal ettiği iddialarını ispatlamadığı sonucunda davanın reddine karar verdi.",
+    "summary_for_model": "Davacının tasarlımını ihlal ettiği iddialarını destekleyecek yeterli kanıt sunmadığı ve davalıının tasarlımını ihlal ettiği iddialarını ispatlamadığı sonucunda davanın reddine karar verdi. HMK 353 ve 361 maddeleri uygulanmışıtır."
+}

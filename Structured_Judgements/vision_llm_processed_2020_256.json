@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2020_256.pdf",
+        "court_name": "T.C. ANKARA 2. FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2020/256",
+        "karar_no": "2021/24",
+        "case_subject": "Marka İle İlgili YİDK Kararının İptali, Marka Hükümsuzluğu, Markaya Tecavüzün Tesbiti, Ref'i, Önlenmesi",
+        "dava_tarihi": "31/08/2020",
+        "karar_tarihi": "11/02/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; müvekkilin protez sac alanında faaliyet göstermektedir. 2018'de kurduğu Sac Protez Merkezi'nde müvekkilin kullandığı sistemleri ve markaları kullanmıştır. 2019'da TÜRKPATENT'ten Premium Plus markası tescil ettirilmiştir. Davalı firmanın müvekkilin izni ve bilgisi olmadan markayı kullanmaya başladığı iddia edilmiştir. Davacı vekili, davanın mahkemede açık yargılaması sonucunda TÜRKPATENT YİDK'nin iptali, markaya tecavüzün tesbiti, tecavüzün ref'i ve önlenmesi, markanın hükümsuzluğu ve silinmesi, sosyal medya hesaplarının kapatılması taleplerini istemiştir.",
+        "reasoning_text": "Davacı vekili, davanın konusu dışında sulh olduklarını, yargılama giderleri ve vekalet ücreti taleplerinin bulunmadığını belirtmiştir. Dava tetkik edilmiş ve davacı vekili tarafından 6100 sayılı Hukuk Mahkemeleri Kanunu'nun 307 vd. Maddeleri uyarınca tümüyle feragat ettikleri bildirilmiştir. Feragat nedeniyle davanın reddine karar verilmiştir.",
+        "verdict_text": "Feragat Nedeniyle Davanın Reddine, 1-Pesin alınan 54,40.-TL harctan, alınması gereken (59,30/3)=19,77.-TL'nin mahsubu ile, kalan 34,63.-TL harcin kesinleşmesini müteakip talep halinde davacıya iadesine, 2-Davacı ... davalı şirket arasında vekalet ücreti ve yargılama gideri talebi bulunmadığından bu konuda karar verilmesine yer olmadığına, 3-Davalı kurum kendisini vekil ile temsil ettiğinden Avukatlık Asgari Ücret Tarifesinin 7/1 maddesi uyarınca, ön inceleme tutanağının imzalanmasından önce işbu karar verildiğinden 2.950,00.-TL maktu ücreti vekaletin davacidan alınarak davalı kuruma verilmesine, 4-Davalı kurumun yapmış olduğu bir gider olmadığından bu hususta karar verilmesine yer olmadığına, 5-Yatırılan ve kullanılmayan gider avansının, hüküm kesinleşmesini müteakip re'sen taraflara iadesine (HMK m.333), Dair, taraf vekillerinin yüzlerine karşı, teblig tarihinden itibaren iki hafta içinde Ankara Bölge Adliye Mahkemesi'ne istinaf yolu açık olmak üzere verilen karar, açıkça okunup usulen anlatıldı.11/02/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Ticaret Kanunu 62/1 md.",
+            "Türk Ticaret Kanunu 53, 54 md.",
+            "6100 sayılı Hukuk Mahkemeleri Kanunu 307 vd. Maddeleri",
+            "Avukatlık Asgari Ücret Tarifesi 7/1 maddesi",
+            "Hukuk Mahkemeleri Kanunu m.333"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı firmanın müvekkilin markalarını izinsiz kullandığını iddia etmiştir. Davacı vekili, davanın konusu dışında sulh olduklarını ve yargılama giderleri ve vekalet ücreti taleplerinin bulunmadığını belirtmiştir. Dava tetkik edilmiş ve davacı vekili tarafından tümüyle feragat ettikleri bildirilmiştir. Feragat nedeniyle davanın reddine karar verilmiştir.",
+    "summary_for_model": "Dava, marka ile ilgili YİDK kararının iptali, markaya tecavüzün tesbiti, tecavüzün ref'i ve önlenmesi, markanın hükümsuzluğu ve silinmesi, sosyal medya hesaplarının kapatılması taleplerini içermektedir. Davacı vekili, davanın konusu dışında sulh olduklarını ve yargılama giderleri ve vekalet ücreti taleplerinin bulunmadığını belirtmiştir. Dava tetkik edilmiş ve davacı vekili tarafından tümüyle feragat ettikleri bildirilmiştir. Feragat nedeniyle davanın reddine karar verilmiştir."
+}

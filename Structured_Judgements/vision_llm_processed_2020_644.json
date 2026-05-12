@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2020_644.pdf",
+        "court_name": "İzmir 5. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2020/644",
+        "karar_no": "2021/425",
+        "case_subject": "İcra takibi ve borçluluk iddiası",
+        "dava_tarihi": "25/03/2019",
+        "karar_tarihi": "27/05/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, dava dilekçesi ve duruşmalarda özetle; müvekkili aleyhine izmir ... icra müdürlüğünün esas sayılı dosyayla davalı şirketten alacak başlatıldığını, ödeme emrinin 20/10/2017 tarihinde müvekkilin adresinde meçhul bir yakınına teslim edildiğini iddia etti. Davalı vekili cevabında, dava dilekçesi ve duruşmalarda özetle; müvekkili tarafından davacı ... ve ... aleyhine 27/09/2017 tarihli tutanak başlıklı belge ile imza alındığını iddia etti.",
+        "reasoning_text": "Yapılan yargılama, toplanan kantlar ve tüm dosya kapsamı birlikte değerlendirildiğinde; davacı tarafından izmir ... icra müdürlüğünün esas sayılı dosyasında dava dışı ... ve davacı ... aleyhine 27/09/2017 tarihli tutanak başlıklı belge ile imza alındığını iddia etti. Davacı ile davalı arasındaki uyumsuzluk, takibe konu 27/09/2017 tarihli tutanak kapsamında davacının kefil sıfatının bulunmadığı, davalı tarafından bu tutanağa istinaden başlatılan icra takibi nedeniyle davacının davalıya borçlu olmadığı, bu tutanağın dava dışı ... ile davalı ... arasında yapılan 31/03/2017 tarihli eser sözleşmesinden kaynaklanan alacak nedeniyle düzenlenip düzenlenmediği, davacının bu borçtan sorumlu olup olmadığı noktalarında toplandı.",
+        "verdict_text": "HÜKÜM:Gerekeci HMK 294/4 mad. gereğince bir ay içinde açıklanacağı üzere;Davacının davasının KABULÜ ile,Davacının, İzmir ... İcra Müdürlüğünün ... Esas sayılı icra dosyasında takibe konulan 27.09.2017 tarihli 88.400,00 TL bedelli tutanak başlıklı belge ile ilgili olarak davalıya BORÇLU OLMADIĞININ TESBITINE,Alınması gereken 6.038,60-TL karar ve ilam harcından davacı tarafça peşin yatırılan 1.509,66 TL'nin mahsubu ile bakiye 4.528,94-TL'nin davaldan alınarak hazinede gelir kaydına,Davacı tarafça yapılan 44,40 TL basıvuru harcı, 1.509,66-TL peşin harç, 6,40 TL vekalet harcı, 73,10 TL tedbir harcı, 108,60-TL tebligat ve posta gideri, olmak üzere toplam 1.742,16-TL'nin davaldan alınarak davacıya verilmesine,Avukatlık Asgarı Ücret Tarifesine göre hesap edilen 12.292,00-TL vekalet ücretinin davaldan alınarak davacıya verilmesine,Davacı tarafça peşin yatırılan gider avansından arta kalan kısım karar kesinleştiğinde davacıya iadesine,Dair davacı vekili ile davalı vekilinin yüzüne karşı kararın tebliginden itibaren 2 hafta içinde istinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 27/05/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TBK'nın 581.maddesi",
+            "TBK'nın 582.maddesi",
+            "TBK'nın 583.maddesi",
+            "HMK 294/4 mad."
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirkete borçluluk iddiasıyla dava açtı. Mahkeme, davacının borçluluk iddiasını kabul etmedi ve davayı reddetti. Davacıya 4.528,94 TL masraf ödemesi kararı verildi.",
+    "summary_for_model": "Dava, borçluluk iddiası ve icra takibi konularında merkezlendi. Mahkeme, davacının borçluluk iddiasını reddetti ve davayı kabul etmedi. Davacıya masraf ödemesi kararı verildi. TBK ve HMK maddeleri esas olarak kullanıldı."
+}

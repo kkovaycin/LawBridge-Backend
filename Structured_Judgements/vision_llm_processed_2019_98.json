@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2019_98.pdf",
+        "court_name": "T.C. İSTANBUL 2.FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2019/98 Esas",
+        "karar_no": "2022/33",
+        "case_subject": "Marka Hakları Tecavüz ve Haksız Rekabet",
+        "dava_tarihi": "02/04/2019",
+        "karar_tarihi": "27/01/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Marka (Maddi Tazminat İstemli) davası, ticari faaliyetlerde markanın kötüye kullanımı ve haksız rekabet iddiaları ile ilgilidir. Davacı, ticari markanın kötüye kullanıldığını iddia ederken, davalı firmanın markayı ticari faaliyetlerinde kullanmadığını savunmuştur.",
+        "reasoning_text": "Mahkeme, davacı firmanın markayı kötüye kullandığını tespit etmiştir. Davalı firmanın markayı ticari faaliyetlerinde kullanmadığı iddiası reddedilmiştir. Davacı firmanın markayı kötüye kullandığı ve haksız rekabet oluşturduğu tespit edilmiştir.",
+        "verdict_text": "Markaya Tecavüz ve Haksız Rekabet iddiasına karşı davacı firmanın maddi ve manevi tazminat talepleri kabul edilmiştir. Davacı firmanın markayı kötüye kullandığı ve haksız rekabet oluşturduğu tespit edilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6102 sayılı TTK",
+            "6769 sayılı Kanun",
+            "SMK 29. madde",
+            "SMK 155",
+            "SMK 151/2-c",
+            "TBK 50. madde",
+            "Hukuk Muhakemesi Kanunu 345/1 md."
+        ]
+    },
+    "summary_for_human": "Bu karar, ticari markanın kötüye kullanımı ve haksız rekabet iddialarıyla ilgili bir davada verilmiştir. Mahkeme, davacı firmanın markayı kötüye kullandığını ve haksız rekabet oluşturduğunu tespit ederek, maddi ve manevi tazminat taleplerini kabul etmiştir.",
+    "summary_for_model": "Bu karar, ticari markanın kötüye kullanımı ve haksız rekabet iddialarıyla ilgili bir davada verilmiştir. Mahkeme, davacı firmanın markayı kötüye kullandığını ve haksız rekabet oluşturduğunu tespit ederek, maddi ve manevi tazminat taleplerini kabul etmiştir. Karar, SMK 29. madde, SMK 155, SMK 151/2-c ve TBK 50. madde gibi kanun maddeleri ile uyumludur. Davacı firmanın markayı kötüye kullandığı ve haksız rekabet oluşturduğu tespit edilmiştir."
+}

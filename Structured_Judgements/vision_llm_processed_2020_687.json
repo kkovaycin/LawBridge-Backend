@@ -1,0 +1,21 @@
+{
+    "meta_data": {
+        "file_name": "2020_687.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2018/804",
+        "karar_no": "2023/812",
+        "case_subject": "İstinaf davası",
+        "dava_tarihi": "23/12/2019",
+        "karar_tarihi": "12/07/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacının ve davalının iddia ve savunmalarının özeti: Davacı, eser sözleşmesinden kaynaklanan bakiye alacak talebinde bulunmuştur. Mahkemece alınan bilirkişi raporunda, taraflar arasındaki e-posta ve Whatsapp yazışmaları ile dosya kapsamı itibarıyla sözleşme ve iş bedelinin 93.125,00 TL + KDV olduğu ve takip konusu fatura bedeli kadar alacaklı olduğu yönündeki değerlendirmeye göre karar verilmiştir. Ancak, dosyalarda 17/04/2019 tarihli bilirkişi raporunda dökümü yapılan e-posta yazışmaları bulunmadığından incelemenemiştir.",
+        "reasoning_text": "Mahkeme, dosyanın yerel mahkemeye geri çevrilmesine karar vermiştir çünkü raporlarda eksik e-posta yazışmaları ve ek belgeler eksikti.",
+        "verdict_text": "Gerekçesi açıklanmıştır. Yukarıda açıklanan eksikliklerin tamamlanması için dosyanın yerel mahkemeye GERİ ÇEVRİLMESİNE, Dosya üzerinden yapılan ön inceleme sonunda KESİN olmak üzere 12/07/2023 tarihinde oybirliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": []
+    },
+    "summary_for_human": "Bu dava, bir eser sözleşmesinden kaynaklanan bakiye alacak talebini konu alan bir istinaf davasıdır. Yerel mahkemece verilen karara karşı istinaf başvurusu yapılmıştır. Mahkeme, taraflar arasındaki e-posta ve Whatsapp yazışmalarının eksik olduğu ve bu yazışmaların dosyalara eklenmediği için, dosyanın yerel mahkemeye geri çevrilmesine karar vermiştir. Bu karar, eksikliklerin tamamlanması için alınmıştır.",
+    "summary_for_model": "Dava, eser sözleşmesinden kaynaklanan bakiye alacak talebini konu alır. Yerel mahkemece verilen karara karşı istinaf başvurusu yapılmıştır. Mahkeme, taraflar arasındaki e-posta ve Whatsapp yazışmalarının eksik olduğu ve bu yazışmaların dosyalara eklenmediği için, dosyanın yerel mahkemeye geri çevrilmesine karar vermiştir. Karar, eksikliklerin tamamlanması için alınmıştır."
+}

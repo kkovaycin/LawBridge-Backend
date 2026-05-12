@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2017_134.pdf",
+        "court_name": "T.C. BAKIRKÖY 1. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2017/134",
+        "karar_no": "2018/152",
+        "case_subject": "Marka hükmüsüzlüğü ve ticari hak ihlali davası",
+        "dava_tarihi": "17/08/2017",
+        "karar_tarihi": "19/04/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davasında markanın 2010 yılında kurulmuş olan elektronik sigara şirketinin önceden firmalarından biri haline geldiğini iddia etmiştir. Markanın davacı tarafından kötü niyetle tescilli edildiğini, adına tescilli olarak kullanıldığını ve markanın hükmüsüzlüğüne, sicilden terkine, yargılama gideri ve ücreti vekaletin davacı tarafından yükletilmesini talep etmiştir. Davalı tarafın dosya süresinde cevap dilekçesi sunmadığı görülmüş ve dava inkâr ettiği kabul edilmiştir.",
+        "reasoning_text": "Mahkeme, davacı tarafından sunulan delillerin markanın davacı tarafından kötü niyetle tescilli edildiğini, davacı tarafından kötü niyetle kullanıldığını ve markanın hükmüsüzlüğüne, sicilden terkine, yargılama gideri ve ücreti vekaletin davacı tarafından yükletilmesini talep ettiğini değerlendirmiştir. Mahkeme, markanın ticaret sırasında tanıtımda kullanıldığı ve davacı tarafından kötü niyetle kullanıldığı tespitini yapmıştır.",
+        "verdict_text": "1-Davacı tarafın davasının kabulü ile davalya ait ... sayılı ... markasının davacının üstün hak sahipliği ve davalının kötü niyetli tescili nedeniyle hükmüsüzlüğüne, 2-TPMK, dan terkine, 3-Davacı taraf tarafından yatırılan 31,40 TL başurru, 31,40 TL peşin olmak üzere toplam 62,80 TL harcin davalından tahsili ile davacı tarafa ödenmesine, bakiye 4,50 TL karar ve ilam harcının tahsili mümkün olmadığından bu konuda karar verilmesine yer olmadığına, 4-Davacı taraf kendisini vekil ile temsil ettirmiş olduğundan tecavüzün tesbiti yönünden 3.145,00 TL ücreti vekaletin davalı tarafından tahsili, davacı tarafa ödenmesine, 5-Davacı tarafından yapılan 115,40 TL yargılama giderinin davalından tahsili ile davacı tarafa ödenmesine, 6-Artan avans giderinin taraflara iadesine, Dair kararın taraflara tebliğinden itibaren ilgili hukuk dairesindeki 2 hafta içerisinde istinaf yolu açık olmak üzere davacı vekilinin yüzüne karşı davalının yokluğunda verilen karar açıkça okunup anlatıldı. 19/04/2018"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 SMK 6. Maddesi",
+            "TPMK"
+        ]
+    },
+    "summary_for_human": "Davacı, davasında markanın kötü niyetle tescilli edildiğini iddia etmiştir. Mahkeme, davacı tarafından kötü niyetle kullanıldığını tespit ederek markanın hükmüsüzlüğünü kararlaştırmıştır.",
+    "summary_for_model": "Davacı, davasında markanın kötü niyetle tescilli edildiğini iddia etmiştir. Mahkeme, davacı tarafından kötü niyetle kullanıldığını tespit ederek markanın hükmüsüzlüğünü kararlaştırmıştır. Davacı tarafından kötü niyetle kullanıldığı tespiti, davacı tarafından kötü niyetle tescilli edildiği iddiasını desteklemektedir."
+}

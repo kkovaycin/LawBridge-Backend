@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2021_573.pdf",
+        "court_name": "BAKIRKÖY 1. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/573 Esas",
+        "karar_no": "2021/896",
+        "case_subject": "Endüstriyel Tasarım (Maddi Tazminat İstemi)",
+        "dava_tarihi": "14/02/2019",
+        "karar_tarihi": "22/04/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekilinin 2018'de kurduğu e-ticaret firmasının, Facebook ve Google gibi dijital reklam platformlarında satıcı olarak faaliyet gösterdiğini iddia ediyor. Ürünün popüler hale gelmesinden sonra davalılar tarafından kopyalandığını ve yeni barkod numaralarıyla yeniden satıldığını iddia ediyor. Davacı, bu durumun satışların durdurulmasını ve ihlati tedbir kararı verilmesini talep ediyor.",
+        "reasoning_text": "Mahkeme, ilk derece mahkemesinin davacının ihlati tedbir talebini reddetmesinin haklı olduğunu tespit etti. İkinci derece mahkemesi, davacının istinaf talebini reddetmeye karar verdi. Mahkeme, HMK'nın 355. maddesi uyarınca istinaf dilekçelerinin belirli sebeplerle sınırlı olduğunu ve bu durumun tam ispat gerektirmediğini açıklıyor.",
+        "verdict_text": "İLK DERECE MAHKEMESİNE AÇILAN DAVADA Açılan dava ve iddia: Talep eden vekilinin ihtiyati tedbir talebi dilekçesinde; müvekkilinin firması 2018 yılı Mart ayında kurulduğunu, e-ticaret sektöründe canta satıcı olduğunu, bebek bakım çantaları, hamile ve ebeveynlerin ihtiyaçları göz önünde bulundurularak firma bünyesinde tasarlanmış ve satışına başladığını, daha fazla müşteriye ulaşmak için Facebook, Google Criteo gibi dijital reklam mecralarında da tantumlarını yaptığını, davaya konu ... çantanın satışı müvekkili tarafından 14/02/2019 tarihinden yapıldığını, tasarım tescil için ise 04/02/2020 tarihinde başlatıldığını, davaya konu ... ürünü çok fazla sayıda satılmaya başlanmış olup müvekkilin bu üründen ciddi bir geliri olduğunu, davaya konu ürün popüler hale geldikten sonra davalılar ... ve ... tarafından kopyalandığını, davalılar tarafından önce trendyol internet alışveriş sitesi üzerinden satışa çıkarıldığını, Bakırköy ... Noterliğin'den ... yevmiye numaralı itharname çekildiğini ve bu itharname'nin dikkate alınmayıp yeni barkod numaralarıyla yeniden satışa çıkarıldığını , biribir aynı olan ürünü taklit ürünleri daha ucuz fiyata satarak müşteri nezdiinde ürün değerini düşürmekle müvekkilinin kazançını da engellediği iddia ederek, dava konusu satış yapılan ürünlerle el konularak yapılacak satışların durdurulmasını ve ihtiyati tedbir kararı verilmesini yoluyla talep etmiştir. İlk Derece Mahkemesi Kararı: İlk derece mahkemesinde; \"...mevcut deli durumu ve tescil başvuru tarihi, henüz dosyada bilirkişi incelemesi yapılmamış olması karşısında yaklaşık ispat koşulu gerçekleşmediği\" gerekçesiyle davacının ihtiyati tedbir talebinin reddine karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK) 355. madde",
+            "Hukuk Muhakemeleri Kanunu (HMK) 390. madde",
+            "Hukuk Muhakemeleri Kanunu (HMK) 362/1-f madde",
+            "Hukuk Muhakemeleri Kanunu (HMK) 353. madde",
+            "Hukuk Muhakemeleri Kanunu (HMK) 353/1-b-1 madde"
+        ]
+    },
+    "summary_for_human": "Davacı, e-ticaret firmasının tasarladığı çantaların kopyalandığını iddia ediyor ve satışların durdurulmasını talep ediyor. Mahkeme, ilk derece mahkemesinin davacının talebini reddetmesinin haklı olduğunu tespit etti ve istinaf talebini de reddetti.",
+    "summary_for_model": "Davacı, HMK 355. madde uyarınca ihlati tedbir talebinde bulundu. İlk derece mahkemesi, yaklaşık ispat koşulunun gerçekleşmediğini gerekçe göstererek talebi reddetti. İkinci derece mahkemesi de HMK 355/1-b-1 maddesi uyarınca istinaf talebini reddetti."
+}

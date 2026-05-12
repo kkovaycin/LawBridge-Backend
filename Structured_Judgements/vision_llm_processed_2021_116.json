@@ -1,0 +1,33 @@
+{
+    "meta_data": {
+        "file_name": "2021_116.pdf",
+        "court_name": "T.C. ANKARA 3. FİKRİ VE SANATİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/116",
+        "karar_no": "2022/150",
+        "case_subject": "Tasarım hakkindaki tecavüz davası",
+        "dava_tarihi": "01/04/2021",
+        "karar_tarihi": "12/05/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, Ankara'da uzun yıllardır mobilya tasarım üretimi ve satışı yapan bir şirketin, kendisinin tasarladığı ve ürettiği mobilya tasarımlarını tescil ettirdiğini, korumaya çalıştığını ve Türk Patent ve Marka Kurumu'nda 2019 00464/22 numaralı ürüne karşı tecavüz nedeniyle haklı olarak kazanç elde ettiğini iddia etmiştir. Davacı, bu durumları sosyal medya sitelerinde ve ticari faaliyetlerinde kullanmıştır.",
+        "reasoning_text": "Mahkeme, davacının iddialarını inceledi ve davacının tasarımlarının benzersizliğini, teknik niteliğini ve ticari değerini değerlendirdi. Mahkeme, davacının iddialarının haklı olduğunu ve davacıya maddi ve manevi tazminat vermenin gerektiğini karar verdi.",
+        "verdict_text": "DAVAYI KISMEN KABULÜNE, 2-Davalının ... Mobilya instagram ve ... adlı facebook sosyal medya sitesinde satışa sunduğu, kanepe ürününün davacı adına tescilli 2019/00464-22 sayılı tasarıma tecavüz teşkil ettiğinin tesbitine, bu sitelerde satışın önlenmesine, 3-4.000,00 TL maddi, 4.000,00 TL manevi tazminatın tespit tarihi olan 29.12.2020 tarihinden itibaren işleyecek ticari faizi ile birlikte davaldan alınarak davacıya verilmesine, 4-Kararın ulusal çapta yayın yapan bir gazetede bir defa ilanına, davacının ilan için yaptığı masrafın davaldan alınmasına, 5-Fazladır dair istemlerin reddine, 6-Alınması gereken 546,48 TL karar harcinin peşin alınan 187,86 TL, işlah ile alınan 222,01 TL olmak üzere toplam 409,87 TL harçtan mahsubu ile 136,61 TL harçın davaldan tahsili ile Hazine'ye gelir kaydına, 7-Davacı vekiline AAÜT uyarınca maddi tazminat yönünden 4.000,00 TL, manevi tazminat yönünden 4.000,00 TL, tasarım hakkına tecavüz yönünden 7.375,00 TL olmak üzere toplam 15.375,00 TL vekalet ücretinin davaldan alınarak davacıya verilmesine, 8-Davalı için AAÜT uyarınca reddedilen maddi tazminat için 4.000,00 TL, manevi tazminat yönünden 4.000,00 TL olmak üzere toplam 8.000,00 TL vekalet ücretinin davacıdan alınarak davalıya verilmesine, 9-6325 sayılı Hukuk Uygunluklarında Arapülülük Kanunu m.18/A-13 ve Arapülülük Asgari Ücret Tarifesi m.7/3 hükmü uyarınca 1.320,00 TL arabülucu ücretinin kabul ret oranına göre 440,00 TL davaldan, 880,00 TL davacıdan tahsili ile HAZİNEYE GELİR KAYDINA, 10-Kabul ret oranının takdiren davacı lehine 1/3 olarak belirlenmesine, davacı tarafından yapılan ve aşağıda dökümü gösterilen 5.263,96 TL yargılama giderinden payına düşen 1.754,65 TL'nin davaldan alınarak davacıya verilmesine, kalanının davacı üzerinde bırakılmasına, 11-Tarafların yatırdıkları gider avanslarından kalan tutarın HMK 333/1 uyarınca karar kesinleştiğinde iaade işlemi yapılmak üzere tebligden itibaren 15 gün içinde, banka hesap numarası bildirildiğinde hesaba aktarılmasına, aksi halde PTT aracılığı ile adrese ödemeli olarak gönderilmesine, Dair verilen karar, taraf vekillerinin yüzüne karşı 6100 sayılı HMK'nun 341. ile 345. Maddelerine göre tebligden itibaren iki haftalık süre içinde Ankara Bölge Adliye Mahkemesine İstinaf Kanun Yoluna dilekçe ile başvurulabileceğine yönelik karar açıkça okunup, usulen anlatıldı.12/05/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 149/1-f",
+            "SMK 151/2-b",
+            "SMK 81",
+            "Türk Borçlar Kanunu m.50/1",
+            "Türk Borçlar Kanunu m.50/2",
+            "Türk Borçlar Kanunu m.51/1",
+            "HMK 333/1",
+            "HMK 341",
+            "HMK 345",
+            "Arapülülük Kanunu m.18/A-13",
+            "Arapülülük Asgari Ücret Tarifesi m.7/3"
+        ]
+    },
+    "summary_for_human": "Davacı, mobilya tasarımını korumak için dava açtı ve mahkeme, davacının iddialarını kabul ederek maddi ve manevi tazminat verdi.",
+    "summary_for_model": "Davacı, tasarım hakkını korumak için dava açtı. Mahkeme, davacının iddialarını kabul ederek maddi ve manevi tazminat verdi. Davacı, sosyal medya ve ticari faaliyetlerinde tasarımı kullandı."
+}

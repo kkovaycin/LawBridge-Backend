@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2023_2253.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2023/2253",
+        "karar_no": "2023/1738",
+        "case_subject": "İhtiyati Tedbir Talebi",
+        "dava_tarihi": "27/10/2023",
+        "karar_tarihi": "26/12/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, müvekkilin tasarım haklarını ihlal ettiği iddia edilen ürünlerin pazarlama ve dağıtımını engellemek için ihtiyati tedbir talep edildi. Karşı tarafın internet sitesinde ve sosyal medyada tasarımın kullanıldığı iddia edildi.",
+        "reasoning_text": "Mahkeme, istinaf dilekçesinin temelsiz olduğunu ve ihtiyati tedbirin haklı olmadığını tespit etti. Tasarım haklarının ihlali için yeterli kanıt bulunmadığı ve talep edilen tedbirin ekonomik zarara yol açacağı gerekçeleriyle karar verildi.",
+        "verdict_text": "İhtiyati tedbir talebi reddedildi. İstinaf dilekçesi kabul edilmedi. Dava sonucunda KESİN kararı verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK",
+            "389. madde",
+            "353. madde",
+            "159. madde",
+            "5070 sayılı Yasa"
+        ]
+    },
+    "summary_for_human": "Mahkeme, tasarım haklarını ihlal ettiği iddia edilen ürünlerin pazarlama ve dağıtımını engellemek için verilen ihtiyati tedbir talebini reddetmiştir. İstinaf dilekçesi de kabul edilmedi.",
+    "summary_for_model": "İhtiyati tedbir talebi reddedildi. İstinaf dilekçesi temelsiz olarak değerlendirildi. Tasarım hak ihlali için yeterli kanıt bulunmadı. Karar, 6100 sayılı HMK ve diğer yasalara dayanarak verildi."
+}

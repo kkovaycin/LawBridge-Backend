@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2018_315.pdf",
+        "court_name": "İSTANBUL BÖLGE ADLİYE MAHKEMESİ 16. HUKUK DAİRESİ",
+        "esas_no": "2018/315 Esas",
+        "karar_no": "2018/602",
+        "case_subject": "Marka (Tecavüzün Tesbiti ve Giderilmesi İstemi)",
+        "dava_tarihi": "16/03/2018",
+        "karar_tarihi": "16/03/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının markalarıyla tüm malları sattığını iddia ediyor. Davalı, markaların kullanımlarının hak ihlali olmadığını savunuyor. Davacı, davalının Facebook hesaplarında markaların kullanıldığını iddia ediyor.",
+        "reasoning_text": "Mahkeme, ilk derecede verilen tedbir kararına itiraz kabul edilmediğini ve davalının tedbir önlemlerine uymadığını tespit etti. Davacı tarafından yapılan istinaf talebi kabul edilmedi.",
+        "verdict_text": "Dair, dosya üzerinde yapılan inceleme sonucu 16/03/2018 tarihinde oy birliği ile kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 356",
+            "SMK 159",
+            "HMK 389-390",
+            "HMK 393"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markalarını ihlal ettiğini iddia ediyor. Mahkeme, davalının tedbir önlemlerine uymadığını tespit etti ve davacı tarafından yapılan istinaf talebi kabul edilmedi.",
+    "summary_for_model": "Marka ihlali davasında, davacı davalının markalarını ihlal ettiğini iddia ediyor. Mahkeme, davalının tedbir önlemlerine uymadığını tespit etti ve istinaf talebi kabul edilmedi."
+}

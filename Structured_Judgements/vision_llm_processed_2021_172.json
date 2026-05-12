@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2021_172.pdf",
+        "court_name": "T.C. ANKARA 4. FİKRİ VE SANATİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/172",
+        "karar_no": "2022/107",
+        "case_subject": "Marka tescil başvurusunun iptali ve hükmüzsüzlüğü",
+        "dava_tarihi": "09/06/2021",
+        "karar_tarihi": "18/04/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davasını 'MUTEYESTETİKGÜZELLİKMERKEZİ' ibareli markanın tesciline karşı itiraz etti. İddialara göre, davacı markasının 'Mutiye' kelimesi ve görsel unsurları, davacı tarafından kullanılan 'my...' ibareli markayla benzerlik gösteriyor. Davacı, bu markanın ticari faaliyetlerinde kullanıldığını ve hak ihlali olduğunu iddia ediyor.",
+        "reasoning_text": "Mahkeme, itirazın SMK 6/1, 6/3, 6/5 ve 6/9 maddeleri çerçevesinde değerlendirildiğini belirledi. İlişkilendirme ihtimalinin bulunmadığı, önceden dayalı kullanım ve hak sahipliği kanıtlanmadığı, tanınmışlık eksikliği ve kötü niyetli kullanım iddialarının kanıtlanmadığı için itirazın reddedildiği belirtildi.",
+        "verdict_text": "Davanın REDDİNE, Harçlar Kanunu uyarınca alınması gereken 80,70 TL maktu karar harcından peşin alınan 59,30 TL'nin düşümü ile bakiye 21,40 TL'nin davacidan tahsiliyle Hazine'ye gelir kaydına, AAÜT uyarınca 7.375,00 TL vekalet ücretinin davacidan tahsiliyle davallara verilmesine, Karar kesinleştiğinde arta kalan gider avansının taraflara iadesine, Dair verilen karar taraf vekillerinin yüzüne karşı, 6100 sayılı HMK 341 ila 345 inci maddesine göre tebliğinden itibaren 2 haftalık süre içinde mahkememiz aracılığı ile Ankara Bölge Adliye Mahkemesine istinaf kanun yoluna dilekçe ile başvurulabileceğine yönelik karar okunup açıklandı. 18/04/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı SİNAİ MÜLKİYET KANUNU (10/01/2017 yürürlük)",
+            "SMK 6/1, 6/3, 6/5, 6/9 maddeleri",
+            "6100 sayılı HMK 341 ila 345 inci maddeleri",
+            "Harçlar Kanunu",
+            "AAÜT"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı tarafından yapılan marka tescil başvurusunun iptali talebini reddetti. İlişkilendirme, önceden dayalı kullanım, hak sahipliği, tanınmışlık ve kötü niyet iddialarının kanıtlanmadığı için itiraz kabul edilmedi.",
+    "summary_for_model": "Dava, SMK 6/1, 6/3, 6/5 ve 6/9 maddeleri çerçevesinde değerlendirildi. İlişkilendirme ihtimali, önceden dayalı kullanım, hak sahipliği, tanınmışlık ve kötü niyet iddiaları kanıtlanmadığı için itiraz reddedildi. Karar, HMK 341-345 maddeleri uyarınca istinaf için 2 haftalık süre tanındı."
+}

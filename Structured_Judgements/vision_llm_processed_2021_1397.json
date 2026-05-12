@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_1397.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ BAM 20. HUKUK DAİRESİ",
+        "esas_no": "2021/1397",
+        "karar_no": "2023/1357",
+        "case_subject": "Marka ile İlgili Kurum Kararının İptali, Marka Hüküm Süzlüğü",
+        "dava_tarihi": "22/10/2020",
+        "karar_tarihi": "13/11/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilin markanın sahibi olduğunu iddia etti. Davalı tarafın 2015/44018 başvuru numaralı ve 38 ve 45. sınıfları kapsayan markada bulunduğunu, bu başvuruya müvekkilin itiraz ettiğini ve daha önceki YÖDK kararının reddedildiğini savundu. Davalı tarafın mobil uygulamasının adını değiştirdiğini ancak markanın hâlâ benzer olduğunu iddia etti.",
+        "reasoning_text": "Mahkeme, KHK'nın 8/1-b maddesinin ilk şartı olan emtialar/hizmetlerin benzerliği kriterinin gerçekleşmediğini tespit etti. Taraflar arasındaki markaların görsel, işitsel ve anlamsal olarak farklı olduğu ve markaların ayırt edilebildiği için, davacının itirazının mesnet markalarla dava konusu başvuru arasında bir benzerlik bulunmadığı sonucuna vardı.",
+        "verdict_text": "Davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ES ASTAN REDDİNE, Harçlar Kanunu uyarınca alınması gereken 269,85-TL miktarı istinaf kararı ve ilam harcından, davacı vekili tarafından istinaf başvurusunda yatırılan 59,30-TL istinaf kararı ve ilam harcının mahsubu ile bakiye 210,55-TL'nin davacidan tahsili ile Hazineye irat kaydına, İstinaf aşamasında davacı tarafından yapılan yargılama giderlerinin davacı uhdesinde bırakılmasına, İstinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda oybirliği ile 27/10/2023 tarihinde HMK 361. maddesi uyarınca kararın tebliğiğinden itibaren iki hafta içerisinde temyiz yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Kanunu (HK)",
+            "Halkın Malvarlığı Kanunu (HMM)",
+            "Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin istinaf başvurusunu reddetti. Taraflar arasındaki markaların görsel, işitsel ve anlamsal olarak farklı olduğu ve markaların ayırt edilebildiği için, davacının itirazının mesnet markalarla dava konusu başvuru arasında bir benzerlik bulunmadığı sonucuna vardı.",
+    "summary_for_model": "Mahkeme, KHK'nın 8/1-b maddesinin ilk şartı olan emtialar/hizmetlerin benzerliği kriterinin gerçekleşmediğini tespit etti. Taraflar arasındaki markaların görsel, işitsel ve anlamsal olarak farklı olduğu ve markaların ayırt edilebildiği için, davacının itirazının mesnet markalarla dava konusu başvuru arasında bir benzerlik bulunmadığı sonucuna vardı. Davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ES ASTAN REDDİNE karar verildi."
+}

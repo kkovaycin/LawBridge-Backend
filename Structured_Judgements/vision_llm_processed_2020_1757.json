@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2020_1757.pdf",
+        "court_name": "BAKIRKÖY 1. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2020/1757 Esas",
+        "karar_no": "2022/1881 Karar",
+        "case_subject": "Marka (Marka Hükmüsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "02/07/2020",
+        "karar_tarihi": "04/11/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, davalı markanın Türkiye'de kurulmuş bir firma olduğu ve davalı markanın davacı markasına benzer olduğu iddia edildi. Davacı, davalı markanın davacı markasına tecavüz ve haksız rekabet yaptığını iddia etti.",
+        "reasoning_text": "Mahkeme, davalı markanın davacı markasına benzer olduğu ve davacı markanın davalı markasına tecavüz yaptığı sonucuna vardı. Davacı markanın davalı markasına tecavüz ve haksız rekabet yaptığı tespit edildi.",
+        "verdict_text": "Mahkeme, davacı markanın davalı markasına tecavüz ve haksız rekabet yaptığı sonucuna vardı. Davacı markanın davalı markasına tecavüz ve haksız rekabet yaptığı tespit edildi. Davacı markanın davalı markasına tecavüz ve haksız rekabet yaptığı sonucuna varıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemesi Kanunu (HMK) 353, 356",
+            "Ticaret Sicil Gazetesi",
+            "Türk Marka Hukuku",
+            "Ticaret Kanunu (TK) 54",
+            "Ticaret Kanunu (TK) 10",
+            "Ticaret Kanunu (TK) 7/1"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı markanın davalı markasına tecavüz ve haksız rekabet yaptığı sonucuna vardı. Davacı markanın davalı markasına tecavüz ve haksız rekabet yaptığı tespit edildi.",
+    "summary_for_model": "Mahkeme, davacı markanın davalı markasına tecavüz ve haksız rekabet yaptığı sonucuna vardı. Davacı markanın davalı markasına tecavüz ve haksız rekabet yaptığı tespit edildi. Davacı markanın davalı markasına tecavüz ve haksız rekabet yaptığı sonucuna varıldı."
+}

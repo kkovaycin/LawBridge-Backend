@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2023_1019.pdf",
+        "court_name": "İSTANBUL ANADOLU 2. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2023/1019",
+        "karar_no": "2023/1263",
+        "case_subject": "Marka (Manevi Tazminat İstemli)",
+        "dava_tarihi": "12/05/2023",
+        "karar_tarihi": "22/09/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının TPE nezdiinde markasına tecavüz teşkil eden tüm fillerinin önlenmesi ve durdurulması yönünde ihtiyatı tedbir kararı verilmesini talep etti. Davalının internet sitesinin ve sosyal medya hesaplarının kullanımının önlenmesi, özellikle .com.tr domaini ve Instagram/Facebook hesaplarına erişimin engellenmesi talep edildi.",
+        "reasoning_text": "Mahkeme, davalının ticaret ünvanı kullanımının eskiye dayalı olmayıp, davacı markasına tecavüz edici olduğu tespit edildi. Davalının ticaret ünvanı kullanımının davacı markalarına benzer olduğu ve iltisaba neden olduğu görülerek, ihtiyatı tedbir talebinin reddedildiği kararı verildi.",
+        "verdict_text": "İSTANBUL ANADOLU 2. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ, 12/05/2023 tarihli 2023/7 E. sayılı ara karar ile davacı vekilinin istinaf dilekçesine, davalının ticaret ünvanı kullanımının eskiye dayalı olmayıp, davacı markasına tecavüz edici olduğu tespit edildiği için ihtiyatı tedbir talebinin reddedildiğini kararlaştırdı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK) 353 ve 356. maddeleri",
+            "Ticaret Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının internet sitesinde ve sosyal medyada davacı markasına benzer bir marka kullanmasını engellemek için ihtiyatı tedbir talep etti. Mahkeme, davalının ticaret ünvanı kullanımının eskiye dayalı olmadığı ve davacı markasına tecavüz edici olduğu tespit ederek talebi reddetti.",
+    "summary_for_model": "Davacı vekili, davalının internet sitesinde ve sosyal medyada davacı markasına benzer bir marka kullanmasını engellemek için ihtiyatı tedbir talep etti. Mahkeme, davalının ticaret ünvanı kullanımının eskiye dayalı olmadığı ve davacı markasına tecavüz edici olduğu tespit ederek talebi reddetti."
+}

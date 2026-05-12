@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2017_350.pdf",
+        "court_name": "T.C. İSTANBUL 1.FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2017/350",
+        "karar_no": "2019/231",
+        "case_subject": "FSEK maddi manevi tazminat talebi",
+        "dava_tarihi": "19/06/2014",
+        "karar_tarihi": "16/05/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekilinin fotoğrafının sosyal medyada yayınlanmasına izinsiz olarak izin alınmadığını ve herhangi bir ödeme yapılmadığını iddia ederek 500 TL maddi ve 20.000 TL manevi tazminat talep etmiştir. Davacı, fotoğrafın kendisinin izni ve bilgisi dahilinde çekildiğini ancak fotoğrafın sosyal medyada yayınlandığını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, dava konusu fotoğrafın Davacı'nın izni ve bilgisi dahilinde çekildiğini ancak fotoğrafın sosyal medyada yayınlandığını ve Davacı'nın fotoğrafın kullanılmasına karşı rıza göstermediğini tespit etmiştir. Mahkeme ayrıca, fotoğrafın değerinin 586 TL olduğunu ve Davacı'nın maddi ve manevi tazminat taleplerinin haklı olmadığını karar vermiştir.",
+        "verdict_text": "1-Davanın reddine, 2-44,40 TL ilam harcının peşin harçtan mahsubu ile artan 420,70 TL harçın karar kesilişinde ve istemi halinde davacıya iadesine, 3-Reddedilen manevi tazminat talebi yönünden Avukatlık ücret tarifeşi uyarinca 3.931,00 TL vekalet ücretinin davacıdan alınarak davalya verilmesine, 4-Reddedilen maddi tazminat talebi yönünden Avukatlık ücret tarifeşi 13/2yuarınca 840,00 TL vekalet ücretinin davacıdan alınarak davalya verilmesine, 5-Davacı tarafın yapmış olduğu yargılama giderlerinin üzerinde bırakılmasına, 6-Taraflarca fazla yatırılan gider avansının hüküm kesilişinde ve talep halinde iadesine, Dair karar taraf vekillerinin ve ihbar olunan vekilinin yüzüne karşı gerekçeli kararın tebliğinden itibaren iki haftalık süre içinde İSTANAF YASA YOLU AÇIK olmak üzere verilen karar açıkça okundu, usulen anlatıldı. 16/05/2019"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "FSEK 86.maddeye göre talepde bulunabileceğini",
+            "İSTANAF YASA YOLU AÇIK"
+        ]
+    },
+    "summary_for_human": "Davacı, vekilinin fotoğrafının sosyal medyada yayınlanmasına izinsiz olarak izin alınmadığını iddia ederek maddi ve manevi tazminat talep etti. Mahkeme, fotoğrafın Davacı'nın izni ve bilgisi dahilinde çekildiğini ancak fotoğrafın sosyal medyada yayınlandığını ve Davacı'nın fotoğrafın kullanılmasına karşı rıza göstermediğini tespit etti. Mahkeme, Davacı'nın taleplerini reddetti.",
+    "summary_for_model": "Dava, vekilinin fotoğrafının sosyal medyada yayınlanmasına izinsiz olarak izin alınmadığını iddia eden Davacı'nın maddi ve manevi tazminat talebidir. Mahkeme, fotoğrafın Davacı'nın izni ve bilgisi dahilinde çekildiğini ancak fotoğrafın sosyal medyada yayınlandığını ve Davacı'nın fotoğrafın kullanılmasına karşı rıza göstermediğini tespit etti. Mahkeme, Davacı'nın taleplerini reddetti."
+}

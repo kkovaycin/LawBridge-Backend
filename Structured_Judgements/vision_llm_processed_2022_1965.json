@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_1965.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2022/458",
+        "karar_no": "2022/137",
+        "case_subject": "İtirazın İptali (Eser Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "05/07/2022",
+        "karar_tarihi": "06/10/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, eser sözleşmesi nedeniyle fatura bağlı bakiye bedel alacağını tahsil amacıyla başlatılan icra takibine yönelik itirazın iptali istemektedir. Davacı vekili, ittifak taleplerinin reddine karar verilmiştir. İstinaf taleplerinin kabul edilmesi için yetersiz bilgi ve belge bulunmamıştır.",
+        "reasoning_text": "Mahkeme, ittifak taleplerinin reddine karar vermiştir. İstinaf taleplerinin kabul edilmesi için yetersiz bilgi ve belge bulunmamıştır. Davacı vekilinin ittifak başvurusu, Hüküm Kanunu'nun 353/1-b-1 ve 362/1-f maddeleri uyarınca esastan reddedilmiştir.",
+        "verdict_text": "05/07/2022 tarih ve 2022/458 Esas sayılı ara kararında usul ve esas yönünden yasaya aykırı bir durum bulunmamasına göre, davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b-1 maddesi gereğince esastan REDDİNE, 2-istinaf harçları peşin alındığından ayrıca harç alınmasına YER OLMADIĞINA,3-Davacı tarafça yapılan istinaf yargılama giderlerinin üzerinde BIRAKILMASINA,4-istinaf incelemesi sırasında duruşma açılmadığından vekâlet ücreti takdirine YER OLMADIĞINA,Dair, dosya üzerinden yapılan inceleme sonucunda HMK'nın 362/1-f bendi gereğince KESİN olmak üzere 06/10/2022 tarihinde oybirliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İstanbul Ticaret Mahkemesi",
+            "Hüküm Kanunu (HMK)",
+            "HMK'nın 353/1-b-1",
+            "HMK'nın 362/1-f"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin ittifak taleplerini reddetmiştir. İstinaf taleplerinin kabul edilmesi için yetersiz bilgi ve belge bulunmamıştır. Davacı vekilinin ittifak başvurusu, Hüküm Kanunu'nun ilgili maddeleri uyarınca esastan reddedilmiştir. Karar, davacı vekilinin ittifak başvurusunun reddine ve istinaf harçlarının peşin alındığından başka harç alınmayacağına, davacı tarafından yapılan istinaf giderlerinin bırakılmasına ve vekâlet ücretinin takdirine yer verilmeyeceğine dair sonuçlanmıştır.",
+    "summary_for_model": "Davacı vekilinin ittifak talepleri reddedilmiştir. İstinaf taleplerinin kabul edilmesi için yetersiz bilgi ve belge bulunmamıştır. Hüküm Kanunu'nun 353/1-b-1 ve 362/1-f maddeleri uyarınca esastan reddedilmiştir. İstinaf harçları peşin alındığından başka harç alınmayacaktır. Davacı tarafından yapılan istinaf giderleri bırakılacaktır. Vekâlet ücreti takdirine yer verilmeyecektir."
+}

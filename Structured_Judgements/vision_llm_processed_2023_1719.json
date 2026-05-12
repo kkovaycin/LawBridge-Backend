@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2023_1719.pdf",
+        "court_name": "İSTANBUL BÖLGE ADLİYE MAHKEMESİ 16. HUKUK DAİRESİ",
+        "esas_no": "2023/1719",
+        "karar_no": "2023/1989",
+        "case_subject": "Haysiyet Kurulu Kararının İptali",
+        "dava_tarihi": "13/10/2023",
+        "karar_tarihi": "27/12/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, MESAM Haysiyet Kurulu tarafından üyelikten çıkarma kararı verildiğini, bu kararın 24.01.2023'te tebliğ edildiğini ve 20.02.2023'te itiraz edildiğini iddia etmiştir. İtiraz, 23.02.2023 tarihli karar ile reddedilmiş ve MESAM Haysiyet Kurulu üyelerine karşı iftiralar yapıldığı iddia edilmiştir. Davacı, MESAM Yönetim Kurulu ve Haysiyet Kurulu üyelerine yönelik iftiralar ve hakaretler içeren mesaj ve yayınlar yapıldığını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, MESAM Haysiyet Kurulu kararının iptali talebini reddetmiştir. Davacı vekilinin itiraz talebinin esas olarak uyumsuz olduğu ve hukuka aykırılık bulunmadığı gerekçesiyle, davacının istinaf isteminin esastan reddedildiği belirtilmiştir. Davacı vekilinin MESAM Haysiyet Kurulu üyelerine yönelik iftiralar ve hakaretler içeren mesaj ve yayınlar yapmış olması, davacının davayı kazanması halinde dava konusuna kavuşmasını engelleyecek bir unsur olarak değerlendirilmemiştir.",
+        "verdict_text": "Gerekçesi ayrıntılı kararda açıklanmıştır. 1-6100 sayılı HMK'nin 353/1-b-1 maddesi gereğince, davalı vekilinin yerinde görülmeyen istinaf isteminin esastan reddine, 2-Harc peşin alındığından yeniden alınmasına yer olmadığına, 3-Davalı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, 4-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, 5-Artan gider avanslarının, karar kesinleştiğinde ve talep halinde ilk derece mahkemesince taraflara iadesine, Dair, dosya üzerinden yapılan inceleme sonunda, oy birliğiyle kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "1-6100 sayılı HMK'nin 353/1-b-1 maddesi",
+            "MESAM Haysiyet Kurulu Yönergeleri'nin 7/8. maddesi"
+        ]
+    },
+    "summary_for_human": "Bu dava, MESAM Haysiyet Kurulu tarafından bir üyenin üyelikten çıkarılmasına karar verilmesiyle ilgili bir itiraz durumudur. Davacı vekili, bu kararı iptal etmeyi talep etmiştir. Mahkeme, davacı vekilinin itiraz talebini reddetmiştir. Bu karar, MESAM Haysiyet Kurulu üyelerine yönelik iftiralar ve hakaretler içeren mesaj ve yayınlar yapıldığı iddiasına dayanmaktadır. Mahkeme, bu iddiaların davacının davayı kazanması halinde dava konusuna kavuşmasını engelleyecek bir unsur olarak değerlendirilmediğini ve davacının istinaf isteminin esastan reddedildiğini belirtmiştir.",
+    "summary_for_model": "Dava, MESAM Haysiyet Kurulu tarafından üyelikten çıkarma kararı verilmesiyle ilgili bir itiraz durumudur. Davacı vekili, bu kararı iptal etmeyi talep etmiştir. Mahkeme, davacı vekilinin itiraz talebini reddetmiştir. MESAM Haysiyet Kurulu Yönergeleri'nin 7/8. maddesine göre, hak sahipleri Haysiyet Kurulunca verilen kararlara karşı kararın verildiği tarihten itibaren bir ay içinde yargı yoluna başvurabilir. Davacı vekilinin itiraz talebinin esas olarak uyumsuz olduğu ve hukuka aykırılık bulunmadığı gerekçesiyle, davacının istinaf isteminin esastan reddedildiği belirtilmiştir. 1-6100 sayılı HMK'nin 353/1-b-1 maddesi gereğince, davalı vekilinin yerinde görülmeyen istinaf isteminin esastan reddine, harç peşin alındığından yeniden alınmasına yer olmadığına, davalı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, istinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, artan gider avanslarının, karar kesinleştiğinde ve talep halinde ilk derece mahkemesince taraflara iadesine, dair, dosya üzerinden yapılan inceleme sonunda, oy birliğiyle kesin olarak karar verildi."
+}

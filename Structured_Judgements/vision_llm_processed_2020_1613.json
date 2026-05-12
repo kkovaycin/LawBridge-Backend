@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2020_1613.pdf",
+        "court_name": "İstanbul Anadolu 3. Asliye Ticaret Mahkemesi",
+        "esas_no": "2017/502 E. - 2019/790 K.",
+        "karar_no": "2023/1120",
+        "case_subject": "Tazminat (Haksız Rekabetten Kaynaklanan)",
+        "dava_tarihi": "11/07/2019",
+        "karar_tarihi": "20/06/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davanın ilk derece mahkemesinde kısmen kabulüne dair verilen karara karşı istinaf başvurusuyla dava dosyasını Dairimize göndermiştir. Davacı vekili, davanın sosyal medya hesabından yaptığı paylaşımların davacının kişisel haklarına zarar verdiğini ve haksız rekabet oluşturduğunu iddia etmiştir.",
+        "reasoning_text": "İlk derece mahkemesi, davanın kısmen kabulüne dair verilen kararı usul ve yasaya aykırı bulmuştur. Davanın sosyal medya hesabından yapılan paylaşımların, davacının kişisel haklarına zarar verdiği ve haksız rekabet oluşturduğu iddiası, Anayasanın ifade ve düşünce özgürlüğü kapsamında değerlendirilmiştir. Davanın paylaşımları, eleştiri hakki kapsamında kabul edilmiştir.",
+        "verdict_text": "Davanın istinaf başvurusunun kabulüne dair ilk derece mahkemesinin istinafa konu kararının kaldırılmasına ve davanın esas hakkında Dairimize yeniden hüküm verilmesine karar verilmiştir. Davanın reddine, 179,90 TL harçtan mahsubu ile 170,78 TL harçtan mahsubu ile 9,12 TL harçtan davacıdan tahsiline karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Ticaret Kanunu 54. maddesi",
+            "Türk Ticaret Kanunu 55. maddesi",
+            "TBK 58. maddesi",
+            "TTK 55, 56/1-e ve 58/3 maddeleri",
+            "TBK 49 vd maddeleri",
+            "Anayasa 23 ve 26. maddeleri",
+            "Avrupa İnsan Hakları Mahkemesi (AİHM) kararları",
+            "Hukuk Muhakemesi Kanunu 353/1.b.2. maddesi",
+            "Hukuk Muhakemesi Kanunu 362/1.a. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davanın sosyal medya hesabından yapılan paylaşımların kişisel haklarına zarar verdiğini iddia etmiştir. İlk derece mahkemesi, davanın kısmen kabulüne dair verilen kararı usul ve yasaya aykırı bulmuştur. Davanın paylaşımları, eleştiri hakki kapsamında kabul edilmiştir.",
+    "summary_for_model": "Davacı, davanın sosyal medya hesabından yapılan paylaşımların kişisel haklarına zarar verdiğini iddia etmiştir. İlk derece mahkemesi, davanın kısmen kabulüne dair verilen kararı usul ve yasaya aykırı bulmuştur. Davanın paylaşımları, eleştiri hakki kapsamında kabul edilmiştir. Davanın istinaf başvurusunun kabulüne dair ilk derece mahkemesinin istinafa konu kararının kaldırılmasına ve davanın esas hakkında Dairimize yeniden hüküm verilmesine karar verilmiştir."
+}

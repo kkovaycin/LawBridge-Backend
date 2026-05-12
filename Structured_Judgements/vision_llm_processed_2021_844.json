@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_844.pdf",
+        "court_name": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/844 Esas",
+        "karar_no": "2021/835",
+        "case_subject": "İhtiyati Tedbir",
+        "dava_tarihi": "04/05/2021",
+        "karar_tarihi": "12/07/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "İhtiyati tedbir talep eden vekili, davacının vekili tarafından yapılan itirazda, markaların tescil edilmişliği ve müvekkilin markaları kullanma hakkının reddedilmesi talep edildi. Mahkeme, itirazın kabul edilmediğini ve ilk derece kararının durdurulmadığını kararlaştırdı.",
+        "reasoning_text": "Mahkeme, itirazın kabul edilmediğini ve ilk derece kararının durdurulmadığını kararlaştırdı. İhtiyati tedbir talebinin reddedilmesi, markaların tescil edilmişliği ve müvekkilin markaları kullanma hakkının reddedilmesi talebinin temelsiz olduğu için kabul edilmedi.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1- Üstül ve yasaya uygun İstanbul Anadolu 1. Fikri Ve Sınai Haklar Hukuk Mahkemesi'nin 04/05/2021 tarih ve 2021/33 D.iş, 2021/33 K. sayılı kararına karşı İhtiyati Tedbir talep eden vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2- 492 Sayılı Harçlar Kanunu gereğince alınması gereken 59,30 TL maktu istinaf karar ve ilam harcı talep eden tarafından peşin yatırıldığından yeniden harç alınmasına YER OLMADIĞINA, 3- Talep eden tarafça istinaf aşamasında yapılan yargılama giderlerinin üzerlerinde BİRAKILMASININA, 4- İncelemenin durussuz olarak yapılması sebebiyle taraflar yararına vekalet ücreti takdirine YER OLMADIĞINA, 5- Talep eden tarafça yatırılan gider avansından harçnamayan kısmın karar kesinleştiğinde İADESİNE, 6- Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin ilk derece Mahkemesinde yerine GETİRİLMESİNE, 6100 Sayılı HMK'nın 353/1-b/1. maddesi hükmü gereğince dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nun 362/1-f ve 394/(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi. 12/07/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "492 Sayılı Harçlar Kanunu",
+            "6769 Sayılı Sınai Mülkiyet Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, itirazın kabul edilmediğini ve ilk derece kararının durdurulmadığını kararlaştırdı. İhtiyati tedbir talebinin reddedilmesi, markaların tescil edilmişliği ve müvekkilin markaları kullanma hakkının reddedilmesi talebinin temelsiz olduğu için kabul edilmedi.",
+    "summary_for_model": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi, itirazın kabul edilmediğini ve ilk derece kararının durdurulmadığını kararlaştırdı. İhtiyati tedbir talebinin reddedilmesi, markaların tescil edilmişliği ve müvekkilin markaları kullanma hakkının reddedilmesi talebinin temelsiz olduğu için kabul edilmedi."
+}

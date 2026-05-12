@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2020_67.pdf",
+        "court_name": "T.C. İZMİR FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2020/38",
+        "karar_no": "2021/150",
+        "case_subject": "Marka Hakkına Tecavüz ve Haksız Rekabetin Teşbiti, Durdurulması, Önlenemesi",
+        "dava_tarihi": "13/05/2020",
+        "karar_tarihi": "22/09/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, 2017'de Sığacık'ta kurdukları markayı kullanan davalıya karşı hak ihlali iddiası ile dava açtı. Davalı, markayı 2019'da satın almış ve sosyal medyada kullanmıştır. Davacı, davalıya karşı markanın tecavüzüne, hak ihlali ve haksız rekabet iddiaları ile dava açmıştır.",
+        "reasoning_text": "Mahkeme, davacı-karşı davalı arasındaki markaların benzerliği ve iltisabın oluşturulması nedeniyle davacı-karşı davalı lehine hüküm vermiştir. Davacı-karşı davalı, davacı-karşı davalı'nın markasını kullanırken hak ihlali ve haksız rekabet oluşturduğunu iddia etmiştir.",
+        "verdict_text": "Davacı-karşı davalı lehine hüküm verilmiştir. Davacı-karşı davalı'nın markasının tecavüzüne, hak ihlali ve haksız rekabet iddiaları reddedilmiştir. Davacı-karşı davalı'nın markasının hükümsuzluğu ile sicilinden terkinine karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Sinal Mülkiyet Kanunu 149. Maddesi",
+            "Sinal Mülkiyet Kanunu 150. Maddesi",
+            "Ticaret Kanunu 55. Maddesi",
+            "İstinaf Kanunu 11. ve 20. Maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, davalıya karşı markasını kullanırken hak ihlali ve haksız rekabet iddiaları ile dava açmıştır. Mahkeme, davacı-karşı davalı lehine hüküm vermiştir. Davacı-karşı davalı'nın markasının hükümsuzluğu ile sicilinden terkinine karar verilmiştir.",
+    "summary_for_model": "Davacı, davalıya karşı markasını kullanırken hak ihlali ve haksız rekabet iddiaları ile dava açmıştır. Mahkeme, davacı-karşı davalı lehine hüküm vermiştir. Davacı-karşı davalı'nın markasının hükümsuzluğu ile sicilinden terkinine karar verilmiştir. Davacı-karşı davalı'nın markasının hükümsuzluğu ile sicilinden terkinine karar verilmiştir."
+}

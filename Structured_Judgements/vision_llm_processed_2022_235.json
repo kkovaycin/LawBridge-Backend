@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2022_235.pdf",
+        "court_name": "İstanbul 15. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2021/848",
+        "karar_no": "2023/29",
+        "case_subject": "Tazminat (Sözleşmeden Kaynaklanan)",
+        "dava_tarihi": "30/12/2021",
+        "karar_tarihi": "11/01/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının varlık devir sözleşmesi imzalandığında 425.000,00 Euro bedel alması halinde sorumluluğu üstlenmediğini iddia etmiştir. Davalı vekili ise, davacının davalıya 27.000 Euro ödemesi gerektiğini savunmuştur. Davacı, davalıya 23.000 Euro ödemesi talep etmiştir.",
+        "reasoning_text": "Mahkeme, davacı ve davalı arasındaki varlık devir sözleşmesinin uygulanmadığını, davacı tarafından davalıya gönderilen 23.000 Euro'nun faizle tahsil edilmesi gerektiğini ve davalı tarafından ödenen 27.000 Euro'nun bağlanma parası olarak kabul edildiğini karar vermiştir.",
+        "verdict_text": "Davacı tarafından davalıya gönderilen 23.000 Euro'nun 30.12.2021 tarihinden itibaren 3095 sayılı Kanun faiz ve temerrüt faizi ile tahsil edilmesi, 30.807,13 TL karar ve ilam harcı, 1.320,00 TL arabuluculuk ücreti, 66.138,60 TL vekalet ücreti, 10.449,47 TL gider ve 1.000,00 TL bildiri ücreti davalıdan tahsil edilmesi kararlaştırılmıştır. Davacı ve davalı vekillerine karşı itiraz hakkı tanınmıştır."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "3095 sayılı Kanun",
+            "4/A maddesi",
+            "Harklar Kanunu Genel Tebliği",
+            "6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu",
+            "18/A-13 maddesi",
+            "Avukatlık Asgari Ücret Tarifi",
+            "HMK. 333. md."
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı ve davalı arasındaki varlık devir sözleşmesinin uygulanmadığını ve davacı tarafından davalıya gönderilen 23.000 Euro'nun faizle tahsil edilmesi gerektiğini karar vermiştir. Davalı tarafından ödenen 27.000 Euro'nun bağlanma parası olarak kabul edildiği ve davacı tarafından ödenen diğer harç ve ücretlerin de davalıdan tahsil edilmesi kararlaştırılmıştır.",
+    "summary_for_model": "Davacı, davalıya 23.000 Euro ödemesi talep etmiştir. Mahkeme, varlık devir sözleşmesinin uygulanmadığını, davacı tarafından davalıya gönderilen 23.000 Euro'nun faizle tahsil edilmesi gerektiğini ve davalı tarafından ödenen 27.000 Euro'nun bağlanma parası olarak kabul edildiğini karar vermiştir. Davacı tarafından ödenen harç ve ücretlerin de davalıdan tahsil edilmesi kararlaştırılmıştır. TBK 177/1, 3095 sayılı Kanun 4/A, Harklar Kanunu Genel Tebliği, 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu 18/A-13, Avukatlık Asgari Ücret Tarifi ve HMK. 333. md. kullanılmıştır."
+}

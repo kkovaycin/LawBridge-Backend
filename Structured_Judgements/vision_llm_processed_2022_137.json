@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_137.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2022/137 Esas",
+        "karar_no": "2022/423",
+        "case_subject": "Tespit (D.İş)",
+        "dava_tarihi": "09/07/2021",
+        "karar_tarihi": "16/03/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, müvekkil şirketin Suriye'deki tathlılık, restoran ve ulu mamüller sektöründe temayüz etmesi, markasına dair sinai beceri ve kapasitesini Türkiye'ye taşıyarak 2016 yılından itibaren aynı isimle tüzel kişilik üzerinden müseccele markasıyla İstanbul'da Doğu Akdeniz tatlılarını tüketiciye hizmet etmesi ve bu bağlamda yirmiden fazla subeyi tüketiciye sunduğunu iddia etmiştir. Davacı, müvekkil şirketin Suriye tatlıları üzerinde temayüz etmesi hakkı şöbeyle 17.01.2019 tarihinde müvekkil şirketin müseccele markası üzerinden Almanya Federal Devletleri coğrafi sınırları üzerinde tek satıcılık sözleşmesi akdetmiş olup müvekkil şirketin hizmet yelpazesine vakıftır.",
+        "reasoning_text": "Mahkeme, taleplerin kısmen kabulüne ve kısmen reddine karar vermiştir. İhtiyati tedbir talebinin kısmen kabulüne karar verilmiştir çünkü davacının talep ettiği markaların kullanılması riskini azaltmak kaydıyla tedbir talebinin kısmen kabulüne karar verilmiştir. Davacının talep ettiği markaların kullanılması hakkı saklı kalmak kaydıyla tedbir talebinin kısmen kabulüne karar verilmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlere; 1-Talep eden vekilinin istinaf talebinin KISMEN KABÜLÜNE, KISMEN REDDİNE, 2-İstanbul 2.Fikri Ve Sınai Haklar Hukuk Mahkemesi'nin 09/07/2021 tarih, 2021/170 E - 2021/184 K. sayılı kararının KALDIRILMASINA, 3-Yukarıda gerekçede belirtildiği şekilde İhtiyati tedbir talebinin kısmen kabul kısmen reddi şekilde karar verilmesi için dosyanın ilk derece mahkemesine İADESİNE, 4-İstinaf peşin harcının talebi halinde talep eden tarafa iaadesine, 5-İstinaf aşamasında talep eden tarafından yapılan yargılama gideri olan 162,10-TL istinaf yoluna başvurma harci ile 51-TL posta masrafı olmak üzere toplam 213,10-TL'nin karşı tarafından alınarak talep edene verilmesine, 6-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinden yapılan inceleme sonunda, HMK'nun 362/1-f maddesi uyarınca oy birliğiyle kesin olarak karar verildi.16/03/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 389",
+            "HMK 362/1-f"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkil şirketin Suriye'deki tatlılık markasının Türkiye'de kullanılmasına karşı tedbir talebinde bulundu. Mahkeme, talepin kısmen kabulüne ve kısmen reddine karar verdi.",
+    "summary_for_model": "Davacı vekili, müvekkil şirketin Suriye'deki tatlılık markasının Türkiye'de kullanılmasına karşı tedbir talebinde bulundu. Mahkeme, taleplerin kısmen kabulüne ve kısmen reddine karar verdi. İhtiyati tedbir talebinin kısmen kabulüne karar verildi."
+}

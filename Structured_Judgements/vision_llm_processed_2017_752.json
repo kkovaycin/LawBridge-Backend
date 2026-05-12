@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2017_752.pdf",
+        "court_name": "İstanbul 16. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2017/752",
+        "karar_no": "2020/397",
+        "case_subject": "Davacı şirketin danışmanlık hizmetleri ve web sitesi kurulumu ile ilgili iddiaları",
+        "dava_tarihi": "15/08/2017",
+        "karar_tarihi": "23/09/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı şirketin uluslararası danışmanlık hizmetleri ve web sitesi kurulumu ile ilgili iddialarını ileri sürdü. Davalı, bu iddialara karşı savundu ve davacıya karşı maddi ve manevi tazminat talep etti.",
+        "reasoning_text": "Mahkeme, davacı ve davalının iddialarını ve savunmalarını değerlendirerek, davacıya karşı maddi ve manevi tazminat kararı verdi. Davacıya karşı 133,46 TL maddi tazminat ve 54,40 TL mahsubu ile dava reddine karar verildi.",
+        "verdict_text": "HÜKM: Gereğecesine açıklanmış üzere;\n1-Davanın REDDİNE,\n2-Davacı tarafından yatırılan 187,86-TL harçtan 54,40-TL'in mahsubu ile arda kalan 133,46-TL'nin karar kesinleştiğinde talep halinde davacıya iadesine,\n3-Davalı, kendisini vekile temsil etmiş olmakla karar tarihinde yürürlükte bulunan A.A.Ü.T. göre hesaplanan 3.400,00-TL vekalet ücretinin davacıdan tahsili ile davalya verilmesine,\n4-Davacı tarafından yapılan masrafların kendi üzerinde bırakılmasına,\n5-Tarafarca yatırılan gider avansının kullanılmayan kısmının 6100 sayılı Yasanın 333. maddesi ile Yönetmeligin 207. maddesi gereğince hükmün kesinleşmesinden sonra hesap numarası bildirilmiş ise elektronik ortamda hesaba aktarmak suretiyle; hesap numarası bildirilmemiş ise masrafı kalan paradan karşilanmak suretiyle PTT merkez ve işyerleri vasitasıyla adreste ödemeli olarak yazı işleri müdürü tarafından iadesine,\nDair; taraf vekillerinin yüzüne karşı, gerekeli kararın tebliğiinden itibaren iki hafta içerisinde mahkememize ya da mahkememize gönderilmek üzere istinaf dilekçesi sunulmak suretiyle İstanbul Bölge Adliye Mahkemesi nezdiinde istinaf kanun yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 23/09/2020"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Yasanın 333. maddesi",
+            "Yönetmeligin 207. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin danışmanlık hizmetleri ve web sitesi kurulumu ile ilgili iddialarını ileri sürdü. Mahkeme, davacıya karşı maddi ve manevi tazminat kararı verdi ve dava reddine karar verdi.",
+    "summary_for_model": "Davacı, davalı şirketin danışmanlık hizmetleri ve web sitesi kurulumu ile ilgili iddialarını ileri sürdü. Mahkeme, davacıya karşı maddi ve manevi tazminat kararı verdi ve dava reddine karar verdi. Davacıya karşı 133,46 TL maddi tazminat ve 54,40 TL mahsubu ile dava reddine karar verildi."
+}

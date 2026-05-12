@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2021_1041.pdf",
+        "court_name": "T.C. İSTANBUL BÖLGE ADLİYE MAHKEMESİ 44. HUKUK DAİRESİ",
+        "esas_no": "2021/1041",
+        "karar_no": "2024/882",
+        "case_subject": "Endüstriyel Tasarım (Maddi Tazminat İstemli)",
+        "dava_tarihi": "03/12/2020",
+        "karar_tarihi": "13/05/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, davacının çekilili bir ürün üretilip satılmasını iddia ettiği, çekilili bir ürün üretilip satılmasının teyit edilemediği ve davacının çekilili bir ürün üretilip satılmasını iddia ettiği, ancak bu iddianın çok önce başka bir marka adında yayınlandığı çekilili bir ürün üretilip satılmasını iddia ettiği.",
+        "reasoning_text": "Davacının iddiasının çok önce başka bir marka adında yayınlandığı çekilili bir ürün üretilip satılmasını iddia ettiği, bu iddianın çok önce başka bir marka adında yayınlandığı çekilili bir ürün üretilip satılmasını iddia ettiği.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin istinaf isteminin KABULÜ ile; 2-İstanbul 1.Fikrı ve Sinai Haklar Hukuk Mahkemesi'nin 03/12/2020 tarih, 2019/275 E. 2020/377 K. Sayılı Kararının 6100 Sayılı HMK'nın 353/1-a-6. maddesi gereğine KALDİRILMASINA, 3-Dosyanın, yukarıda gösterilen biçimde inceleme ve değerlendirme yapılmak üzere mahkemesine GÖNDERILMESINE, 4-İstinaf yasa yoluna başvuran davacı tarafından peşin olarak yatırılan istinaf karar ve ilam harcının talebi halinde kendisine iadesine, 5-Dosya üzerinde inceleme yapılması sebebiyle vekalet ücreti tayinine yer olmadığına, 6-İstinaf yasa yoluna başvuran tarafından istinaf ağamasında yapılan göderlerin ilk derece mahkemesine verilecek nişal kararıda dikkate alınmasına, 6100 Sayılı HMK'nın 353/1-a-6. ve 362/1-g. maddeleri gereğine dosya üzerinde yapılan inceleme sonucunda ve KESİN olmak üzere, oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "6100 Sayılı HMK'nın 353/1-a-6. ve 362/1-g. maddeleri",
+            "6100 Sayılı HMK'nın 355. maddesi",
+            "6100 Sayılı HMK'nın 353/1-a-6. maddesi",
+            "6100 Sayılı HMK'nın 362/1-g. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, bir çekilili ürün üretilip satılmasını iddia etti ancak bu iddianın çok önce başka bir marka adında yayınlandığı çekilili bir ürün üretilip satılmasını iddia ettiği. Mahkeme, davacının istinaf istemini kabul ederek ilk derece kararını kaldırdı.",
+    "summary_for_model": "Davacı, bir çekilili ürün üretilip satılmasını iddia etti ancak bu iddianın çok önce başka bir marka adında yayınlandığı çekilili bir ürün üretilip satılmasını iddia ettiği. Mahkeme, davacının istinaf istemini kabul ederek ilk derece kararını kaldırdı."
+}

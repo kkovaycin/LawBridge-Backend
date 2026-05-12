@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2020_1902.pdf",
+        "court_name": "İstanbul Anadolu 1. Fikri Ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2020/1902",
+        "karar_no": "2023/1454",
+        "case_subject": "Endüstriyel Tasarım (Endüstriyel Tasarımın Hükümsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "28/11/2019",
+        "karar_tarihi": "23/11/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının Anne Bebek Bakım Çantası tasarımını tescil tarihinden önce pazarladığını iddia ediyor. Davalı vekili, tasarımın yenilik ve ayırt edicilik özelliklerini reddediyor. İlk derece mahkemesi, tasarımın teknik zorunluluklar ve seçenek özgürlüğü açısından değerlendirildiğini belirtiyor.",
+        "reasoning_text": "Mahkeme, ilk derece mahkemesinin raporunu ele alarak tasarımların teknik zorunluluklar ve seçenek özgürlüğü açısından değerlendirildiğini ve yenilik kriterinin karşılanmadığını tespit ediyor. İstinaf talebinin kabulüne karar verildi.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Üsül ve yasaya uygun İstanbul Anadolu 1. Fikri Ve Sınai Haklar Hukuk Mahkemesi'nin 28/11/2019 tarih ve 2018/427 E., 2019/314 K sayılı kararına karşı davalı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDINE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gereken 269,85 TL maktu istinaf kararı ve ilam harcından peşin yatırılan 54,40 TL harcin mahsubu ile bakiye 215,45 TL harcin davalidan tahsiliye Hazineye gelir kaydedilmesine,3-Davalı tarafından istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına,4-İncelemenin duruşmasız olarak yapılması sebebiyle taraflara vekalet ücreti tayinine yer olmadığına,5-Taraflarca yatırılan gider avansından harçnmayan kısım karar kesinleştiğinde iadesine,Dosya üzerinde yapılan inceleme sonucunda, 20/07/2017 tarih ve 7035 Sayılı Kanunun 31. maddesiyle değişik 6100 Sayılı HMK'nun 361/1. maddesi gereğince, kararın tebliğiğinden itibaren 2 hafta içerisinde Yargıtaya temyiz başvurusunda bulunma yolu açık olmak üzere, oy birliğiyle karar verildi. 23/11/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "2-492 Sayılı Harçlar Kanunu",
+            "7035 Sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının Anne Bebek Bakım Çantası tasarımını tescil tarihinden önce pazarladığını iddia ediyor. Mahkeme, ilk derece mahkemesinin raporunu ele alarak tasarımların teknik zorunluluklar ve seçenek özgürlüğü açısından değerlendirildiğini ve yenilik kriterinin karşılanmadığını tespit ediyor. İstinaf talebinin kabulüne karar verildi.",
+    "summary_for_model": "Davacı, davalının Anne Bebek Bakım Çantası tasarımını tescil tarihinden önce pazarladığını iddia ediyor. Mahkeme, ilk derece mahkemesinin raporunu ele alarak tasarımların teknik zorunluluklar ve seçenek özgürlüğü açısından değerlendirildiğini ve yenilik kriterinin karşılanmadığını tespit ediyor. İstinaf talebinin kabulüne karar verildi."
+}

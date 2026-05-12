@@ -1,0 +1,41 @@
+{
+    "meta_data": {
+        "file_name": "2021_791.pdf",
+        "court_name": "İzmir 6. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2021/791",
+        "karar_no": "2022/291",
+        "case_subject": "Haksız rekabet ve ticari işletme ile ilgili dava",
+        "dava_tarihi": "17/11/2021",
+        "karar_tarihi": "30/03/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; 30/04/2014 tarihinde evlenmiş olup taraflar arasında İzmir 6. Aile Mahkemesi'nin E. Numarası ile devam etmekte olan derdest boşanma davası bulunduğunu, 2016 senesinde davalı'nın tüm işleri kendisinin halledeceğini söyleyerek müvekkilinin iradesini ile ile sakatlama suretiyle ikna edip müvekkilinin tek ortakı olduğunu iddia etti. Mühendislik Enerji ve Baca Sistemleri sahibi şirketi kurulduğunu, müvekkili tarafından davalı'ya şirketin işlerini yönetmesi maksadı ile vekaletname verildiğini, şirketin bütün çalışması davalı tarafından yerine getirilmiş, şirketin hesabına gelen her parayı davalı kendi hesaplarına aktarmış ayrıca birçok kişiye karşı şirketi borçlandırmış, yapılan işlerden, imzalanan anlaşmalardan müvekkilinin hiçbir şekilde haberi bulunmamakta olup davalı'nın şirketin yüz binlerce lira borçluyla müvekkilini tek başına bırakıldığını iddia etti.",
+        "reasoning_text": "Mahkeme, davacı vekilinin iddialarını değerlendirerek, davalı'nın müvekkilinin tek ortakı olduğu şirketin işlerini yönetmesi için vekaletname verdiğini, ancak bu vekaletnameye dayanarak davalı'nın şirketin işlerini tamamen kendisi yönettiğini, müvekkilinin şirketin işlerine hiçbir şekilde dahil olmadığını ve bu durumun haksız rekabet oluşturduğunu tespit etti. Ayrıca, davalı'nın müvekkilinin şirketin müşterilerini kaybetmesine ve şirketin borç batığına sürüklenmesine neden olduğunu, davalı'nın bu fiilleri sebebiyle müvekkiline 30.000 TL manevi tazminat ödemesi gerektiğini ve davalı'nın şirketin malvarlığına tematsız olarak ihtiyati tedbir konulmasını talep ettiğini belirledi.",
+        "verdict_text": "HÜKÜM: Yukarıda yazılı bulunan gerekçeye göre;\n1-Davanın HMKNun 114/1-c.maddesi gereğince görevsizlik nedeniyle HMKNun 115/2 maddesi gereğince dava şartı yokluğundan usulden REDDİNE,\nMahkememizin GÖREVSİZLİĞİNE,\n2-Kararın kanun yoluna başvurulmayarak kesinleşmesi halinde veya kanun yoluna başvurulmuş ise bu başvurunun reddi kararının tebliğinden itibaren 2 hafta içerisinde taraflarca mahkememize başvurulması halinde dosyanın görevli ve yetkili İzmir İş Mahkemesi'ne gönderilmesine, yasal süre içerisinde başvuru yapılmaması halinde davanın açılmamış sayılacağına,\n3-HMK 331/2 maddesi gereğince harç ve yargılama giderlerinin görevli mahkemeye hüküm altına alınmasına,\n4-Mahkememiz görevsizlik kararı sonrasında görevli ve yetkili mahkemede yargılama devam edilmemesi halinde bu husus belirtilerek mahkememize başvurulması halinde harç ve yargılama giderleri konusunda mahkememizce karar verilmesine,\nDaır; davacı vekilinin ve davallar vekilinin yüzüne karşı verilen karar, HMK 341 vd maddeleri gereğince tebliğ tarihinden itibaren iki hafta içerisinde mahkememize veya aynı nitelikteki başka yer mahkemeye verilecek dilekçe ile İzmir Bölge Adliye Mahkemesi'ne istinaf yoluna başvurabileceği belirtilerek açıkça okunup usulden anlatıldı. 30/03/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 623.maddesi",
+            "TTK 50.maddesi",
+            "TTK 2/2 uyarınca",
+            "TTK m.2/2 uyarınca",
+            "TTK m.18/2 uyarınca",
+            "İİK m.44 uyarınca",
+            "İİK m337/a \"44 üncü maddeye göre\"",
+            "HMK 114/1-c.maddesi",
+            "HMK 115/2 maddesi",
+            "HMK 331/2 maddesi",
+            "HMK 341 vd maddeleri",
+            "6102 Sayılı Türk Ticaret Kanunu",
+            "6035 Sayılı Kanun",
+            "7036 Sayılı İş Mahkemeleri Kanunu",
+            "5953 sayılı Kanun",
+            "854 sayılı Kanun",
+            "22/5/2003 tarihli ve 4857 sayılı İş Kanunu",
+            "11/1/2011 tarihli ve 6098 sayılı Türk Borçlar Kanunu",
+            "6100 sayılı Hukuk Muhakemeleri Kanunu"
+        ]
+    },
+    "summary_for_human": "İzmir 6. Aslıye Ticaret Mahkemesi, davacı vekilinin iddialarını değerlendirerek davalı'nın müvekkilinin tek ortakı olduğu şirketin işlerini tamamen kendisi yönettiğini, müvekkilinin şirketin işlerine hiçbir şekilde dahil olmadığını ve bu durumun haksız rekabet oluşturduğunu tespit etti. Davalı'nın bu fiilleri sebebiyle müvekkiline 30.000 TL manevi tazminat ödemesi gerektiğini ve davalı'nın şirketin malvarlığına tematsız olarak ihtiyati tedbir konulmasını talep etti.",
+    "summary_for_model": "Mahkeme, davacı vekilinin iddialarını değerlendirerek davalı'nın müvekkilinin tek ortakı olduğu şirketin işlerini tamamen kendisi yönettiğini, müvekkilinin şirketin işlerine hiçbir şekilde dahil olmadığını ve bu durumun haksız rekabet oluşturduğunu tespit etti. Davalı'nın bu fiilleri sebebiyle müvekkiline 30.000 TL manevi tazminat ödemesi gerektiğini ve davalı'nın şirketin malvarlığına tematsız olarak ihtiyati tedbir konulmasını talep etti. Davanın HMKNun 114/1-c.maddesi gereğince görevsizlik nedeniyle HMKNun 115/2 maddesi gereğince dava şartı yokluğundan usulden reddine, Mahkememizin GÖREVSİZLİĞİNE karar verildi."
+}

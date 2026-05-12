@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2020_705.pdf",
+        "court_name": "İstanbul Anadolu 7. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2018/424",
+        "karar_no": "2019/391",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "02/04/2019",
+        "karar_tarihi": "16/12/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının sosyal medya paylaşımının haksız rekabet oluşturduğunu ve kişisel haklarını ihlal ettiğini iddia etmiştir. Davacı, davalının Twitter hesabından yaptığı paylaşımın ticari itibarını zedelediğini, hakları ihlal edildiğini ve TTK'nın 55 ve 56. maddeleri uyarınca manevi tazminat talep ettiğini belirtmiştir.",
+        "reasoning_text": "İstanbul Anadolu 7. Aslıye Ticaret Mahkemesi, davalının paylaşımının ifade özgürlüğü kapsamında korunduğunu, ancak bu paylaşımın hak ihlali oluşturmadığını ve davalının ticari faaliyetleriyle doğrudan ilgili olmadığını karar vermiştir. Mahkeme, davalının paylaşımının ifade özgürlüğü kapsamında kaldığını ve TTK'nın 55 ve 56. maddeleri uyarınca manevi tazminat talebinin kabul edilmediğini belirtmiştir.",
+        "verdict_text": "Davacı vekilinin istinaf başvurusunun kabul edilmediği için ilk derece mahkemesi kararının kaldırılarak yeniden yargılama yapılmasına gerek görülmemiştir. Davanın reddine dair karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 55",
+            "TTK 56",
+            "Türk Ticaret Kanunu (TTK)",
+            "İnsan Hakları Avrupa Sözleşmesi (İHAS)",
+            "Anayasa",
+            "Avrupa İnsan Hakları Mahkemesi kararları",
+            "Hukuk Muhakemesi Kanunu (HMK)"
+        ]
+    },
+    "summary_for_human": "İstanbul Anadolu 7. Aslıye Ticaret Mahkemesi, davalının sosyal medya paylaşımının ifade özgürlüğü kapsamında kaldığını ve hak ihlali oluşturmadığını karar vermiştir. Davacı vekilinin istinaf başvurusunun kabul edilmediği için ilk derece mahkemesi kararının kaldırılarak yeniden yargılama yapılmasına gerek görülmemiştir.",
+    "summary_for_model": "Dava, davalının sosyal medya paylaşımının haksız rekabet ve hak ihlali iddiasına dayanmaktadır. Mahkeme, paylaşımın ifade özgürlüğü kapsamında kaldığını ve davalının ticari faaliyetleriyle doğrudan ilgili olmadığını karar vermiştir. İstinaf başvurusu reddedilmiştir."
+}

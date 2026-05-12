@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2022_503.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2021/1084",
+        "karar_no": "2022/442",
+        "case_subject": "İhtiyati haciz talebinin reddi",
+        "dava_tarihi": "27/12/2021",
+        "karar_tarihi": "24/03/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının Edirne Kapıkule Gümrük Müdürlüğü'ndeki ihalelerden uygun fiyata araçlar alabileceğini iddia etti. Davalının gümrük müstearlığının satışa çıktığı araç ihalelerine katılma, pey şürme, ihale bedeli yatırma yetkilerini içeren vekaletnamesi düzenlendi. Davalının bu işlemleri gerçekleştirdiği iddia edildi, ancak ihale teminatı veya araç satım bedeli bulunmadığı belirtildi. Davacı vekili, davalının tüm malvarlığına ihtiyatı tedbir niteliğinde ihtiyatı haciz konulmasına talep etti.",
+        "reasoning_text": "Mahkeme, davacı vekilinin ihtiyatı haciz talebinin reddine karar verdi. Davacı vekilinin davalının ihale işlemlerini gerçekleştirdiğini iddia ettiği delillerin dosyalara sunulmadığı ve sunulan delillerden yaklaşıksız ispat koşulunun sağlanmadığı gerekçesiyle talep reddedildi. İhtiyatı haciz talebinin kabulüne karar verilmesi gerekiyordu, ancak talep reddedildi. Davacı vekilinin talebi İK 257 ve devamı maddeleri kapsamında değerlendirildi. İhtiyatı haciz kararı verilebilmesi için İK'nin 257/1. maddesine göre rehinle termin edilmiş ve vadesi geçmiş bir para borcunun alacaklısı olması gerekiyordu. Davacı vekilinin talebi İK'nin 258/1. maddesinin 2. cümlesine göre, mahkemeye kanaat getirecek deliller göstermeye mecburdu. Ancak sunulan deliller, vekaletname örneği ve Ağırl Ceza Mahkemesi dosyası içeriği, yaklaşıksız ispat koşulunu sağlamadı.",
+        "verdict_text": "İSTİNAF KABULÜNE; Bakırköy 7. Aslıye Ticaret Mahkemesi'nin 2021/1084 Esas sayılı 27/12/2021 Tarihli ara kararının HMK'nun 353(1)b-2 gereği KALDIRILMASINA; İhtiyatı haciz istemininin kabulü ile \"1.075.500-TL alacak yönünden alacağın %15'ine tekabül eden 161.325-TL terminat (nakit veya kesinsüresiz banka terminat mektubu) karşılığında İK'nin 257/1 maddesi gereğince davalının menkul ve gayrimenkul malları ile üçüncü şahıslardaki hak ve alacaklarından borca yetecek miktarın İcra İflas Kanunun koyduğu sınırlar içinde İHTİYATEN HACİZE, İhtiyatı haciz kararının Küçükçekmece ... İcra Dairesinin ... esas sayılı dosya üzerinden uygulanmasına, İK'nin 261. maddesi uyarınca on gün içinde infazının talep edilmesi halinde ihtiyatı haciz kararının kendiliğinden kalkmış sayılmasına, İhtiyatı haciz isteyen/davacı tarafından yatırılan 80,70-TL peşin istinaf karar harcının istek halinde kendisine iadesine, Terminatin tamamlanması ve ihtiyatı hacize dair işlemlerin ilk derece mahkemesi tarafından yerine getirilmesine, dosyanın karar veren mahkemeye gönderilmesine, Dosya üzerinde yapılan inceleme sonunda HMK 362(1)-f maddesi uyarınca kesin olmak üzere oy birliği ile karar verildi. 24/03/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İK 257",
+            "İK 258/1",
+            "İK 261",
+            "İK 362(1)-f",
+            "Hukuk Kurulu Kararı 353(1)b-2"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin davalının ihale işlemlerini gerçekleştirdiğini iddia ettiği talebini reddetti. Davacı vekilinin iddialarını destekleyecek deliller dosyalara sunulmadığı için talep kabul edilmedi. Mahkeme, İhtiyatı Haciz Kanunu'na dayanarak, davacı vekilinin talebinin reddine karar verdi. Davacı vekilinin talebi, İK'nin 257 ve devamı maddeleri kapsamında değerlendirildi ve reddedildi.",
+    "summary_for_model": "Davanın temeli, davacı vekilinin davalının ihale işlemlerini gerçekleştirdiğini iddia etmesi ve ihtiyatı haciz talebidir. Mahkeme, davacı vekilinin iddialarını destekleyecek delillerin dosyalara sunulmadığını ve sunulan delillerden yaklaşıksız ispat koşulunun sağlanmadığını gerekçe göstererek talebi reddetmiştir. İhtiyatı haciz talebinin reddi, İK'nin 257/1 ve 258/1 maddeleri çerçevesinde değerlendirilmiştir. Davacı vekilinin talebi, İK'nin 257/1 maddesine göre bir para borcunun alacaklısı olması ve İK'nin 258/1 maddesinin 2. cümlesine göre mahkemeye kanaat getirecek deliller gösterme zorunluluğuna dayanarak reddedilmiştir."
+}

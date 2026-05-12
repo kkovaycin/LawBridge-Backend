@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_74.pdf",
+        "court_name": "T.C. ANKARA 2. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2022/74",
+        "karar_no": "2022/364",
+        "case_subject": "Marka tescil ve itiraz davası",
+        "dava_tarihi": "02/03/2022",
+        "karar_tarihi": "17/11/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı şirketin 11. sınıfta tescil edilmiş markasına karşı itirazda bulundu. İddialara göre, davalı şirketin markası daha önce tescil edilmişti ve davacı markasının önceliğini iddia etti. Davalı şirketin markasının 11. sınıfta tescil edilmediği ve tüketicilerin iki markayı ayırt edemeyecekleri iddia edildi.",
+        "reasoning_text": "Kurum, davacı ve davalı şirketlerin hak sahipliği iddialarını inceledi. Davacı markasının daha önce tescil edilmiş olmasına rağmen, davalı şirketin markasının 11. sınıfta tescil edilmediği ve tüketicilerin iki markayı ayırt edemeyecekleri tespit edildi. Davacı markasının önceliğini iddia eden davacı, davalı şirketin markasının 11. sınıfta tescil edilmediği için itirazda bulundu.",
+        "verdict_text": "Davanın Reddine, Alınması gereken harç peşin alındığından bu konuda karar verilmesine yer olmadığına, Davacıın yapmış olduğu yargılama giderlerinin kendisi üzerinde birakılmasına, Davalların yapmış olduğu bir gider olmadığından bu konuda bir karar verilmesine yer olmadığına, Yatırılan ve kullanılmayan gider avansının, hükmün kesişmesini müteakip re'sen yatran tarafa iadesine, Daîr; taraf vekillerinin yüzlerine karşı, tebliği tarihinden itibaren iki hafta içinde... yolu açık olmak üzere verilen karar; açıkça okunup usulen anlatıldı.17.11.2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Sınai Mülkiyet Kanunu (SMK)",
+            "TTK 18/2.maddesi",
+            "Hukuk Muhakemeleri Kanunu Yazı İşleri Yönetmeliği'nin 41/2.maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin markasına karşı itirazda bulundu. Kurum, davacı markasının daha önce tescil edilmiş olmasına rağmen, davalı şirketin markasının 11. sınıfta tescil edilmediği ve tüketicilerin iki markayı ayırt edemeyecekleri tespit etti. Davacı markasının önceliğini iddia eden davacı, davalı şirketin markasının 11. sınıfta tescil edilmediği için itirazda bulundu.",
+    "summary_for_model": "Dava, davacı ve davalı şirketlerin markaları arasındaki hak sahipliği ve öncelik iddialarını konu alan bir markalaşma ve itiraz davasıdır. Kurum, davacı markasının daha önce tescil edilmiş olmasına rağmen, davalı şirketin markasının 11. sınıfta tescil edilmediği ve tüketicilerin iki markayı ayırt edemeyecekleri tespit etti. Davacı markasının önceliğini iddia eden davacı, davalı şirketin markasının 11. sınıfta tescil edilmediği için itirazda bulundu."
+}

@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2019_456.pdf",
+        "court_name": "T.C. İSTANBUL 13. AŞLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2019/456",
+        "karar_no": "2019/719",
+        "case_subject": "Haksız rekabetin tesbiti",
+        "dava_tarihi": "17/12/2013",
+        "karar_tarihi": "19/09/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davalı, vekilinin platformunda yer alan yayınların durdurulmasını talep etmiştir. Karşı dava, platformun davalı şirketin kanallarını taşıma yükümlülüğünün tesbitine odaklanmıştır.",
+        "reasoning_text": "Mahkeme, davalı ve karşı davalı arasındaki anlaşmanın sona ermesinin platformun kanalları taşıma yükümlülüğünü ortadan kaldırmadığını ve bu durumun haksız rekabet olarak nitelendirilebileceğini tespit etmiştir.",
+        "verdict_text": "Asıl dava, karşı dava ve birleşen dava yönünden davayı görmeye Mahkememizin GÖREVŞİZLİĞİNE, davaların HMK 114/(1)-c 115/(2) Maddeleri uyarınca GÖREVŞİZLİK nedeniyle USULDEN REDDİNE, 2-HMK 20 madde uyarınca dosyaların talep halinde ve karar kesinleştiğinde yetkili ve görevli İSTANBUL NÖBETÇİ FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİNE GÖNDERİLMESİNE, 3-H.M.K.'nun 20. maddesi uyarınca kararın kesinleşmesi tarihinden itibaren taraflardan herhangi birinin iki hafta içerisinde Mahkememize başvurarak dosyanın görevli ve yetkili Mahkemesine gönderilmesi talebinde bulunmaması halinde dosyanın Mahkememizce resen ele alınarak davanın açılmamış sayılmasına karar verileceğine, 4-Yargılama giderleri, harç ve vekalet ücreti hususunun H.M.K.'nun 331. maddesi uyarınca davaya görevli ve yetkili mahkemede devam edilmesi halinde o mahkemede, davaya başka bir mahkemede devam edilmediği takdirde dosya ele alındığında davanın açılmamış sayılmasına karar verilmesi halinde mahkememizce değerlendirilmesine karar verilmiştir.",
+        "structural_features": {
+            "mentioned_laws": [
+                "TTK 54 ve devamı maddeleri",
+                "TTK 55/1-a-1 maddesi",
+                "TTK 56/(1)-d ve e maddeleri",
+                "TBK 58. maddesi",
+                "H.M.K. 20. maddesi",
+                "H.M.K. 331. maddesi",
+                "H.M.K. 114/(1)-c 115/(2) Maddeleri"
+            ]
+        }
+    },
+    "summary_for_human": "Mahkeme, davalı ve karşı davalı arasındaki anlaşmanın sona ermesinin platformun kanalları taşıma yükümlülüğünü ortadan kaldırmadığını ve bu durumun haksız rekabet olarak nitelendirilebileceğini tespit etmiştir.",
+    "summary_for_model": "Dava, platformun davalı şirketin kanallarını taşıma yükümlülüğünün tesbitine odaklanmıştır. Mahkeme, anlaşmanın sona ermesinin bu yükümlülüğü ortadan kaldırmadığını ve haksız rekabet olarak nitelendirilebileceğini tespit etmiştir."
+}

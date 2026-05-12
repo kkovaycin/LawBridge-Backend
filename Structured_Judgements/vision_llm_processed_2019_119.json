@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2019_119.pdf",
+        "court_name": "T.C. İSTANBUL 1.FİKRÎ VE SANATİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2019/119 Esas",
+        "karar_no": "2019/163",
+        "case_subject": "Fikir ve Sanat Eseri (Maddi Tazminat İstemli), Fikir ve Sanat Eseri (Manevi Tazminat İstemli) davası",
+        "dava_tarihi": "09/04/2019",
+        "karar_tarihi": "10/04/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Dava, Fikir ve Sanat Eserleri davası olarak açıldı. Davacı vekili, davalı şirketin 14.06.2019 ile 25.01.2019 arasında Belgesel Yapımcısı olarak çalıştığını, 2017'de Misafir ve 2018'de Transit isimli iki belgeselinin yazımını ve çekimini gerçekleştirdiğini iddia etti. Davalı şirketin, davacı vekilinin fikri mülkiyet haklarını ihlal ettiğini, sosyal medyada paylaşım yaptığını ve hak ihlali nedeniyle dava açıldığını belirtildi.",
+        "reasoning_text": "Dava, ticari davalar kapsamında arabuluculuk kanunu 18/A maddesi uyarınca dava şartı olarak kabul edildi. Davacı vekilinin arabuluculuk faaliyetinin sonucsuz sonuçlandığına dair belge sunulmadığı için dava usulden reddedildi. Davacı tarafından yapılan yargılama giderlerinin kendisi üzerinde bırakılması talebi reddedildi.",
+        "verdict_text": "Dava dilekçesinin dava şartı yokluğundan usulden reddine, karar tarihinde yürürlükte bulunan Harçlar Tarifesi uyarınca 44,40 TL ilam harcının 344,97 TL peşin harçtan mahsubu ile fazla yatırılan 300,57 TL'nin karar kesinleştiğinde ve talebi halinde davacıya iadesine, davacı tarafından yapılan yargılama giderlerinin kendi üzerinde bırakılmasına, dava tarafından yatırılan gider avansından kullanılmayan kısmının talep halinde ve karar kesinleştiğinde iadesine, dair, dosya üzerinde yapılan tensip incelemesi sonucunda (HMK 345/1 md. gereğince) gerekli kararın tebliğinden itibaren esas hükmüle birlikte 2 hafta içerisinde Mahkememize veya başka bir yer mahkemesine dilekçe ile başvurmak ve istinaf harcı ile gerekli giderlerin tamamı ödemek suretiyle, İstanbul Bölge Adliye Mahkemesi nezdiğinde İSTİNAF yasa yolu açık olmak üzere tensiben karar verildi. 12/04/2019"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "18.12.2018 tarih ve 7155 sayılı kanun",
+            "6102 sayılı Türk Ticaret Kanunu",
+            "6325 sayılı hukuk uyumlulukları",
+            "HMK 115/2 maddeleri",
+            "HMK 345/1 md."
+        ]
+    },
+    "summary_for_human": "Dava, fikri mülkiyet ihlali iddiasıyla açıldı ancak arabuluculuk faaliyetinin sonucsuz sonuçlandığına dair belge sunulmadığı için usulden reddedildi. Davacı tarafından yapılan giderler kendisi üzerinde bırakıldı.",
+    "summary_for_model": "Dava, ticari davalar kapsamında arabuluculuk kanunu 18/A maddesi uyarınca dava şartı olarak kabul edildi. Davacı vekilinin arabuluculuk faaliyetinin sonucsuz sonuçlandığına dair belge sunulmadığı için dava usulden reddedildi. Davacı tarafından yapılan yargılama giderlerinin kendisi üzerinde bırakılması talebi reddedildi."
+}

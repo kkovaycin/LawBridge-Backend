@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2017_1359.pdf",
+        "court_name": "T.C. BURSA 1. AŞLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2017/1359",
+        "karar_no": "2018/429",
+        "case_subject": "Marka hakları ihlali ve haksuz rekabet davası",
+        "dava_tarihi": "25/10/2017",
+        "karar_tarihi": "04/04/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekilinin İple Erişim sistemleri firmasının sahibi olduğunu iddia ediyor. Vekil, davalı şirketin ürünlerini kullanırken hak ihlali yaptığını, müşteri bilgilerini kötüye kullandığını ve markayı kötüye kullandığını iddia ediyor.",
+        "reasoning_text": "Mahkeme, dava dilencesi ve cevap dilencesi değerlendirildikten sonra, davanın özel niteliği nedeniyle HSYK tarafından görevlendirilen Bursa 3. Nolu Aslıye Hukuk Mahkemesine gönderildiğini kararlaştırdı.",
+        "verdict_text": "Mahkemenin GÖREVŞİZLİĞİNE, Dava dilekçesinin Görev Yönünden REDDİNE, Dossanın HMK 20. Maddesi uyarınca kararın Kesinleşmesinden itibaren 2 haftalık süre içinde talep edilmesi halinde görevli ve yetkili Bursa 3. Nolu AŞLIYE HUKUK MAHKEMESİ'NE GÖNDERİLMESİNE karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı HMK",
+            "6100 Sayılı HMK'nin 1.maddesi",
+            "6100 Sayılı HMK'nin 114/1-c maddesi",
+            "6100 Sayılı HMK'nin 331/2.maddesi",
+            "5846 Sayılı FSEK",
+            "556 Sayılı Markaların Korunması hakkındaki KHK",
+            "551 Sayılı KHK"
+        ]
+    },
+    "summary_for_human": "Davacı, vekilinin markayı kötüye kullandığını iddia ediyor. Mahkeme, davayı özel niteliği nedeniyle başka bir mahkemeye göndermeye karar verdi.",
+    "summary_for_model": "Dava, marka hakları ihlali ve haksuz rekabet iddialarıyla ilgilidir. Mahkeme, davayı HSYK tarafından görevlendirilen Bursa 3. Nolu Aslıye Hukuk Mahkemesine göndermeye karar verdi."
+}

@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2021_412.pdf",
+        "court_name": "İstanbul 2. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/412",
+        "karar_no": "2022/92",
+        "case_subject": "Marka hakları ihlali ve tecavüz davası",
+        "dava_tarihi": "29/12/2021",
+        "karar_tarihi": "11/05/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının Facebook ve Instagram sayfalarında kendisine ait markaların kullanıldığını iddia ediyor. Davacı, markaların kullanılmasına karşı dava açtı ve davalının masrafları ödemesini talep etti.",
+        "reasoning_text": "Mahkeme, davanın kabulüne karar verdi ve davacıya karşı dava kaybetti. Mahkeme, davacıya karşı dava kaybetti ve davacıya karşı dava kaybetti. Davacıya karşı dava kaybetti.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklanmış olarak,\n1-Davanın vakı kabulü ve 19/04/2022 tarihli sulh protokolü dikkate alınarak;\nA) Hükümsüzlüğe yönelik dava yönünden; davanın KABULÜ ile; TPMK nezdinde davalı adına ... no ile ... sınıfta tescilli \"...\" ibareli markanın HÜKÜMSÜZLÜĞÜNE, sicilden terkine,\nB) Markaya tecavüze yönelik dava yönünden; Davalının adına kayıtlı facebook ve instagram sitelerinde bulunan sayfalar üzerinden \"...\", \"...\" ve \"...\" ibareli kullanımlarının davacı adına tescilli ... tescil nolu Vatan ..., ... tescil nolu ..., ... tescil nolu ..., ... tescil nolu ... ibareli markalarına tecavüz oluşturduğunun TESBITİNE, 19/04/2022 tarihli sulh protokollü hükmüleri gereği men ve ref e yönelik talepler konusuz kaldığından karar verilmesine yer olmadığına,\n2-Karar tarihinde yürürlükte bulunan Harçlar Tarifeşi uyarınca hesap olan 80,70 TL karar harcının peşin yatırılan 59,30TL'nin mahsubu ile bakiye kalan 21,40 TL'nin davalından tahsili ile hazineye irat kaydına,\n3-Davacı tarafından yapılan: 1303,00 TL bilirkişi + posta gideri ile 127,10 TL harç (peşin+vekalet+başvuru) olmak üzere toplam 1.430,10 TL, yargılama giderinin davalından alınarak davacıya ödenmesine,\n4-Davalının yapmış olduğu masrafların kendi üzerinde bırakılmasına,\n5-a)Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifeşi 6 md uyarınca kabul edilen tecavüz talepleri yönünden hesap olan 3.687,50 TL vekalet ücretinin davalından alınarak kendisini vekile temsil eden davacıya ödenmesine,\nb)Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifeşi 6 md uyarınca kabul edilen hükümsüzlük talepleri yönünden hesap olan 3.687,50 TL vekalet ücretinin davalından alınarak kendisini vekile temsil eden davacıya ödenmesine,\n6-Artan gider avansının karar kesinleştiğinde talep halinde yatırana iadesine,\nDair taraf vekillerinin yokluğunda, (HMK 345/1 md. gereğince) gerekli kararın tebliğiğinden itibaren 2 hafta içerisinde Mahkememize veya başka bir yer mahkemesine dilekçe ile başvurmak ve istinaf harcı ile gerekli giderlerin tamamı ödenmek suretiyle, İstanbul Bölge Adliye Mahkemesine istinaf yolu açık olmak üzere verilen karar, açıkça okunup usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK) 308, 309, 310, 311, 312, 345/1"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının Facebook ve Instagram sayfalarında kendisine ait markaların kullanıldığını iddia etti. Mahkeme, davayı kabul etti ve davacıya karşı dava kaybetti. Davacıya karşı dava kaybetti.",
+    "summary_for_model": "Davacı, davalının sosyal medya sayfalarında kendisine ait markaların kullanıldığını iddia etti. Mahkeme, davayı kabul etti ve davacıya karşı dava kaybetti. Davacıya karşı dava kaybetti."
+}

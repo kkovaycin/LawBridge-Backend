@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2018_1092.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2017/457 - 2018/345 E.K",
+        "karar_no": "2019/225",
+        "case_subject": "Tazminat davası",
+        "dava_tarihi": "02/04/2018",
+        "karar_tarihi": "14/02/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkili şirketin yüksek hızda internet erişimi sağlamak amacıyla 5809 Sayılı Elektronik Haberleşme Kanunu çerçevesinde yetkilendirilen bir elektronik haberleşme işletmecisi olduğu iddiasıyla davayı açmıştır. Davacı, davalının Twitter hesabından yapılan açıklamaların hakları ihlal ettiğini iddia etmiştir.",
+        "reasoning_text": "İlk derece mahkemesi, davalının açıklamalarının haklı olarak reddedildiğini ve davacı vekilinin istinaf başvurusunun haklı olduğunu değerlendirmiştir. Hüküm, HMK 353/1.a.3 maddesi uyarınca ilk derece mahkemesinin kararının kaldırılmasına karar vermiştir.",
+        "verdict_text": "1-HMK'nun 353/1.a.3 maddesi uyarınca, ilk derece mahkemesinin kararının KALDIRILMASI NA, 2-Dosyanın görevli İstanbul Anadolu 5. Asliye Ticaret Mahkemesine gönderilmesine, 3-Davacı tarafından yatırılan istinaf peşin harcının ilk derece mahkemesi tarafından, talep halinde davacıya iadesine, 4-Davacı tarafından istinaf başvurusu için yapılan yargılama giderlerinin esas hükmüle ilk derece mahkemesi tarafından değerlendirilmesine, 5-Gerekli kararın bir örneğinin, İlk Derece Mahkemesi tarafından taraflara tebliği ne, 6-Dosyanın derhal karar veren ilk derece mahkemesine gönderilmesine dair; HMK.353.maddesi uyarınca dosya üzerinde yapılan inceleme sonucunda, 14/02/2019 tarihinde oybirliğiyle ve kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "5809 Sayılı Elektronik Haberleşme Kanunu",
+            "Türk Ticaret Kanunu",
+            "HK 353/1.a.3",
+            "HK 362/1.c"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının Twitter açıklamalarının hakları ihlal ettiğini iddia ederek 10.000 TL tazminat talep etmiştir. İlk derece mahkemesi, davalının açıklamalarının haklı olarak reddedildiğini ve davacı vekilinin istinaf başvurusunun haklı olduğunu değerlendirmiştir. Hüküm, ilk derece mahkemesinin kararının kaldırılmasına karar vermiştir.",
+    "summary_for_model": "Davacı vekili, davalının Twitter açıklamalarının hakları ihlal ettiğini iddia ederek tazminat talep etmiştir. İlk derece mahkemesi, davalının açıklamalarının haklı olarak reddedildiğini ve davacı vekilinin istinaf başvurusunun haklı olduğunu değerlendirmiştir. Hüküm, HMK 353/1.a.3 maddesi uyarınca ilk derece mahkemesinin kararının kaldırılmasına karar vermiştir."
+}

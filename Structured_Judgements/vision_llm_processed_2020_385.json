@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2020_385.pdf",
+        "court_name": "T.C. İSTANBUL 2.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2020/385",
+        "karar_no": "2020/465",
+        "case_subject": "Endüstriyel Tasarım (Maddi Tazminat İstemli) davasının birleştirilmesi",
+        "dava_tarihi": "24/11/2020",
+        "karar_tarihi": "14/12/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davada tasarım faaliyetinde bulunduğunu iddia etti. Mahkeme, davaların birleştirilmesinin uygun olduğunu tespit etti.",
+        "reasoning_text": "Mahkeme, davaların birleştirilmesinin usul ekonomisi yönünden faydalı olacağını ve davaların birlikte görülmesinin hukuki yarar ve zorunluluk bulunduğunu gerekçelendirdi.",
+        "verdict_text": "Mahkeme, davaların birleştirilmesine karar verdi. Davaların birleştirilmesinin, davaların birlikte görülmesinin usul ekonomisi yönünden faydalı olacağını ve davaların birlikteliğinin hukuki yarar ve zorunluluk bulunduğunu tespit etti."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK'nun 166. maddesi",
+            "5070 sayılı Elektronik İmza Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, Endüstriyel Tasarım davasını başka bir dava ile birleştirdi. Bu birleştirme, davaların birlikte görülmesinin usul ekonomisi yönünden faydalı olacağını ve hukuki yarar ve zorunluluk bulunduğunu gerekçelendirdi.",
+    "summary_for_model": "Mahkeme, davaların birleştirilmesinin usul ekonomisi ve hukuki yarar yönünden uygun olduğunu tespit etti. Bu birleştirme, davaların birlikte görülmesini kolaylaştıracaktır."
+}

@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2021_273.pdf",
+        "court_name": "İstanbul Anadolu 2. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/273",
+        "karar_no": "2021/425",
+        "case_subject": "Marka Tecavüzü ve Haklı Rekabete İlişkin İddialar",
+        "dava_tarihi": "26/11/2020",
+        "karar_tarihi": "05/03/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilin Türkiye'de ilk üniversite hazırlık dershanesini kurduğunu, Fen Bilimleri Eğitim Kurumu üyesi olduğunu ve ticari markaları kullandığını iddia etmiştir. Müvekkilin markaları kullanması, haklı rekabete tecavüz ve markaya tecavüz iddialarına yol açmıştır. Davacı, Instagram hesabındaki 'sancaktepefnbilimlerikurs' kullanımları nedeniyle engelleme talep etmiştir.",
+        "reasoning_text": "Mahkeme, dava dosyasının tamamını inceledi ve dava vekilinin istinaf talebini reddetti. İstinaf talebinin reddedilmesinin temel gerekçesi, dava vekilinin istinaf sebeplerinin geçerli bulunmamasıdır. Mahkeme, dava vekilinin istinaf talebinin Hüküm Kurulu tarafından reddedilmesini uygun bulmuştur.",
+        "verdict_text": "Davacı vekilinin istinaf talebinin HMK'nun 353/1-b1 maddesi uyarınca ES ASTAN REDDİNE, alınması gereken 59,30 TL harçtan, peşin alınan 54,40 TL harçın mahsubu ile bakiye 4,50 TL harçın davalardan alınarak hazineye irad kaydına, davalı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, istinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, dosya üzerinde yapılan inceleme sonucunda oy birliği ile HMK'nun 362/1-f maddesi uyarınca kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353. Maddesi",
+            "HMK 362/1-f Maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, dava vekilinin istinaf talebini reddetti. İstinaf talebinin reddedilmesinin temel gerekçesi, dava vekilinin istinaf sebeplerinin geçerli bulunmamasıdır. Davacı vekilinin istinaf talebinin Hüküm Kurulu tarafından reddedilmesi uygun görülmüştür.",
+    "summary_for_model": "Davacı vekilinin istinaf talebinin HMK'nun 353/1-b1 maddesi uyarınca ES ASTAN REDDİNE, alınması gereken 59,30 TL harçtan, peşin alınan 54,40 TL harçın mahsubu ile bakiye 4,50 TL harçın davalardan alınarak hazineye irad kaydına, davalı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, istinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, dosya üzerinde yapılan inceleme sonucunda oy birliği ile HMK'nun 362/1-f maddesi uyarınca kesin olarak karar verildi."
+}

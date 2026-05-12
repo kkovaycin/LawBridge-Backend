@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2021_727.pdf",
+        "court_name": "Antalya 1. Aslüye Ticaret Mahkemesi",
+        "esas_no": "2021/727 Esas",
+        "karar_no": "2023/138",
+        "case_subject": "Ticari şirket (Yöneticilerin Azline İlişkin) davasının açık yargılaması sonrasında karç verilmesi",
+        "dava_tarihi": "01/12/2021",
+        "karar_tarihi": "07/03/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, davalı ile davacı arasında şirket müdürülük, para akışımları ve yönetim ihmalı iddialarını içermektedir. Davalı, şirketin para akışımlarında usulsüzlükler yaptığını iddia etmektedir.",
+        "reasoning_text": "Mahkeme, davalı müdürün çekilmesinde TTK 630/2 ve 639/3 maddeleri uyarınca haklı nedenler bulunduğunu saptamıştır. Davalı müdürün çekilmesinin, şirketin yönetim yetkilerinin ihlali olarak değerlendirildiği kararlaşımı verildiğitir.",
+        "verdict_text": "1-Davanın KABULÜ İLE; Antalya Ticaret Sıcıl Müdürlüğün ... numarasına kayıtlı ... LİMİTED ŞİRKETİ müdürü davalı ...'in TTK 630.maddesi uyarınca AZLİNE,\n2-Ortaklar kurulu ile yeni müdür seçimi yapılana kadar kararın kesinleşmesinden itibaren şirket yönetimine kayım olarak mali müşavir ...'in atanmasına,\n3-Göreve başlama tarihinden itibaren kayıma aylık 1.500,00 TL ücret taktirine, kayım ücretinin davacı şirket bünyesinden karşlanmasına,\n4-Karar kesinleştiğinde bir örneğinin Antalya Ticaret Sıcıl Müdürlüğü'ne gönderilmesine,\n5-Alınması gereken 179,90 TL harçtan peşin alınan 59,30 TL harçin mahsubu ile bakiye 120,60 TL harçin davaldan tahsiline,\n6-Davacı tarafından yapılan 59,30 TL başvurma harçi ve 59,30 TL peşin harçin davaldan alınarak davacıya verilmesine,\n7-Davacı tarafından yapılan 2.400 TL bilirkii ücreti, 334,70 TL tebliğat ve posta gideri olmak üzere toplam 2.734,70 TL yargılama giderinin davaldan alınarak davacıya verilmesine,\n8-A.A.Ö.T uyarınca hesaplanan 9.200,00 TL vekalet ücretinin, davaldan alınarak davacıya verilmesine,\n9-Sarf edilmeyen gider avansının HMK.'nin 333. maddesi uyarınca davacıya iadesine,\nDair, davacı vekili ile davalı vekilinin yüzüne karşı kararın tebliği tarihinden itibaren 2 hafta içerisinde İstinaf yasa yolu açık olmak üzere oy birliği ile verilen karar açıkça okunup, anlatıldı. 07/03/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 630/2",
+            "TTK 639/3",
+            "TTK 614",
+            "TTK 630/2.3",
+            "TTK 6102",
+            "HMK 333"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davalı müdürün çekilmesinde TTK 630/2 ve 639/3 maddeleri uyarınca haklı nedenler bulunduğunu saptamıştır. Davalı müdürün çekilmesinin, şirketin yönetim yetkilerinin ihlali olarak değerlendirildiği kararlaşımı verildiğitir.",
+    "summary_for_model": "Mahkeme, davalı müdürün çekilmesinde TTK 630/2 ve 639/3 maddeleri uyarınca haklı nedenler bulunduğunu saptamıştır. Davalı müdürün çekilmesinin, şirketin yönetim yetkilerinin ihlali olarak değerlendirildiği kararlaşımı verildiğitir. Davalı müdürün çekilmesinin sonucunda yeni müdür atanması ve kayım olarak mali müşavir atanması kararlaşımı verildiğitir."
+}

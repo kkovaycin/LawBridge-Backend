@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2022_1009.pdf",
+        "court_name": "İzmir Bölge Adliye Mahkemesi",
+        "esas_no": "2021/791 E. 2022/291 K.",
+        "karar_no": "2022/1194",
+        "case_subject": "Haksız rekabet davası",
+        "dava_tarihi": "30/03/2022",
+        "karar_tarihi": "12/09/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın evlilik durumunun devam ettiğini, 2016'da vekil tarafından verilen vekaletnamenin işletmeyi yönetmek için verildiğini, davanın internet sitesinde reklam kodları kullandığını iddia etmiştir. Cevap davacı, davanın ticari işletmesini durdurduğunu, vekilin internet sitesinde reklam kodları kullandığını ve davanın internet sitesinde reklam kodları kullandığını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davanın vekilinin istinaf başvurusunun kabul edilmesi gerektiğini, ilk derece mahkemesinin kararının kaldırılması gerektiğini ve davanın usulden reddine karar verildiğini karar vermiştir. Davanın vekilinin istinaf başvurusu kabul edilmiştir.",
+        "verdict_text": "HÜKÜM:Yukarıda açıklanan nedenlerle;\n1-Davacı vekilinin istinaf başvurusunun KABULÜNE,\n2-İzmir 6. Aslıye Ticaret Mahkemesi'nin 30.03.2022 tarih 2021/791 E. 2022/291 K. sayılı kararının HMK'nın 353/1-a-3 maddesi uyarınca KALDIRILMASINA, yeniden bir karar verilmek üzere dosyanın mahal mahkemesine GÖNDERILMESINE,\n3-Istinaf yoluna başvuran tarafından yatırılan istinaf karar harcının istek halinde istinaf yoluna başvurana iadesine,\nDosya üzerinden yapılan inceleme neticesinde, 6100 sayılı Hukuk Muhakemeleri Kanununun 353/1-a-3 maddesi gereğince kesin olmak üzere oybirliği ile karar verildi.12.09.2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Ticaret Kanunu",
+            "İş Mahkemeleri Kanunu",
+            "Hukuk Muhakemeleri Kanunu",
+            "Ticaret Mahkemeleri Kanunu",
+            "Türkiye Ticaret Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, vekilinin internet sitesinde reklam kodları kullandığını iddia ediyor. Mahkeme, davanın vekilinin istinaf başvurusunu kabul etti ve ilk derece mahkemesinin kararını kaldırdı.",
+    "summary_for_model": "Davacı vekili, davanın internet sitesinde reklam kodları kullandığını iddia ediyor. Mahkeme, davanın vekilinin istinaf başvurusunu kabul etti ve ilk derece mahkemesinin kararını kaldırdı. Davanın vekilinin istinaf başvurusu kabul edilmiştir."
+}

@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2020_327.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2020/327",
+        "karar_no": "2022/99",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "01/10/2019",
+        "karar_tarihi": "18/01/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde; müvekkili ... A.Ş ... mobil telekomünikasyon hizmetlerini önce Ulaştırma Bakanlığı ile imzalaştığı, daha sonra 4673 sayılı Kanunun geçici 2 nci maddesi gereğince bilgi Teknolojileri ve iletişim kurumu ile yenilediği \"imtiaz sözleşmesi\" kapsamında yürüttüğünü, müvekkilin şirketinin isim ve logosu ile birçok ürünü TÜRK PATENT OFİSİ (TPE) nezdinde marka olarak tescilli olduğunu ve şirketin markası ... tanınmış marka statüsünde olup, TPE nezdinde ... tescil numarası ile koruma altında olduğunu, davalının ... ID nolu ve ... adlı kişisel Twitter hesabından, müvekkiline son derece ağır ifadelerde bulunduğunu, davalının kamuoyuna yönelik yapmış olduğu 11 farklı paylaşımla müvekkilinin kişilik haklarını ve ticari itibarın son derece ağır bir biçimde ihlal eden açıklamaları nedeniyle 100.000-TL manevi tazminat talep ve dava etmiştir. Davalının cevap dilekçesi sunmadığı görülmüştür.",
+        "reasoning_text": "İlk derece mahkemesince; \"Her ne kadar davacı tarafından davaya konu paylaşımları yaptığı belirtilen ... isimli twitter hesabını davalının kullandığından bahisle davalı hakkında manevi tazminat davası açılmış ise de; bu hesabın davalı tarafından kullanıldığını gösterir objektif bir delil dosyaya sunulamadığı, aynı olarak ilgli olarak başlatıldığı anlaşlan ceza soruşturması kapsamında yukarıda açıklanan polis araştırmalarıyla söz konusu kullanıcı hesabının askıya alınmış olması nedeniyle bu hesapla ilgili hiçbir tespitin yapılamadığı, buna göre kullanıcısının tesbitinin mümkün olmadığı anlaşıldığından, kullanıcısı belirlenemeyen hesapla ilgili olarak açılan davanın reddine karar verilmiştir. Davacı tarafından \"belirtilen hesabın kullanıcısının tesbiti için Twitter firmasına yazı yazılması talep edilmiş ise de, firmanın ABD merkezli olduğu, Türkiye'de ofisinin bulunmadığı, firma merkezine yazı yazılması halinde dahi \"Cinayet, ulusal güvenlik, terör vb.\" suçları hariçinde mahkeme ve savcılıklara bilgi verilmediği, yerleşik yargısal uygulamalarla anlaşıldığından, sonuç alınamayacak ve dosyanın sürümcemede kalacağı düşüncesyle bu yola gidilmemiştir.\" denilerek davanın reddine karar verilmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklanmış olduğu üzere; 1-İstanbul Anadolu 1. Asliye Ticaret Mahkemesinin 01/10/2019 tarih, 2018/578 Esas - 2019/935 Karar sayılı kararına karşı davacı vekili tarafından yapılan istinaf başvurusunun HMK 353/1-b.1 maddesi gereğince ES ASTAN REDDİNE, 2-Harçlar Kanunu uyarına göre alınması gerekli 80,70-TL maktu istinaf karar ve ilam harcından, peşin yatırılan 44,40-TL harcin mahsubu ile kalan 36,30-TL harcin davacidan alınarak Hazineye gelir kaydına, 3-İncelemenin duruşmasız olarak yapılması nedeniyle avukatlık ücreti takdirine YER OLMADIĞINA, 4-Yasa yoluyla başvuran tarafından yapılan giderlerin üzerinde bırakılmasına, 5-HMK'nın 359. Maddesinin 4. fikrası gereği karar kesin niteliğinde olduğundan kararın taraflara tebliği işleminin ilk derece mahkemesi tarafından yapılmasına, HMK. m. 353/1-b/1 hükmü uyarına göre, dosya üzerinde yapılan inceleme sonucunda ve HMK. m. 362/1-a mad. gereğince, miktar itibarıyla kesin olmak üzere oy birliğiyle karar verildi. 18/01/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353. maddesi",
+            "4673 sayılı Kanun",
+            "6098 sayılı Türk Borçlar Kanunu",
+            "2-Harçlar Kanunu",
+            "HMK 359. Maddesi"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir şirketin internetteki kişisel hesabından yapılan eleştiriler nedeniyle manevi tazminat talep eden bir kişinin davasının reddedilmesiyle ilgilidir. İlk derece mahkemesi, davacı tarafından sunulan delillerin yetersiz olduğunu ve hesabın kullanıcılarının belirlenemediğini gerekçe göstererek davayı reddetmiştir. Davacı, bu kararı istinaf yoluyla itiraz etmiştir. İstinaf mahkemesi ise ilk derece kararının doğru olduğunu ve davanın reddedilmesini uygun bulmuştur.",
+    "summary_for_model": "Dava, internetteki kişisel hesabından yapılan eleştiriler nedeniyle manevi tazminat talep eden bir kişinin davasının reddedilmesiyle ilgilidir. İlk derece mahkemesi, davacı tarafından sunulan delillerin yetersiz olduğunu ve hesabın kullanıcılarının belirlenemediğini gerekçe göstererek davayı reddetmiştir. Davacı, bu kararı istinaf yoluyla itiraz etmiştir. İstinaf mahkemesi, HMK 353/1-b.1 maddesine dayanarak ilk derece kararının doğruluğunu teyit ederek davayı reddetmiştir. Davacı vekili, HMK 353/1-b.1 maddesine dayanarak istinaf başvurusunda bulunmuştur. Davanın reddine karar verilmiştir."
+}

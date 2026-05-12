@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2021_217.pdf",
+        "court_name": "T.C. İSTANBUL 8. AŞLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2021/217 Esas",
+        "karar_no": "2023/226",
+        "case_subject": "İtirazın İptali Davası",
+        "dava_tarihi": "26/03/2021",
+        "karar_tarihi": "15/03/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, davalı ile davacı arasında imzalanan franchise sözleşmesinin ihlali nedeniyle ihlallerden dolayı dava açıldı. Davalı, ihlallerden dolayı cezai şart ödemesi, sözleşme ihlalleri ve ihbarların ihmal edilmesi gibi suçlamalarla karşı karşıya kaldı. Davacı, davalı tarafından ihlallerin kanıtlandığını iddia etti.",
+        "reasoning_text": "Mahkeme, davacı tarafından sunulan deliller ve tanık ifadeleri üzerinden davalı tarafından ihlallerin kanıtlandığını tespit etti. Davalı tarafından ihlallerin ihmal edildiği ve ihbarların ihmal edildiği tespit edildi. Davacı tarafından ihlallerin kanıtlandığı için dava kabul edildi.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davanın KABULÜ ile, davalının İstanbul ... İcra Müdürlüğünün ... esas sayılı takip dosyasına vaki itirazin 37.500,00 USD yönünden İPTALİNE, tahsilde tekerrüretmek kaydıyla takibin, 37.500,00 USD alacak üzerinden ve bu alacakta takip tarihinden itibaren takip taleplerindeki yıllık %2 oranını geçmemek üzere 3095 sayılı Yasanın 4/a maddesi uyarınca Devlet Bankalarının USD döviz cinsinden alımış bir yıl vadeli mevduat hesabına ödediği en yüksek faiz oranı üzerinden temerrüt faizi yürütülmesi suretiyle kaldığı yerden DEVAMINA, 2-İİK'nin 67/2. maddesi uyarınca, hükmlunan alacakın (takip tarihindeki kur karşılığı olarak 297.573,75 TL'nin) %20'si nispetinde takdir edilen 59.514,75 TL icra inkâr tazminatının davalıdan alınarak davacıya VERİLMESİNE, 3-6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu 18/A-13. maddesi uyarınca ve Arabuluculuk Kanunu Yönetmelği Tarife hükümleri uyarınca Adalet Bakanlığı bütçesinden ödenen 1.320,00-TL arabuluculuk giderinin davalıdan alınarak HAZİNEYE GELİR KAYDINA, 4-Davacının yaptığı ilk masraf 59,30 TL, bilirkişi ücreti 3.000,00 TL, posta gideri 394,50 TL olmak üzere toplam 3.453,80 TL yargılama giderinin davalıdan alınarak davacıya VERİLMESİNE, 5-Davacı kendisini vekille temsil ettirdiğinden, karar tarihi Avukatlık Asgari Öcret Tarifeşine göre hesaplanan 44.660,33-TL ücreti vekaletin davalıdan alınarak davacıya VERİLMESİNE, 6-Taraflarca yatırılan gider ve delil avansından sarfedilmeyen kısmın karar kesilmesine İADESİNE, 7-Yazi İşleri Hizmetlerinin Yürütülmesine Dair Yönetmelğin 67/1. maddesi gereğince taraflardan birinin talebi üzerine kararın tebliğe ÇIKARTILMASINA, Dair; davacı vekilinin yüzüne karşı, davalı taraf yokluğunda, HMK'nın 341/1 ve 345. maddeleri gereğince gerekli kararın tebliğ tarihinden itibaren iki haftalık yasal süre içerisinde İstanbul Bölge Adliye Mahkemesi nezdiinde İSTINAF kanun yolu açık olmak üzere karar verildi. 15/03/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "3095 sayılı Yasanın 4/a maddesi",
+            "İİK'nin 67/2. maddesi",
+            "6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu 18/A-13. maddesi",
+            "Arabuluculuk Kanunu Yönetmelği Tarife hükümleri",
+            "Yazi İşleri Hizmetlerinin Yürütülmesine Dair Yönetmelğin 67/1. maddesi",
+            "HMK'nın 341/1 ve 345. maddeleri"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı tarafından iddia edilen franchise sözleşmesinin ihlallerini ve ihbarların ihmal edilmesini kabul etti. Davalı tarafından ihlallerin kanıtlandığı için dava kabul edildi ve davacıya 37.500,00 USD alacak üzerinden icra inkâr tazminatı, arabuluculuk giderleri ve yargılama giderleri tahsil edildi.",
+    "summary_for_model": "Mahkeme, davacı tarafından sunulan deliller ve tanık ifadeleri üzerinden davalı tarafından ihlallerin kanıtlandığını tespit etti. Davacı tarafından ihlallerin kanıtlandığı için dava kabul edildi ve davacıya 37.500,00 USD alacak üzerinden icra inkâr tazminatı, arabuluculuk giderleri ve yargılama giderleri tahsil edildi."
+}

@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2021_871.pdf",
+        "court_name": "Antalya Bölge Adliye Mahkemesi 11. Hukuk Dairesi",
+        "esas_no": "İncelenen Kararın Esas No",
+        "karar_no": "İncelenen Kararın Karar No",
+        "case_subject": "Alacak",
+        "dava_tarihi": "29/01/2021",
+        "karar_tarihi": "29/01/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkili şirket ile davalı borçlu şirket arasında 17/02/2014 tarihli imzalanmış borç sözleşmesi ve aynı tarihte imzalanmış denetim hizmet sözleşmesi vardır. Davacı, davalı şirketin 729.096,00 TL borçunu ödemediğini iddia etmiştir. Davalı vekili, davacı vekilinin protokol imzalamayı reddetmesini ve ödemeyi reddetmesini savunmuştur.",
+        "reasoning_text": "İlk derece mahkemesi, davacı vekilinin iddialarını yetersiz bulmuştur. Davacı vekilinin iddiaları, ticari defterler ve faturalar ile desteklenmemiştir. Davalı vekilinin iddiaları, davacı vekilinin protokol imzalamayı reddetmesini ve ödemeyi reddetmesini savunmuştur.",
+        "verdict_text": "İkinci derece mahkemesi, davacı vekilinin istinaf başvurusunu kabul ederek ilk derece mahkemesi kararını kaldırmıştır. Davanın yeniden görülmesi için dava ilk derece mahkemesine gönderilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hukuk Muhakemeleri Kanunu",
+            "492 sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Bu dava, davacı vekili ile davalı borçlu şirket arasında borç ödemesi ve protokol imzalaması konularında ortaya çıkan anlaşmazlığı içermektedir. İlk derece mahkemesi, davacı vekilinin iddialarını yetersiz bulmuştur. Ancak ikinci derece mahkemesi, davacı vekilinin istinaf başvurusunu kabul ederek ilk derece mahkemesi kararını kaldırmıştır. Davanın yeniden görülmesi için dava ilk derece mahkemesine gönderilmiştir.",
+    "summary_for_model": "Dava, borç ödemesi ve protokol imzalaması konularında ortaya çıkan anlaşmazlığı içermektedir. İlk derece mahkemesi, davacı vekilinin iddialarını yetersiz bulmuştur. Ancak ikinci derece mahkemesi, davacı vekilinin istinaf başvurusunu kabul ederek ilk derece mahkemesi kararını kaldırmıştır. Davanın yeniden görülmesi için dava ilk derece mahkemesine gönderilmiştir. Davacı vekilinin iddiaları, ticari defterler ve faturalar ile desteklenmemiştir. Davalı vekilinin iddiaları, davacı vekilinin protokol imzalamayı reddetmesini ve ödemeyi reddetmesini savunmuştur. 6100 sayılı Hukuk Muhakemeleri Kanunu ve 492 sayılı Harçlar Kanunu'na dayanılarak karar verilmiştir."
+}

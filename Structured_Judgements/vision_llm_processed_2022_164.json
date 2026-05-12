@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2022_164.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 12. Hukuk Dairesi",
+        "esas_no": "2018/1340",
+        "karar_no": "2024/1575",
+        "case_subject": "Satış bedeli ödemesi ve makine arızası nedeniyle ihbar sorunu",
+        "dava_tarihi": "10/12/2021",
+        "karar_tarihi": "04/11/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının 07/07/2017 tarihinde 11.800 TL bedelli fatura ile satın aldığı makinenin yanlış makine olduğu iddia etti. Makine tesliminde arızalar yaşandı ve davalı, makineyi tamir için geri göndermek zorunda kaldı. Davacı, makineyi ayıp olarak kabul etti ve satış bedelinin ödenmesini talep etti. Davalı ise makinenin ayıp olmadığını iddia etti ve davacıya ihbar yapılmadığını savundu.",
+        "reasoning_text": "Mahkeme, davacının iddialarının gerçek dışı olduğunu tespit etti. Makine, davacıya ayıp olarak teslim edildi ve davacıya ait bir şikayet gelmedi. Davacı, makineyi ayıp olarak kabul etmedi ve davalının ihbarını kabul etmedi. Mahkeme, davanın reddine karar verdi.",
+        "verdict_text": "Davanın reddine karar verildi. Davacı vekilinin istinaf başvurusu kabul edilmedi. Davacıya 11.800 TL vekalet ücreti, 2.000 TL bilirkişi ücreti, 176,20 TL posta ve tebligat masrafı, 240,83 TL peşin harç ve 59,30 TL istinaf kararı harcı davacıya ödenmesi kararlaştırıldı. Davacı lehine takdir edilen 11.800 TL vekalet ücreti davalıdan alındı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 18",
+            "TTK 21",
+            "TBK 219",
+            "TBK 223/2",
+            "TBK 225",
+            "TBK 227",
+            "Hukuk Muhakemesi Kanunu (HMK) 353(1b)-2",
+            "Hukuk Muhakemesi Kanunu (HMK) 362(1)-a"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir makine satın alma işlemiyle ilgili bir anlaşmazlık üzerine kurulmuştur. Davacı, satın aldığı makinenin yanlış ve ayıp olduğunu iddia ederek satış bedelinin ödenmesini talep etmiştir. Davalı ise makinenin ayıp olmadığını ve davacıya ihbar yapılmadığını savunmuştur. Mahkeme, davacının iddialarının gerçek dışı olduğunu tespit ederek davayı reddetmiştir. Davacıya çeşitli harç ve ücretler ödenmesi kararlaştırılmıştır.",
+    "summary_for_model": "Dava, makinenin ayıp olarak teslim edilmesi ve satış bedelinin ödenmesi talebi üzerine kurulmuştur. Davacı, makinenin ayıp olduğunu iddia ederken, davalı ihbar yapılmadığını savunmuştur. Mahkeme, davacının iddialarının gerçek dışı olduğunu tespit ederek davayı reddetmiştir. TTK 18, TTK 21, TBK 219, TBK 223/2, TBK 225, TBK 227 ve HMK 353(1b)-2, HMK 362(1)-a maddeleri esas alınmıştır. Davacıya 11.800 TL vekalet ücreti, 2.000 TL bilirkişi ücreti, 176,20 TL posta ve tebligat masrafı, 240,83 TL peşin harç ve 59,30 TL istinaf kararı harcı ödenmesi kararlaştırılmıştır."
+}

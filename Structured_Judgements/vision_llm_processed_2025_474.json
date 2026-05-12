@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2025_474.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2025/474",
+        "karar_no": "2025/677",
+        "case_subject": "Tespit (D.İş)",
+        "dava_tarihi": "24/01/2025",
+        "karar_tarihi": "30/04/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Talep eden vekili, uzun yıllardır bayan tesettür giyim tekstili alanında faaliyet gösteren bir firma olduğunu, marka ve tasarımlarını mevzuatın öngördüğü şekilde TürkPatent nezdinde tescil ettiğini, ancak bir takım ürünleri ise yine yeni SMK gereği tescilsiz olarak korumaya sahip olduğunu iddia etmiştir. Davanın konusu, ürünlerin kamuya sunulma tarihleri itibarıyla tescilsiz korumaya sahip ürünler olduğu ve bu ürünler için SMK hükümleri gereği münhasır hak sahibi olup tespite konu ürünlerin kamuya sunulma tarihleri itibarıyla tescilsiz korumaya sahip ürünler olduğu iddiasıdır.",
+        "reasoning_text": "İlk derece mahkemesi kararı, SMK'nin 159 ve HMK 389 maddeleri koşulları oluşturduğundan takdiren 50.000,00 TL terminat yatırıldığında yada muteber bir bankanın kesin ve süreşiz terminat mektubu kararın tebliğ tarihinden itibaren 1 haftalık kesin süre içerisinde ibraz halinde ihtiyati tedbir talebinin kısmen kabulüne karar vermiştir. Talep eden vekilin tescilsiz tasarım yönünden ve karşı taraf yönünden tedbir talebinin reddine karar verilmesi talep edilmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1- Tedbir talep eden davacı vekilinin istinaf isteminin KABULÜ ile;2- Bakırköy 2. Fikri ve Sınaî Haklar Hukuk Mahkemesi'nin 24/01/2025 tarih, 2025/15 E. (D.İş) Sayılı Kararının 6100 Sayılı HMK'nın 353/1-a-6. maddesi gereğince KALDIRILMASINA,3- Dosyanın, yukarıda gösterilen biçimde inceleme ve değerlendirme yapılmak üzere mahkemesine GÖNDERİLMESİNE, 4- İstinaf yasa yoluna başvuran davacı tarafından peşin olarak yatırılan istinaf karar ve ilam harcının talebi halinde kendisine iadesine, 5- Dosya üzerinde inceleme yapılması sebebiyle vekalet ücreti tayinine yer olmadığına, 6- İstinaf yasa yoluna başvuran tarafından istinaf aşamasında yapılan giderlerin ilk derece mahkemesince verilecek nihai kararda dikkate alınmasına, 6100 Sayılı HMK'nın 353/1-a-6. ve 362/1-g. maddeleri gereğince dosya üzerinde yapılan inceleme sonucunda ve KESİN olmak üzere, oy birliğiyle karar verildi. 30/04/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 159",
+            "HMK 389",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu (HMK) 355. madde",
+            "6100 Sayılı HMK 353/1-a-6 maddesi",
+            "6100 Sayılı HMK 362/1-g. maddesi",
+            "6769 Sayılı SMK tescilsiz tasarım"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adlıye Mahkemesi, ilk derece mahkemesi kararını kaldırabilir ve davayı yeniden incelemeye gönderebilir. Talep eden vekil, tescilsiz tasarım ve ürünlerin kamuya sunulma tarihleri itibarıyla koruma durumunu iddia ediyor. Mahkeme, ilk derece kararının hatalı olduğunu tespit ederek istinaf talebini kabul etmiştir.",
+    "summary_for_model": "İstanbul Bölge Adlıye Mahkemesi, ilk derece mahkemesi kararını 6100 Sayılı HMK 353/1-a-6 maddesi uyarınca kaldırmış ve davayı yeniden incelemeye göndermiştir. Talep eden vekil, tescilsiz tasarım ve ürünlerin kamuya sunulma tarihleri itibarıyla koruma durumunu iddia etmiştir. Mahkeme, ilk derece kararının hatalı olduğunu tespit ederek istinaf talebini kabul etmiştir."
+}

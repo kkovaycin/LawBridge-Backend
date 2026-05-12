@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2022_1444.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2020/713",
+        "karar_no": "2022/432",
+        "case_subject": "Mask makinesinin teslimi ve ödemesiyle ilgili dava",
+        "dava_tarihi": "18/04/2022",
+        "karar_tarihi": "06/02/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı tarafından mask makinesinin teslim edildiğini ve bedelinin ödendiğini iddia etmiştir. Davalı vekili ise, makinenin kurulmadığını ve çalışmadığını, ayrıca davacı tarafından makine bedelinin ödenmediğini iddia etmiştir. Davacı, makinenin kurulduğunu ve çalıştığını, ayrıca makine bedelinin ödendiğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacı vekilinin istinaf başvurusunu reddetmiştir. Mahkeme, davacı vekilinin istinaf başvurusunun HMK'nun 353(1)b-1 maddesi uyarınca esastan reddine karar verdiğini açıklamıştır. Mahkeme, davacı tarafından yapılan giderlerin üzerinde bırakılmasını ve dosya üzerinde yapılan inceleme sonucunda HMK 362(1)-a maddesi uyarınca kesin olmak üzere oy birliği ile karar verdiğini belirtmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle: Davacı vekilinin istinaf başvurusunun HMK'nun 353(1)b-1 maddesi uyarınca ES ASTAN REDDİNE, Alınması gereken 615,40-TL istinaf karar harcından peşin yatırılan 80,70-TL harcin mahsubu ile kalan 534,70-TL harcin davacidan alınarak Hazine'ye gelir kaydına, Davacı tarafından yapılan giderlerin üzerinde bırakılmasına Dosya üzerinde yapılan inceleme sonunda HMK 362(1)-a maddesi uyarınca kesin olmak üzere oy birliği ile karar verildi. 06/02/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TBK'nın 219 vd. maddeleri",
+            "6098 sayılı TBK'nın 219. maddesi",
+            "6102 sayılı TTK'nin 23/1-c maddesi",
+            "TBK'nın 223/2. maddesi",
+            "TBK'nın 223. maddesi",
+            "HMK'nun 353(1)b-1 maddesi",
+            "HMK 362(1)-a maddesi"
+        ]
+    },
+    "summary_for_human": "Bu dava, davacı ve davalı arasında mask makinesinin teslimi ve ödemesiyle ilgili bir anlaşmazlık üzerine kurulmuştur. Davacı, makinenin teslim edildiğini ve bedelinin ödendiğini iddia ederken, davalı makinenin kurulmadığını ve çalışmadığını, ayrıca bedelinin ödenmediğini iddia etmiştir. Mahkeme, davacı vekilinin istinaf başvurusunu reddetmiştir. Mahkeme, davacı tarafından yapılan giderlerin üzerinde bırakılmasını ve dosya üzerinde yapılan inceleme sonucunda kesin bir karar verdiğini açıklamıştır.",
+    "summary_for_model": "Dava, mask makinesinin teslimi ve ödemesiyle ilgili bir anlaşmazlık üzerine kurulmuştur. Davacı vekili, makinenin teslim edildiğini ve bedelinin ödendiğini iddia ederken, davalı vekili makinenin kurulmadığını ve çalışmadığını, ayrıca bedelinin ödenmediğini iddia etmiştir. Mahkeme, davacı vekilinin istinaf başvurusunu HMK'nun 353(1)b-1 maddesi uyarınca esastan reddetmiştir. Mahkeme, davacı tarafından yapılan giderlerin üzerinde bırakılmasını ve dosya üzerinde yapılan inceleme sonucunda HMK 362(1)-a maddesi uyarınca kesin bir karar verdiğini açıklamıştır. TBK'nın 219 vd. maddeleri, 6098 sayılı TBK'nın 219. maddesi, 6102 sayılı TTK'nin 23/1-c maddesi, TBK'nın 223/2. maddesi, TBK'nın 223. maddesi, HMK'nun 353(1)b-1 maddesi ve HMK 362(1)-a maddesi gibi hukuki dayanaklar kullanılmıştır."
+}

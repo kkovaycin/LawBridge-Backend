@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_2964.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ BAM 25. HUKUK DAİRESİ",
+        "esas_no": "2023/2964",
+        "karar_no": "2023/2785",
+        "case_subject": "İhtiyati tedbir talebinin reddi ve davanın durdurulması",
+        "dava_tarihi": "02/10/2023",
+        "karar_tarihi": "05/12/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, dava dilekçesinde, davalı tarafından resmi internet sitesinde ve Twitter hesabında yayınlanan haber içeriğinin müvekkili kuruluşun itibarı ve saygınlığına saldırdığını, kamuoyunun yanıldığını ve söz konusu saldırının tesbiti ile durdurulmasını talep etti. İhtiyati tedbir kararı verilmesinin talep edildiği durum, dava sonucunda kaldırılmasına karar verilmesi istendi.",
+        "reasoning_text": "İlk derece mahkemesi, davacı vekili tarafından istinaf kanunu yoluyla başvurulan ihtiyati tedbir talebinin reddine karar verdi. Talebin reddi, davanın esasını çözer şekilde olmadığı ve ihtiyati tedbir talebinin gerekliliği olmadığı gerekçesiyle savunuldu. Mahkeme, davanın esasını çözer şekilde olmadığı ve davanın durdurulmasına gerek duyulmadığı için talebin reddine karar verdi.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1) Davacı tarafın istinaf başvurusunun duruşma yapılmadan KABULÜ ile, Ankara 5. Asliye Ticaret Mahkemesi'nin 02/10/2023 gün ve 2023/622 Esas sayılı ara kararının KALDIRILMASI NA, 2) HMK'nun 353.maddesinin 1.fikrası (b) bendinin 2.maddesi uyarınca düzelterek yeniden esas hakkında karar verilmesi gerektiği anlaşılmakla; 3) İhtiyati tedbir talebinin içeriği yönünden görevli mahkeme Sulh Ceza Hakimliği olduğundan ihtiyati tedbir talebinin görev nedeniyle REDDİNE, 4) 492 sayılı Harçlar Kanunu'na ekli (1) sayılı tarife gereğince; davacı tarafça istinaf kanun yolu başvurusu sırasında peşin yatırılan 269,85TL istinaf karar harcının talep halinde iadesine, 5) Temyizi kabul olmayan bu kararın, Hukuk Muhakemeleri Kanunu'nun 359/3.maddesi gereğince; ilk derece mahkemesi tarafından tebliğe çıkarılmasına, Dair, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 362. maddesi gereğince; geçici hukuki korumalar hakkında verilen kararlar hakkında temyiz yoluna başvurulamayacağından, anılan Kanun hükmü gereği kesin olmak üzere dosya üzerinde yapılan inceleme sonucunda 05/12/2023 tarihinde oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hukuk Muhakemeleri Kanunu",
+            "5651 Sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun",
+            "Hukuk Muhakemeleri Kanunu",
+            "492 sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekili tarafından yapılan ihtiyati tedbir talebini reddetti. Talebin reddi, davanın esasını çözer şekilde olmadığı ve davanın durdurulmasına gerek duyulmadığı gerekçesiyle savunuldu. Mahkeme, davanın esasını çözer şekilde olmadığı ve davanın durdurulmasına gerek duyulmadığı için talebin reddine karar verdi.",
+    "summary_for_model": "İhtiyati tedbir talebinin reddi ve davanın durdurulması konulu davada, mahkeme ilk derece kararını kaldırdı ve davayı yeniden esas hakkında karar vermeye karar verdi. Talebin reddi, davanın esasını çözer şekilde olmadığı ve davanın durdurulmasına gerek duyulmadığı gerekçesiyle savunuldu. Mahkeme, davanın esasını çözer şekilde olmadığı ve davanın durdurulmasına gerek duyulmadığı için talebin reddine karar verdi."
+}

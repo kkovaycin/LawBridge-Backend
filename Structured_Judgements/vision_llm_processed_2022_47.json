@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2022_47.pdf",
+        "court_name": "T.C. İSTANBUL BÖLGE ADLİYE MAHKEMESİ 44. HUKUK DAİRESİ",
+        "esas_no": "2022/47",
+        "karar_no": "2022/55",
+        "case_subject": "Tespit (D.İs)",
+        "dava_tarihi": "12/07/2021",
+        "karar_tarihi": "11/01/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "İddia, vekil tarafından ileri sürülen istinaf talebinin esasını ve savunmaları özetler. Müvekkilin TPMK nezdinde tescil numaralı tasarımların sahipliği, tescil tasarımların koruma kapsamındaki ürünlerin taklitlemesi, satışa arz edilmesi ve durdurulması, sosyal medya hesaplarının kapatılması talepleri yer alır.",
+        "reasoning_text": "İstinaf talebinin kabulüne yönelik kararın istinaf incelemesi, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 355. maddesi ve 6769 sayılı Sinaî Mülkiyet Kanunu'nun 159/1 ve 159/3 maddeleri çerçevesinde değerlendirilmiştir. Tedbir talebinin kabulüne yönelik kararın istinaf incelemesi, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b/1. maddesi ve 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 362/(1)-f. ve 394/(5). maddeleri çerçevesinde değerlendirilmiştir.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere; 1- Usûl ve yasaya uygun Bakırköy 1. Fikri ve Sinaî Haklar Hukuk Mahkemesi'nin 12/07/2021 tarih ve 2021/172 E., 2021/171 K. sayılı kararına karşı davalı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2- 492 Sayılı Harçlar Kanunu gereğince alınması gereken 80,70 TL maktu istinaf kararı ve ilam harçından peşin yatırılan 59,30 TL harçın mahsubu ile bakiye 21,40 TL harçın davalıdan tahsiline, 3- Davalı tarafa istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, 4- İncelemenin duruşmasız olarak yapılması sebebiyle taraflar yararına vekalet ücreti takdirine yer olmadığına, 5- Davalı tarafa yatırılan gider avansının harçnamayan kısmın karar kesinleştiğinde iadesine, 6- Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin İlk derece Mahkemesince yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nin 362/(1)-f. ve 394/(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 159",
+            "HMK 389",
+            "6100 sayılı Hukuk Muhakemeleri Kanunu",
+            "6769 sayılı Sinaî Mülkiyet Kanunu",
+            "492 Sayılı Harçlar Kanunu",
+            "HMK 355",
+            "HMK 353/1-b/1",
+            "HMK 362/(1)-f",
+            "HMK 394/(5)"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliyesi, ilk derece mahkemesinin tedbir kararına karşı istinaf talebini reddetmiştir. Karar, 6100 sayılı Hukuk Muhakemeleri Kanunu ve diğer ilgili kanun maddeleri çerçevesinde verilmiştir. Davalı vekili tarafından yapılan istinaf talebinin kabulüne yönelik kararın istinaf incelemesi, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b/1. maddesi ve diğer maddeleri çerçevesinde değerlendirilmiştir.",
+    "summary_for_model": "İstanbul Bölge Adliyesi, ilk derece mahkemesinin tedbir kararına karşı istinaf talebini reddetmiştir. Karar, 6100 sayılı Hukuk Muhakemeleri Kanunu ve diğer ilgili kanun maddeleri çerçevesinde verilmiştir. İstinaf talebinin kabulüne yönelik kararın istinaf incelemesi, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b/1. maddesi ve diğer maddeleri çerçevesinde değerlendirilmiştir. Karar, davalı vekili tarafından yapılan istinaf talebinin kabulüne yönelik olarak verilmiştir."
+}

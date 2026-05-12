@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2023_203.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2023/362",
+        "karar_no": "2023/203",
+        "case_subject": "Marka (Marka Hakkına Tecavüzden Kaynaklanan)",
+        "dava_tarihi": "21/10/2022",
+        "karar_tarihi": "13/04/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; Müvekkili şirketin dünya çapında tanınan markasıyla ilgili Grubuna bağlı bir kuruluş olduğu ve markanın Türkiye'nin ilk ve en eski üçüncü ticaret firması olarak tarihine geçtiği belirtilmiştir. Davalılar, sosyal medya hesapları üzerinden müvekkilin markasını kötü niyetle kullanmakta oldukları iddia edilmiştir.",
+        "reasoning_text": "Davacı vekili, davanın temelli olduğunu savunmuştur. İlk derece Mahkemesi'nin kararına karşı istinaf başvurusu yapılmıştır. Davacı vekili, davanın kısmen kabulüne yönelik istinaf başvurusunun reddedilmesi için taleplerde bulunmuştur. Davacı vekili, davanın temelli olduğunu savunmuştur.",
+        "verdict_text": "Davacı vekili istinaf dilekçesinde özetle; Davanın iddia ettiği vakaları inkâr kapsamında, müvekkili şirketin markalarını kullanmakta olduğu iddia edilen davalıların markalarıyla ilgili iddiaların kabulüne karar verilmiştir. Davacı vekili, davanın temelli olduğunu savunmuştur."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "TTK m. 55/1-a-4",
+            "TTK m. 55/1-b-2",
+            "TTK m. 353/1-b-2",
+            "492 Sayılı Harçlar Kanunu",
+            "7035 Sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davanın temelli olduğunu savunmuştur. İlk derece Mahkemesi'nin kararına karşı istinaf başvurusu yapılmıştır. Davacı vekili, davanın kısmen kabulüne yönelik istinaf başvurusunun reddedilmesi için taleplerde bulunmuştur.",
+    "summary_for_model": "Davacı vekili, davanın temelli olduğunu savunmuştur. İlk derece Mahkemesi'nin kararına karşı istinaf başvurusu yapılmıştır. Davacı vekili, davanın kısmen kabulüne yönelik istinaf başvurusunun reddedilmesi için taleplerde bulunmuştur. Davacı vekili, davanın temelli olduğunu savunmuştur."
+}

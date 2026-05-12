@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_340.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2022/340",
+        "karar_no": "2023/1825",
+        "case_subject": "Marka (Marka Hükmüsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "21/10/2021",
+        "karar_tarihi": "07/12/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; ABD menseli müvekkili şirketin, tüm dünyada erişime açık olan https://www...com internet adresi üzerinden pek çok ünlü giyim markasını bir araya getirerek bunların satışını yapan ve tüm dünyaya gönderim sağlayan portal bir pazar yerinin/alisveris sitesinin sahibi olduğunu, \"...\" markası altında özellikle giyim, ayakkabı, çanta, gözlük, taki ve kıyafet aksesuarlarının pazarlaması ve satışını yaptığını, 2014 yılından bu yana ülkemiz dahil pek çok ülkeye internet üzerinden erişim ile ürün satışı yaptığını, müvekkiline ait www...com alan adının 27.02.2011 tarihinde oluşturulduğunu, müvekkili tarafından ülkemizde ... numarası ile tescil başvurusunda bulunduğunu, müvekkilinin \"...\" markasının davalı tarafa haksız olarak TPMK nezdinde tescil ettirildiğini iddia ederek, davalı adına tescilli ... tescil numaralı \"...\" ve ... tescil numaralı \"...\" ibareli markaların, müvekkili marka tasarımı ve stili ile aynı olduğunu, davalının bu markayı sosyal medya hesapları, ürünleri ve etiketlerinde müvekkiline ait markada kullanılan özel biçim ve karakterleri aynen kullandığını, davalının ait ... sayılı \"...\" markasında yer alan \"...\", yani \"kadın\" kelimesinin, 25. sınıfta yer alan ürünler için cinsle etiketlenmiş bir kelime olduğunu, markasal algılanamayacağını, müvekkilininin \"...\" markası üzerinde öncelik hakkı bulunduğunu, davalı adına tescilli iki markada da müvekkilininin öncelik hakkı bulunduğunu ve davalı eylemlerinin müvekkilininin tescilli tasarımlarından doğan haklarını ihlal ettiğini iddia ederek, davalı adına olan ... tescil numaralı \"...\" ibareli marka ile ... tescil numaralı \"...\" ibareli markanın hükmüsüzlüğünü talep ve dava etmiştir.",
+        "reasoning_text": "İlk derece mahkemesi davanın kabulüne karar vermiştir. Bu karara karşı davalı vekili, yasal süre içinde istinaf kanun yoluyla başvurmuştur. İstinaf incelemesi, HMK'nın 355. maddesi gereğince, ileri sürülen istinaf başvuru nedenleri ve kamu düzeni yönüyle sınırlı olarak yapılmıştır. Somut uyumazlık; dosyadaki bilirkişi raporu hükmeye ve denetime elverişli olup davacının ... ibareli markasal kullanımları yönünden önceye dayalı gerçek hak sahibi olduğunu, davacının internet sitesinde online mağaza işi olarak \"...\" ibaresini kullandığını, faturalardaki ibarenin de bu yönde olup internet sitesinden Türkiye'ye gidiş, ayakkabı vb ürün satış yapıldığının tespit edildiğini, davacının, davalı markalarının tescilli oldukları 25. sınıf emtiaları kapsar şekilde 35. sınıfta online mağazacılık hizmetinde faaliyet gösterdiğini, 25. sınıf ile bu sınıfı kapsayan 35. sınıftaki mağazacılık hizmetinin benzer olarak kabulü gerektiğini, davalının markasının düz yazı ile tescilli olduğunu ancak davalının kullanımda ise davacının önceye dayalı markasal kullanımındaki yazım stili ile aynı yazı şeklinin seçildiğini de dikkate alındığında ilk derece mahkemesinin kararında usul ve esas yönünden hukuka aykırılık görülmediğini ve davalının yerinde görülmeyen istinaf istemin reddi gerektiğini savunmuştur.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle;1-Davalı vekilinin istinaf talebinin HMK'nun 353/1-b1 maddesi uyarınca ESAS TAN REDDİNE,2-Alınması gereken 269,85-TL harçtan, peşin alınan 80,70-TL harçın mahsubu ile bakiye 189,15-TL harçın davalından alınarak hazineye irat kaydına,3-Davalı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına,-Davalının gider avansından kullanıldığı anlaşılan 101,50-TL istinaf masrafının davalından alınarak davacıya verilmesine,4-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda, HMK'nun 361.maddesi uyarınca tebliğden itibaren iki haftalık süre içerisinde Yargıtay ilgili hukuk dairesinde temiz yolu açık olmak üzere oy birliği ile karar verildi.07/12/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TPMK",
+            "SMK m. 6/3'e",
+            "HMK'nun 353. maddesi",
+            "HMK'nun 361.maddesi"
+        ]
+    },
+    "summary_for_human": "Davalı, ABD'li bir şirketin markalarını kullanmakla suçlandı. İlk mahkeme davayı kabul etti ancak davalı vekili istinaf başvurusu yaptı. İstinaf incelemesi sonucunda, davalının markasal hakları ihlal ettiği tespit edildi ve davalının istinaf talebi reddedildi. Davalıdan harç ve giderler alındı.",
+    "summary_for_model": "Dava, ABD'li bir şirketin markalarını kullanmakla suçlayan davalının hükmüsüzlük talebini içermektedir. İlk mahkeme davayı kabul etti ancak istinaf incelemesi sonucunda davalının markasal hakları ihlal ettiği tespit edildi. İstinaf talebi reddedildi ve davalıdan harç ve giderler alındı. HMK 353 ve 361 maddeleri ve TPMK ve SMK 6/3 maddeleri bahsedildi."
+}

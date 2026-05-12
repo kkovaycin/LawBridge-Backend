@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2020_1866.pdf",
+        "court_name": "T.C. İSTANBUL BÖLGE ADLİYE MAHKEMESİ 13. HUKUK DAİRESİ",
+        "esas_no": "2020/1866",
+        "karar_no": "2022/1905",
+        "case_subject": "Ticari Satımdan Kaynaklanan İtirazın İptali",
+        "dava_tarihi": "06/10/2020",
+        "karar_tarihi": "15/12/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesi ile, davalı yanın icra takibinin yetkisine itirazının yerinde olmadığını, taraflar arasında \"...\" adlı ürünün 109.000,00 TL bedelle satılması konusunda anlaşmaya varılığını, buna ilişkin olarak 16/05/2017 tarih ... numaralı faturada belirtilen malin davalıya kesildiğini, buna ilişkin faturanın davalı yana gönderildiğini, buna rağmen herhangi bir ödeme yapılmadığını, bu nedenle İstanbul Anadolu ... İcra Müdürlüğünün ... Esas sayılı dosyası ile icra takibi başlatıldığını, takibe hakısız ve mesnetsiz olarak itiraz edildiğini belirtterek; itirazın iptali ile takibin devamına, davalı aleyhine %20 oranından az olmak üzere icra inkâr tazminatına hükmedilmesine karar verilmesini talep ve dava etmiştir. Davalı vekili cevap dilekçesi ile, yetkili mahkemenin Eskişehir Asliye Ticaret Mahkemeleri olduğu, taraflar arasında ticari ilişki bulunmadığı gibi davacı tarafça herhangi bir mal veya hizmet teslimi de bulunmadığını savunarak; davanın reddine karar verilmesini talep etmiştir.",
+        "reasoning_text": "Mahkeme, davacının itirazının temerrüdüne uygun olmadığını, davalı yanın takipten önce temerrüdüne düşrüldüğüne ilişkin herhangi bir delilin dosyaya ibraz edilmediği, bu nedenle talep edilen alacağı avans faizi işle bilececeği, davalı yanın takipten önce temerrüdüne düşrüldüğüne ilişkin herhangi bir delilin dosyaya ibraz edilmediği, bu nedenle talep edilen işlem iş faizi alacağının yerinde olmadığını, takibe konu alacağın miktarı kesin ve belirli olduğu gibi hesaplanması bir tespit yapılmasını gerektirmediği, davalının hakısız itirazını nedeniyle alacağılın alacağına geç kavşmasına neden olduğu kanaatine varılımıştır.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davalının istinaf başvurusunun 6100 sayılı HMK'ın 353/1-b1 maddesi gereğiçe ESASTAN REDDİNE, 2-Harçlar Kanunu gereğiçe istinaf eden tarafından yatırılan 148,60.TL istinaf kanun yoluyla başvurma harcının hazinede gelir kaydına, 3-Karar tarihini itibariyle Harçlar Kanunu gereğiçe alınması gereken 3.415,50.TL istinaf karar harcından istinaf eden tarafından peşin olarak yatırılan (54,40.TL + 799,48.TL=) 853,88 TL. harcın mahsubu ile bakiye 2.561,62.TL'nin davalıdan tahsili ile hazinede gelir kaydına, 4-İstinaf yargılama giderlerinin istinaf talep eden üzerinde bırakılmasına, 5-Artan gider avansı varsa talep halinde yatıran tarafa iadesine, 6-Kararın ilk derece mahkemesince taraflara tebliğe gönderilmesine, Dosya üzerinde yapılan inceleme sonucunda 15/12/2022 tarihinde HMK'ın 367/1-a maddesi gereğiçe kesin olarak ov hırlili ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353/1-b1",
+            "Harçlar Kanunu",
+            "TBK 89/1-1",
+            "TBK 73/1-1",
+            "HMK 367/1-a"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacının itirazının temerrüdüne uygun olmadığını ve davalı yanın takipten önce temerrüdüne düşrüldüğüne ilişkin herhangi bir delilin dosyaya ibraz edilmediği nedeniyle, davalı yanın hakısız itirazının alacağılın alacağına geç kavşmasına neden olduğu kanaatine varılımıştır. Mahkeme, davacının itirazının temerrüdüne uygun olmadığını, davalı yanın takipten önce temerrüdüne düşrüldüğüne ilişkin herhangi bir delilin dosyaya ibraz edilmediği nedeniyle, davalı yanın hakısız itirazının alacağılın alacağına geç kavşmasına neden olduğu kanaatine varılımıştır.",
+    "summary_for_model": "Davacı vekili, davalı yanın icra takibinin yetkisine itiraz etti. Davalı vekili, davacı tarafça herhangi bir mal veya hizmet teslimi bulunmadığını savundu. Mahkeme, davacının itirazının temerrüdüne uygun olmadığını, davalının takipten önce temerrüdüne ilişkin herhangi bir delilin dosyaya ibraz edilmediğini ve bu nedenle davalının hakısız itirazının alacağının alacağına geç kavşmasına neden olduğunu kabul etti. Mahkeme, HMK 353/1-b1 maddesine göre davalının istinaf başvurusunu esas olarak reddetti."
+}

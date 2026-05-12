@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_657.pdf",
+        "court_name": "İstanbul 5. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2022/231",
+        "karar_no": "2023/815",
+        "case_subject": "İtirazin İptali (Ticari Nitelikteki Hizmet Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "31/03/2022",
+        "karar_tarihi": "01/11/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle, vatandaşı olan davacının ticari hayatına devam ettiğini, takma ismi olan müvekkilin ve kayınbiraderinin aracılığıyla davalı tarafa şirket yetkilisinin gönderdiği mesajlarda 30.09.2021 tarihinde 2.000 adet köpek montu siparişi verildiğini, müvekkilin 11.10.2021 tarihinde 2.700,00 Euro ödeme yaptığını, müvekkilin arkadaşı tarafından 2.700 Euro daha ödeme yapıldığını ve toplamda 5.400,00 Euro ödeme yapıldığını iddia etmiştir. Davalı, siparişlerin zamanında teslim edilemediğini, müvekkilin siparişlerini zamanında teslim alamadığı için İngiltere'deki müşterilerine karşı mahcup olduğunu ve maddi ve manevi zarar gördüğünü iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacının itirazını reddetmiştir. Mahkeme, davacının davalıdan takip tarihi itibarıyla alacaklı olmadığının tespit edildiğini, davacının siparişlerin zamanında teslim edilemediği iddiasının haklı olmadığını ve davacının davasını reddetmek için yeterli gerekçeler sunmadığını değerlendirmiştir. Mahkeme ayrıca, davacının ticari defterlerinde kayılı olan 2.685,00 Euro ödemesinin davalı tarafından kabul edildiğini ve davacının siparişlerin zamanında teslim edilemediği iddiasının temelsiz olduğunu tespit etmiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle,\n1-Davanın REDDİNE, Kötü niyet tazminatı istemininin REDDİNE,\n2-Harçlar tarifesi uyarınca alınması gereken 269,85-TL karar ve ilam harçından peşin alınan 1.001,01-TL harçtan mahsubu ile bakiye 731,16-TL harçın karar kesinleştiğinde ve talep halinde davacıya iadesine,\n3-Davacı tarafından yapılan yargılama masraflarının kendi üzerinde bırakılmasına,\n4-Davalı tarafından yapılan 1.000,00-TL yargılama masrafının davacıdan alınarak, davalına verilmesine,\n5-Arabuluculuk ücreti olan 1.560,00-TL bedelin davacıdan tahsil edilerek Hazineye irat kaydına,\n6-Davalı taraf duruşmalarda vekil ile temsil edildiğinden reddedilen dava değeri itibarıyla AAÜT uyarınca takdiren 17.900,00-TL vekalet ücretinin davacıdan tahsil edilerek davalı tarafa verilmesine,\n7-Bakiye gider avansının karar kesinleştiğinde talep halinde yatran tarafa iadesine,\nDair, Tarafların vekillerinin yüzlerine karşı tebliğinden itibaren 2 haftalık sürede HMK 341 maddesi uyarınca istinaf yolu açık olmak üzere karar verildi. 01/11/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK. 18. Madde",
+            "TTK. 23. Madde",
+            "HMK 341 madde"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacının itirazını reddetmiştir. Davacı, davalıya sipariş verdiğini ancak siparişlerin zamanında teslim edilemediğini iddia etmiştir. Davalı ise, siparişlerin zamanında teslim edilemediği iddiasını reddetmiş ve davacının maddi ve manevi zarar gördüğünü iddia etmiştir. Mahkeme, davacının iddialarının temelsiz olduğunu ve davasını reddetmek için yeterli gerekçeler sunmadığını değerlendirmiştir. Sonuç olarak, mahkeme davacının itirazını reddetmiş ve davacıya karşı çeşitli harç ve ücret kararları vermiştir.",
+    "summary_for_model": "Davacı, davalıya ticari niteliğinde bir hizmet sözleşmesi çerçevesinde sipariş verdiğini iddia etmiştir. Davalı, siparişlerin zamanında teslim edilemediğini ve bu durumdan dolayı maddi ve manevi zarar gördüğünü iddia etmiştir. Mahkeme, davacının iddialarının temelsiz olduğunu ve davasını reddetmek için yeterli gerekçeler sunmadığını değerlendirmiştir. Mahkeme ayrıca, davacının ticari defterlerinde kayılı olan ödemesinin davalı tarafından kabul edildiğini ve davacının siparişlerin zamanında teslim edilemediği iddiasının haklı olmadığını tespit etmiştir. Sonuç olarak, mahkeme davacının itirazını reddetmiş ve davacıya karşı çeşitli harç ve ücret kararları vermiştir. Hukuki dayanak olarak TTK 18. Madde ve 23. Madde ile HMK 341 maddeye yer verilmiştir."
+}

@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2019_285.pdf",
+        "court_name": "T.C. İstanbul Anadolu 2. Fıkrî Ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2019/285",
+        "karar_no": "2020/58",
+        "case_subject": "Endüstriyel Tasarım (Maddi Tazminat İstemli) davası",
+        "dava_tarihi": "07/10/2019",
+        "karar_tarihi": "02/07/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; dava konusu tasarımdan kaynaklı olarak tasarım hakkının tecavüzünün tespiti, önlenmesi, durdurulması davası açıldığını, dolayısıyla her iki dava arasında fiili ve hukuki bir bağlantı bulunduğunu iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davaların birleştirilmesinin HKM 166/1. Maddesi uyarınca uygun olduğunu, davaların birleşmesiyle davaların usul ekonomisi sağlanacağını ve davaların birleştirilmesinin davacıya fayda sağlayacağını gerekçelendirmiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Mahkememizin ----- esas sayılı davası ile bu dava arasında hukuki ve fiili irtibat bulunduğundan HMK'nun 166/1 maddesi uyarınca her iki davanın BİRLŞTİRİLMESİNE, 2-Yargılama mahkememizin ----- esas sayılı dosyası üzerinden devam olunmasına, 3-Harc, masraf ücreti vekalet tayin ve takdirinin asıl davada nihai kararla değerlendirilmesine, Dair; davacı vekilinin yüzüne karşı davalı vekilinin yokluğunda , esasla birlikte istinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı 02/07/2020"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK. 151/2-a maddesi",
+            "HMK 166/1. Madde"
+        ]
+    },
+    "summary_for_human": "Mahkeme, Endüstriyel Tasarım davası ile ilgili maddi ve manevi tazminat taleplerini birleştirerek davaların usul ekonomisini sağlamayı hedefledi. Davaların birleşmesi, davaların aynı mahkemede ele alınmasını ve davacıya fayda sağlamayı amaçladı.",
+    "summary_for_model": "Mahkeme, HKM 166/1. Maddesi uyarınca davaların birleştirilmesini kararlaştırdı. Davaların birleşmesi, davaların aynı mahkemede ele alınmasını ve davacıya fayda sağlamayı amaçladı. Davaların birleşmesi, davaların usul ekonomisini sağlamayı hedefledi."
+}

@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2021_96.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2021/96",
+        "karar_no": "2021/326",
+        "case_subject": "Tespit ve tedbir talebi",
+        "dava_tarihi": "28/09/2020",
+        "karar_tarihi": "18/02/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "İstanbul 1.FSHM'de 2020/178 ve 2020/254 Esas sayılı davalarda, İstanbul 2.FSHH tarafından tescilli tasarıma benzer ürünler tespit edildi. Karşı taraf, tespit ve tedbir talebini reddetti. Mahkeme, tespit ve tedbir talebini reddetti ve istinaf talebini kabul etmedi.",
+        "reasoning_text": "Mahkeme, tespit ve tedbir talebinin reddilmesinin gerekçesi olarak, tespit ve tedbir talebinin usul ve yasaya uygun olmadığını, ayrıca tespit ve tedbir talebinin reddilmesinin istinaf talebinin reddilmesini gerektirdiğini belirledi.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Tespit ve tedbir isteyen vekilin istinaf talebinin HMK'nun 353/1-b-1 maddesi uyarınca ES ASTAN REDDİNE, 2-Alınması gereken 59,30 TL harçtan peşin alınan 54,40 TL harçın mahsubu ile bakiye 4,90 TL harçın tespit ve tedbir isteyenden alınarak hazineye irad kaydına, 3-Tespit ve tedbir isteyen tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, 4-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dosya üzerinde yapılan inceleme sonucunda oy birliği ile HMK'nun 362/1-f maddesi uyarınca kesin olarak karar verildi. 18/02/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353/1-b-1",
+            "HMK 362/1-f"
+        ]
+    },
+    "summary_for_human": "Mahkeme, tespit ve tedbir talebini reddetti ve istinaf talebini kabul etmedi. Tespit ve tedbir talebinin usul ve yasaya uygun olmadığı ve istinaf talebinin reddilmesinin gerekliliği vurgulandı.",
+    "summary_for_model": "Mahkeme, tespit ve tedbir talebini reddetti ve istinaf talebini kabul etmedi. Tespit ve tedbir talebinin usul ve yasaya uygun olmadığı ve istinaf talebinin reddilmesinin gerekliliği vurgulandı. HMK 353/1-b-1 ve 362/1-f maddeleri kullanıldı."
+}

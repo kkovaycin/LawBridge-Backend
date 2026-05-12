@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2021_155.pdf",
+        "court_name": "T.C. İSTANBUL 4.FİKRÎ VE SINAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/155 Esas",
+        "karar_no": "2023/132",
+        "case_subject": "Fikir Ve Sanat Sanat Eseri Sahipliğinden Kaynaklanan Haklara Tecavüzün Ref'i, Önlenmesi Ve Tazmini",
+        "dava_tarihi": "17/02/2020",
+        "karar_tarihi": "23/05/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; davalı tarafından müvekkilli hakkında tarihli sayılı karar ile Haysiyet Kuruluna sevkedildiğini, hak mahrumiyeti cezası verildiğini, verilen kararın hukuka aykırı olduğunu, müvekkilinin Haysiyet Kuruluna sevki imkan sunamayacağını, hiç bir üyesinin doğrudan hedef almadığını, gönderilen disiplin kararının, davalı tarafından tayine edilen toplantı gününden gün sonra müvekkiline tebliğ edildiğini, müvekkil ... tarihinde işbu üyelikten çıkarılma kararı ve karara konu Haysiyet Kurulu kararının tebliğ edildiğini, dolayısıyla savunma hakkının fiilen bertaraf edildiğini, müvekkilinin demokratik olarak haklarını kullandığını belirterek, ... Haysiyet Kurulu'nun ... Tarih ve ... sayılı kararı ile ... Üye Disiplin Yönergesi'nin 8. Maddesinin a ve d maddelerine göre oy çokluğu ile verilen üyelikten çıkarma cezasının iptaline karar verilmesini talep ve dava ettiği anlaşılmıştır.",
+        "reasoning_text": "Davalı vekili cevap dilekçesinde özetle; ... Haysiyet Kurulu, dosyadaki belgelere göre edindiği kanaat doğrultusunda karar verildiğini, hak mahrumiyeti kararının ... mevzatının usul ve esasları dikkate alınarak verildiğini, davacının disiplin işlemesine konu paylaşımı ile hakaret ve tahkir edici sözler sarf ettiği değerlendirilerek oy birliği ile hak mahrumiyeti cezası verildiğini belirterek, davanın reddine karar verilmesini talep ettiği anlaşılmıştır.",
+        "verdict_text": "HÜKÜM : Yukarıda gerekçesi açıklanmış olduğu üzere,\n1-Davanın KABULÜ İLE, ... Haysiyet Kurulu'nun ... Tarih, ... sayılı kararı ile verilen üyelikten çıkarma cezası kararının iptaline,\n2-Karar tarihinde yürürlükte bulunan Harçlar Tarifesi uyarınca hesap olunan 179,90 TL harçından peşin yatırılan 54,40 TL'nin mahsubu ile kalan 125,50 TL bakiye karar harcının davaldan tahsili ile hazineye irat kaydına,\n3-Davacı kendisini vekille temsil etmediğinden davacı lehine avukatlık ücreti takdirine yer olmadığına,\n4-Davacı tarafından yapılan: 1.500,00 TL bilirkişi ücreti, 209,70 TL posta gideri olmak üzere toplam 1.709,70 TL ve 108,80 TL harç (peşin+başvuru harci) olmak üzere toplam 1.818,50 TL yargılama giderinin davaldan alınarak davaciya verilmesine,\n5-Yatırılan gider avanslarından kullanılmayan kısmının karar kesinleştiğinde yatıran tarafa iadesine,"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Haysiyet Kurulu Çalışma Esasları",
+            "Haysiyet Kurulu Görevleri",
+            "Konunun İntikali Ve Ön Soruşturma",
+            "Haysiyet Kurulu Çalışma Yöntemi",
+            "Haysiyet Kurulu Kararlarında Dikkat Edilmesi Gereken Hususlar",
+            "Türk Ceza Kanunu",
+            "Hukuk Muhakemesi Kanunu (HMK)"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacının üyelikten çıkarılma cezasının iptaline karar verdi. Davacı lehine avukatlık ücreti ve yargılama giderleri tahsil edildi. Davacı tarafından yapılan gider avanslarının geri ödemesi kararlaştırıldı.",
+    "summary_for_model": "Mahkeme, davacının üyelikten çıkarılma cezasının iptaline karar verdi. Davacı lehine avukatlık ücreti ve yargılama giderleri tahsil edildi. Davacı tarafından yapılan gider avanslarının geri ödemesi kararlaştırıldı. Haysiyet Kurulu'nun kararının iptaline karar verildi."
+}

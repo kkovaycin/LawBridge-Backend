@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2020_569.pdf",
+        "court_name": "T.C. GAZİANTEP BÖLGE ADLİYE MAHKEMESİ 11. HUKUK DAİRESİ",
+        "esas_no": "2018/528 Esas",
+        "karar_no": "2021/1986",
+        "case_subject": "Menfi Tespit",
+        "dava_tarihi": "31/01/2020",
+        "karar_tarihi": "22/12/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı vekili arasında ticari alışverişler gerçekleştiğini, davalı tarafından teslim alınan ürünlerin satıldığını ve herhangi bir itirazın yapılmadığını iddia etmiştir. Davalı vekili ise, takip dayanağı fatura bedelinin davacıya peşin ödendiğini, ancak gümrük kontrollerinde malların ayiplı olduğunu ve ödenen paranın iade edilmesini talep etmiştir.",
+        "reasoning_text": "Mahkeme, davacı vekilinin istinaf başvurusunun kabulüne, davanın reddine ve davacı tarafından yapılan yargılama giderlerinin davacı üzerinden bırakılmasına karar vermiştir. Davacı vekilinin ayıp ihbarı ile ilgili savunmaları dikkate alınmayarak davanın reddine karar verilmiştir.",
+        "verdict_text": "SONUÇ: Yukarıda açıklanan nedenlerle,\nA)1-Davalı vekilinin istinaf başvurusunun KABULÜNE,\n2- Gaziantep 2. Asliye Ticaret Mahkemesi'nde verilen 31/01/2020 tarih ve 2018/528 Esas, 2020/127 Karar sayılı kararın KALDIRILMASINA,\n3-Davalı vekilince yatırılan istinaf yolu karar harcının istek halinde anılan tarafa İADESİNE,\n4-Davacı tarafından yapılan 148,60 TL istinaf başvuru harcı, 100,00 TL posta gideri olmak üzere toplam 248,60 TL istinaf yargılama giderinin davacıdan alınarak davalya verilmesine,\n5-HMK'nın 333. maddesi uyarınca artan gider avansının ilgili tarafa geri verilmesine,\n6-HMK'nın 359/3 maddesi uyarınca kararın ilk derece mahkemesince taraflara tebliğine,\nB)6100 sayılı HMK'nin 353/1-b-2. maddesi uyarınca yeniden esas hakkında hüküm kurulmasına;\n1-Davanın REDDİNE,\n2-Davacı tarafından yapılan yargılama giderlerinin davacı üzerinde bırakılmasına,\n3-Pesin alınan 1.387,98 TL harçtan alınması gereken 59,30 TL karar ve ilam harcının mahsubu ile bakiye 1.328,68 TL harçın talebi halinde davacıya İADESİNE,\n4-Davalı kendisini vekil ile temsil ettirdiğinden AAÜT gereğince 11.365,75 TL vekalet ücretinin davacıdan alınarak davalya verilmesine,\n5-Varsa kullanılmayan gider avansının kararın kesinleşmesi halinde davacıya İADESİNE."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hüküm Kanunu (HMK)",
+            "6100 sayılı Hüküm Kanunu'nun 353. maddesi",
+            "6100 sayılı Hüküm Kanunu'nun 355. maddesi",
+            "6100 sayılı Hüküm Kanunu'nun 25/1. maddesi",
+            "6100 sayılı Hüküm Kanunu'nun 333. maddesi",
+            "6100 sayılı Hüküm Kanunu'nun 359/3. maddesi",
+            "6100 sayılı Hüküm Kanunu'nun 361/1. maddesi",
+            "5070 Sayılı Yasanın 5. ve 22. maddeleri"
+        ]
+    },
+    "summary_for_human": "Bu davada, davacı vekili, davalı vekili arasında ticari alışverişler gerçekleştiğini ve davalı tarafından teslim alınan ürünlerin satıldığını iddia etmiştir. Davalı vekili ise, takip dayanağı fatura bedelinin davacıya peşin ödendiğini, ancak gümrük kontrollerinde malların ayiplı olduğunu ve ödenen paranın iade edilmesini talep etmiştir. Mahkeme, davacı vekilinin istinaf başvurusunu kabul ederek davayı reddetmiş ve davacı tarafından yapılan yargılama giderlerini davacı üzerinden bırakmıştır.",
+    "summary_for_model": "Davacı vekili, ticari alışverişler ve ürün teslimi iddialarını öne sürmüş; davalı vekili, fatura bedelinin peşin ödendiğini, gümrük kontrollerinde malların ayiplı olduğunu ve iade talebini ileri sürmüştür. Mahkeme, istinaf başvurusunu kabul ederek davayı reddetmiş ve yargılama giderlerini davacı üzerinden bırakmıştır. Karar, HMK 353/1-b-2, 355, 25/1, 333, 359/3 ve 361/1 maddeleri ile 5070 Sayılı Yasanın 5. ve 22. maddeleri çerçevesinde verilmiştir."
+}

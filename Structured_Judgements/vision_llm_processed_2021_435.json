@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2021_435.pdf",
+        "court_name": "İstanbul 3. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/426",
+        "karar_no": "2022/39",
+        "case_subject": "Haksız rekabet davası",
+        "dava_tarihi": "21/07/2020",
+        "karar_tarihi": "18/04/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacılar, müvekkillerinin COVID-19 pandemisi sırasında hava kalitesi sensörleri ve virüs inaktif hale getirme teknolojisi gibi yenilikçi ürünleri geliştirdiğini iddia etmiştir. Müvekkillerin bu ürünleri LinkedIn gibi platformlarda paylaşması ve kamuoyunda yanlış algı oluşturması nedeniyle dava açılmıştır.",
+        "reasoning_text": "Mahkeme, dava konusu hak sahipliği ve hak ihlali iddialarını reddetmiştir. Davacılar, müvekkillerinin patent taleplerini ve sosyal medya yayınlarını haksız rekabet olarak değerlendirmiştir. Mahkeme, dava konusu ürünün müvekkillere ait olduğunu ve davacılarca kullanılmasına izin verilmediğini tespit etmiştir.",
+        "verdict_text": "HÜKÜM: Gereğeceği yukarıda açıklanmış olduğu üzere; 1-SULH NEDENİ İLE DAVA KONUSUZ KALDIĞINDAN, KARAR VERİLMESİNE YER OLMADIĞINA, 2-Taraflar vekalet ücreti ve yargılama giderleri taleplerinden, bu hususta karar verilmesine yer olmadığına, 3-80,70 TL ilam harcından peşin harcin mahsubu ile eksik kalan 26,30-TL harcin davacılardan tahsiline, 4-Tarafların yapmış olduğu yargılama giderlerinin üzerlerinde bırakılmasına 5-Taraflarca fazla yatırılan gider avansının karar kesinleştiğinde ve talepleri halinde iadesine, Dair taraf vekillerinin yokluğunda, gerekeli kararın tebliğinden itibaren 2 haftalık süre içinde İSTANAF YASA yolu açık olmak üzere karar verildi. 18/04/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 59. madde",
+            "Hukuk Mahkemeleri Kanunu",
+            "İstanbul Mahkemeleri Kanunu",
+            "Hukuk Mahkemeleri Kanunu 313. madde"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacıların müvekkillerinin COVID-19 pandemisi sırasında geliştirdiği hava kalitesi sensörleri ve virüs inaktif hale getirme teknolojisi gibi ürünleri haksız rekabet olarak değerlendirmiştir. Mahkeme, dava konusu ürünün müvekkillere ait olduğunu ve davacılarca kullanılmasına izin verilmediğini tespit etmiştir.",
+    "summary_for_model": "Mahkeme, dava konusu hak sahipliği ve hak ihlali iddialarını reddetmiştir. Davacılar, müvekkillerinin patent taleplerini ve sosyal medya yayınlarını haksız rekabet olarak değerlendirmiştir. Mahkeme, dava konusu ürünün müvekkillere ait olduğunu ve davacılarca kullanılmasına izin verilmediğini tespit etmiştir."
+}

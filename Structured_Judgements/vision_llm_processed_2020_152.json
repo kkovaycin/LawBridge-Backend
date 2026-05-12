@@ -1,0 +1,43 @@
+{
+    "meta_data": {
+        "file_name": "2020_152.pdf",
+        "court_name": "T.C. İSTANBUL 2.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2020/152 Esas",
+        "karar_no": "2022/28",
+        "case_subject": "Marka (Marka Hükmüsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "13/04/2020",
+        "karar_tarihi": "27/01/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Dava, markanın ticari faaliyetlerde kullanılması, internet alan adları ve ticari unvanlar ile ilgili hak ihlalleri ve markanın tanınmışlık durumunu değerlendirmeyi içermektedir.",
+        "reasoning_text": "Markanın tanınmışlık ve ticari kullanım durumları, markanın hükmüsüzlüğü ve iptali taleplerinin değerlendirilmesinde temel unsurlardır. Markanın ticari faaliyetlerde kullanılması, internet alan adları ve ticari unvanlar ile ilgili hak ihlalleri, markanın hükmüsüzlüğü ve iptali taleplerinin temel dayanaklarıdır.",
+        "verdict_text": "Markanın hükmüsüzlüğü ve iptali talepleri kabul edilmiş, ticari unvanın terkine karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 Sayılı Sınai Mülkiyet Kanunu",
+            "556 Sayılı Marka Kanunu",
+            "29. Madde",
+            "7. Madde",
+            "9. Madde",
+            "25. Madde",
+            "26. Madde",
+            "155. Madde",
+            "4/1 Madde",
+            "7/2-b Madde",
+            "7/3-d Madde",
+            "7/5 Madde",
+            "6/1 Madde",
+            "6/5 Madde",
+            "6/9 Madde",
+            "35/1 Madde",
+            "42/1-c Madde",
+            "14. Madde",
+            "42. Madde",
+            "345/1 Madde",
+            "149. Madde"
+        ]
+    },
+    "summary_for_human": "Markanın hükmüsüzlüğü ve iptali talepleri kabul edilmiş, ticari unvanın terkine karar verilmiştir.",
+    "summary_for_model": "Markanın hükmüsüzlüğü ve iptali talepleri kabul edilmiş, ticari unvanın terkine karar verilmiştir. Markanın ticari faaliyetlerde kullanılması, internet alan adları ve ticari unvanlar ile ilgili hak ihlalleri, markanın hükmüsüzlüğü ve iptali taleplerinin temel dayanaklarıdır."
+}

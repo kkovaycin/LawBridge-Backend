@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_1226.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2022/1226",
+        "karar_no": "2022/1600",
+        "case_subject": "Patent (Maddi Tazminat İstemli)",
+        "dava_tarihi": "05/10/2022",
+        "karar_tarihi": "05/10/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davayı patent ihlali ve markaya tecavüz iddiasıyla açtı. Davacı, müvekkilin patentli ürünü Türkiye'de kullanmak için yetkilendirildiğini iddia etti. Davacı ayrıca, davalı şirketin patent ihlali ve markaya tecavüz yapan ürünleri sattığını iddia etti. Davacı, Büyükçekmece'de depolanan ve satılan ürünlerin patent ihlali olduğunu iddia etti.",
+        "reasoning_text": "İlk derece mahkemesi, davacı vekilinin istinaf talebini reddetmiştir. Mahkeme, davacı vekilinin istinaf talebinin Hükümler Kanunu'nun 353/1-b1 maddesi uyarınca esaslandığını ve davacı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakıldığını tespit etmiştir. Ayrıca, istinaf incelemesinin duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığının da belirtilmiştir.",
+        "verdict_text": "İstinaf incelemesi tamamlandıktan sonra, dava içeriğine göre duruşma yapılmasına gerek görülmeyen dosya üzerinde inceleme sonucu; talep edilen tedbirin reddine karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hükümler Kanunu (HMK) 353. madde",
+            "Hükümler Kanunu (HMK) 362/1-f madde",
+            "Türkiye Ticaret Kanunu (TTK) 55. madde",
+            "Sinal Mülkiyet Yasası 6769 sayılı"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davayı patent ihlali ve markaya tecavüz iddiasıyla açtı. İlk derece mahkemesi, davacı vekilinin istinaf talebini reddetmiştir. Mahkeme, davacı vekilinin istinaf talebinin Hükümler Kanunu'nun 353/1-b1 maddesi uyarınca esaslandığını ve davacı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakıldığını tespit etmiştir.",
+    "summary_for_model": "Dava, patent ihlali ve markaya tecavüz iddiasıyla açıldı. İlk derece mahkemesi, davacı vekilinin istinaf talebini reddetmiştir. Mahkeme, davacı vekilinin istinaf talebinin Hükümler Kanunu'nun 353/1-b1 maddesi uyarınca esaslandığını ve davacı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakıldığını tespit etmiştir. Ayrıca, istinaf incelemesinin duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığının da belirtilmiştir."
+}

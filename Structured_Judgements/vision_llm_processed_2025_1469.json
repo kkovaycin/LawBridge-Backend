@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2025_1469.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 43. Hukuk Dairesi",
+        "esas_no": "2017/808",
+        "karar_no": "2018/705",
+        "case_subject": "Tazminat (Ticari Nitelikte Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "03/07/2018",
+        "karar_tarihi": "24/12/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı şirketin sosyal medyada çocuk istismarı destekçisi olarak nitelendiğini iddia ediyor. Davalı vekili, paylaşımın ifade özgürlüğü sınırları içinde olduğunu savunuyor.",
+        "reasoning_text": "Mahkeme, paylaşımın hak ihlali ve haklı müdahale olarak değerlendirilmediğini, ancak davacı şirketin ticari faaliyetleriyle doğrudan ilgili olmayan bir sosyal sorumluluk projesi olarak nitelendiğini tespit etti.",
+        "verdict_text": "Davanın kısmen kabulüne karar verildi. Davacıya 1.000,00 TL manevi tazminat verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İnsan Hakları Avrupa Sözleşmesi (İHAS)",
+            "Anayasa",
+            "Avrupa İnsan Hakları Mahkemesi kararları",
+            "Türk Ticaret Kanunu (TTK)",
+            "Hukuk Muhakemesi Kanunu (HMK)"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin çocuk istismarı destekçisi olarak nitelendiğini iddia ediyor. Mahkeme, paylaşımın hak ihlali olarak değerlendirilmediğini ancak davacı şirketin ticari faaliyetleriyle ilgili olmayan bir sosyal sorumluluk projesi olarak nitelendiğini tespit etti.",
+    "summary_for_model": "Dava, davacı şirketin sosyal medyada çocuk istismarı destekçisi olarak nitelendiğini iddia ediyor. Mahkeme, paylaşımın hak ihlali olarak değerlendirilmediğini ancak davacı şirketin ticari faaliyetleriyle ilgili olmayan bir sosyal sorumluluk projesi olarak nitelendiğini tespit etti."
+}

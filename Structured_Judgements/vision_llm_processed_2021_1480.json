@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2021_1480.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2020/422 Esas",
+        "karar_no": "2020/422 Karar",
+        "case_subject": "Fikir Ve Sanat Eseri (Manevi Tazminat İstemi)",
+        "dava_tarihi": "25/06/2017",
+        "karar_tarihi": "30/06/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, İngilizce öğretmenliği mesleğini icra ettiği bir haberde, öğrencisinin LYS'den çok yüksek puan almasına rağmen tercih etmediği bir üniversiteye yerleştiğini iddia ediyor. Davacı, öğrencinin internet IP adreslerinden OSYM web sayfasından değiştirilen tercih listesinin arkadaşı tarafından kullanıldığını ve haberlerin yer aldığını iddia ediyor. Davacı, fotoğrafının Facebook profil fotoğrafı olarak kullanıldığını ve bu durumun öğretmenlik itibarını zedelediğini iddia ediyor.",
+        "reasoning_text": "Mahkeme, davacının iddialarının haklı bulunmadığını ve davanın FSEN 86. maddesine dayanarak açıldığını tespit etti. Davanın kişisel hesabındaki fotoğrafın izinsiz yayınının manevi tazminat taleplerinin kabul edilmeyeceğini belirledi. Mahkeme, davacının istinaf talebini reddederek ilk derece mahkemesinin kararını onayladı.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-İstanbul 1. Fikri ve Sanat Hakları Hukuk Mahkemesinin 2020/422 Esas, 2020/422 Karar sayılı kararına karşı davacı vekili tarafından yapılan istinaf başvurusunun HMK 353/1.b.1 maddesi gereğince ESASTAN REDDİNE, 2-Harçlar Kanunu uyarınca davacıdan alınması gereken 59,30-TL miktarı istinaf karar ve ilam harcı, istinaf yoluna başvuran davacı tarafından peşin yatırıldığından başka harç alınmasına yer olmadığına, 3-İncelemenin duruşmasız olarak yapılması nedeniyle avukatlık ücreti takdirine YER OLMADIĞINA, 4-Yasa yoluna başvuran davacı tarafından yapılan giderlerin üzerinde bırakılmasına, 5-HMK'nın 359. Maddesinin 3. fikrası gereği karar kesin niteliğinde olduğundan kararın taraflara tebliği işleminin ilk derece mahkemesi tarafından yapılmasına, Dosya üzerinde yapılan inceleme sonucunda, HMK'nın 362/1-a maddesi uyarınca miktar itibarıyla kesin olmak üzere oy birliği ile karar verildi. 30/06/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353.maddesi",
+            "FSEN 86.maddesi",
+            "TBK 58.maddesi",
+            "TMK 24 ve 25.maddeleri",
+            "Yasa'nın 76.maddesi",
+            "HMK 20.maddesi",
+            "Harçlar Kanunu",
+            "HMK 359.Maddesi",
+            "HMK 362/1-a maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, öğrencisinin tercih listesini değiştirerek yanlış üniversiteye yerleştiğini iddia ediyor ve bu durumun öğretmenlik itibarını zedelediğini iddia ediyor. Mahkeme, davacının iddialarını reddederek ilk derece mahkemesinin kararını onayladı.",
+    "summary_for_model": "Davacı, öğrencisinin OSYM tercih listesinin izinsiz değiştirildiğini ve bu durumun öğretmenlik itibarını zedelediğini iddia ediyor. Mahkeme, davanın FSEN 86.maddesine dayanarak açıldığını tespit etti ve davacının iddialarını reddederek ilk derece mahkemesinin kararını onayladı."
+}

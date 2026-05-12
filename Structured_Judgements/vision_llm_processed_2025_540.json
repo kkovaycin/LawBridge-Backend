@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2025_540.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2025/540",
+        "karar_no": "2025/601",
+        "case_subject": "İhtiyatı Tedbire İtiraz",
+        "dava_tarihi": "06/12/2024",
+        "karar_tarihi": "02/04/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "İhtiyatı tedbir isteyen vekil, müvekkilin markasının başka markayla benzerlik taşıdığını iddia etmiştir. Karşı tarafın markası ile ilgili araştırma raporları yetersiz bulunmuştur. İkinci derece mahkemede ilk kararın kaldırılması talep edilmiştir.",
+        "reasoning_text": "Mahkeme, ilk derece kararının yetkili mahkeme tarafından verildiğini ve istinaf talebinin esası olmadığını tespit etmiştir. İkinci derece mahkemesi, ilk kararın kaldırılmasına karar vermiştir.",
+        "verdict_text": "1-Karşı taraf vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ESASTAN REDDİNE, 2-Karşı tarafa alınması gereken 615,40-TL maktu istinaf karar ve ilam harcından istinaf başvurusunda yatırılan 427,60-TL istinaf karar ve ilam harcının mahsubu ile bakiye 187,80-TL'nin karşı tarafa tahsili ile hazineye irat kaydına, 3-İstinaf aşamasında karşı tarafa yapılan yargılama giderlerinin uhdesinde bırakılmasına, 4-İstinaf aşamasında duruşma açılmadığından taraflara vekalet ücreti takdirine yer olmadığına, 5-Kararın tebliğ ve harç işlemlerinin yerel mahkeme tarafından yaptırılmasına dair, Dair, dosya üzerinde yapılan inceleme sonucunda oy birliği ile 21/03/2025 tarihinde HMK 362/1-f maddesi uyarınca KESİN olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nın 355. maddesi",
+            "SMK m.156/3",
+            "SMK madde 9/2-c",
+            "HMK'nın 391/3. maddesi",
+            "HMK'nın 353/1-b.1 maddesi",
+            "HMK 362/1-f maddesi"
+        ]
+    },
+    "summary_for_human": "İhtiyatı tedbir isteyen vekil, markanın başka markayla benzerlik taşıdığını iddia etti. Mahkeme ilk kararın yetkili mahkeme tarafından verildiğini ve istinaf talebinin esası olmadığını tespit etti. İkinci derece mahkemesi ilk kararın kaldırılmasına karar verdi.",
+    "summary_for_model": "İhtiyatı tedbir istemi reddedildi. İstinaf talebi esası yok. İlk karar yetkili mahkeme tarafından verildi. İkinci derece mahkemesi ilk kararın kaldırılmasına karar verdi."
+}

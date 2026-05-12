@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2023_2300.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ BAM 20. HUKUK DAİRESİ",
+        "esas_no": "2023/2300",
+        "karar_no": "2024/41",
+        "case_subject": "İhtiyati Tedbir İtiraz",
+        "dava_tarihi": "27/10/2023",
+        "karar_tarihi": "21/01/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı-birleşen davacı vekili, davacı-birleşen davacının şarap emtiaları bakımından \"...\" ibareli marka kullanımı ile müvekkiline ait \"...\" ibareli tescilli marka arasında iltisab tehlikesi bulunduğunu iddia etmiştir. Mahkemece oluşturulan bilirkişi heyeti tarafından tespit edilen markasal kullanım örnekleri dikkate alınmıştır.",
+        "reasoning_text": "Mahkeme, davacı-birleşen davacının markasını \"şaraplar\" emtiaları bakımından kullandığının tesbit edildiğini, dosyanın uzman görüşü sunduklarını ve raporların yetersiz olduğunu değerlendirmiştir. İstinaf başvurusunun esas yönünden reddine dair hüküm kurulmuştur.",
+        "verdict_text": "1-İhtiyati tedbire itiraz eden davacı-birleşen davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ESASLAN REDDİNE, 2-Harçlar Kanunu uyarınca alınması gereken 427,60-TL maktu istinaf karar ve ilam harcından, ihtiyati tedbire itiraz eden davacı-birleşen davacı vekili tarafından istinaf başvurusunda yatırılan 269,85-TL istinaf karar ve ilam harcının mahsubu ile bakiye 157,75-TL'nin ihtiyati tedbire itiraz eden davacı-birleşen davacıdan tahsili ile Hazineye irat kaydına, 3-İstinaf aşamasında ihtiyati tedbire itiraz eden davacı-birleşen davacı tarafından yapılan yargılama giderlerinin uhdesinde bırakılmasına, 4-İstinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına, Dair; dosya üzerinde yapılan inceleme sonucunda oybirliği ile 12/01/2024 tarihinde HMK'nın 362/1-f maddesi uyarınca KESİN olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nın 353/1-b.1 maddesi",
+            "Harçlar Kanunu",
+            "HMK'nın 362/1-f maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı-birleşen davacının markasını \"şaraplar\" emtiaları bakımından kullandığının tesbit edildiğini ve istinaf başvurusunun esas yönünden reddedildiğini kararlaştırmıştır. İstinaf başvurusunun reddine dair hüküm kurulmuştur.",
+    "summary_for_model": "Mahkeme, davacı-birleşen davacının markasını \"şaraplar\" emtiaları bakımından kullandığının tesbit edildiğini ve istinaf başvurusunun esas yönünden reddedildiğini kararlaştırmıştır. İstinaf başvurusunun reddine dair hüküm kurulmuştur. HMK'nın 353/1-b.1 maddesi ve Harçlar Kanunu'na dayanılarak istinaf başvurusu reddedilmiştir."
+}

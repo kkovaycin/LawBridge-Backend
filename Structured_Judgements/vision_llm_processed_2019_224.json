@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2019_224.pdf",
+        "court_name": "T.C. İSTANBUL 1. FİKRİ VE SANATİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2019/224 Esas",
+        "karar_no": "2021/53",
+        "case_subject": "Haysiyet Kurulu Kararının İptali",
+        "dava_tarihi": "05/07/2019",
+        "karar_tarihi": "03/02/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, Yönetim Kurulunun 4.09.2019 tarihli 4.0992 sayılı kararının 8. maddesiyle Haysiyet Kuruluna sevki üzerine Haysiyet Kurulunun 2.04.2092 sayılı kararı ile üye disiplin önergesinin 7. maddesinin b maddesine göre verilen hak mahrumiyeti yaptırım kararına ilişkin işlem ve kararın tüm sonuçları ile iptali ve tedbiren durdurulmasını talep etmiştir.",
+        "reasoning_text": "Mahkeme, davacının Facebook paylaşımında yer alan beyanların tahkir edici niteliği ve hakaret niteliğinde olduğunu ve üye disiplin önergesinin 7/b maddesine uygun olarak 28.05.2019 tarihinde Davacı için hak mahrumiyeti yaptırım uygulanmasına karar verildiğini belirtmiştir. Haysiyet Kurulu, işbu dava konusu kararı Haysiyet Kurulu Yönergesinde belirlenen çalışma usulü ve esaslarını dikkate alarak ve dosyada mevcut bilgiler ve belgelerden edindiği \"kanaat\" doğrultusunda karar verdiğini beyan ederek davanın reddini talep etmiştir.",
+        "verdict_text": "Yukarda açıklanan gerekçe kapsamına göre;\n1-DAVANIN KABULÜNE,\n... Yönetim Kurulunun ... tarih ... sayılı kararının 8. maddesiyle ... Haysiyet Kuruluna sevki üzerine Davacının Haysiyet Kurulu'nun ... tarihli ... Sayılı kararıyla ... üye disiplin önergesinin 7. maddesinin b maddesine göre verilen hak mahrumiyeti yaptırım kararına ilişkin işlem ve kararın tüm sonuçlarıyla iptaline, HMK 389 vd. Maddeleri gereğince tedbir talebinin kabulüne,\n2-59,30 TL İlam harcının peşin harçtan mahsubu ile; 14,90 TL eksik harcin davalidan tahsiline,\n3-Avukatlık asgari ücret tarifesi gereğince; 5.900 TL vekalet ücretinin davalidan alınarak davacıya verilmesine,\n5-Davacı tarafın yapmış olduğu yargılama giderlerinden olan 44,40 TL peşin harç, 44,40 TL başvuru harci, 90,60 TL tebligat müzekkere masrafı olmak üzere toplam 179,40 TL'nin davalidan alınarak davacıya verilmesine,\n6-Davalı tarafın yapmış olduğu yargılama giderlerinin üzerinde bırakılmasına,\n7-Artan gider avansının karar kesinleştiğinde ve talebi halinde taraflara iadesine,\nDair karar taraf vekillerinin yüzüne karşı gerekli kararın tebliğiinden itibaren iki haftalık süre içinde İSTINAFA YASA YOLU AÇIK olmak üzere verilen karar açıkça okundu, usulen anlatıldı.03/02/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "5846 sayılı Kanun",
+            "Türk Ceza Kanunu",
+            "Haysiyet Kurulu Yönergeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, Haysiyet Kurulunun kendisine uygulanan hak mahrumiyeti yaptırım kararını iptal etmesini talep etmiştir. Mahkeme, davacının Facebook paylaşımının tahkir edici olduğunu ve üye disiplin önergesinin uygunluğunu kabul ederek davayı reddetmiştir.",
+    "summary_for_model": "Davacı, Haysiyet Kurulunun kendisine uygulanan hak mahrumiyeti yaptırım kararını iptal etmiştir. Mahkeme, davacının Facebook paylaşımının tahkir edici olduğunu ve üye disiplin önergesinin uygunluğunu kabul ederek davayı reddetmiştir. Karar, HMK 389 vd. Maddeleri ve 5846 sayılı Kanun'a dayanarak verilmiştir."
+}

@@ -1,0 +1,34 @@
+{
+    "meta_data": {
+        "file_name": "2022_1775.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2022/55 E. - 2023/1 K.",
+        "karar_no": "2023/51",
+        "case_subject": "Marka (Marka Hakkına Tecavüzden Kaynaklanan)",
+        "dava_tarihi": "07/02/2022",
+        "karar_tarihi": "12/01/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, 2012'den beri insanlığa hizmet eden bir dernek olarak faaliyet gösterdi. 2016'da internet sitesi kurdu ve 2020'de markasını değiştirdi. 2021'de TPMK'de marka başvurusu bulundu. Davacı, vekilinin markaya tecavüz ettiğini iddia etti ve erişim engeli talebinde bulundu.",
+        "reasoning_text": "İlk derece mahkemesi, erişim engeli kararını kaldırdı. İstinaf mahkemesi, markaların benzerliği ve itibarın ihlali açısından değerlendirdi. Davacı vekilinin markayı kötüye kullanmadığı ve itibarın ihlal edilmediği sonucuna vardı.",
+        "verdict_text": "İstanbul 4. Fikri ve Sınaî Haklar Hukuk Mahkemesi'nin 25/10/2022 tarihli kararının itirazı reddedildi. Davacı vekilinin istinaf talebi reddedildi. Davacıya karşı istinaf kararı ve harç tahsilatı kararı verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "26. Madde",
+            "10. Madde",
+            "5651 Sayılı Kanun",
+            "8. Madde",
+            "355. Madde",
+            "353/1-b/1. Madde",
+            "362/1-a Madde",
+            "492 Sayılı Harçlar Kanunu",
+            "179,90 TL",
+            "556 Sayılı KHK",
+            "8/1-b. Madde"
+        ]
+    },
+    "summary_for_human": "Davacı vekilinin markaya tecavüz ettiği iddiasıyla dava açıldı. İstinaf mahkemesi, vekilinin markayı kötüye kullanmadığını ve itibarın ihlal edilmediğini karar verdi. Davacı vekilinin istinaf talebi reddedildi.",
+    "summary_for_model": "Dava, markaya tecavüz iddiasına dayanıyor. İstinaf mahkemesi, vekilinin markayı kötüye kullanmadığını ve itibarın ihlal edilmediğini tespit etti. Davacı vekilinin istinaf talebi reddedildi. 6100 Sayılı HMK ve diğer kanunlar dikkate alındı."
+}

@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2023_182.pdf",
+        "court_name": "5. Fikrî ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2023/182",
+        "karar_no": "2023/206",
+        "case_subject": "Marka hukuksuzluğundan kaynaklanan hak ihlali",
+        "dava_tarihi": "05/01/2023",
+        "karar_tarihi": "17/04/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının uzun yıllardır faaliyet gösterdiğini, sosyal medya hesaplarında davalının markasını kullanmakta olduğunu iddia etmiştir. Davalı, davacının markasını kullanmakla suçlanmıştır.",
+        "reasoning_text": "Mahkeme, davalının pasif husumet eksikliği nedeniyle davayı reddetmiştir. Davacı ve davalının vekilleri arasındaki uyumsuzluk ve dava dosyasının eksiklikleri nedeniyle dava reddedilmiştir.",
+        "verdict_text": "1-Davalıya yöneltilen dava... nedeniyle REDDİNE, 2-Davacı tarafından peşin yatan 179,90 TL harç alınması gereken karar ve ilam harçını karşıladığından bu hususta ayrıca harç tahsiline yer olmadığına, 3-Davalıya yöneltilen dava... nedeniyle reddedildiğinden ve davalı kendisini vekil ile temsil ettirdiğinden karar verildiği tarihte yürürlükte bulunan AAÜT m.3 ve m.7/2 hükmü gereği hesaplanan 15.000,00 TL vekalet ücretinin davacından alınarak davalına verilmesine, 4-Davacı tarafından yapılan 179,90 TL başvurma ve 179,90 TL peşin maktu harç olmak üzere toplam 359,80 TL yargılama giderinin kendi üzerinde bırakılmasına, 5-HMK m.333 hükmü gereği karar kesinleştiğinde artan avansın yatıran tarafa resen iadesine, Dair, tarafların yokluğunda, evrak üzerinde yapılan inceleme sonucunda, HMK m. 341 hükmü gereği kararın taraflara tebliğinden itibaren iki hafta içerisinde ... Bölge Adliye Mahkemesi ilgili hukuk dairesi nezdiinde İSTİNAF yasa yolu açık olmak üzere karar verildi.17/04/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı SMK",
+            "6102 sayılı TMK",
+            "AAÜT m.3 ve m.7/2",
+            "HMK m.333",
+            "HMK m.341"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davalının pasif husumet eksikliği nedeniyle davayı reddetmiştir. Davacı ve davalının vekilleri arasındaki uyumsuzluk ve dava dosyasının eksiklikleri nedeniyle dava reddedilmiştir.",
+    "summary_for_model": "Dava, davalının sosyal medya hesaplarında markasını kullanmakla suçlanmasıyla açılmıştır. Mahkeme, davalının pasif husumet eksikliği nedeniyle davayı reddetmiştir. Davacı ve davalının vekilleri arasındaki uyumsuzluk ve dava dosyasının eksiklikleri nedeniyle dava reddedilmiştir."
+}

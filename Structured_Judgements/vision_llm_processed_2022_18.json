@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2022_18.pdf",
+        "court_name": "İZMİR FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2022/18 Esas",
+        "karar_no": "2023/88",
+        "case_subject": "Endüstriyel Tasarım (Endüstriyel Tasarımın Hükmüsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "06/12/2021",
+        "karar_tarihi": "19/10/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı tarafından yapılan ihlati tedbir taleplerini savunmuştur. Davalı, tasarımın yeni ve ayırt edici olmadığı iddiasıyla karşı çıkmıştır. Mahkeme, tasarımın yeni ve ayırt edici niteliği olmadığını tespit etmiştir.",
+        "reasoning_text": "Mahkeme, 6769 Sayılı Sınai Mülkiyet Kanunu'nun 56, 57 ve 77. maddeleri çerçevesinde tasarımın yeni ve ayırt edici niteliği olmadığını tespit etmiştir. Tasarımın tescil tarihinden önce sosyal medya platformlarında yayınlandığı ve bu durumun tasarımın yeni ve ayırt edici niteliğini ortadan kaldırdığı kabul edilmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; Davanın Kabulüne, Davalı adına Türk Patent ve Marka Kurumu nezdiğinde...ayırtlı tasarım tescil belgesinin hükmüsüzlüğüne, sicilden terkine, Alınması gereken 269,85 TL karar harctan davacı tarafından yatırılan 59,30 TL peşin harçın mahsubu ile eksik 210,55 TL harçın davaldan alınarak hazineye irat kaydına, davacı tarafından ödenen 59,30 TL harçın davaldan alınarak davacıya ödenmesine, Davacı duruşmada kendisini vekil ile temsil ettiğinden karar tarihinde yürürlükte bulunan AAUT.'ne göre hesap ve takdir edilen 25500,00 TL vekalet ücretinin davaldan alınarak davacıya verilmesine, Davacı tarafından yapılan 6084,00 TL yargılama giderinin davaldan alınarak davacıya ödenmesine, Kalan ve kullanılmayan gider avanslarının karar kesinleştiğinde talep beklenmeksizin ilgili taraflara iadesine, Dair davacı vekilinin yüzüne karşı, davalı tarafın yokluğunda, Gerekçeli hükmün tebliğinden itibaren 2 hafta süre içinde, İzmir Bölge Adliye Mahkemesi ilgili Hukuk Dairesi nezdiinde İstinaf yasa yolu açık olmak üzere verilen karar usulen okunup anlatıldı.19/10/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 Sayılı Sınai Mülkiyet Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davalı tarafından yapılan tasarımın yeni ve ayırt edici olmadığını tespit ederek hükmüsüzlük kararı vermiştir. Davacı tarafından ödenen harçlar ve vekalet ücretleri davaldan alınmıştır.",
+    "summary_for_model": "Mahkeme, 6769 Sayılı Sınai Mülkiyet Kanunu'na dayanarak tasarımın yeni ve ayırt edici niteliğini reddetmiştir. Tasarımın sosyal medya platformlarında yayınlandığı ve bu durumun tasarımın yeni ve ayırt edici niteliğini ortadan kaldırdığı kabul edilmiştir."
+}

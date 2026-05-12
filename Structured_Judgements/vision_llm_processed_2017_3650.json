@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2017_3650.pdf",
+        "court_name": "İstanbul (Kaptalana) 4.Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2017/3650 Esas",
+        "karar_no": "2020/169 Karar",
+        "case_subject": "Fikri Ve Sanat Sanat Eseri Sahipliğinden Kaynaklanan Haklara Tecavüz Ref'i, Önlünmesi Ve Tazmini",
+        "dava_tarihi": "22/12/2016",
+        "karar_tarihi": "27/01/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müzik sektöründe bulunan bir müzisyen olan müvekkilin eseri, izinsiz olarak değiştirilerek reklam videosu olarak kullanıldığını iddia etmiştir. Müvekkilin eseri, YouTube ve Facebook sayfalarında yayınlanmıştır. Davacı, eserin izinsiz kullanımı nedeniyle maddi ve manevi hak ihlali iddia etmiştir.",
+        "reasoning_text": "Mahkeme, eserin izinsiz kullanımı nedeniyle maddi ve manevi hak ihlali olduğunu tespit etmiştir. Davacı vekili, eserin izinsiz kullanımı nedeniyle maddi ve manevi hak ihlali iddiasıyla dava açmıştır. Mahkeme, eserin izinsiz kullanımı nedeniyle maddi ve manevi hak ihlali olduğunu tespit etmiştir.",
+        "verdict_text": "Davacı vekilinin istinaf talebinin kabul edilerek, dava vekilinin istinaf başvurusunun bu aşamada değerlendirilmesine yer olmadığına karar verildi. Davacı vekilinin istinaf başvurusunun bu aşamada incelenmediğinden istinaf peşin harçlarının taraflara iadesine, istinaf yargılama giderleri olarak; Davacı avansından kullanıldığı anlaşlanan; 50,00 TL (posta-teb-müz) masrafının 1/2 oranında 25,00 TL'sinin davacidan alınarak davalya verilmesine, istinaf incelemesi durusmasız yapıldığından avukatlık ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucu 27/01/2020 tarihinde HMK'nun 353/1-a-6 maddesi uyarınca oybirliğiyle kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 356",
+            "FSEK 14. Maddesi",
+            "FSEK 15. Maddesi",
+            "FSEK 16. Maddesi",
+            "FSEK 68 Maddesi (Değişik: 23/1/2008-5728/137 md.)",
+            "HMK 353/1-a-6 Maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, müzik sektöründe bulunan bir müzisyen olan müvekkilin eseri, izinsiz olarak değiştirilerek reklam videosu olarak kullanıldığını iddia etmiştir. Mahkeme, eserin izinsiz kullanımı nedeniyle maddi ve manevi hak ihlali olduğunu tespit etmiştir.",
+    "summary_for_model": "Davacı vekili, müzik sektöründe bulunan bir müzisyen olan müvekkilin eseri, izinsiz olarak değiştirilerek reklam videosu olarak kullanıldığını iddia etmiştir. Mahkeme, eserin izinsiz kullanımı nedeniyle maddi ve manevi hak ihlali olduğunu tespit etmiştir. Davacı vekilinin istinaf talebinin kabul edilerek, dava vekilinin istinaf başvurusunun bu aşamada değerlendirilmesine yer olmadığına karar verildi."
+}

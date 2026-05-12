@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2019_132.pdf",
+        "court_name": "T.C. İSTANBUL 21. ASLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2019/132 Esas",
+        "karar_no": "2021/103",
+        "case_subject": "Alacak (Taşıma Sözleşmesi Kaynaklı)",
+        "dava_tarihi": "09/09/2019",
+        "karar_tarihi": "10/02/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, Irak vatandaşı olarak Türkiye Cumhuriyeti'nde ikamet ettiğini iddia ediyor. 13/10/2018'de Irak'ta 86.525 USD alacak olarak teslim edildiğini, ancak Türkiye'de alımını istediğini belirtiyor. Davalı, 09/05/2019'da 2.000 USD teslim ettiğini, geri kalan 84.525 USD'yi ödemediğini iddia ediyor. Davacı, davayı 84.525 USD'nin 29/06/2019'den itibaren faizle birlikte davalından alınarak kendisine verilmesini talep ediyor.",
+        "reasoning_text": "Mahkeme, davalı ile davacı arasında ticari ilişki bulunmadığını, davalı'nın davacıya para transferi yapmadığını ve davacı'nın iddialarının kanıtlanamadığını tespit ediyor. Davacı'nın Irak'ta bir firma ile söz konusu işlemi yapmış olmasına rağmen, bu firmanın davalı ile ticari ilişki kurmadığı ve davacı'nın iddialarının yetersiz olduğu sonucuna varılıyor.",
+        "verdict_text": "1-Davacının davasının KABULÜNE, 84.525,00USD'nin 29.06.2019 tarihinden itibaren işleyen kamu bankalarının bir yıl vadeli USD cinsinden mevduata uyguladığı en yüksek faizi ile birlikte davalıdan alınarak davacıya verilmesine,\n2-Kabul edilen dava değeri olan 483.296,20 TL üzerinden hesaplanan 33.013,96 TL karar harcının davalıdan alınarak Hazineye ödünmesine,\n3-Avukatlık Asgari Ücret Tarifesine göre hesap ve takdir edilen 41.214,81 TL vekalet ücretinin davalıdan alınarak davacıya verilmesine,\n4-Davacı tarafından tebligat, müzekkere, bilirkişi ücreti ve sair giderler için sarfedilen toplam 59,50 TL yargılama giderinin davalıdan alınarak davacıya verilmesine,\n5-Zorunlu Arapçuluk başvurusu nedeniyle harcanan 1.320,00TL'nin davanın açılmasına sebebiyet veren davalıdan alınarak Hazineye ödünmesine,\n6-Dosyada artan gider avansının karar kesinleştiğinde yatırına iaadesine,\nİlşkin gerekli kararın tebliginden itibaren iki hafta içerisinde mahkememize ya da mahkememize gönderilmek üzere başka yer mahkemesine verilecek bir dilekçe ile İstanbul Bölge Adliye Mahkemesi nezdiinde istinaf yolu açık olmak üzere oy birliği ile verilen karar açıkça okunup, usulen anlatıldı. 10/02/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Kurulu 115/2 maddesi",
+            "Hukuk Kurulu 200. maddesi",
+            "Türk Medeni Kanunu 2. Maddesi",
+            "Ticaret Kanunu 4. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, Irak vatandaşı olarak Türkiye'de ikamet ettiğini iddia ediyor ve Irak'ta teslim edilen 86.525 USD'nin Türkiye'de kendisine verilmesini talep ediyor. Davalı ise, bu para transferinin kendisiyle ticari ilişki kurmadığını ve davacı'nın iddialarının kanıtlanamadığını savunuyor. Mahkeme, davalı ile davacı arasında ticari ilişki bulunmadığını ve davacı'nın iddialarının yetersiz olduğunu tespit ederek davayı kabul etmiş ve davacı'ya 84.525 USD'nin faizle birlikte verilmesini kararlaştırmıştır.",
+    "summary_for_model": "Davacı, Irak vatandaşı olarak Türkiye'de ikamet ettiğini iddia ediyor ve Irak'ta teslim edilen 86.525 USD'nin Türkiye'de kendisine verilmesini talep ediyor. Davalı, bu para transferinin kendisiyle ticari ilişki kurmadığını ve davacı'nın iddialarının kanıtlanamadığını savunuyor. Mahkeme, davalı ile davacı arasında ticari ilişki bulunmadığını ve davacı'nın iddialarının yetersiz olduğunu tespit ederek davayı kabul etmiş ve davacı'ya 84.525 USD'nin faizle birlikte verilmesini kararlaştırmıştır. Hukuki dayanak olarak Hukuk Kurulu 115/2 ve 200. maddeleri, Türk Medeni Kanunu 2. Maddesi ve Ticaret Kanunu 4. maddesi kullanılmıştır."
+}

@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2019_220.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 13. Hukuk Dairesi",
+        "esas_no": "2019/220",
+        "karar_no": "2020/1121",
+        "case_subject": "Manevi Tazminat Davası",
+        "dava_tarihi": "10/05/2018",
+        "karar_tarihi": "15/10/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, davacının vekili tarafından sosyal medyada paylaşılan eleştirel yayınların, davacının ticari saygınlığına saldırdığını ve haklı bir gerekçe olmadan davacı şirketi aleyhine kampanya düzenlediğini iddia etmiştir. Davacı vekili, bu yayınların ifade özgürlüğü ve eleştiri hakları kapsamında değerlendirilmesinin gerektiğini savunmuştur.",
+        "reasoning_text": "Mahkeme, davacının sosyal medya hesabındaki yayınların ifade özgürlüğü ve eleştiri hakları kapsamında değerlendirilmesinin gerektiğini ancak bu yayınların davacı şirketi aleyhine haklı bir gerekçe olmadan kampanya düzenlediğini ve davacı şirketin ticari saygınlığına saldırdığını tespit etmiştir. Mahkeme, bu yayınların ifade özgürlüğü ve eleştiri hakları kapsamında değerlendirilmesinin gerektiğini ancak bu yayınların davacı şirketi aleyhine haklı bir gerekçe olmadan kampanya düzenlediğini ve davacı şirketin ticari saygınlığına saldırdığını tespit etmiştir.",
+        "verdict_text": "Davacının istinaf başvurusunun kabulü ile; İstanbul Anadolu 8. Asliye Ticaret Mahkemesi'nin 2017/986 Esas - 2018/413 Karar ve 10/05/2018 tarihli kararının HMK'nın 353/1-b2 maddesi uyarınca kaldırılmasına, Dairemizce yeniden hüküm kurulmak suretiyle; 1-Davanın REDDİNE,İLK DERECE YÖNÜNDEN : 2-Karar tarihinde yürürlükte bulunan harçlar tarifesine göre alınması gereken 54,40.TL harçın pesin yatırılan 170,78.TL'den mahsubu ile bakiye 116,38.TL'nin talep halinde davacıya iadesine, 3-Davacı tarafından sarfedilen yargılama giderlerinin davacı üzerinde bırakılmasına, 4-Davalı tarafından sarfedilen yargılama gideri bulunmadığından bu hususta bir karar verilmesine yer olmadığına, 5-Davalı kendisini vekille temsil ettiğinden Dairemiz karar tarihinde yürürlükte bulunan AAÜT gereğince hesaplanan 3.400,00.TL vekalet ücretinin davacıdan alınarak davalya verilmesine, 6-Artan gider avansı bulunduğu takdirde talep halinde yatıran tarafa iadesine, İSTİNAF YÖNÜNDEN: 7-Harçlar Kanunu gereğince istinaf eden tarafından yatırılan 121,30.TL başvuru harcının hazineye gelir kaydına, 44,40.TL karar harcının talep halinde davalıya iadesine, 8-Davalı tarafından yatırılan 121,30.TL istinaf kanun yoluyla başvurma harci ile dosyanın istinafa gönderim gideri 31,50.TL'den oluşan toplam: 152,80.TL yargılama giderinin davacıdan alınarak davalya verilmesine, 9-Bakiye gider avansı varsa talep halinde avansı yatıran tarafa iadesine, 10-Kararın ilk derece mahkemesinde taraflara tebliği gönderilmesine, Dosya üzerinde yapılan inceleme sonucunda 15/10/2020 tarihinde HMK'nın 362/1-a maddeleri gereğince kesin olarak oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TMK 25. maddesi",
+            "TBK 49. ve 58. maddeleri",
+            "TTK 55., 56. maddeleri",
+            "Avrupa İnsan Hakları Mahkemesi (AİHM)",
+            "Türk Anayasa Mahkemesi",
+            "Hukuk Muhakemesi Kanunu (HMK) 353/1-b2 maddesi",
+            "Hukuk Muhakemesi Kanunu (HMK) 362/1-a maddeleri",
+            "Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davacının sosyal medyada paylaşılan eleştirel yayınların davacı şirketi aleyhine kampanya düzenlediğini iddia etti. Mahkeme, bu yayınların ifade özgürlüğü ve eleştiri hakları kapsamında değerlendirilmesinin gerektiğini ancak bu yayınların davacı şirketi aleyhine haklı bir gerekçe olmadan kampanya düzenlediğini tespit etti. Davacı vekili'nin istinaf başvurusu kabul edildi ve ilk derece mahkeme kararı kaldırıldı.",
+    "summary_for_model": "Davacı vekili, davacının sosyal medyada paylaşılan eleştirel yayınların davacı şirketi aleyhine kampanya düzenlediğini iddia etti. Mahkeme, bu yayınların ifade özgürlüğü ve eleştiri hakları kapsamında değerlendirilmesinin gerektiğini ancak bu yayınların davacı şirketi aleyhine haklı bir gerekçe olmadan kampanya düzenlediğini tespit etti. Davacı vekili'nin istinaf başvurusu kabul edildi ve ilk derece mahkeme kararı kaldırıldı. Davacının istinaf başvurusunun kabulü ile; İstanbul Anadolu 8. Asliye Ticaret Mahkemesi'nin 2017/986 Esas - 2018/413 Karar ve 10/05/2018 tarihli kararının HMK'nın 353/1-b2 maddesi uyarınca kaldırılmasına, Dairemizce yeniden hüküm kurulmak suretiyle; davanın reddine karar verildi."
+}

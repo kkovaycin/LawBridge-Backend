@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_403.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ BAM 20. HUKUK DAİRESİ",
+        "esas_no": "2021/403",
+        "karar_no": "2023/344",
+        "case_subject": "Marka ile ilgili Kurum Kararının İptali",
+        "dava_tarihi": "27/11/2020",
+        "karar_tarihi": "09/04/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı şirketin markasını ticari faaliyetlerinde kullanmak için itiraz dilekçesi ile başvurmuştur. Davalı vekili ise, davacı vekilinin başvurusunun usul ve yasaya uygun olmadığını savunmuştur. Davacı, davalı şirketin markasını ticari faaliyetlerinde kullanmak için itiraz dilekçesi ile başvurmuştur.",
+        "reasoning_text": "Mahkeme, davacı vekilinin itiraz dilekçesinin usul ve yasaya uygun olduğunu kabul etmiştir. Davacı vekilinin davalı şirketin markasını ticari faaliyetlerinde kullanmak için itiraz dilekçesi ile başvurusu, davalı şirketin markasını ticari faaliyetlerinde kullanmak için itiraz dilekçesi ile başvurusu reddedilmiştir.",
+        "verdict_text": "1-Davacı ... ile davalı şirket vekillerinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ESASTAN REDDİNE, 2-Davacı ... ile davalı şirketten ayrı ayrı alınması gereken 179,90'ar-TL maktu istinaf karar ve ilam harcından, davalı tarafça istinaf başvurusunda yatırılan 59,30'ar-TL istinaf karar ve ilam harcının mahsubu ile bakiye 120,60-TL'nin davallardan ayrı ayrı tahsili ile hazineye irat kaydına, 3-İstinaf aşamasında davalı ... ile davalı şirket vekilleri tarafından yapılan yargılama giderlerinin davallar uhdesinde bırakılmasına, 4-İstinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda oybirliği ile 16/03/2023 tarihinde HMK 361. maddesi uyarınca kararın tebliğinden itibaren iki hafta içerisinde Yargıtay temyiz yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nın 353/1-b.1 maddesi",
+            "HMK 361. maddesi",
+            "6100 sayılı HMK'nın 355. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davalı şirketin markasını ticari faaliyetlerinde kullanmak için itiraz dilekçesi ile başvurmuştur. Mahkeme, davacı vekilinin itiraz dilekçesinin usul ve yasaya uygun olduğunu kabul etmiştir. Davacı vekilinin davalı şirketin markasını ticari faaliyetlerinde kullanmak için itiraz dilekçesi ile başvurusu reddedilmiştir.",
+    "summary_for_model": "Davacı vekili, davalı şirketin markasını ticari faaliyetlerinde kullanmak için itiraz dilekçesi ile başvurmuştur. Mahkeme, davacı vekilinin itiraz dilekçesinin usul ve yasaya uygun olduğunu kabul etmiştir. Davacı vekilinin davalı şirketin markasını ticari faaliyetlerinde kullanmak için itiraz dilekçesi ile başvurusu reddedilmiştir. HMK'nın 353/1-b.1 maddesi ve HMK 361. maddesi uyarınca karar verildi."
+}

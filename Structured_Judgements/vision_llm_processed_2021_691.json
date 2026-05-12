@@ -1,0 +1,33 @@
+{
+    "meta_data": {
+        "file_name": "2021_691.pdf",
+        "court_name": "Antalya Bölge Adliye Mahkemesi 11. Hukuk Dairesi",
+        "esas_no": "Belirtilmemiş",
+        "karar_no": "Belirtilmemiş",
+        "case_subject": "Menfi Tespit (Ticari Satımdan Kaynaklanan)",
+        "dava_tarihi": "02/12/2020",
+        "karar_tarihi": "16/10/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının müvekkili olarak tanıtıldığını ancak şirket göstermelik olarak oğlu adına kayıtlı olduğunu iddia etmiştir. Davacı, davalının 21.09.2018 tarihli işyeri devir sözleşmesi kapsamında 450.000,00 TL devir aldığını, 320.000,00 TL nakit ödediğini, kalan 130.000,00 TL 2 Senet şeklinde ödediğini, 65.000,00 TL'lik bono davası konusu senetle beraber ödemesini/ödemelerini yaptığını ancak senedin iade edilmediğini iddia etmiştir. Davacı, davalının eski eşinin halen birlikte yaşadığını, Antalya 10. İcra Müdürlüğü'nün ... sayılı dosyası ile kambiyo senetine özgü haciz yolu ile takip başlattığını, iş yeri devrinden 10-15 gün sonra şirket ve ... borçlarından dolayı işyeri malzemeleri ve müvekkile ait malzemelerin haciz geldiğini, tarafimizin şikayetçi ...'ın şüpheli olduğunu iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacının iddialarını değerlendirerek, davalının senetlerini ödemediğini ancak senetlerin her ikisi de aynı bedelli olup birinin vadesi 10.10.2018 diğerinin vadesi 20.10.2018 tarihinde olduğunu tespit etmiştir. Banka kanalıyla yapılan ödemeler ise 18.10. İla 23.10.2018 tarihlerinde gerçekleşmiştir. Mahkeme, davacının önceki tarihli senetini ödediğini iddia ettiğini ancak bu iddianın kanıtlanamadığını, senetlerin her ikisi de aynı bedelli olup birinin vadesi 10.10.2018 diğerinin vadesi 20.10.2018 tarihinde olduğunu ve banka kanalıyla yapılan ödemelerin takibe konu senetin vadesinden önce yapıldığını tespit etmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin İlk Derece Mahkemesi kararına ilişkin istinaf başvurusunun ESASTAN REDDİNE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gerekli 269,85 TL maktu istinaf karar harcından peşin olarak yatırılan 59,30 TL harçın mahsubu ile bakiye 210,55 TL istinaf karar harcının davacidan tahsili ile Hazineye GELİR KAYDININA, harç tahsil müzekkeresinin ilk derece mahkemesince YAZILMASININA, 3-Davacının istinaf başvurusu nedeniyle yapılan yargılama masraflarının kendi üzerinde BIRAKILMASININA, 4-Kullanılmayan istinaf gider avansının 6100 Sayılı HMK'nın 333. maddesi uyarınca İlk Derece Mahkemesince İADESİNE, 5-Istinaf incelemesi dosya üzerinden yapıldığından davalı lehine vekalet ücreti takdirine YER OLMADIĞINA, 6-Kararın İlk Derece Mahkemesi tarafından taraflara TEBLİĞİNE, Dair, 6100 sayılı HMK'nın 353/1-b.1. maddesi gereğince dosya üzerinde yapılan inceleme sonucunda oybirliğiyle, 6100 Sayılı HMK'nın 362/1-a. maddesi gereğince dava değerinin karar tarihi itibarıyla temyiz kesinlik sınırı olan 238.730,00 TL'nin altında kalması nedeniyle kesin olarak karar verildi.16/10/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK'nın 690. Maddesi",
+            "İK'nin 72/5 maddesi",
+            "492 Sayılı Harçlar Kanunu",
+            "6100 Sayılı HMK'nın 355. maddesi",
+            "6100 Sayılı HMK'nın 359/3 maddesi",
+            "6100 Sayılı HMK'nın 353/1-b.1. maddesi",
+            "6100 Sayılı HMK'nın 362/1-a. maddesi",
+            "6100 Sayılı HMK'nın 333. maddesi",
+            "HMK m. 355/1.",
+            "HMK m. 353/1-b.1.",
+            "HMK m. 359/3"
+        ]
+    },
+    "summary_for_human": "Bu davada, davacı vekili, davalının ticari işlemlerinde menfi tespit iddiasında bulunmuştur. Davacı, davalının senetlerini ödemediğini ve bu senetlerin haciz altına alındığını iddia etmiştir. Mahkeme, davacının iddialarını inceledi ve davalının senetlerini ödemediğini ancak senetlerin her ikisi de aynı bedelli olduğunu tespit etti. Mahkeme ayrıca, davacının önceki tarihli senetini ödediğini iddia ettiğini ancak bu iddianın kanıtlanamadığını belirledi. Sonuç olarak, mahkeme davacının istinaf başvurusunu reddetme kararı verdi ve davacıya karşı istinaf harçları ve yargılama masrafları tahakkuk ettirdi.",
+    "summary_for_model": "Davacı vekili, davalının müvekkili olarak tanıtıldığını ancak şirket göstermelik olarak oğlu adına kayıtlı olduğunu iddia etmiştir. Davacı, davalının 21.09.2018 tarihli işyeri devir sözleşmesi kapsamında 450.000,00 TL devir aldığını, 320.000,00 TL nakit ödediğini, kalan 130.000,00 TL 2 Senet şeklinde ödediğini, 65.000,00 TL'lik bono davası konusu senetle beraber ödemesini/ödemelerini yaptığını ancak senedin iade edilmediğini iddia etmiştir. Mahkeme, davacının iddialarını değerlendirerek, davalının senetlerini ödemediğini ancak senetlerin her ikisi de aynı bedelli olup birinin vadesi 10.10.2018 diğerinin vadesi 20.10.2018 tarihinde olduğunu tespit etmiştir. Banka kanalıyla yapılan ödemeler ise 18.10. İla 23.10.2018 tarihlerinde gerçekleşmiştir. Mahkeme, davacının önceki tarihli senetini ödediğini iddia ettiğini ancak bu iddianın kanıtlanamadığını, senetlerin her ikisi de aynı bedelli olup birinin vadesi 10.10.2018 diğerinin vadesi 20.10.2018 tarihinde olduğunu ve banka kanalıyla yapılan ödemelerin takibe konu senetin vadesinden önce yapıldığını tespit etmiştir. Sonuç olarak, mahkeme davacının istinaf başvurusunu reddetme kararı verdi ve davacıya karşı istinaf harçları ve yargılama masrafları tahakkuk ettirdi. Davacı vekilinin İlk Derece Mahkemesi kararına ilişkin istinaf başvurusunun ESASTAN REDDİNE, 492 Sayılı Harçlar Kanunu gereğince alınması gerekli 269,85 TL maktu istinaf karar harcından peşin olarak yatırılan 59,30 TL harçın mahsubu ile bakiye 210,55 TL istinaf karar harcının davacidan tahsili ile Hazineye GELİR KAYDININA, harç tahsil müzekkeresinin ilk derece mahkemesince YAZILMASININA, Davacının istinaf başvurusu nedeniyle yapılan yargılama masraflarının kendi üzerinde BIRAKILMASININA, Kullanılmayan istinaf gider avansının 6100 Sayılı HMK'nın 333. maddesi uyarınca İlk Derece Mahkemesince İADESİNE, Istinaf incelemesi dosya üzerinden yapıldığından davalı lehine vekalet ücreti takdirine YER OLMADIĞINA, Kararın İlk Derece Mahkemesi tarafından taraflara TEBLİĞİNE karar verildi."
+}

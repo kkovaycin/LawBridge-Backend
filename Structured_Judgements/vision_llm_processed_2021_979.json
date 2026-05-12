@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2021_979.pdf",
+        "court_name": "GAZİANTEP BÖLGE ADLİYE MAHKEMESİ 11. HUKUK DAİRESİ",
+        "esas_no": "2017/139",
+        "karar_no": "2022/1888",
+        "case_subject": "Ticari Hizmet Sözleşmesinden Kaynaklanan",
+        "dava_tarihi": "07/10/2020",
+        "karar_tarihi": "07/12/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, savcı vekili tarafından yapılan iddialara karşı savunma sunmuştur. Davacı vekili, savcı vekili tarafından yapılan iddiaların yanlış olduğunu iddia etmiştir. Davacı vekili, savcı vekili tarafından yapılan iddiaların yanlış olduğunu iddia etmiştir. Davacı vekili, savcı vekili tarafından yapılan iddiaların yanlış olduğunu iddia etmiştir.",
+        "reasoning_text": "Mahkeme, dava dosyasını incelediğinde, davacı vekili tarafından sunulan iddiaların doğru olmadığını tespit etmiştir. Mahkeme, davacı vekili tarafından sunulan iddiaların yanlış olduğunu tespit etmiştir. Mahkeme, davacı vekili tarafından sunulan iddiaların yanlış olduğunu tespit etmiştir.",
+        "verdict_text": "DAVACI VEKILI, SAVCI VEKILI TARAFINDAN YAPILAN ISTINAF YARGI LAMA GİDERLERİN KENDİ ÜZERİNDE BIRAKILMASINA, HMK'NIN 333. MADDESİ UYARINCA ARTAN GİDER AVANŞININ ILGILI TARAFİYA IADESINE, HMK'NIN 359/4. MADDESINE GÖRE KARARIN TARAFLARİ DAİREMEİZCE TEBLİĞINE, DAİR, DOSYA ÜZERİNDEN YAPILAN INCELEME NETİCESİNDE HMK'NIN 361/1. MADDESİ GEREĞÇE KARARIN TEBLİĞ TARİHINDEN ITBAREN İKİ HAFTİ İÇERİSİNDE KARARI VEREN BÖLGE ADLİYE MAHKEMESİ YA DA BURAYA GÖNDERILMEK ÜZERE TEMİZ EDENIN BULUNDUĞU YER BÖLGE ADLİYE MAHKEMESİ HUKUK DAİRESİ VEYA İLK DERECE MAHKEMESINE VERILECEK DILEKÇE ILE YARĞITAY TEMİZ YASA YOLU AÇIK OLMAK ÜZERE OY BIRLİĞI ILE KARAR VERILMİŞTIR. 07/12/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemesi Kanunu (HMK)",
+            "5070 Sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir ticari hizmet sözleşmesinden kaynaklanan bir iddia üzerine kurulmuştür. Davacı vekili, savcı vekili tarafından yapılan iddiaların yanlış olduğunu iddia etmiştir. Mahkeme, dava dosyasını incelediğinde, davacı vekili tarafından sunulan iddiaların yanlış olduğunu tespit etmiştir. Mahkeme, davacı vekili tarafından sunulan iddiaların yanlış olduğunu tespit etmiştir ve dava reddine karar vermiştir.",
+    "summary_for_model": "Dava, ticari hizmet sözleşmesinden kaynaklanan bir iddia üzerine kurulmuştür. Davacı vekili, savcı vekili tarafından yapılan iddiaların yanlış olduğunu iddia etmiştir. Mahkeme, dava dosyasını incelediğinde, davacı vekili tarafından sunulan iddiaların yanlış olduğunu tespit etmiştir. Mahkeme, HMK'nin 355. maddesi uyarınca istinaf dilekçesinin esastan reddine karar vermiştir. HMK'nin 333. maddesi uyarınca artan gıder avansının ilgili tarafa iadesine, HMK'nin 359/4. maddesine göre kararın taraflara dâiremizce tebliğine, HMK'nin 361/1. maddesi gereğiçe kararın tebliği tarihinden itibaren iki hafta içerisinde kararı veren Bölge Adlıye Mahkemesi ya da buraya gönderilmek üzere temiz edenin bulunduğu yer Bölge Adlıye Mahkemesi Hukuk Dairesi veya İlk Derece Mahkemesine verilecek dilekçe ile Yargıtay temiz yasa yolu açık olmak üzere oy birliği ile karar verilmiştir."
+}

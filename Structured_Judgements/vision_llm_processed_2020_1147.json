@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2020_1147.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2015/630 E. - 2018/86 K.",
+        "karar_no": "2022/792",
+        "case_subject": "Menfi Tespit (Kiymetli Evraktan Kaynaklanan)",
+        "dava_tarihi": "24/01/2018",
+        "karar_tarihi": "20/05/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; Müvekkili aleyhine bank Gündören şubesinden kesildi, 25/05/2015 tarihli 27.600,00 TL tutarlı çeki dayalı olarak davalı tarafından icra takibi başlatılmışsa da, çektaki kesideci imzasının müvekkiline ait olmadığını, davalı ile herhangi bir ticari ilişkisinin bulunmadığını belirterek İK'nin 72/1 maddesi uyarınca bu çek nedeniyle borçlu bulunmadığını tespit ile %20 kötü niyet tazminatina hükmolunmasını talep etmiştir. Davalı vekili cevap dilekçesinde özetle; Müvekkili ile davacı arasında 31/03/2015 tarihli 396.603,00 TL bedelli araç satış sözleşmesi uyarınca dava konusu çekin verildiğini, bu para alıverişinin whatsapp yazışmalarından da anlaşılacağını, konuya ilişkin olarak yürütülen soruşturma bulunduğunu, çekin başkasına imzalatılılarak müvekkilinin dolandırıldığını belirterek, davanın reddine karar verilmesini talep etmiştir.",
+        "reasoning_text": "İlk Derece Mahkemesince; Adli Tip Fiziki İhtisas Dairesinin 24/07/2017 tarihli bilirkişi raporunda, çektaki imzanın davacıya ait olmadığını belirtildiği, raporun bilimsel ve teknik yönden denetime elverişli olduğu, davalı her ne kadar dava konusu çekin başkasına imzalatılılarak araç satış sözleşmesi kapsamında kendisine verildiğini ve taraflar arasındaki yazışmaların bu durumun delili olduğu ileri sürmüş ise de; mevcut delil durumuna göre davalının üzerine düşen ispat yükünü yerine getiremediği, dolayısıyla Mahkemecede verilen kararda bir isabetsizlik bulunmadığı görülmüştür. Dava konusu çekte davacının kesideci davalının ise ilk ciranta-lehtar olduğu anlaşılmakla, davalının çekin sahte olup olmadığını bilebilecek durumda olduğu, karine olarak aslolanın çekin bizzat lehtar ve kesideci huzurunda atılmış olması gerektiği, buna bağlı olarak da davalının takipte aynı zamanda kötü niyetli olduğu sonucuna varılarak takip tutarının %20'si nispetinde aşağıdaki gibi kötü niyet tazminatina karar verilmesi gerekmiştir.",
+        "verdict_text": "HÜKMÜ: Gerekçesi yukarıda açıklandığı üzere;1- Üsül ve yasaya uygun İstanbul 14. Aslıye Ticaret Mahkemesi'nin 24/01/2018 tarih ve 2015/630 E., 2018/86 K. sayılı kararına karşı davalı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2- 492 Sayılı Harçlar Kanunu gereğince alınması gereken 2.083,34 TL nispî istinaf karar ve ilam harçından peşin yatırılan 520,90 TL harçın mahsubu ile bakiye 1.562,44 TL harçın davaldan tahsiliyle Hazineye gelir kaydedilmesine, 3- Davalı taraflıca istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, 4- İncelemenin duruşmasız olarak yapılması sebebiyle taraflar yararına vekalet ücreti tayinine yer olmadığına,5- Davalı taraflıca yatırılan gider avansından harçmayan kısmın karar kesinleştiğinde iaadesine, 6- Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iaadesi işlemlerinin ilk derece Mahkemesince yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/1-a maddesi gereğince, miktar itibarıyla kesin olmak üzere oy birliğiyle karar verildi. 20/05/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu (HMK)",
+            "492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir bankadan çekle ilgili menfi tespit talebini konu alan bir ticaret davasıdır. Davacı, müvekkilinin bankadan çekle ilgili bir borç yükümlülüğü olmadığını iddia ediyor ve kötü niyet tazminatı talep ediyor. Davalı ise, bu çekin aslında bir araç satış sözleşmesi kapsamında verildiğini ve davacının dolandırıldığını savunuyor. İlk derece mahkemesi, davacının iddiasını kabul ederek davalının kötü niyetli olduğunu ve %20 kötü niyet tazminatı ödemesi gerektiğini kararlaştırdı. İstinaf mahkemesi de bu kararı onayladı ve davalının tazminat ödemesi gerektiğini tespit etti.",
+    "summary_for_model": "Dava, banka çekinden kaynaklanan menfi tespit talebini konu alır. Davacı, müvekkilinin borçlu olmadığını iddia eder ve %20 kötü niyet tazminatı talep eder. Davalı, çekin araç satış sözleşmesi kapsamında verildiğini ve dolandırıldığını savunur. İlk derece mahkemesi, davacının iddiasını kabul eder ve davalının kötü niyetli olduğunu tespit eder. İstinaf mahkemesi, 6100 Sayılı HMK'nın 353/1-b/1. ve 362/1-a maddeleri uyarınca davalının tazminat ödemesi gerektiğini kararlaştırır. Taraflar arasındaki yazışmalar ve soruşturma sonuçları, davalının kötü niyetli olduğu sonucuna yol açmıştır."
+}

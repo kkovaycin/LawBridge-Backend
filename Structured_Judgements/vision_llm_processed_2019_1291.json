@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2019_1291.pdf",
+        "court_name": "İstanbul Anadolu 7. Asliye Ticaret Mahkemesi",
+        "esas_no": "2018/1279 2019/183",
+        "karar_no": "2019/2555",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "19/02/2019",
+        "karar_tarihi": "08/11/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Dava, İstanbul Anadolu 4. Asliye Hukuk ve İstanbul Anadolu 7. Asliye Ticaret Mahkemeleri arasında görüldü. Davacı, vekilinin sosyal medyada hak ihlali ve haklı rekabeti bozucu davranışlar nedeniyle manevi tazminat talep etti. Vekilinin Twitter'da kişisel hak ihlali ve haklı rekabeti bozucu açıklamalar yapması, dava tarihinden itibaren 10.000 TL manevi tazminat talep edildi.",
+        "reasoning_text": "Davacı, vekilinin açıklamalarının hak ihlali ve haklı rekabeti bozucu olduğunu iddia etti. TTK 55. Maddesi uyarınca haklı rekabet ticari dava olarak değerlendirildi. Mahkeme, vekilinin açıklamalarının hak ihlali ve haklı rekabeti bozucu olduğunu tespit etti.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 6100 sayılı HMK'nın 21 ve 22. maddeleri gereğince İstanbul Anadolu 7. Asliye Ticaret Mahkemesinin YARGI YERİ OLARAK BELİRLENMESİNE 08/11/2019 tarihinde oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 55. Maddesi",
+            "Türk Medeni Kanunu 25. Maddesi",
+            "Türk Borçlar Kanunu 49. ve 58. Maddeleri",
+            "Türk Ticaret Kanunu 55-56. Maddeleri",
+            "6100 sayılı HMK 21 ve 22. Maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, vekilinin sosyal medyada hak ihlali ve haklı rekabeti bozucu açıklamalar yapması nedeniyle manevi tazminat talep etti. Mahkeme, vekilinin açıklamalarının hak ihlali ve haklı rekabeti bozucu olduğunu tespit etti ve davayı İstanbul Anadolu 7. Asliye Ticaret Mahkemesi'ne yönlendirdi.",
+    "summary_for_model": "Dava, vekilinin sosyal medyada hak ihlali ve haklı rekabeti bozucu açıklamaları nedeniyle açıldı. Mahkeme, vekilinin açıklamalarının hak ihlali ve haklı rekabeti bozucu olduğunu tespit etti ve davayı İstanbul Anadolu 7. Asliye Ticaret Mahkemesi'ne yönlendirdi. TTK 55. Maddesi ve diğer kanunlar dikkate alındı."
+}

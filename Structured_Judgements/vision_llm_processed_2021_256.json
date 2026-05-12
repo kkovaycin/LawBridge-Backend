@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2021_256.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2017/408",
+        "karar_no": "2020/532",
+        "case_subject": "Web Sitesi Yönetimi, Sosyal Medya Takibi ve Reklam Yönetimi Sözleşmesi",
+        "dava_tarihi": "06/04/2017",
+        "karar_tarihi": "21/02/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı ile 01.09.2016 tarihli sözleşme ile web sitesi yönetimi, sosyal medya takibi ve reklam yönetimi hizmetleri için anlaşmıştır. Sözleşme, davacı tarafından mobil cihazlarla uyumsuz site tasarımı, Google arama motoru uyumsuzluğu, sosyal medya hesaplarının yetersiz gelişmesi ve reklamların yönetilmemesi gibi eksiklikler nedeniyle feshedilmiştir. Davacı, davalıdan 19.420,00 TL ödeme talep etmiştir.",
+        "reasoning_text": "Mahkeme, sözleşmenin feshedilmesinin haklı olduğunu, davacı tarafından ödenmeyen faturaların davalı tarafından alınmadığını ve davalı tarafından talep edilen ödemelerin eksik olduğunu tespit etmiştir. Davacı davalıya karşı 21.000 TL + KDV ödemesi talep etmiştir.",
+        "verdict_text": "Davacı davalıya karşı 21.000 TL + KDV ödemesi talep edilir. Davalı davacıya karşı istinaf edilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353. Maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 362/1.g bendi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı ile yaptığı web sitesi yönetimi, sosyal medya takibi ve reklam yönetimi sözleşmesini feshetti. Davacı, davalıdan 19.420,00 TL ödeme talep etti. Mahkeme, davacı davalıya karşı 21.000 TL + KDV ödemesi talep etti.",
+    "summary_for_model": "Davacı, davalı ile 01.09.2016 tarihli sözleşme ile web sitesi yönetimi, sosyal medya takibi ve reklam yönetimi hizmetleri için anlaşmıştır. Sözleşme, davacı tarafından mobil cihazlarla uyumsuz site tasarımı, Google arama motoru uyumsuzluğu, sosyal medya hesaplarının yetersiz gelişmesi ve reklamların yönetilmemesi gibi eksiklikler nedeniyle feshedilmiştir. Davacı, davalıdan 19.420,00 TL ödeme talep etmiştir. Mahkeme, davacı davalıya karşı 21.000 TL + KDV ödemesi talep etti."
+}

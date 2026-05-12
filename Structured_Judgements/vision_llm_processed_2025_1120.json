@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2025_1120.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2023/439",
+        "karar_no": "2025/1130",
+        "case_subject": "İtiraz İptali",
+        "dava_tarihi": "22/04/2025",
+        "karar_tarihi": "26/06/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, dava dilekçesinde özetle; davacının lojistik üzerine faaliyet gösterdiğini, davalı ile olan ve uzun bir zaman devam eden ticari ilişki, faaliyet alanı ile ilgili davalı için yaptığı işlere dayalı faturaları usule uygun düzenlediğini, davalı tarafa teslim edilen faturalara dair herhangi bir itiraz bulunmadığını, kayıtlara alınıp beyan işlemleri yapıldığını, davacı tarafından düzenlenmiş fatura bedelleri ve dayanaklarına dair davalı tarafından itiraz olmadığını, faturaların tümü ile kabul edilmesine rağmen bu faturalardan kaynaklı davacı alacağının ödenmediğini, iş bu bakiye asıl alacak bedelleri olan 650.00.GBP, 33.702.00.USD'nin ödenmesine dair Kadıköy ... Noterliğinin 18.01.2021 tarih ve ... yevmiye numaralı ihtarnamesinin davalya tebliğ edildiğini, ihtarnameye rağmen ödeme yapılmaması sebebi ile 650.00.GBP bakiye asıl alacak ile 33.702.00.USD bakiye asıl alacağın 24.08.2021 tarihine kadar işlenmiş faiz ile birlikte tahsili hakkında Bakırköy ... İcra Dairesinin ... Esas sayılı dosyası ile ilamsız icra takibi başlatıldığını, davalının haksız itirazi ile takibin durduğunu ileriye sürerek, itirazin iptaline ve %20 icra inkar tazminatına hükmedilmesini talep ve dava etmiştir.",
+        "reasoning_text": "İlk derece mahkemesi, ihtiyati haciz talebini değerlendirdiği 22.04.2025 tarihli ara kararında; \"...Dava ve takibe konu edilen alacak nedeni ile İİK'nun 257 ve devamı maddeleri kapsamında davalının menkul, gayrimenkul ve üçüncü kişilerdeki hak ve alacaklarının ihtiyaten haciz talep edilmiş ise de, alacağın varlığı ve miktarı yargılama gerektirdiğinden, bu aşamada İİK 257 ve devamı maddelerine göre koşulları oluşmayan ihtiyati haciz talebinin reddine karar verilerek, aşağıdağı şekilde hükmün kurulmuştur.\" gerekçesiyle, ihtiyati haciz talebinin reddine karar vermiştir. Bu ara karara karşı, ihtiyati haciz talep eden davacı vekili tarafından istinaf başvurusu bulunmuştur.",
+        "verdict_text": "KARAR: Yukarıda açıklanan gerekçelerle; 1-HMK'nın 353/1.b.1 ve İİK'nin 258/3 maddeleri uyarınca, ihtiyati haciz talep eden davacı vekilinin istinaf başvurusunun esastan reddine, 2-İhtiyati haciz talep eden davacı vekili tarafından yatırılan istinaf başvuru ve peşin karar harçlarının Hazineye irat kaydına,3-İhtiyati haciz talep eden davacı tarafından istinaf kanun yoluna başvuru için yapılan masrafların kendi üzerinde bırakılmasına,4-Gerekçeli kararın ilk derece mahkemesine taraflara tebliğine,5-Dosyanın, kararı veren ilk derece mahkemesine gönderilmesine dair; HMK'nın 353/1.b.1 ve İİK'nin 258/3 maddeleri uyarınca dosya üzerinde yapılan inceleme sonucunda, oybirliğiyle ve kesin olarak karar verildi. 26.06.2025 KANUN YOLU:HMK'nın 362/1.f ve İİK'nin 258/3 maddeleri uyarınca karar kesindir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İİK'nin 257",
+            "İİK'nin 258/3",
+            "İİK'nin 353/1.b.1",
+            "HMK'nın 355",
+            "HMK'nın 362/1.f",
+            "TTK m.872",
+            "TBK m.139"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adlıye Mahkemesi, davacı vekilinin ihtiyati haciz talebini reddetmiştir. Davacı, davalıya ait faturaların ödenmediğini iddia etmiş ve bu faturaların haciz altına alınmasını talep etmiştir. Ancak mahkeme, alacağın varlığı ve miktarının yargılama gerektirdiğini ve bu aşamada koşulların oluşmadığını belirterek talebi reddetmiştir. Davacı vekili, bu karara karşı istinaf başvurusu yapmıştır.",
+    "summary_for_model": "İstanbul Bölge Adlıye Mahkemesi, İİK'nin 257 ve devamı maddeleri kapsamında davalının menkul, gayrimenkul ve üçüncü kişilerdeki hak ve alacaklarının ihtiyaten haciz talebini reddetmiştir. Alacağın varlığı ve miktarının yargılama gerektirdiği gerekçesiyle talep reddedilmiştir. Davacı vekili, istinaf başvurusu yapmıştır. HMK'nın 353/1.b.1 ve İİK'nin 258/3 maddeleri uyarınca karar verilmiştir."
+}

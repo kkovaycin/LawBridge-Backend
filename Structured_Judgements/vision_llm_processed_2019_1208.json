@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2019_1208.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "...",
+        "karar_no": "...",
+        "case_subject": "Faydali Model Belgesinin Hükümsüzlüğü",
+        "dava_tarihi": "24/04/2019",
+        "karar_tarihi": "26/03/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilin tesettür giymek tekstil sektöründe faaliyet gösterdiğini, sektörün öncü firmalarından biri olduğunu, müvekkille ait Türk Patent ve Marka Kurumu nezdiğinde sayılı faydalı model belgesi ile koruma altında bulunan ürünün davacı tarafından haksız ve izinsiz olarak üretildiğini, satıldığını, ticarete konu edildiğini, ayrıca gerçek hak sahibiymişesine basın yoluyla ilan edildiğini iddia etti. Davalı vekili, davacının ürününün piyasaya sunduğunu, müvekkilin davacının ürününün satışını etkileyen herhangi bir eylemin olmadığını, haksız rekabetin şartlarının oluşmadığını savundu.",
+        "reasoning_text": "Mahkeme, davacı ve davalının iddialarını değerlendirerek, davacı tarafından iddia edilen faydalı model belgesinin yenilik kriterini taşımadığını ve 551 sayılı KHK 165. maddesindeki hükümsüzlük koşulunun oluştuğunu tespit etti. Ayrıca, davacı tarafından sunulan raporlarda ürünlerin satışının yapıldığı internet sitelerinden ve sosyal medya platformlarından inceleme yapıldığını, tutucuların sayılı faydalı model belgesinin koruma kapsamında olduğu ifade edildiğini ve bu durumun 551 sayılı KHK'nın 66. maddesi ile uyumsuz olduğunu belirledi.",
+        "verdict_text": "Gerekçesi yukarıda belirtilmiş olduğu üzere;\n1-Asıl davada davacı birleşen davada davalı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ESASTAN REDDİNE.\n2-Alnması gereken 59,30 TL maktu istinaf karar ve ilam harcından, asıl davada davacı birleşen davada davalı tarafından istinaf başvurusunda yatırılan 44,40 TL istinaf karar ve ilam harcının mahsubu ile bakiye 14,90 TL'nin asıl davada davacı birleşen davada davalından tahsili ile hazineye irat kaydına,\n3-Istinaf aşamasında asıl davada davacı birleşen davada davalı tarafından yapılan yargılama giderlerinin uhdesinde bırakılmasına,\n4-Istinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına dair;\nDosya üzerinde yapılan inceleme sonucunda oybirliği ile 26/03/2021 tarihinde HMK 361. maddesi uyarınca kararın tebliğiinden itibaren iki hafta içerisinde Yargıtay temiz yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "551 sayılı KHK 165. madde",
+            "551 sayılı KHK 66. madde",
+            "131. madde",
+            "6100 sayılı HMK 355. madde",
+            "HMK 353/1-b.1 maddesi",
+            "HMK 361. madde"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı tarafından haksız olarak üretildiğini iddia ettiği bir faydalı model belgesinin hükümsüzlüğünü talep etti. Mahkeme, davacı tarafından sunulan kanıtların yetersiz olduğunu ve belgenin yenilik kriterini taşımadığını tespit ederek davacı birleşen davayı reddetti.",
+    "summary_for_model": "Davacı, davalı tarafından haksız olarak üretildiğini iddia ettiği bir faydalı model belgesinin hükümsüzlüğünü talep etti. Mahkeme, davacı tarafından sunulan kanıtların yetersiz olduğunu ve belgenin yenilik kriterini taşımadığını tespit ederek davacı birleşen davayı reddetti. Davalı vekilinin istinaf başvurusu HMK'nın 353/1-b.1 maddesi gereğince esastan reddedildi."
+}

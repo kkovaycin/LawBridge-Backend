@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2025_932.pdf",
+        "court_name": "SAMSUN BÖLGE ADLİYE MAHKEMESİ 2. HUKUK DAIRESI",
+        "esas_no": "2024/640 E. 2025/97 K.",
+        "karar_no": "2025/837",
+        "case_subject": "Menfi Tespit (Kambiyo Senetlerinden Kaynaklanan)",
+        "dava_tarihi": "14/06/2023",
+        "karar_tarihi": "19/06/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, 14/06/2023 havale tarihli dava dilekçesini özetle; davacı ve davalı arasında 27.02.2023 tarihinde araç alım satımı hususunda görüşme yapıldığını ve plakalı aracın satışı hususunda anlaşmaya varıldığını, müvekkiline vade tanındığını, araç satış bedelinin karşılıklı olarak takip konu senedin düzenlendiğini, davacı tarafından 12.03.2023 tarihinde davalıya 6.000,00 TL gönderildiğini, 14.03.2023 tarihinde davalının eşi olan İsmail ile aracı üzerine devralan davacı'nın eşi olan ... arasında whatsapp görüşmeleri yapıldığını, 15.03.2023 tarihli görüşmede İsmail tarafından davalının ibani paylaşıldığını, davacı tarafından 16.03.2023 tarihinde saat 00.23 de 6.000,00 TL davalı adına ilk senet ödemesi açıklaması ile Eft gönderildiğini, davalı tarafın akabinde saat 00.28 de 94.000,00 TL ödemesi kaldığını beyan ettiğini, yine aynı gün mesai saatinde davacı tarafından 22 bin ve 62 bin olmak üzere toplamda 84 bin TL ödeme yapıldığını, davacıların davalı tarafa yalnızca 10.000,00 TL borcu kaldığını belirterek davacıların Terme İcra Dairesi'nin ... esas sayılı takip dosyasında asıl alacağıın 84.000 TL'lik kısmından ferilerinden borçlu olmadığını tesbiti ile bedelin icra tehdidi altında ödenmesi halinde istirdatina, alacağın yüzde yirmisinde az olmak üzere kötüniyet tazminatina hükmedilmesini talep ve dava etmiştir.",
+        "reasoning_text": "Davalı vekili cevap dilekçesi özetle; bononun bağımsız borç ikrarı içeren bir senet olduğu, senette bedel kaydının mevcut olması hâlinde ispat yükü kaydın aksi savunan tarafa ait olduğu, dolayısıyla iş bu ödemelerin, alacak konusu senet borcuna karşılık yapıldığının düşünülemeyeceğini, dava dışı ...'in müvekkilinin oğlu olduğunu ve dava dilekçesinin ekinde bulunan banka dekontlarında herhangi bir açıklama yapılmaması sebebi ile ödemelerin alacak konusu senet borcuna karşılık yapıldığının ispat yükünün davacıda olduğunu beyanla davanın reddini dilemiştir.",
+        "verdict_text": "HÜKÜM : Yukarıda açıklanan nedenlerle; 6100 sayılı HMK'nın 21 ve 22. maddeleri gereğince Samsun Asliye Ticaret Mahkemesi 'nin YARGI YERİ OLARAK BELİRLENMESİNE , HMK'nın 23/1 ve 362/1-c maddesi uyarınca dosya üzerinde yapılan inceleme sonucunda kesin olmak üzere oy birliğiyle karar verildi. 19/06/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6102 sayılı TTK'nın 5. maddesi",
+            "6100 sayılı HMK'nın 21 ve 22. maddeleri",
+            "6100 sayılı HMK'nın 23/1 ve 362/1-c maddesi",
+            "Kooperatifler Kanunu (m.99)",
+            "İcra İflas Kanunu (m.154)",
+            "Finansal Kıralama Kanunu (m.31)",
+            "Ticari İşletme Rehni Kanunu (m.22)"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir aracın satış bedelinin ödenmesi ve borç ikrarı konusu senetle ilgili bir ticari davadır. Davacı, davalıya ait bir senetle aracın satış bedelini ödemediği iddiasıyla dava açmıştır. Davalı ise, senetin bağımsız borç ikrarı olduğunu ve ödemelerin senet borcuna karşılık yapılmadığını savunmuştur. Mahkeme, dava dosyasını inceledikten sonra, davanın ticari mahiyette olduğunu ve davanın asıl alacağıın 84.000 TL'lik kısmından ferilerinden borçlu olmadığını tesbit ederek, davacıların Terme İcra Dairesi'nin takip dosyasında asıl alacağıın 84.000 TL'lik kısmından ferilerinden borçlu olmadığını ve bedelin icra tehdidi altında ödenmesi halinde istirdatina, alacağın yüzde yirmisinde az olmak üzere kötüniyet tazminatina hükmedilmesini talep etmiştir. Davalı ise, senetin bağımsız borç ikrarı olduğunu ve ödemelerin senet borcuna karşılık yapılmadığını savunmuştur. Mahkeme, dava dosyasını inceledikten sonra, davanın ticari mahiyette olduğunu ve davanın asıl alacağıın 84.000 TL'lik kısmından ferilerinden borçlu olmadığını tesbit ederek, davacıların Terme İcra Dairesi'nin takip dosyasında asıl alacağıın 84.000 TL'lik kısmından ferilerinden borçlu olmadığını ve bedelin icra tehdidi altında ödenmesi halinde istirdatina, alacağın yüzde yirmisinde az olmak üzere kötüniyet tazminatina hükmedilmesini talep etmiştir.",
+    "summary_for_model": "Dava, 6102 sayılı Ticari Ticaret Kanunu'nun 5. maddesi ve 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 21, 22, 23/1 ve 362/1-c maddeleri çerçevesinde, aracın satış bedelinin ödenmesi ve borç ikrarı konusu senetle ilgili bir ticari davadır. Davacı, davalıya ait bir senetle aracın satış bedelini ödemediği iddiasıyla dava açmıştır. Davalı ise, senetin bağımsız borç ikrarı olduğunu ve ödemelerin senet borcuna karşılık yapılmadığını savunmuştur. Mahkeme, dava dosyasını inceledikten sonra, davanın ticari mahiyette olduğunu ve davanın asıl alacağıın 84.000 TL'lik kısmından ferilerinden borçlu olmadığını tesbit ederek, davacıların Terme İcra Dairesi'nin takip dosyasında asıl alacağıın 84.000 TL'lik kısmından ferilerinden borçlu olmadığını ve bedelin icra tehdidi altında ödenmesi halinde istirdatina, alacağın yüzde yirmisinde az olmak üzere kötüniyet tazminatina hükmedilmesini talep etmiştir."
+}

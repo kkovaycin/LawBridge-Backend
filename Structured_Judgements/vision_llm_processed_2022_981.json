@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2022_981.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2022/981",
+        "karar_no": "2022/1498",
+        "case_subject": "Tespit ve tedbir talebi",
+        "dava_tarihi": "18/04/2022",
+        "karar_tarihi": "22/09/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Talep, vekilin tescilli markalarıyla sektörde yerli ve yurtdışı faaliyetlerini sürdürdüğünü, karşı tarafın internet adreslerinde vekilin markalarını hakssız şekilde tekil taklit ettiğini iddia ediyor. İhtarname gönderildi ve ihbarname muhatabı olarak kabul edildi. Talep, markaların zarar verdiğini ve hakssız rekabet oluşturduğunu iddia ediyor.",
+        "reasoning_text": "İstanbul 4. Fıkri ve Sınai Haklar Hukuk Mahkemesi, talebin yasal şartları karşıladığını tespit etti. 6100 sayılı HMK'nın 389-390 maddeleri ve 6769 sayılı Sınai Mülkiyet Kanunu'nun 159. maddesi uyarınca, 20.000,00 TL nakdi teminat veya banka teminatı mektubu ile tedbir talebinin kabulüne karar verildi. Karşı taraf vekili, tedbirin yasal koşullarını karşılamadığını iddia etti.",
+        "verdict_text": "İstanbul 4. Fıkri ve Sınai Haklar Hukuk Mahkemesi, talebin kabulüne karar verdi. Tedbir talebinin takdiren 100.000,00 TL nakdi teminat veya banka teminatı mektubu ile uygulanmasına karar verildi. Tedbirin infazı için İstanbul İcra Dairesi aracılığıyla kılınarak infazına karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hüküm Kanunu (HMK)",
+            "6769 sayılı Sınai Mülkiyet Kanunu",
+            "SMK 5/1-d hükmü",
+            "SMK 155. Madde",
+            "HMK 353, 356, 389, 390, 392, 393/1, 393/2, 398 maddeleri"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, vekilin tescilli markalarının hakssız kullanıldığını iddia eden talebi kabul etti. 100.000,00 TL nakdi teminat veya banka teminatı mektubu ile tedbir talebinin uygulanmasına karar verildi.",
+    "summary_for_model": "Dava, vekilin tescilli markalarının hakssız kullanıldığını iddia ediyor. Mahkeme, talebin yasal şartları karşıladığını tespit etti ve 100.000,00 TL nakdi teminat veya banka teminatı mektubu ile tedbir talebinin uygulanmasına karar verdi."
+}

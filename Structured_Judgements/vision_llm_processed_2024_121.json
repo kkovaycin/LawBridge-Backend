@@ -1,0 +1,35 @@
+{
+    "meta_data": {
+        "file_name": "2024_121.pdf",
+        "court_name": "İstanbul Anadolu 1. Fıkri ve Sanai Haklar Hukuk Mahkemesi",
+        "esas_no": "2024/121",
+        "karar_no": "2024/465",
+        "case_subject": "Haysiyet Kurulu Kararının İptali",
+        "dava_tarihi": "12/12/2023",
+        "karar_tarihi": "08/03/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Dava, MSG Haysiyet Kurulu tarafından 12 Nisan 2023'te verilen 'Hak Mahrumiyeti' disiplin cezasının iptali için açılmıştır. Müvekkil, MSG üyesi olarak sanat camiasına dair eleştiriler yapmış ve bu eleştirilerin hakaret ve iftira olarak değerlendirildiğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, MSG Haysiyet Kurulu'nun cezasının usul ve esas yönünden hukuka aykırılığını tespit etmiştir. Özellikle, cezanın sosyal medya paylaşımlarının hakaret ve iftira olarak değerlendirilmesinin, kamu alanında yönetici davranışlarına tahammül edilmesi gerektiği ve yüksek yargı organları tarafından ifade ve eleştiri özgürlüğünün korunması gerektiği gerekçeleriyle iptal edilmiştir.",
+        "verdict_text": "İstanbul Anadolu 1. Fıkri ve Sanai Haklar Hukuk Mahkemesi, MSG Haysiyet Kurulu'nun 12 Nisan 2023'te verilen 'Hak Mahrumiyeti' disiplin cezasının iptaline karar vermiştir. Karar, 08/03/2024 tarihinde verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK) 353. Maddesi",
+            "Türk Medeni Kanunu (TMK) 83. Maddesi",
+            "Dernekler Kanunu",
+            "Telif Hakları Alanında Meslek Birlikleri Yönetmeliği",
+            "Fikir ve Sanat Eseri Sahipleri ile Bağlıtı Hak Sahipleri Meslek Birlikleri ve Federasyonları Hakkındaki Tüzük",
+            "FSEK 42/5 Maddesi",
+            "FSEK 42 Maddesi",
+            "Dernekler Kanunu 21. Maddesi",
+            "Dernekler Kanunu 2908 Sayılı",
+            "Dernekler Kanunu 5253 Sayılı",
+            "Dernekler Kanunu 4721 Sayılı",
+            "Dernekler Kanunu 25772 Sayılı",
+            "Hukuk Muhakemeleri Kanunu 361. Maddesi"
+        ]
+    },
+    "summary_for_human": "İstanbul Anadolu 1. Fıkri ve Sanai Haklar Hukuk Mahkemesi, MSG Haysiyet Kurulu'nun bir sanatçıya verdiği 'Hak Mahrumiyeti' disiplin cezasını iptal etmiştir. Karar, cezanın usul ve esas yönünden hukuka aykırılığını ve sosyal medya paylaşımlarının hakaret ve iftira olarak değerlendirilmesinin yanlış olduğunu öne sürmektedir.",
+    "summary_for_model": "Mahkeme, MSG Haysiyet Kurulu'nun bir sanatçıya verdiği disiplin cezasını iptal etmiştir. İptal gerekçesi olarak cezanın usul ve esas yönünden hukuka aykırılığını ve sosyal medya paylaşımlarının hakaret ve iftira olarak değerlendirilmesinin yanlış olduğunu belirtmiştir. Karar, Hukuk Muhakemeleri Kanunu ve Türk Medeni Kanunu'na dayanarak verilmiştir."
+}

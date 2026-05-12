@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2018_612.pdf",
+        "court_name": "T.C. İSTANBUL BÖLGE ADLİYE MAHKEMESİ 14. HUKUK DAİRESİ",
+        "esas_no": "2016/859",
+        "karar_no": "2018/1553",
+        "case_subject": "Haksız rekabet davası",
+        "dava_tarihi": "23/01/2018",
+        "karar_tarihi": "20/12/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı firmanın internet üzerinden haksız rekabet nedeniyle dava açtığını iddia etmiştir. Davalı firmanın 2016 yılı sezonu için hazırlanmış koleksiyonunun bir bölümü davalı tarafından taklit edilerek satış yapıldığı, müvekkilin özgün tasarımlarının müvekkilin bilgisi ve izni olmadan kopyalandığı ve Instagram hesabı üzerinden satıldığı iddia edilmiştir.",
+        "reasoning_text": "İlk derece mahkemesi, davanın kısmen kabul ve kısmen reddine karar vermiştir. Davacı vekili, ilk derece mahkemesinin kararını istinaf yoluyla itiraz etmiştir. İstinaf mahkemesi, davanın kısmen kabul ve kısmen reddine karar vermiştir.",
+        "verdict_text": "1-Davanın KİSMEN KABUL VE KİSMEN REDDİNE,\n-Maddi tazminat davasının FERAGAT NEDENİYLE REDDİNE,\n-Manevi tazminat davasının manevi elem ve izdiribin kanıtlanamaması nedeniyle REDDİNE,\n2-Davacı ...San. A.Ş.'ye davalı ... Ticaret Limited Şirketi'nin haksız rekabette bulunduğunun tesbitine ve haksız rekabetin ÖNLENMESİNE,\nTTK m.59 uyarınca verilen kararın hükmün kesinleşmesinden sonra yurt çapında yayınlanan traj yüksek 5 gazetede ilanına ,\n3-Alınması gereken 35,90 TL harçın peşin alınan 341,55 TL harçtan mahsubu ile artan 305,65 TL harçın karar kesinleştiğinde ve talep halinde davacıya iadesine,\n4-Davacı tarafça ilk derece aşamasında yapılan 1.426,00 TL giderin davadaki kabul ve red edilen talepler kapsamında takdiren 1/2 oranı ile belirlenen 713,00 TL'lik bölümünün davalıdan alınıp davacıya verilmesine, bakiyesinin davacı üzerinde bırakılmasına,\n5-Davanın kısmen kabul edilen kısmı yönünden karar tarihinde geçerli olan Avukatlık Asgari Ücret Tarifesindeki esaslara göre belirlenen 2.180,00 TL vekalet ücretinin davalıdan alınıp davacıya verilmesine\n6-Maddi Tazminat Yönünden; Avukatlık Asgari Ücret Tarifesine göre hesaplanan 2.180,00TL vekalet ücretinin davacıdan alınarak kendisini vekille temsil ettiren davalıya verilmesine,\n7-Manevi Tazminat Yönünden; Avukatlık Asgari Ücret Tarifesine göre hesaplanan 2.180,00TL vekalet ücretinin davacıdan alınarak kendisini vekille temsil ettiren davalıya verilmesine,\n8-İstinaf yargılama yönünden;\na- Davacı tarafından istinaf kanun yoluyla başvuru harcı olarak yatırılan 98,10 TL'nin Hazineye gelir kaydına,\nb-İstinaf kanun yoluyla başvuran davacı tarafından yatırılan 35,90 TL peşin istinaf harcının talep halinde davacıya iadesine,\nc-Davacı tarafından istinaf aşamasında sarf edilen 98,10 TL harç giderinin ve 35,00 TL posta ve tebligat giderinin davalıdan alınarak davacıya verilmesine,\n9-Gerekli kararın ilk derece mahkemesince taraflara tebliğine,\n10-Dosyanın kararı veren ilk derece mahkemesine gönderilmesine dair;\nHMK'nın 353/1.b.2. maddesi gereğince dosya üzerinde yapılan inceleme sonucunda 20/12/2018 tarihinde oybirliğiyle ve kesin olarak karar verildi.\nKANUN YOLU :HMK'nın 362/1.a maddesi uyarınca, istinaf edilen kısmın değerine göre karar kesindir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK m.55",
+            "TTK m.56",
+            "TTK m.59",
+            "6102 sayılı Türk Ticaret Kanunu'nun 56. maddesi",
+            "6100 sayılı Hukuk Muhakemeleri Kanunu'nun 307. maddesi",
+            "HMK'nın 355. maddesi",
+            "HMK'nın 353/1.b.2. maddesi",
+            "HMK'nın 362/1.a maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı firmanın internet üzerinden haksız rekabet nedeniyle dava açmıştır. İlk derece mahkemesi davayı kısmen kabul ve kısmen reddetmiştir. Davacı vekili, ilk derece mahkemesinin kararını istinaf yoluyla itiraz etmiştir. İstinaf mahkemesi, davanın kısmen kabul ve kısmen reddine karar vermiştir.",
+    "summary_for_model": "Dava, haksız rekabet iddiası üzerine açılmıştır. İlk derece mahkemesi kısmen kabul ve kısmen reddetmiştir. İstinaf mahkemesi de aynı kararı vermiştir. Davacı vekili, ilk derece mahkemesinin kararını istinaf yoluyla itiraz etmiştir. İstinaf mahkemesi, davanın kısmen kabul ve kısmen reddine karar vermiştir."
+}

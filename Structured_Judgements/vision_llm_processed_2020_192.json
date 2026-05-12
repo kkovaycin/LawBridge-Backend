@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2020_192.pdf",
+        "court_name": "T.C. ANKARA 2. FİKRİ VE SANATİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2020/192",
+        "karar_no": "2021/84",
+        "case_subject": "Haksız Rekabet ile Marka Hakkına Tecavüzün Tesbiti ve Men'i",
+        "dava_tarihi": "06/07/2020",
+        "karar_tarihi": "04/03/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili tarafından davalı aleyhine açılan Haksız Rekabet ile Marka Hakkına Tecavüzün Tesbiti ve Men'i istemli davasında, davacı internet sitesinde 'softtr' markasının sahibi olduğu ve bu marka ile e-ticaret yapmayı isteyen şirketin davalı şirkete ait internet sitesinin online bir şikayet platformu olduğunu iddia etmiştir. Davalı, davacı şirketin markasını kullanmak, davacı markasının itibarından yararlanmak ve davacı internet sitesindeki şikayetlerin davacı markasına yönelik hak ihlali oluşturduğunu iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacı internet sitesinin davalı markasına yönelik hak ihlali oluşturmadığını, davalı internet sitesinin sadece kullanıcı deneyimlerini paylaşmak için bir platform olduğunu ve davacı markasının kullanılmasına dair herhangi bir hak ihlali olmadığını tespit etmiştir. Ayrıca, davacı internet sitesinin davalı markasına yönelik hak ihlali oluşturmadığı ve davalı internet sitesinin davacı markasına yönelik hak ihlali oluşturmadığı sonucuna varılmıştır.",
+        "verdict_text": "Davanın reddine karar verilerek, davacıdan alınan 59,30-TL maksu harçtan 54,40-TL'nin mahsubu ile eksik kalan 4,90-TL'nin davacıdan alınarak hazinede irat kavuşuna, davacının yapmış olduğu yargılama giderlerinin kendisi üzerinde bırakılmasına, davalı şirketin vekilleri temsile ettiriklerinden Avukatlık Asgari Ücret Tarifi gereğince hesap olan takdiren 5.900,00-TL maktu ücreti vekaletin davacıdan alınarak davalı şirkete verilmesine, davalının yapmış olduğu bir gider olmadığından bu konuda bir karar verilmesine yer olmadığına, yatırılan ve kullanılmayan gider avansının, hükmün kesinleşmesi müteakip re'sen yatıran tarafa iadesine (HMK m.333) karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu Yazı İşleri Yönetmeliği'nin 41/2. maddesi",
+            "Ticaret Bakanlığı'nın 14.07.2020 tarihli ve 299 sayılı kararı",
+            "Ticaret Bakanlığı'nın 2019/294E. ve 2019/573K. sayılı ilamı",
+            "ATM'nin 2018/548E. ve 2018/852K. sayılı kararı",
+            "Ticaret Bakanlığı'nın Tüketicinin Korunması ve Piyasa Gözetimi Genel Müdürlüğü'nün 21546160-402 sayılı kararı",
+            "SMK 7/3-d",
+            "SMK m. 7 ve 29",
+            "SMK 7/3 (d) maddesi",
+            "Hukuk Muhakemeleri Kanunu m. 333"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı internet sitesinin davalı markasına yönelik hak ihlali oluşturmadığını ve davalı internet sitesinin sadece kullanıcı deneyimlerini paylaşmak için bir platform olduğunu tespit ederek davayı reddetmiştir.",
+    "summary_for_model": "Mahkeme, davacı internet sitesinin davalı markasına yönelik hak ihlali oluşturmadığını ve davalı internet sitesinin sadece kullanıcı deneyimlerini paylaşmak için bir platform olduğunu tespit ederek davayı reddetmiştir. Davacı internet sitesinin davalı markasına yönelik hak ihlali oluşturmadığı ve davalı internet sitesinin davacı markasına yönelik hak ihlali oluşturmadığı sonucuna varılmıştır."
+}

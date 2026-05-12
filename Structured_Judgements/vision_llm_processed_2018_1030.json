@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2018_1030.pdf",
+        "court_name": "T.C. BAKIRKÖY 2. AŞLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2018/1030 Esas",
+        "karar_no": "2019/914",
+        "case_subject": "Tazminat davası (Hizmet Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "08/04/2013",
+        "karar_tarihi": "16/09/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, 09/08/2012 tarih ve ... nolu fatura muhteviyatı olan 57 koli emtiayı İspanya'da bulunan firmasına 9.120 Euro bedelle mal mukabili ödeme koşulu ile sattığını, teslim şeklinin ... olarak belirtildiğini, alıcısına teslim işinin 400.00-Euro navlun ücreti karşılığında ... plakalı araçla ifa edilmek üzere davalı firma tarafından üstlenildiğini iddia etmiştir. Davanın alıcı şirkete navlun ücretini banka yolu ile ödediğini, satışa konulan emtianın taşıma firma tarafından alıcısına teslim edilmediğini, malın alıcısına teslimine yönelik davalya yöneltilen taleplerin karşısız kaldığını, müvekkili tarafından Kadıköy ... Noterliğinin ... yevmiye nolu 28/09/2012 tarihli ihtarnamesi ile davalı tarafından malın alıcısına teslimi, aksi halde geçen mal teslim almaktan vazgeçmesi sebepleriyle mal bedelinin mühevil zararların kendilerinden talep olunacağını ihtarnameye karşılık davalı tarafından malın alıcısından bu taşımaya ilişkin olmayan ve daha evvel doğmuş navlun alacaklarının olması nedeniyle malın alkonulduğunu teslim edilmeyeceğini bildirdiğini, somut olarak malın alıcısının navlun bedeli ödediğini ve davanın söz konusu mallar hakkında hapis hakkı bulunmadığını bildirmiş, alıcısına teslim edilmeyen mal bedeli olan 9.120,00-Euro karşılığının dava tarihinden itibaren işleyecek avans faizi ile birlikte davaldan tahsilini talep etmiştir.",
+        "reasoning_text": "Davacı vekili aracılığıyla yargılama katılmış cevap dilekçesinde davacının dava açmakta hukuki yarının bulunmadığını, davanın üstlenilen taşımayı ifa ettiğini, müvekkilinin uğranan zarardan sorumlu bulunmadığını bildirmiş, haksız ve mesnetsiz davanın reddine karar verilmesini talep etmiştir. Davalı vekili aracılığıyla yargılama katılmış cevap dilekçesinde davacının dava açmakta hukuki yarının bulunmadığını, davanın üstlenilen taşımayı ifa ettiğini, müvekkilininin uğranan zarardan sorumlu bulunmadığını bildirmiş, haksız ve mesnetsiz davanın reddine karar verilmesini talep etmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklanmış olduğu üzere:\n1-Açılan davanın REDDİNE,\n2-Alınması gereken 44,40 TL harçtan peşin alınan 361,80 TL harç ile 970,37 TL İslah harcının mahsubu ile fazla alınan 1.287,77 TL'nin karar kesinleştiğinde ve talep halinde davacıya İADESİNE,\n3-Davacı tarafından yapılan masrafların kendi üzerinde BİRAKILMASINA,\n4-Davalı tarafça yapılan 27,40 TL yargılama giderinin davacıdan alınarak davalya VERİLMESİNE,\n5-Davalı kendisini vekille temsil ettirdiğinden davalı yararına A.A.Ü.T. gereğince 6.600,42 TL ücreti vekaletin davacıdan alınarak davalya VERİLMESİNE,\n6-Tarafarca yatırılan ve kullanılmayan bakiye gider avansının karar kesinleştiğinde ve talep halinde ilgilisine İADESİNE,\nDair; taraf vekillerinin yüzüne karşı, yapılan yargılama neticesinde kararın tebliğ tarihinden itibaren 15 gün içerisinde mahkememize müracaatla YARGITAY yolu açık olmak üzere verilen karar açıkça okunup, anlatıldı. 16/09/2019"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "5070 sayılı Elektronik İmza Kanunu",
+            "HMK Yönt. 8/5 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, İspanya'daki firmasına mal satışı ve navlun ücreti ödemesiyle ilgili dava açtı. Mahkeme, davanın haksız olduğunu tespit etti ve davayı reddetti. Davacıya 1.287,77 TL harç iadesi ve diğer masraflar için karar verildi.",
+    "summary_for_model": "Dava, İspanya'da bulunan bir firmaya mal satışı ve navlun ücreti ödemesiyle ilgili. Mahkeme, davanın haksız olduğunu tespit etti ve davayı reddetti. Davacıya harç iadesi ve diğer masraflar için karar verildi. Davacı vekili, davanın hukuki temeli olmadığını savundu."
+}

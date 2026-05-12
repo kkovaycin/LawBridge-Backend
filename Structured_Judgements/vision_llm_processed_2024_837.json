@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2024_837.pdf",
+        "court_name": "14. AŞLİYE TİCARET MAHKEMESİ",
+        "esas_no": "2024/837",
+        "karar_no": "2024/853",
+        "case_subject": "Davacı vekili tarafından davalinin iş ortaklığı için verilen danışmanlık hizmetinin ödemesini talep etmesi",
+        "dava_tarihi": "12/12/2024",
+        "karar_tarihi": "12/12/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalinin iş ortaklığı için verilen danışmanlık hizmetinin ödemediğini iddia etmiştir. Davacı, 111.627,04 TL tutarında tahsil talebinde bulunmuştur. Davalinin davacı alacakının dayanağı olan 06.07.2024 tarihli ve 111.627,04 TL bedelli fatura, davada davalinin aynı iş ortaklığı olarak gösterildiği anlaşılmıştır.",
+        "reasoning_text": "İş ortaklığı 6089 sayılı TBK'nın 620. vd. maddelerinde düzenlenmiş olup, iş ortaklığının tüzel kişiliği olmadığı için iş ortaklığını dava da ortaklık oluşturanların temsil etmesi gerekir. Davalinin iş ortaklığı olarak gösterildiği ancak kimlerden oluştuğunun belirtilmediği için, tüzel kişiliği olmayan iş ortaklığının davalı sıfatı bulunmadığı kabul edilmiştir. HMK'nın 115/2 maddesi uyarınca sonradan tamamlanması mümkün olmayan davalı sıfatı yokluğuna ilişkin dava şartı eksikliğinden dolayı davanın her aşamasında karar verilmesi mümkün olduğu kabul edilmiştir.",
+        "verdict_text": "6100 sayılı HMK'nın 114/1-d,115/2 maddeleri uyarınca davalı sıfatına ilişkin DAVASI ŞARTı EKSİKLİĞİ NEDENİYLE USULDEN REDDİNE, Alınması gereken 427,60 TL'nin peşin alınan 1.906,32 TL'den mahsubu ile fazla alınan 1.478,75 TL harcin karar kesinleştiğinde ve talep halinde davacıya iadesine, Yapılan yargılama giderlerinin davacı üzerinde bırakılmasına, Kullanılmayan gider avansının karar kesinleştiğinde yatıran tarafa iadesine, Evrak üzerinde yapılan inceleme sonucu kararın tebliğinden itibaren 2 hafta içerisinde ...Bölge Adliye Mahkemesi'nde istinaf yolu açık olmak üzere karar verildi.12/12/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6089 sayılı TBK'nın 620. vd. maddeleri",
+            "6100 sayılı HMK'nın 114/1-d,115/2 maddeleri"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekili tarafından davalinin iş ortaklığı için verilen danışmanlık hizmetinin ödemediğini iddia edilen davada, davalinin iş ortaklığı olarak gösterildiği ancak kimlerden oluştuğunun belirtilmediği için davalı sıfatı bulunmadığı kararına varmıştır. Bu durum, Hüküm Kanunu'nun ilgili maddeleri uyarınca davanın her aşamasında karar verilebildiği için, dava şartı eksikliğinden dolayı davanın usulden reddedilmesine karar verilmiştir.",
+    "summary_for_model": "Davacı vekili, davalinin iş ortaklığı için verilen danışmanlık hizmetinin ödemediğini iddia etmiştir. Davalinin iş ortaklığı olarak gösterildiği ancak kimlerden oluştuğunun belirtilmediği için, tüzel kişiliği olmayan iş ortaklığının davalı sıfatı bulunmadığı kabul edilmiştir. HMK'nın 115/2 maddesi uyarınca sonradan tamamlanması mümkün olmayan davalı sıfatı yokluğuna ilişkin dava şartı eksikliğinden dolayı davanın her aşamasında karar verilmesi mümkün olduğu kabul edilerek, dava usulden reddedilmiştir. Karar, 6100 sayılı HMK'nın 114/1-d,115/2 maddeleri uyarınca verilmiştir."
+}

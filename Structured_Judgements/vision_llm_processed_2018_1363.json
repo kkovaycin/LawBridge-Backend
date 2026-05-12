@@ -1,0 +1,35 @@
+{
+    "meta_data": {
+        "file_name": "2018_1363.pdf",
+        "court_name": "T.C. İSTANBUL 19. ASLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2018/1363 Esas",
+        "karar_no": "2021/740 Karar",
+        "case_subject": "İtirazın İptali (Ticari Satımdan Kaynaklanan)",
+        "dava_tarihi": "28/12/2018",
+        "karar_tarihi": "12/10/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı aleyhine mahkemede açılan davada yapılan açık yargılamalar neticesinde; davacı vekili dava dilekçesinde özetle; davalı ile aralarında anlaşma sebebi ile davalının taşınmazlarının satışı ve kiralanması için yer göstermek suretiyle aracılık yaparak hizmet vermekte ve karşılığında da alım-satım kiralama komisyonunu hak kazandığını belirtmiştir.",
+        "reasoning_text": "Davacı vekili cevab dilekçesinde özetle; davalı ile yazılı bir sözleşme olmadığını, iki icra takip dosyasına tek dava açılmasının usule aykırı olduğunu, davacının taşınmaz satışından kaynaklanan hizmet bedeli talep etmeyeceğini, sözlü mutabakata varıldığını dolayısı ile... İcra Md. 2018/... E. sayılı ilamsız takibe ilişkin davacıya herhangi bir borcu olmadığını, ... İcra Md. 2018/... E. Sayılı icra takibinin de neye dayalı olduğu belirtilmemiş olduğundan takip talebi ve ödeme emrinin kanuna aykırı olduğunu belirtirerek itiraz etmiştir.",
+        "verdict_text": "Davacı kendisini vekille temsil ettiğinden Avukatlık Asgari Ücret Tarifesi'ne göre hesaplanan 9.835,26 TL vekalet ücretinin davalından alınarak davacıya verilmesine, Davalı kendisini vekille temsil ettiğinden Avukatlık Asgari Ücret Tarifesine göre hesaplanan 8.201,17 -TL vekalet ücretinin davacıdan alınarak davalına verilmesine, Alınması gereken 4.747,68-TL harçın pesin alınan 1.527,79 -TL harçtan mahsubu ile bakiye kalan 3.219,89-TL harçın davalından alınarak hazineye gelir kaydına, Davacı tarafından peşin olarak yatırılan 1.527,79 -TL harçın davalından alınarak davacıya verilmesine, Davacı vekili tarafından yapılan posta-tebligat gideri toplamı 173,10 TL ile 2 Adet bilirkişi ücreti 3.000TL, 35,90.-TL başvuru harcı, 5,20.-TL vekalet harcı olmak üzere toplam 3.214,20 -TL yargılama giderinin davacının haklı çıktığı oran itibari ile hesap edilen 1.766,84 -TL yargılama giderinin davalından alınarak davacıya verilmesine, Davalı vekili tarafından yapılan 2 adet posta-tebligat gideri toplamı 38 TL yargılama giderinden davalının haklı çıktığı oran itibari ile hesap edilen 17,11 TL'nin davacıdan alınarak davalına verilmesine, Karar kesinleştiğinde yatırılan ancak kullanılmayan gider avansının yatırılara iadesine, Dair, taraf vekillerinin yüzlerine karşı, kararın tebliğiğinden itibaren 2 haftalık süre içerisinde istinaf yolu (İstanbul Bölge Adliye Mahkemesine başvuru yolu) açık olmak üzere verilen karar açıkça okunup usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İK.67/1",
+            "TBK.m.520",
+            "TBK.m.520/3",
+            "TBK.m.521/1",
+            "TBK.m.523",
+            "BK.m.520",
+            "TTK.m.20",
+            "TMK.m.2",
+            "İcra ve İflas Kanunu 67. maddesi",
+            "Ticaret Kanunu",
+            "Hukuk Genel Kurulu Kararı",
+            "Yargıtay Kararı",
+            "İstanbul Bölge Adliye Mahkemesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı aleyhine açılan davada taşınmaz satışı ve kiralanması için aracılık yaparak hizmet verdiğini iddia ediyor. Davalı ise bu iddiaları reddediyor ve davacıya borcu olmadığını iddia ediyor. Mahkeme, davacı ve davalı arasındaki anlaşma ve komisyon taleplerini değerlendirerek davacıya hak kazandırdı.",
+    "summary_for_model": "Davacı, davalı aleyhine açılan davada taşınmaz satışı ve kiralanması için aracılık yaparak hizmet verdiğini iddia ediyor. Davalı ise bu iddiaları reddediyor ve davacıya borcu olmadığını iddia ediyor. Mahkeme, davacı ve davalı arasındaki anlaşma ve komisyon taleplerini değerlendirerek davacıya hak kazandırdı. Davacı, davalıdan alınan vekalet ücretleri, harçlar ve yargılama giderleri için talep edildi."
+}

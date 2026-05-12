@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2023_1623.pdf",
+        "court_name": "T.C. İSTANBUL BÖLGE ADLİYE MAHKEMESİ 13. HUKUK DAİRESİ",
+        "esas_no": "2023/1623",
+        "karar_no": "2023/1696",
+        "case_subject": "Haksız rekabet ve tazminat davası",
+        "dava_tarihi": "19/07/2023",
+        "karar_tarihi": "02/11/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, davacının Instagram hesabından kurumsal hesap olarak kullanımını, TTK md. 55'in 1. ve 5. fıkralarına aşkırılık olarak tesbit etti. Davacının iki adet sosyal medya gönderisinde TTK md. 55/1 ve 55/5'e aşkırılık olarak mürekkilin itibarını zedeler reklam yaptığı, rekabet ve iyiniyet kurallarını ihlal ettiği iddia edildi.",
+        "reasoning_text": "Davacının davasının mutlak ticari dava olması gerekliliği, her iki tarafın da ticari işleme işgili olması ve ticari dava sayılabilmesi için her iki tarafın da tacir olması gereklidir. Mahkeme, davacının davasının ticari niteliği olmadığı ve davacının ticari dava olarak sayılamadığı kararlaşını verdi.",
+        "verdict_text": "Davacının istinaf başvurusunun kabulü ile ilk derece mahkemesi kararının kaldırılmasına, taraf delilleri toplanarak sonucuna göre karar verilmek üzere dosyanın mahkemesine gönderilmesine karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK md. 55/1",
+            "TTK md. 55/5",
+            "TTK md. 4/1-a",
+            "TBK 444 ve 447. maddeler",
+            "TBK 57. Maddesi",
+            "HMK 353/1-a3",
+            "HMK 362/1-g"
+        ]
+    },
+    "summary_for_human": "Davacının Instagram hesabından kurumsal hesap olarak kullanımını ve TTK md. 55'e aşkırılık olarak reklam yaptığı iddia edildi. Mahkeme, davacının davasının ticari niteliği olmadığı ve davacının ticari dava olarak sayılamadığı kararlaşını verdi.",
+    "summary_for_model": "Davacının TTK md. 55'e aşkırılık olarak reklam yaptığı iddia edildi. Mahkeme, davacının davasının ticari niteliği olmadığı ve davacının ticari dava olarak sayılamadığı kararlaşını verdi. Davacının istinaf başvurusunun kabulü ile ilk derece mahkemesi kararının kaldırılmasına karar verildi."
+}

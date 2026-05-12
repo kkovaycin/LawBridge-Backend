@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2022_170.pdf",
+        "court_name": "T.C. Ankara Bölge Adlıye Mahkemesi 20. Hukuk Dairesi",
+        "esas_no": "2022/170",
+        "karar_no": "2024/385",
+        "case_subject": "YİDK Kararı İptali",
+        "dava_tarihi": "29/09/2021",
+        "karar_tarihi": "29/03/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, 02.09.2019 tarihli 2019 05243/2 tescil numarası tasarım başvurusunda YİDK kararı iptali talep etti. YİDK kararı, tasarımın hükümsüz olduğunu kararlaştırıp, tasarımın yenilik vasıflarını kaybettiği sonucuna varmıştır.",
+        "reasoning_text": "Mahkeme, YİDK kararının hüküka uygun olmadığını, ilk derece mahkemesi kararının kaldırılmasını ve davanın yeniden görülümüne karar verdi. HMK 353/1-a-6 maddesi uyarınca dava yeniden görülümüne karar verildi.",
+        "verdict_text": "1-Davalı ... vekilinin istinaf başvurusunun HMK'nın 353/1-a-6 maddesi gereğine kabulü ile Ankara 4. Fikri ve Sınaı Haklar Hukuk Mahkemesi 29/09/2021 gün ve 2020/215 E. - 2021/317 K. sayılı kararının KALDİRILMASINA;\n2-Dosyanın, davanın yeniden görülümesi için mahkemesine İADESİNE,\n3-Davalı ... vekilinin diğer istinaf itirazlarının bu aşamada incelenmesine yer olmadığına,\n4-Davalı ... tarafından istinaf başvurusunda peşin olarak yatırılan 59,30-TL maktu istinaf karar ve ilam harcının istek halinde anlan davalıya içadesine,\n5-Istinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına,\n6-Istinaf aşamasında yapılan yargılama giderlerinin ilk derece mahkemesinde yapılacak yargılamada değerlendirilmesine,\n7-Kararın tebliği ve harç işlemlerinin yerel mahkeme tarafından yapıtılmasına,\nDair, dosya üzerinde yapılan inceleme sonucunda oybirliği ile 01/03/2024 tarihinde HMK 353/1-a-6 maddesi uyarınca KESİN olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Sinaı Mülkiyet Kanunu (SMK) 57/2",
+            "Hukuk Muhakemeleri Kanunu (HMK) 353/1-a-6"
+        ]
+    },
+    "summary_for_human": "Davacı, YİDK kararının iptalini talep etti. Mahkeme, YİDK kararının hüküka uygun olmadığını saptayarak ilk derece kararının kaldırılmasını ve davanın yeniden görülümüne karar verdi.",
+    "summary_for_model": "Dava, YİDK kararının iptali için açılıp, HMK 353/1-a-6 maddesi uyarınca dava yeniden görülümüne karar verildi. YİDK kararının hüküka uygun olmadığını saptayan mahkeme, ilk derece kararının kaldırılmasını kararlaştırıp, dava yeniden görülümüne karar verdi."
+}

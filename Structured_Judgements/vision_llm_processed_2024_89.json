@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2024_89.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 12. Hukuk Dairesi",
+        "esas_no": "2023/1024",
+        "karar_no": "2024/138",
+        "case_subject": "İhtiyati haciz/tedbir talebi",
+        "dava_tarihi": "30/10/2023",
+        "karar_tarihi": "24/01/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili tarafından ithiyati haciz/tedbir talebi reddedildi. Davacı, davallara ait banka hesaplarına tedbir konulmasını talep etmişti. Davallar, davacı vekilinin istinaf başvurusunun esastan reddine karar verildi.",
+        "reasoning_text": "İhtiyati haciz talebi reddedildi çünkü davacı vekili, davalların banka hesaplarına erişim imkanı olmadığını iddia etmişti. Davallar, davacı vekilinin istinaf başvurusunun esastan reddine karar verildi.",
+        "verdict_text": "İhtiyati haciz/tedbir talebi reddedildi. Davacı vekilinin istinaf başvurusu esastan reddedildi. Davacı tarafından ödenen harçlar ve dava masrafları Hazine'ye geri döndürüldü."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İİK'nin 257/1. maddesi",
+            "İİK'nin 258/1. maddesi",
+            "HMK'nun 389 maddesi",
+            "HMK'nun 353(1)b-1 maddesi",
+            "HMK'nun 362(1)-f maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin ithiyati haciz/tedbir talebini reddetmiştir. Davacı vekili, davalların banka hesaplarına erişim imkanı olmadığını iddia etmişti. Davallar, davacı vekilinin istinaf başvurusunun esastan reddine karar verildi. Davacı tarafından ödenen harçlar ve dava masrafları Hazine'ye geri döndürüldü.",
+    "summary_for_model": "İhtiyati haciz/tedbir talebi reddedildi. Davacı vekili, davalların banka hesaplarına erişim imkanı olmadığını iddia etti. İİK'nin 257/1. ve 258/1. maddeleri, HMK'nun 389, 353(1)b-1 ve 362(1)-f maddeleri çerçevesinde karar verildi. Davacı vekilinin istinaf başvurusu esastan reddedildi."
+}

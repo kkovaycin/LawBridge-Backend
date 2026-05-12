@@ -1,0 +1,35 @@
+{
+    "meta_data": {
+        "file_name": "2024_1689.pdf",
+        "court_name": "Bakırköy 2. Fikri Ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2024/1689",
+        "karar_no": "2025/77",
+        "case_subject": "Tespit (D.İş)",
+        "dava_tarihi": "02/10/2024",
+        "karar_tarihi": "16/01/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, vekil tarafından yapılan ihlaller ve ihlalin önlenmesi için talep edilen tedbirler, mahkemenin ilk kararının teminat miktarını ve ihlalin önlenmesi için verilen kararın teminat miktarını değiştirmek için yapılan itirazlar ve sonuçta verilen kararın teminat miktarının 300.000,00 TL olarak değiştirilmesi.",
+        "reasoning_text": "İhlalin önlenmesi için verilen tedbir kararının teminat miktarının yetersiz olduğu ve ihlalin önlenmesi için daha yüksek bir teminat miktarının gerektiği, ayrıca ilk kararın teminat miktarının yetersiz olduğu ve ihlalin önlenmesi için daha yüksek bir teminat miktarının gerektiği gerekçeleriyle karar verildi.",
+        "verdict_text": "KISMEN KABULÜ ile, Bakırköy 2. Fikri Ve Sınai Haklar Hukuk Mahkemesi'nin 02/10/2024 tarihli kararının KALDIRILMASI, teminatın 300.000,00 TL olarak takdir edilmesi, mahkeme tarafından verilen istinaf harçının karşı tarafa iadesi ve dava masraflarının mahkeme tarafından kararlaştırılması."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 159",
+            "HMK 390",
+            "HMK 389",
+            "HMK 395/3",
+            "HMK 392/1",
+            "HMK 87",
+            "HMK 393/1",
+            "HMK 302/5",
+            "HMK 333",
+            "HMK 353/1-b/2",
+            "HMK 362/1-f",
+            "İK 258/(3)",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, ihlalin önlenmesi için verilen tedbir kararının teminat miktarını 300.000,00 TL olarak değiştirdi ve ilk kararın teminat miktarını yetersiz buldu. İhlalin önlenmesi için daha yüksek bir teminat miktarının gerektiği gerekçeleriyle karar verildi.",
+    "summary_for_model": "İhlalin önlenmesi için verilen tedbir kararının teminat miktarının yetersiz olduğu ve ihlalin önlenmesi için daha yüksek bir teminat miktarının gerektiği gerekçeleriyle, mahkeme ilk kararın teminat miktarını 300.000,00 TL olarak değiştirdi. İhlalin önlenmesi için daha yüksek bir teminat miktarının gerektiği gerekçeleriyle karar verildi."
+}

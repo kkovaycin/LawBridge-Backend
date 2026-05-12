@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2020_541.pdf",
+        "court_name": "T.C. BURSA BÖLGE ADLİYE MAHKEMESİ 5. HUKUK DAİRESİ",
+        "esas_no": "2020/541",
+        "karar_no": "2023/244",
+        "case_subject": "Davacı ve davalı arasındaki nakliye anlaşmasında gecikme nedeniyle ortaya çıkan zarar iddiası",
+        "dava_tarihi": "08/10/2019",
+        "karar_tarihi": "10/03/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalıya karşı Bursa 5. İcra Müdürlüğü'nün 2017/6589 Esas sayılı takip dosyası ile icra takibi başlatıldığını, teslim konusu alacakın taraflar arasındaki ticari ilişki kapsamında yer dışına gönderilmek üzere davalıya teslim edilen emtiaların kararlaştırılan süre içerisinde teslim noktasına gönderilmemiş olması nedeniyle davacıya zarar verdiğini iddia etmiştir. Davalı vekili ise, taraflar arasında süre gelen bir taşıma ilişkisi olduğunu, davacı tarafından teslim edilen ürünlerin 27/01/2014 tarihinde Bursa'da yüklenmesinin yapıldığını, daha sonra Kapıkule Sınır Gümrüğünden geçiş yapıldığını ve Türkiye ile Bulgaristan arasındaki kriz nedeniyle geciktiğini savunmuştur.",
+        "reasoning_text": "Mahkeme, davacı tarafından karayolu taşıması ile davalı'nın taşımaya konu malları muhattap alıcısına süre içinde teslim edilememesi nedeniyle ticari alışverişte sorun yaşanmaması için yurt dışı müşterisine hava kargo yoluyla malları bir kez daha göndermesine ilişkin yaptığı masrafları takip yolu ile talep ettiği belirlemesi ile CMR Konvansiyonu hükümlerine tabi bulunan taşıma işinde uygulanması gereken CMR Konvansiyonu 30/3 maddesinde \"Yük alıcının kullanımına verildiği tarihten sonraki 21 gün içinde durum yazılı olarak taşımacıya bildirilmedikse, teslimdeki gecikmeler için tazminat ödenmez.\" hükmünün yer aldığını ve madde metninde yer alan yazılı şekil şartının ispat şeklinin dışında zarar tazmininin talep edilebilmesi için geçerlilik şekli olduğunu, davacı tarafından 11/02/2014 tarihinden itibaren 21 gün içerisinde gecikme zararlarını yazılı olarak karşı tarafa bildirmediğinden 30/3 maddesi uyarınca tazminata hak kazanamadığını, davacı tarafından taraflar arasındaki mail yazışmalarına dayanılırsa da mail yazışmaları ile yapılan bildirim CMR 30. maddesinde öngörülen yazılı bildirim şartını sağlamadığından davanın reddine karar verildiğini açıklamıştır.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan gerekçe ile;\n1-Davacı vekilinin istinaf başvurusunun KABULÜ ile;\n2-Bursa 1. Asliye Ticaret Mahkemesinin 08/10/2019 tarih, 2017/1362 Esas, 2019/1047 sayılı kararının KALDIRILMASI;\n3-HMK 353/1-a-6 maddesi gereğince davanın yeniden görülmesi için dosyanın ilk derece mahkemesine İADESİNE,\n4-Davacı tarafından yatırılan istinaf kanun yoluna başvurma harcının hazinesine gelir kaydına, peşin alınan istinaf karar harcının istek halinde istinaf eden davacıya iadesine,\n5-Davacı tarafından Sivas İcra Dairesi 2019/124017 Esas, 07/01/2020 tarihli mehil vesikasında düzenlenen 17.839,95 TL Nakit terminat mektubunun sunan tarafa iadesine,\n6-Yapılan istinaf yargılama giderinin ilk derece mahkemesinde verilecek esas karar ile birlikte dikkate alınmasına,\n7-Harc ve tebliğ işlemlerinin ilk derece mahkemesince yerine getirilmesine,\nDosya üzerinde yapılan inceleme sonucu oy birliği ile kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "CMR Konvansiyonu 30/3",
+            "Hukuk Muhakemesi Kanunu (HMK) 199. madde",
+            "Hukuk Muhakemesi Kanunu (HMK) 202. madde",
+            "Hukuk Muhakemesi Kanunu (HMK) 353/1-a-6"
+        ]
+    },
+    "summary_for_human": "Bu davada, davacı, davalı tarafından teslim edilen emtiaların zamanında ulaşmadığı için kendisine zarar verdiğini iddia etmiştir. Davalı ise, ticari anlaşma nedeniyle geciktiğini savunmuştur. Mahkeme, davacı tarafından 21 gün içinde yazılı bildirim yapılmadığı için tazminat talebini reddetmiştir. Davacı, bu kararı itiraz etmiştir ve davanın yeniden görülmesi için başvuru yapmıştır.",
+    "summary_for_model": "Dava, CMR Konvansiyonu 30/3 maddesine göre teslim gecikmesi nedeniyle tazminat talebidir. İlk derece mahkemesi, davacı tarafından 21 gün içinde yazılı bildirim yapılmadığı için tazminat talebini reddetmiştir. Davacı, bu kararı itiraz ederek davanın yeniden görülmesini talep etmiştir. İstinaf mahkemesi, davanın yeniden görülmesi için karar vermiştir. Davacı tarafından yatırılan istinaf harcı ve nakit terminat mektubu iadesi talep edilmiştir."
+}

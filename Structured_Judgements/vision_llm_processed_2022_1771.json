@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_1771.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2022/1771",
+        "karar_no": "2025/38",
+        "case_subject": "Maddi ve Manevi Tazminat",
+        "dava_tarihi": "22/06/2021",
+        "karar_tarihi": "09/02/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilin 2017/04617 sayılı tasarımının sahibi olduğunu, tasarımı kendi adına üretip sattığını iddia etmiştir. Ankara 1. FŞHHM'nin 2019/17 D.İş sayılı dosyasında davacı tarafından satışa konulan ürünlerin müvekkili tasarımları ile aynı görünen olduğu tespit edilmiştir. Davacı, müvekkiline ait ürünleri satarken müvekkilin tasarımını kullanmış ve bu satışın hukuka aykırılığını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacının tasarımının yeni ve ayırt edici olduğunu, davacı tarafından sunulan tasarımların davacının tasarımından farklı olduğunu ve davacının tasarımının karakteristiğini oluşturan özelliklerin herhangi bir ürününde bulunmadığını tespit etmiştir. Davacı tarafından sunulan ürünlerin davacının tasarımının karakteristiğini oluşturan özelliklerini barındırmadığı için davacının tasarım hakkı ihlali bulunmadığı kararı verilmiştir.",
+        "verdict_text": "ESASTAN REDDİNE, Harçlar Kanunu uyarınca alınması gereken 615,40-TL maktu istinaf karar ve ilam harcından, asıl davada davalı tarafından istinaf başvurusunda yatırılan 80,70-TL istinaf karar ve ilam harcının mahsubu ile bakiye 534,70-TL'nin anılan davalidan tahsili ile Hazineye irat kaydına, İstinaf aşamasında asıl davada davalı tarafından yapılan yargılama giderlerinin uhdesinde bırakılmasına, İstinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda oybirliği ile 17/01/2025 tarihinde HMK 361. maddesi uyarınca kararın tebliğiyle itibarlen iki hafta içerisinde Yargıtay temyiz yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK'nin 355. maddesi",
+            "6100 sayılı HMK'nin 353/1-b.1 maddesi",
+            "6100 sayılı HMK'nin 361. maddesi",
+            "Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkiline ait bir tasarımın ihlali iddiasıyla dava açmıştır. Mahkeme, davacının tasarımının yeni ve ayırt edici olduğunu ancak davacı tarafından sunulan ürünlerin bu tasarımı ihlal etmediğini tespit ederek davayı reddetmiştir.",
+    "summary_for_model": "Davacı, müvekkiline ait bir tasarımın ihlali iddiasıyla dava açmıştır. Mahkeme, davacının tasarımının yeni ve ayırt edici olduğunu ancak davacı tarafından sunulan ürünlerin bu tasarımı ihlal etmediğini tespit ederek davayı reddetmiştir. Karar, HMK 353/1-b.1 ve 361. maddeleri ile Harçlar Kanunu uyarınca verilmiştir."
+}

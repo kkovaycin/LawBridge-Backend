@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2023_292.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2023/292",
+        "karar_no": "2025/505",
+        "case_subject": "Tasarım Hakkına Tecavüzün ve Haksız Rekabetin Tesbiti, Durdurulması, Önlennmesi, Maddi ve Manevi Tazminat, İlan",
+        "dava_tarihi": "09/11/2022",
+        "karar_tarihi": "13/03/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın müvekkilinin tescilli tasarımı kapsamındaki koltuk ve berjer takımının aynısını haksız ve hukuksuz şekilde ürettiğini iddia ediyor. Ankara 48. Noterliği'nin 01/04/2021 tarihli 03348 yevmiye numaralı \"E-Tespit Tutanağı\" ile sabit olan tescilli tasarımın izni olmadan başka bir gerçek ve tüzel kişi tarafından taklit edildiğini, kullanıldığını, kâr sağlandığını iddia ediyor. 2020/05784 numaralı tasarıma yönelik haksız rekabet ve tasarım hakkına tecavüzün tespiti ile tecavüz ve haksız rekabetin önlenmesi, durdurulması, tasarım kapsamındaki \"koltuk ve berjer\" ürünlerinin üretiminin, piyasaya sürülmesinin, satışının önlenmesi, henüz tam parça haline gelmemiş ancak müvekkiline ait tasarımların bir parçası olduğu açıkça anlaşılan bir görünüme sahip mobilya parçaları, kulp, demir ayak malzemeler ile ürünün tanıtımına yarayan katalog, broşür, ilan, reklam, afiş ve her türlü evrakın imalinin, satışının, dağıtımının, ithalinin ve ihracatının, internet siteleri, arama motorları ve sosyal medya hesaplarında yayınlanmasının durdurulmasına, bu ürünlerin imalatında kullanılanalet, edevat, araç, gereç, vasıta ve kalıpların bulunduğu yerden kaldırılmasına ve sökülmesine, görüldüğü her yerde el konularak toplatılmasına, imhasına, fazlayı ilişkin hakları saklı kalmak kaydıyla 1.000,00 TL maddi ve 15.000,00 TL manevi tazminatın 24/09/2020 tarihinden itibaren işleyecek ticari faizi ile birlikte davaldan tahsiline ve kararın en yüksek tirajlı ulusal yayın yapan bir gazetede ilanına karar verilmesini talep ediyor.",
+        "reasoning_text": "Mahkeme, dava dosyasını inceledi ve davacının iddialarını destekleyen kanıtlar buldu. Davacı vekilinin talebini kabul ederek, davanın kısmen kabulüne karar verdi. Davacı vekilinin istinaf dilekçesinin reddine karar verildi. Davacı vekilinin istinaf başvurusunun esas yönünden reddine dair hükmün kurulmasına karar verildi.",
+        "verdict_text": "Davacı vekilinin istinaf başvurusunun HMK'nin 353/1-b.1 maddesi gereğince ES ASTAN REDDİNE, Harçlar Kanunu uyarınca alınması gereken 1.092,26 TL nispi istinaf karar ve ilam harcından, davalı tarafından istinaf başvurusunda yatırılan 260,60 TL istinaf karar ve ilam harcının mahsubu ile 831,66 TL bakiye harcin davalıdan tahsili ile Hazineye irat kaydına, İstinaf aşamasında davalı tarafından yapılan yargılama giderlerinin kendi uhdesinde bırakılmasına, İstinaf aşamasında duruşma açılmadığından taraflara vekalet ücreti takdirine yer verilmemesine karar verildi. Dosya üzerinde yapılan inceleme sonucunda oy birliği ile 13/03/2025 tarihinde HMK 361. maddesi uyarınca kararın tebliğinden itibaren iki hafta içerisinde TEMYİZ yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK'nin 355. maddesi",
+            "6100 sayılı HMK'nin 345. maddesi",
+            "6100 sayılı HMK'nin 346/1. maddesi",
+            "6100 sayılı HMK'nin 353/1-b.1 maddesi",
+            "HMK 361. maddesi",
+            "Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin istinaf başvurusunu reddetti ve davalıdan tahsil edilecek harçları belirledi. Davacı vekilinin istinaf başvurusunun esas yönünden reddine dair hükmün kurulmasına karar verildi.",
+    "summary_for_model": "Mahkeme, davacı vekilinin istinaf başvurusunu reddetti ve davalıdan tahsil edilecek harçları belirledi. Davacı vekilinin istinaf başvurusunun esas yönünden reddine dair hükmün kurulmasına karar verildi. HMK 353/1-b.1 ve 361. maddeleri ve Harçlar Kanunu uyarınca harçlar tahsil edildi."
+}

@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2019_200.pdf",
+        "court_name": "T.C. İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2019/200",
+        "karar_no": "2019/71",
+        "case_subject": "Marka hakları ihlali ve hak ihraç davası",
+        "dava_tarihi": "18/06/2019",
+        "karar_tarihi": "23/09/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekili aracılığıyla davayı açtı. Müvekkili şirketin markasını kullanmakla suçlandı. Davacı, İstanbul'da kurulan bir kuruluşun markasını kullanmakla suçlandı. Davacı, davayı İstanbul Fikri ve Sınai Haklar Hukuk Mahkemesi'ne sundu. Davacı, davayı 18/06/2019'da açtı.",
+        "reasoning_text": "Davacı, davayı SMK 149 ve devam maddeleri gereğince maddi ve manevi tazminat davası olarak açtı. Davacı, arabuluculuk faaliyeti sonrasında anlaşmaya varamadığı için son tutanağın aslını veya arabulucu tarafından onaylanmış bir örneği davaya eklemek zorunda olduğunu iddia etti. Davacı, arabuluculuk sürecinde anlaşmaya varamadığı için davayı usulden reddetmek istedi.",
+        "verdict_text": "Davayı usulden reddetmek, harç peşin alınmadığı için yeniden alınması, davacı tarafından yapılan yargılama giderleri bırakılması, davacı tarafından yapılan yargılama gideri bulunmadığı için karar verilmesi, gider avansından kullanılmayan kısmın karar kesinleştiğinde davacıya iadesi, dosya üzerinden gerekli kararın tebliğinden itibaren yasal 2 haftalık süre içerisinde istinaf yolu açık olmak üzere karar verildi 23/09/2019"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 149",
+            "TTK 5.madde",
+            "Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına İlişkin Takibin Başlatılması Usülü Hakkında Kanun",
+            "Yasa'nın 18/A-(2) maddesi",
+            "HMK 114/2",
+            "HMK 115/2"
+        ]
+    },
+    "summary_for_human": "Davacı, markasını kullanmakla suçlanan bir şirkete karşı dava açtı. Davacı, arabuluculuk sürecinde anlaşmaya varamadığı için davayı usulden reddetmek istedi. Mahkeme, davayı usulden reddetti ve davacıya harç peşin alınmadığı için yeniden alınması, davacı tarafından yapılan yargılama giderleri bırakılması, davacı tarafından yapılan yargılama gideri bulunmadığı için karar verilmesi, gider avansından kullanılmayan kısmın karar kesinleştiğinde davacıya iadesi, dosya üzerinden gerekli kararın tebliğinden itibaren yasal 2 haftalık süre içerisinde istinaf yolu açık olmak üzere karar verdi.",
+    "summary_for_model": "Davacı, markasını kullanmakla suçlanan bir şirkete karşı dava açtı. Davacı, arabuluculuk sürecinde anlaşmaya varamadığı için davayı usulden reddetmek istedi. Mahkeme, davayı usulden reddetti ve davacıya harç peşin alınmadığı için yeniden alınması, davacı tarafından yapılan yargılama giderleri bırakılması, davacı tarafından yapılan yargılama gideri bulunmadığı için karar verilmesi, gider avansından kullanılmayan kısmın karar kesinleştiğinde davacıya iadesi, dosya üzerinden gerekli kararın tebliğinden itibaren yasal 2 haftalık süre içerisinde istinaf yolu açık olmak üzere karar verdi."
+}

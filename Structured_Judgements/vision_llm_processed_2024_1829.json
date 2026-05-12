@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2024_1829.pdf",
+        "court_name": "İzmir Bölge Adliye Mahkemesi 11. Hukuk Dairesi",
+        "esas_no": "2024/1829",
+        "karar_no": "2024/2133",
+        "case_subject": "İhtiyati Tedbire İtiraz",
+        "dava_tarihi": "23.09.2024",
+        "karar_tarihi": "13.12.2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı-karşı davacı vekili tarafından markanın izinsiz kullanımı iddiasıyla dava açmıştır. Davacı, davalı-karşı davacı vekilinin markayı izinsiz kullandığını, sosyal medya ve internet sitelerinde markayı kullanan ve ürünleri pazarlayan davalı-karşı davacı vekilinin markayı izinsiz kullandığını iddia etmiştir.",
+        "reasoning_text": "İlk derece mahkemesi, davacı vekilinin iddiasını kabul ederek davalı-karşı davacı vekilinin markayı izinsiz kullandığını tespit etmiştir. İkinci derece mahkemesi ise, davacı vekilinin iddiasının yetersiz olduğunu ve davacı-karşı davacı vekilinin markayı izinsiz kullanmadığını karar vermiştir.",
+        "verdict_text": "İkinci derece mahkemesi, davacı vekilinin itirazını reddetmiştir. Davacı-karşı davacı vekilinin itirazı kabul edilmiştir. İkinci derece mahkemesi, davacı-karşı davacı vekilinin markayı izinsiz kullanmadığını ve davacı vekilinin iddiasının yetersiz olduğunu karar vermiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu 353/1-b-1",
+            "Hukuk Muhakemeleri Kanunu 362/1-f",
+            "6769 Sayılı Sınai Mülkiyet Kanunu 159/1",
+            "Hukuk Muhakemeleri Kanunu 355"
+        ]
+    },
+    "summary_for_human": "İkinci derece mahkemesi, davacı vekilinin markayı izinsiz kullandığı iddiasını reddetmiştir. Davacı-karşı davacı vekilinin itirazı kabul edilmiştir. Mahkeme, davacı vekilinin iddiasının yetersiz olduğunu ve davalı-karşı davacı vekilinin markayı izinsiz kullanmadığını karar vermiştir.",
+    "summary_for_model": "İkinci derece mahkemesi, davacı vekilinin markayı izinsiz kullandığı iddiasını reddetmiştir. Davacı-karşı davacı vekilinin itirazı kabul edilmiştir. Mahkeme, davacı vekilinin iddiasının yetersiz olduğunu ve davalı-karşı davacı vekilinin markayı izinsiz kullanmadığını karar vermiştir. Hukuk Muhakemeleri Kanunu 353/1-b-1 ve 362/1-f maddeleri uygulanmıştır."
+}

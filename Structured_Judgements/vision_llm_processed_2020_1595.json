@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2020_1595.pdf",
+        "court_name": "Bakırköy 1. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2017/561 E",
+        "karar_no": "2019/183 K",
+        "case_subject": "Patent (Maddi Tazminat İstemi)",
+        "dava_tarihi": "16/05/2019",
+        "karar_tarihi": "28/09/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davacı vekili tarafından temsil edilen bir şirketin sahibi olduğu \"Konteyner ve Dorse İç Koruma Örtüsü\" başlıklı faydalı model belgesinin koruma kapsamına, davacı tarafından üretilen ve satılan ürünlerle tecavüz oluşturduğunu iddia ediyor. Davacı, bu ürünlerin davacı şirketin söz konusu ürününe benzerlik taşıdığını, aynı zamanda davacı şirketin söz konusu ürünü ile ilgili internet sitesinde \"C-bag konteyner koruma naylonu\" başlığı ile tanıtım yaptığını iddia ediyor.",
+        "reasoning_text": "Mahkeme, davacı vekili tarafından yapılan istinaf talebini kabul ederek ilk derece mahkemesi kararını kaldırdı. Mahkeme, davacı vekili tarafından yapılan istinaf talebini değerlendirdi ve davacı vekili tarafından sunulan teknik bilirkişi raporunu dikkate alarak davacı vekili tarafından yapılan iddiaları kabul etmedi. Mahkeme, davacı vekili tarafından yapılan iddiaların teknik olarak tutarlı olmadığını ve davacı vekili tarafından yapılan iddiaların hukuki olarak uygun olmadığını belirledi.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Üçül ve yasaya uygun Bakırköy 1. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 16/05/2019 tarih ve 2017/561 E, 2019/183 K sayılı kararına karşı davacı ve davacı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gereken 269,85-TL maktu istinaf kararı ve ilam harcından peşin yatırılan 44,40-TL harcin mahsubu ile bakiye 225,45-TL daha harcin davacıdan tahsiliyle Hazineye gelir kaydedilmesine, 3-Davacı ve davacı tarafça istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına,4-İncelemenin duruşmasız olarak yapılması sebebiyle taraflarca yatırılan gider avansından harçmayan kısım karar kesinleştiğinde iadesine,5-Taraflarca yatırılan gider avansından harçmayan kısım karar kesinleştiğinde iadesine, Dosya üzerinde yapılan inceleme sonucunda, 20/07/2017 tarih ve 7035 Sayılı Kanunun 31. maddesiyle değişik 6100 Sayılı HMK'nın 361/1. maddesi gereğince, kararın tebliğinden itibaren 2 hafta içerisinde Yargıtay'a temyiz başvurusunda bulunma yolu açık olmak üzere, oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı HMK'nın 353/1-b/1. maddesi",
+            "2-492 Sayılı Harçlar Kanunu",
+            "3-492 Sayılı Harçlar Kanunu",
+            "7035 Sayılı Kanunun 31. maddesi",
+            "SMK'nın 192. maddesi",
+            "SMK'nın 142. maddesi",
+            "355. Maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, bir şirketin sahibi olduğu bir faydalı model belgesinin koruma kapsamına tecavüz ettiğini iddia ediyor. Mahkeme, davacı vekili tarafından yapılan istinaf talebini kabul ederek ilk derece mahkemesi kararını kaldırdı. Mahkeme, davacı vekili tarafından yapılan iddiaların teknik olarak tutarlı olmadığını ve hukuki olarak uygun olmadığını belirledi.",
+    "summary_for_model": "Davacı, bir şirketin sahibi olduğu bir faydalı model belgesinin koruma kapsamına tecavüz ettiğini iddia ediyor. Mahkeme, davacı vekili tarafından yapılan istinaf talebini kabul ederek ilk derece mahkemesi kararını kaldırdı. Mahkeme, davacı vekili tarafından yapılan iddiaların teknik olarak tutarlı olmadığını ve hukuki olarak uygun olmadığını belirledi. Davacı vekili tarafından yapılan iddialar, teknik bilirkişi raporu ve hukuki değerlendirmelerle desteklenmedi."
+}

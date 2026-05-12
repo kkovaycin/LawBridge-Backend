@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2016_1389.pdf",
+        "court_name": "T.C. İstanbul Anadolu 7. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2018/249 Esas",
+        "karar_no": "2019/1258",
+        "case_subject": "Haksız Rekabetin Teşbiti, Meni ve Haksız Rekabetten Kaynaklanan Manevi Tazminat",
+        "dava_tarihi": "27/02/2018",
+        "karar_tarihi": "31/10/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın ilk 5 sıralamasında yer alan okulları İstanbul ve Antalya'dan seçti. Davacı vekili, davayı sosyal medya hesaplarından paylaştı ve davayı derneğin sitesinde yayınladı. Davacı vekili, davayı haklı bulmadı ve davayı reddetti.",
+        "reasoning_text": "Mahkeme, davacı vekilinin davayı haklı bulmadığını ve davayı reddettiğini tespit etti. Davacı vekilinin davayı haklı bulmadığı için davayı reddetti.",
+        "verdict_text": "Davaların ESAS TAN REDDİNE, Ret harci maktu olduğundan bakiye 145.114,35 TL harcin talebi halinde davacıya iadesine, Tamamı davacı taraflıca karşılanan yargılama giderlerinin davacı üzerinde bırakılmasına, karar kesinleştiğinde bakiye kalacak gider avansının iadesine, Karar tarihindeki gerçeğince kendisini vekil ile temsil ettiren her bir davalı yönünden ayrı ayrı 2.725,00'er TL maktu vekalet ücreti taktrine, davacıdan alınıp, her bir davalıya ayrı ayrı verilmesine, Karar kesinleştiğinde gizlilik kararı nedeniyle mahkememiz kasasında saklanan iadesine, Dair karar, hazırdaki davacı vekilinin ve davallardan dışındaki bir kısım davalların vekilinin yüzlerine karşı, davallardan vekilinin yokluğunda, karar gerekçesinin tebliğinden itibaren 2 hafta içinde İstanbul Bölge Adliye Mahkemesinde istinaf yolu açık olarak ve oy birliği ile verildi, açıkça okundu usulen tefhim olundu."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK'un 55. Maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin davayı haklı bulmadığını ve davayı reddettiğini tespit etti. Davacı vekilinin davayı haklı bulmadığı için davayı reddetti.",
+    "summary_for_model": "Mahkeme, davacı vekilinin davayı haklı bulmadığını ve davayı reddettiğini tespit etti. Davacı vekilinin davayı haklı bulmadığı için davayı reddetti. Davaların ESAS TAN REDDİNE karar verildi."
+}

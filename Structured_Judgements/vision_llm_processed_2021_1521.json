@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_1521.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2021/1521",
+        "karar_no": "2023/1452",
+        "case_subject": "YİDK Kararı İptali ile Hükümsuzluk",
+        "dava_tarihi": "21/06/2021",
+        "karar_tarihi": "09/12/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davada Ankara 4. Fikri ve Sınai Haklar Hukuk Mahkemesi tarafından verilen karara itiraz edilmiş ve istinaf dilekçesi ile dava yeniden incelenmiştir. Taraflar arasında marka başvurusu ve itirazları ele alınmıştır.",
+        "reasoning_text": "Mahkeme, markaların benzerliği ve iltisabın olup olmadığı gibi hukuki unsurları değerlendirerek, ilk derece mahkemesinin kararının iptali ve davanın reddi kararı vermiştir.",
+        "verdict_text": "HÜKÜM: Gereçleri yukarıda belirtilmiş üzere; 1-Davalı vekili ile davalı şirket vekilinin istinaf başvurularının HMK'nin 353/1-b-2 maddesi gereğince KABULÜ ile Ankara 4. Fikri ve Sınai Haklar Hukuk Mahkemesi 21/06/2021 gün ve 2020/41 Esas - 2021/211 Karar sayılı kararının KALDIRILMASINA, 2-Davanın REDDİNE, vb. karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK)",
+            "Markalar Kanunu (SMK)",
+            "Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Ankara Bölge Adliyesi, bir markanın iptali ve hükümsuzluk davasında ilk derece mahkemesinin kararını iptal ederek davayı reddetmiştir. Taraflar arasındaki marka başvurusu ve itirazları ele alınmıştır.",
+    "summary_for_model": "Bu karar, bir markanın iptali ve hükümsuzluk davasında ilk derece mahkemesinin kararının iptali ve davanın reddini içermektedir. Taraflar arasındaki marka başvurusu ve itirazları SMK ve HMK hükümlerine dayanarak değerlendirilmiştir."
+}

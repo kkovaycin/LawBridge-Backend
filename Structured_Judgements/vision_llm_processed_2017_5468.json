@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2017_5468.pdf",
+        "court_name": "İstanbul (Kapıtan) 3. Fıkrî ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2015/32 E. - 2017/105 K.",
+        "karar_no": "2020/1725 Karar",
+        "case_subject": "Tazminat (Sözleşmeden Kaynaklanan)",
+        "dava_tarihi": "13/06/2017",
+        "karar_tarihi": "16/10/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı yanın telif sözleşmesi ile ilgili hak ihlalleri iddia ediyor. Davalı yanın vekili, sözleşmenin feshedilmesinin haklı olmadığını savunuyor. Mahkeme, davanın reddine karar verdi.",
+        "reasoning_text": "Mahkeme, davacı yanın vekilinin davayı haklı olarak feshettiğini tespit etti. Davalı yanın vekilinin davayı haklı olarak feshettiğini iddia ettiği iddiaları kabul edilmedi.",
+        "verdict_text": "Davanın reddine karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Mahkemeleri Kanunu 353. ve 356. maddeleri",
+            "Belediye Kanunu 5846 Sayılı Kanunun 58. Maddesi",
+            "FSEK 58. Maddesi",
+            "FSEK 58/4 madde düzenlemesi",
+            "BK 491. Maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı yanın vekilinin davayı haklı olarak feshettiğini tespit etti ve davayı reddetti. Davalı yanın vekilinin iddiaları kabul edilmedi.",
+    "summary_for_model": "Mahkeme, davacı yanın vekilinin davayı haklı olarak feshettiğini tespit etti. Davalı yanın vekilinin iddiaları kabul edilmedi. Davanın reddine karar verildi."
+}

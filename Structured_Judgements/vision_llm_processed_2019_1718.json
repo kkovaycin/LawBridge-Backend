@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2019_1718.pdf",
+        "court_name": "Bakırköy 1. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2017/603 E. - 2019/134 K.",
+        "karar_no": "2022/235",
+        "case_subject": "Endüstriyel Tasarım (Tazminat İstemi)",
+        "dava_tarihi": "11/04/2019",
+        "karar_tarihi": "17/02/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davacı tarafından üretilen tasarımların müvekkilinin bilgisi dışında kullanıldığını iddia ediyor. Davacı, müvekkilinin tasarımları dijital platformlarda, internet sitesinde ve sosyal medyada yurtiçi ve yurt dışında satışı yapmış olduğunu iddia ediyor. Davacı, bu durumun müvekkilinin tasarım haklarına tecavüz ettiğini ve maddi, manevi zararlara uğrattığını iddia ediyor.",
+        "reasoning_text": "Mahkeme, davacı vekilinin istinaf başvurusunu kabul etti. Mahkeme, davacı vekilinin istinaf sebeplerini incelemediğini ve davanın reddine karar verdiğini belirledi. Mahkeme, davacı vekilinin istinaf taleplerini kabul etmedi ve davayı reddetti.",
+        "verdict_text": "Bakırköy 1. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 11.04.2019 tarihli 2017/603 E. - 2019/134 K. sayılı kararının 6100 Sayılı HMK 353/1-a-6 maddesi gereğince KALDIRILMASINA, Dosağın, Dairemizin kararında işaret edilen hususlarda yargılama devam edilmek üzere mahkemesine GÖNDERİLMESİNE, Hükümün kaldırılmasına karar verilmekle, bu aşamada davacı vekilinin istinaf sebeplerinin incelenmesine yer olmadığına, Davacının istinaf talebi kabul edildiğinden, davacı tarafın istinaf sebepleri bu aşamada incelenmediğinden talepleri halinde istinaf karar harçlarının iadesine, İstinaf yargılama giderleri olarak; Davacı avansından kullanıldığı anlaşılan; 27,50 TL (posta-teb-müz) masrafının 1/2 oranında 13,75 TL'sinin davalıdan alınarak, davacıya verilmesine, Davalı avansından kullanıldığı anlaşılan; 35,00 TL (posta-teb-müz) masrafının 1/2 oranında 17,50 TL'sinin davacıdan alınarak, davalıya verilmesine, İstinaf incelemesi duruşmasız yapıldığından avukatlık ücreti takdirine yer olmadığına, Artan gider avanslarının karar kesinleştiğinde ve talep halinde ilk derece mahkemesince yatıran tarafa iadesine, Dair, dosya üzerinde yapılan inceleme sonucu 17/02/2022 tarihinde HMK'nin 353/1-a-6 maddesi uyarınca oy birliğiyle kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 356",
+            "TBK 50",
+            "TBK 51",
+            "6769 Sayılı SMK",
+            "6100 Sayılı HMK 353/1-a-6"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkilinin tasarımlarını izinsiz kullanarak maddi ve manevi zarar verdiğini iddia ediyor. Mahkeme, davacı vekilinin istinaf başvurusunu kabul etti ve davayı reddetti. Davacı vekilinin istinaf taleplerini kabul etmedi.",
+    "summary_for_model": "Dava, müvekkilin tasarımlarının izinsiz kullanımı ve bundan kaynaklanan maddi/manevi zarar iddiasını içerir. Mahkeme, davacı vekilinin istinaf başvurusunu kabul etti ve davayı reddetti. Davacı vekilinin istinaf taleplerini kabul etmedi."
+}

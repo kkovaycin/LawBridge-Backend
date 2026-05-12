@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2020_172.pdf",
+        "court_name": "T.C. İSTANBUL 2.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2020/172",
+        "karar_no": "2020/207",
+        "case_subject": "Tasarım Hakkına Tecavüzün Tesbiti, Durdurulması",
+        "dava_tarihi": "10/06/2020",
+        "karar_tarihi": "16/06/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, müvekkilin tekstil sektöründe kadın konfeksiyon üreticisi olarak faaliyet göstermektedir. 18.09.2019 tarihinde tescil başvurusunda bulunmuştur. Müvekkilin tescil başvurusunda bulunan tasarımın davalı Ltd. Şti. tarafından \"...\" markasıyla üretim ve satışı yapılmaktadır. Davalı ...'in davalı şirketin müdürü olarak haksız fiili gerçekleştiren kişi olduğu iddia edilmektedir. Davalılar, 6102 sayılı Türk Ticaret Kanunu'na göre haksız rekabet teşkil etmiştir.",
+        "reasoning_text": "Davalar, aynı endüstriyel tasarıma ilişkin tecavüzün tesbiti, durdurulması ve maddi manevi tazminat taleplerine dayanmaktadır. Davalar arasında hukuki ve fiili bağlantı bulunduğundan, her iki dava arasında fiili ve hukuki irtibat bulunduğundan, usul ekonomisi göz önüne alınarak her iki dosyanın birleştirilmesine karar verilmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda gerekçesi açıklanmış olan, 1-Mahkememizde görülen dava ile ... 1. Fikrî ve Sınaî Haklar Hukuk Mahkemesi'nin ... esas sayılı dosyasında görülen davalar arasında hukuki ve fiili irtibat bulunduğu, birisi hakkında verilecek kararın diğerini etkileyeceği ve birlikte görülmesinde hukuki yarar ve zorunluluk bulunduğu kanaatine varıldığından işbu dosyanın ... 1. Fikrî ve Sınaî Haklar Hukuk Mahkemesi'nin ... esas sayılı dosyası ile BİRLLEŞTİRİLMESİNE, 2-Esasımızın bu şekilde kapatılarak yargılanmanın birleştirilen ... 1. Fikrî ve Sınaî Haklar Hukuk Mahkemesi'nin ... esas sayılı dosyasının üzerinden yürütülmesine, 3-İhtiyati tedbir taleplerinin birleşen dosya üzerinden değerlendirilmesine, Dair dosya üzerinde yapılan inceleme sonucunda (HMK 345/1 md. gereğince) gerekli kararın tebliğinden itibaren esas kararla birlikte 2 hafta içerisinde Mahkememize veya başka bir yer mahkemesine dilekçe ile başvurmak ve istinaf harci ile gerekli giderlerin tamamı ödermek suretiyle, İstanbul Bölge Adliye Mahkemesine istinaf yolu açık olmak üzere karar verildi. 16/06/2020"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK",
+            "6102 sayılı Türk Ticaret Kanunu",
+            "6769 sayılı SMK",
+            "5070 sayılı elektronik imza kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, aynı endüstriyel tasarıma ilişkin tecavüz davalarını birleştirdi. Davalar arasında hukuki ve fiili bağlantı bulunduğundan, her iki dava arasında fiili ve hukuki irtibat bulunduğundan, usul ekonomisi göz önüne alınarak her iki dosyanın birleştirilmesine karar verildi.",
+    "summary_for_model": "Mahkeme, aynı endüstriyel tasarıma ilişkin tecavüz davalarını birleştirdi. Davalar arasında hukuki ve fiili bağlantı bulunduğundan, her iki dava arasında fiili ve hukuki irtibat bulunduğundan, usul ekonomisi göz önüne alınarak her iki dosyanın birleştirilmesine karar verildi. Davalar, 6102 sayılı Türk Ticaret Kanunu'na göre haksız rekabet teşkil etmektedir."
+}

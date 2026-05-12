@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2017_503.pdf",
+        "court_name": "İstanbul 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2017/503",
+        "karar_no": "2018/236",
+        "case_subject": "Marka hakkına tecavüz ve haklı rekabete ilişkin dava",
+        "dava_tarihi": "17/03/2017",
+        "karar_tarihi": "24/05/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının markasını izinsiz ve hukuka aykırı şekilde kullandığını iddia etmiştir. Davalının web sitesi ve sosyal medya hesaplarında markanın kullanıldığı ve bu durumun tüketicileri yanıltmaya yol açtığı belirtilmiştir.",
+        "reasoning_text": "Mahkeme, davalının markasını ticari faaliyetlerinde ve internet sitesinde kullanmasının markasal olarak kabul edildiğini ve bu durumun haklı rekabete aykırı olduğunu tespit etmiştir. Davalının markayı kullanmasının tüketicileri yanıltma ihtimali olduğu için davacı lehine karar verilmiştir.",
+        "verdict_text": "1-DAVANIN KABULÜNE,\n2- Davalının davacıya ait tescilli marka hakkına, telif hakkına tecavüzün ve haklı rekabete tespitine, durdurulmasına, önlenmesine,\n3- 6769 sayılı SMK'nun 159 ve HMK 389 vd. maddelerine göre mahkemeye verilen 3.4.2017 tarihli tedbirin devamına, karar kesinleştiğinde yatırılan 50.000 TL terminatin davacıya iadesine, karar kesinleştiğinde el konulan materyallerin imhasına,(ticari belge ve faturalar hariç)\n4-35.90 TL İlam harcının peşin harçtan mahsubu ile eksis kalan 4.50 TL harcin davaldan tahsiline,\n5-Avukatlık ücreti tarifesi uyarınca 3.145 TL vekalet ücretinin davaldan alınarak davacıya verilmesine,\n6-Davacı tarafın yargılama giderlerinden olan 31.40 TL başvuru harcı 31.40 TL peşin harç 144 TL tebligat ve müzekkere masrafı olmak üzere toplam 204.80 TL yargılama giderinin davaldan alınarak davacıya verilmesine,\n7-Taraflarca fazla yatırılan gider avansının hüküm kesinleştiğinde ve talebi halinde iadesine,\nDair verilen karar davacı ve davalı vekillerinin yüzüne karşı, gerekli kararın taraflara tebliginden itibaren 2 haftalık süre içinde İSTANF YASA yolu açık olmak üzere karar verilip tefhim klndi, hazır olanlara duruşma zaptından örnek verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı SMK",
+            "HMK 389",
+            "TTK 54 ve 55. maddeler",
+            "FSEK 84",
+            "556 sayılı KHK"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markasını izinsiz ve hukuka aykırı şekilde kullandığını iddia etti. Mahkeme, davalının markasını ticari faaliyetlerinde ve internet sitesinde kullanmasının haklı rekabete aykırı olduğunu tespit etti ve davacı lehine karar verdi.",
+    "summary_for_model": "Marka hakkına tecavüz ve haklı rekabete ilişkin dava. Davacı, davalının markasını izinsiz ve hukuka aykırı şekilde kullandığını iddia etmiştir. Mahkeme, davalının markasını ticari faaliyetlerinde ve internet sitesinde kullanmasının haklı rekabete aykırı olduğunu tespit etmiştir."
+}

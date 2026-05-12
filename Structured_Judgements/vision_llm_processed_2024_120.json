@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2024_120.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2024/120",
+        "karar_no": "2024/126",
+        "case_subject": "Tazminat (Fikir ve Sanat Eserleri Sahipliğinden Kaynaklanan)",
+        "dava_tarihi": "12/10/2023",
+        "karar_tarihi": "26/01/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının 2018'de bir kampanya fikrini geliştirdiğini iddia ediyor. Davacı, bu kampanyanın 2018 genel seçimlerinde kullanıldığını ancak 2023 seçimlerinde kullanılmadığını savunuyor. Davacı, davalının fikri ve sanat eserlerini kullanmasının maddi ve manevi zarar verdiğini iddia ediyor.",
+        "reasoning_text": "Mahkeme, davacının iddiasının dosya kapsamında desteklenmediğini ve davalının kampanyanın kullanılmasına dair delil bulunmadığını tespit etti. Mahkeme ayrıca, davalının kampanyanın kullanılmasına dair bir suç işlemediğini ve davanın pasif husumet eksikliği nedeniyle reddedildiğini karar verdi.",
+        "verdict_text": "ESASTAN REDDİNE, Harçlar Kanunu uyarınca alınması gereken 427,60-TL maktu istinaf karar ve ilam harcı davacı tarafından istinaf başvurusunda peşin olarak yatırıldığından yeniden harç alınmasına yer olmadığına, İstinaf aşamasında davacı tarafından yapılan yargılama giderlerinin davacı uhdesinde bırakılmasına, İstinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda oybirliği ile 26/01/2024 tarihinde HMK 361. maddesi uyarınca kararın tebliğinden itibaren iki hafta içerisinde Yargıtay temyiz yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 114/1-d",
+            "HMK 115/2",
+            "HMK 355",
+            "HMK 353/1-b.1",
+            "Harçlar Kanunu",
+            "5070 sayılı Yasa"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının fikri ve sanat eserlerini kullanmasının maddi ve manevi zarar verdiğini iddia ediyor. Mahkeme, davacının iddiasının dosya kapsamında desteklenmediğini ve davanın pasif husumet eksikliği nedeniyle reddedildiğini karar verdi.",
+    "summary_for_model": "Dava, fikri ve sanat eserleri sahipliği nedeniyle tazminat talep ediyor. Mahkeme, davacının iddiasının dosya kapsamında desteklenmediğini ve davanın pasif husumet eksikliği nedeniyle reddedildiğini karar verdi. İstinaf başvurusu reddedildi."
+}

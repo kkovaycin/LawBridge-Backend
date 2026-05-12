@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2024_215.pdf",
+        "court_name": "T.C. İstanbul Anadolu 6. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2023/935",
+        "karar_no": "2024/229",
+        "case_subject": "Kiymetli Evrak İptali (Bono İptali)",
+        "dava_tarihi": "22/12/2023",
+        "karar_tarihi": "26/03/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davayı iptal talebiyle açtı. Davacı, aracı ile anlaşarak kira bedeli ödemediği için iptal talebinde bulundu. Davacı, aracıdan alınan senetleri iptali ve istidat talebinde bulundu. Davacı, davayı açmadan önce arabulucuya başvurmadığı için dava şartı olarak kabul edilmedi.",
+        "reasoning_text": "Dava, senet iptali ve istidat talebine ilişkindir. Davacı, davayı açmadan önce arabulucuya başvurmadığı için dava şartı olarak kabul edilmedi. Davacı, davayı açmadan önce arabulucuya başvurmadığı için dava şartı olarak kabul edilmedi. Davacı, davayı açmadan önce arabulucuya başvurmadığı için dava şartı olarak kabul edilmedi.",
+        "verdict_text": "1-Davacının davasının arabuluculuk dava şartı yokluğundan USULDEN REDDİNE, 2-Alınması gerekli 427,60 TL harçtan davacı tarafından peşin olarak yatırılan 269,85 TL harçın mahsubu ile 157,75 TL bakiye harçın davacidan tahsili ile hazineye irad kaydına, 3-Davacının yaptığı yargılama giderlerinin üzerinde bırakılmasına, 4-Davalı tarafça sarfedilen yargılama gideri olmadığından bu konuda karar verilmesine yer olmadığına, 5-Davacı tarafından yatırılan gider avansından artan kısmın HMK. 333.maddesi gereğince karar kesinleşikten sonra yatırına iadesine"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "7445 Sayılı Kanun 31. Maddesi",
+            "6102 sayılı Türk Ticaret Kanunu'na eklenen 5/A-1. maddesi",
+            "6325 sayılı Kanunun 18/A-2 maddesi",
+            "HMK. 333.maddesi",
+            "HMK 345/1"
+        ]
+    },
+    "summary_for_human": "Davacı, senet iptali ve istidat talebinde bulundu. Davacı, davayı açmadan önce arabulucuya başvurmadığı için dava şartı olarak kabul edilmedi. Mahkeme, davayı usulden reddetti ve davacıdan harç talep etti.",
+    "summary_for_model": "Dava, senet iptali ve istidat talebine ilişkindir. Davacı, davayı açmadan önce arabulucuya başvurmadığı için dava şartı olarak kabul edilmedi. Mahkeme, davayı usulden reddetti ve davacıdan harç talep etti. Davacı, davayı açmadan önce arabulucuya başvurmadığı için dava şartı olarak kabul edilmedi."
+}

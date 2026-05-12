@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2021_376.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLIYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "...",
+        "karar_no": "...",
+        "case_subject": "İhtiyati Tedbir Kararına İtiraz",
+        "dava_tarihi": "20/01/2021",
+        "karar_tarihi": "29/03/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının internet sitesinde ve Instagram hesabında davacı markasıyla benzerlik yaratan kullanımları iddia etmiştir. Karşı taraf ise bu iddiaları reddetmiştir.",
+        "reasoning_text": "Mahkeme, davacı tarafından ileri sürülen iddiaların hak ihlali oluşturduğunu tespit ederek ihtiyati tedbir talebini kabul etmiştir. Ancak, davalının markasıyla benzerlik bulunmadığı ve davacı tarafından ileri sürülen iddiaların yetersiz olduğu gerekçesiyle ilk derece mahkemesi kararının kaldırılmasına karar verilmiştir.",
+        "verdict_text": "1-Karşı taraf davalı vekilinin istinaf başvurusunun HMK'nın 353/1-b-2 maddesi gereğince KABÜLÜ ile, Ankara 2. Fikri ve Sınaî Haklar Hukuk Mahkemesi'nden verilen 20/01/2021 gün ve ... sayılı kararın KALDIRILMASI; 2-İhtiyati tedbir talebinin REDDİNE; 3-Karşı taraf davalıdan peşin olarak alınan 59,30 TL istinaf karar ve ilam harcının talep halinde ihtiyati tedbire itiraz eden davalya iaadesine; 4-İstinaf aşamasında karşı taraf davalı tarafından yapılan 32,50 TL posta giderinden oluşan yargılama giderinin ihtiyati tedbir isteyen davacıdan tahsili ile karşı taraf davalıya verilmesine; 5-İstinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına; 6-Kararın tebliğ işlemlerinin yerel mahkeme tarafından yapılmasına dair, Dosya üzerinde yapılan inceleme sonucunda oybirliği ile 05/03/2021 tarihinde HMK.'nin 362/1-f maddesi uyarınca KESİN olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK'nın 355. maddesi",
+            "6100 sayılı HMK'nın 389. maddesi",
+            "6100 sayılı HMK'nın 390/3. maddesi",
+            "6769 sayılı Sınaî Mülkiyet Kanunu'nun 159/1. maddesi",
+            "HMK'nın 353/1-b-2 maddesi",
+            "HMK'nın 362/1-f maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının internet sitesinde ve Instagram hesabında davacı markasıyla benzerlik yaratan kullanımları iddia etti. Mahkeme, bu iddiaları kabul ederek ihtiyati tedbir talebini kabul etti. Ancak, davalının markasıyla benzerlik bulunmadığı ve davacı tarafından ileri sürülen iddiaların yetersiz olduğu gerekçesiyle ilk derece mahkemesi kararının kaldırılmasına karar verildi.",
+    "summary_for_model": "Davacı vekili, davalının internet sitesinde ve Instagram hesabında davacı markasıyla benzerlik yaratan kullanımları iddia etti. Mahkeme, bu iddiaları kabul ederek ihtiyati tedbir talebini kabul etti. Ancak, davalının markasıyla benzerlik bulunmadığı ve davacı tarafından ileri sürülen iddiaların yetersiz olduğu gerekçesiyle ilk derece mahkemesi kararının kaldırılmasına karar verildi. Davacı tarafından ileri sürülen iddiaların hak ihlali oluşturduğunu tespit edildi."
+}

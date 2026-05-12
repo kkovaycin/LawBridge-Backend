@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2017_1443.pdf",
+        "court_name": "T.C. İstanbul Anadolu 2. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2018/58 Esas",
+        "karar_no": "2018/759",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "15/01/2018",
+        "karar_tarihi": "05/07/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davasında çocukların eğitimini desteklediğini iddia ediyor. Davacı, davalının sosyal medyada yaptığı paylaşımların hak ihlali ve ticari itibar ihlali olarak değerlendirildiğini iddia ediyor. Davalı ise bu iddialara karşı savunma yapmış ve davacı tarafından yapılan paylaşımların hak ihlali olmadığını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davalının sosyal medyada yaptığı paylaşımların hak ihlali ve ticari itibar ihlali olarak değerlendirildiğini tespit etmiştir. Davacı tarafından yapılan paylaşımların hak ihlali olarak değerlendirildiği ve davalının bu paylaşımların sonucunda zarar gördüğü kabul edilmiştir. Davacı tarafından yapılan paylaşımların hak ihlali olarak değerlendirildiği ve davalının bu paylaşımların sonucunda zarar gördüğü kabul edilmiştir.",
+        "verdict_text": "HÜKMÜ: Gerekçesi yukarıda açıklandığı üzere; 1. Davanın reddine, 2. Alınması gerekli 35,90 TL harcin, dava açılırken peşin olarak yatırılan 170,78 TL harçtan tahsili ile bakiye 134,88 TL harcin davacıya iadesine, 3. Davacı tarafından yapılan yargılama giderlerinin üzerinde bırakılmasına, 4. Davalı tarafından yapılan yargılama gideri bulunmadığından bu hususta karar verilmesine yer olmadığına, 5. Karar tarihinde yürürlükte olan ..... gereğince 2.180,00 TL vekalet ücretinin davacıdan alınarak davalına verilmesine, 6. Kararın kesinleşmesi ve talep halinde kullanılmayan gider avansının ilgili tarafa iadesine, Dair, Davacı Vekilinin ve Davalı Vekilinin yüzlerine karşı tebliğden itibaren 2 hafta süre içinde İstinaf yolu açık olmak üzere verilen karar açıkça okunup, usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 55. maddesi",
+            "Anayasanın 26. maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davalının sosyal medyada yaptığı paylaşımların hak ihlali olarak değerlendirildiğini tespit etti. Davacı tarafından yapılan paylaşımların hak ihlali olarak değerlendirildiği ve davalının bu paylaşımların sonucunda zarar gördüğü kabul edildi. Davacı tarafından yapılan yargılama giderlerinin üzerinde bırakılmasına ve davalının yargılama giderinin bulunmadığına karar verildi.",
+    "summary_for_model": "Mahkeme, davalının sosyal medyada yaptığı paylaşımların hak ihlali olarak değerlendirildiğini tespit etti. Davacı tarafından yapılan paylaşımların hak ihlali olarak değerlendirildiği ve davalının bu paylaşımların sonucunda zarar gördüğü kabul edildi. Davacı tarafından yapılan yargılama giderlerinin üzerinde bırakılmasına ve davalının yargılama giderinin bulunmadığına karar verildi. TTK 55. maddesi ve Anayasanın 26. maddesi bahsedildi."
+}

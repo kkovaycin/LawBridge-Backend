@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2024_1771.pdf",
+        "court_name": "İstanbul Anadolu 5. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2023/405",
+        "karar_no": "2024/477",
+        "case_subject": "Tespit davası",
+        "dava_tarihi": "21/05/2024",
+        "karar_tarihi": "09/12/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının sosyal medya hesabında yaptığı paylaşımların TTK'nın 55/1 maddesine aykırı olduğunu iddia etmiştir. Davalının kimlik ve adres bilgilerini tespit etmek için Emniyet Siber Suçlarla Mücadele Birimi ve Twitter şirketine müzekkere yazılması talep edilmiştir. Ancak, bu talepler sonuçsuz kaldıktan sonra dava açılmamış olarak kararlaştırılmıştır.",
+        "reasoning_text": "Mahkeme, davalının açık kimlik ve adres bilgilerinin tesbit edilememesi nedeniyle davanın açılmamasına karar vermiştir. Davacı vekilinin istinaf başvurusu, Hüküm Kanunu'nun 119/1-b ve 353(1)b-1 maddeleri uyarınca reddedilmiştir. Davacı vekilinin taleplerinin tamamlanmaması ve sonuç alınamaması nedeniyle dava reddedilmiştir.",
+        "verdict_text": "Davayı açılmamış olarak kararlaştırmak için istinaf edilmesi üzerine dosya kapsamı incelenip görüşülüp düşünüldü; dava dilekçesinde davalının açık kimlik ve adres bilgisi alınmadığı için dava açılmamış olarak kararlaştırılmıştır."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hüküm Kanunu 119/1-b",
+            "Hüküm Kanunu 353(1)b-1",
+            "Hüküm Kanunu 361/1",
+            "TTK'nın 55/1 maddesi",
+            "Twitter Şirketi'nin 5651 sayılı Kanunun Ek 4. Maddesi'nin 1. Fıkrası"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davalının kimlik ve adres bilgilerinin tesbit edilememesi nedeniyle davayı açılmamış olarak kararlaştırmıştır. Davacı vekilinin istinaf başvurusu reddedilmiştir.",
+    "summary_for_model": "Dava, davalının kimlik ve adres bilgilerinin tesbit edilememesi nedeniyle açılmamıştır. Davacı vekilinin istinaf başvurusu Hüküm Kanunu'nun ilgili maddeleri uyarınca reddedilmiştir."
+}

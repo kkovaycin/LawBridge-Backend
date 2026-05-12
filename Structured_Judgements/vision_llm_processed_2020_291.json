@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2020_291.pdf",
+        "court_name": "İstanbul Anadolu 8. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2017/1402",
+        "karar_no": "2022/1506",
+        "case_subject": "İcra takibi ve tahsil talebi",
+        "dava_tarihi": "24/10/2019",
+        "karar_tarihi": "27/10/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı şirketin alacağıdan dolayı davalı şirketi ithalat itirazı sonucunda takibin durduğunu iddia etmiştir. Davalı vekili ise, davacının taşıma hizmetinde hatalı iki teslimatın mevcut olduğunu, müvekkilin ayipli hizmet nedeniyle zarara uğradığını ve zararı ile ilgili olarak karşı tarafa yapılan e-posta, mesaj ve whatsapp yazışmalarının mevcut olduğunu belirtmiştir.",
+        "reasoning_text": "Mahkeme, davacının davalının emtialarını yurtdışından Türkiye'ye taşıdığı hususunda ihtilaf olmadığını, ancak davacının İngiltere'den Türkiye'ye taşıması nedeniyle 2.930-Euro bedelli ve Almanya'dan Türkiye'ye taşıması nedeniyle 925-Euro bedelli toplam 3.855-Euro olan iki adet fatura düzenlendiğini tespit etmiştir. Davalı tarafından toplamda 1.317,95-Euro ödeme yapılmasına rağmen 2.537,05-Euro bakiye borçlu kaldığı için %7 faiz oranı talep edilmiştir.",
+        "verdict_text": "Davalı vekili; davacının taşıma hizmetinde hatalı iki teslimat mevcut olduğunu, müvekkilin ayipli hizmet nedeniyle zarara uğradığını, müvekkilin İngiltere'de bir şirketi olup, bu şirketten Türkiye'deki şirket ardiyelerine bir kısım malın davacı vasıtasıyla taşındığını, müvekkilin malların hangi ardiyeye taşınacağı konusunda ayrıntılı bilgi vermesine rağmen malları kendince 2 parçaya bölerek ilgisiz iki ayrı firmanın ardiyesine bıraktığını, malların yanlış ardiyelere bırakılması nedeniyle fahiş miktarda bekleme ve kira masrafı ödediğini, müvekkilin zararı ile ilgili olarak karşı tarafa yapılan e-posta, mesaj ve whatsapp yazışmalarının mevcut olduğunu, bu yazışmalardan görüleceği üzere malların yanlış yerlere bırakıldığını, davacının zararı makul bir şekilde karşılayacağını belirtmiş ancak cari hesaba dayalı takip başlatıldığını belirtmek üzere davanın reddine ve kötüniyet tazminatına hükmedilmesine karar verilmesini talep etmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemesi Kanunu (HMK) 353(1b-1)",
+            "Hukuk Muhakemesi Kanunu (HMK) 362(1-a)"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir şirketin ithalat itirazı sonucunda takibin durduğunu iddia eden davacı vekili ile davalı şirketin taşıma hizmetinde hatalı teslimatlar nedeniyle zarara uğradığını iddia eden müvekkil vekili arasında gerçekleşmiştir. Mahkeme, davacının İngiltere'den ve Almanya'dan Türkiye'ye emtiaları taşıması nedeniyle toplam 3.855-Euro bedelli iki adet fatura düzenlendiğini tespit etmiştir. Davalı tarafından toplamda 1.317,95-Euro ödeme yapılmasına rağmen 2.537,05-Euro bakiye borçlu kaldığı için %7 faiz oranı talep edilmiştir. Mahkeme, davacı vekilinin istinaf başvurusunun esastan reddine karar vermiştir.",
+    "summary_for_model": "Dava, ithalat itirazı sonucunda takibin durduğunu iddia eden davacı vekili ile davalı şirketin taşıma hizmetinde hatalı teslimatlar nedeniyle zarara uğradığını iddia eden müvekkil vekili arasında gerçekleşmiştir. Mahkeme, davacının İngiltere'den ve Almanya'dan Türkiye'ye emtiaları taşıması nedeniyle toplam 3.855-Euro bedelli iki adet fatura düzenlendiğini tespit etmiştir. Davalı tarafından toplamda 1.317,95-Euro ödeme yapılmasına rağmen 2.537,05-Euro bakiye borçlu kaldığı için %7 faiz oranı talep edilmiştir. HMK 353(1b-1) ve HMK 362(1-a) maddeleri uyarınca davacı vekilinin istinaf başvurusunun esastan reddine karar verilmiştir."
+}

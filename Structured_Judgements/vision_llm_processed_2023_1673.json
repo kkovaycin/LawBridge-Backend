@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2023_1673.pdf",
+        "court_name": "İzmir Bölge Adliye Mahkemesi 11. Hukuk Dairesi",
+        "esas_no": "2021/143 E. - 2023/61 K.",
+        "karar_no": "2023/1635",
+        "case_subject": "Tasarımın Hükümsüzlüğü, Markanın Hükümsüzlüğü",
+        "dava_tarihi": "13/05/2021",
+        "karar_tarihi": "13/11/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davaların 13.05.2021'de Türk Patent Marka Kurumu'na tescil edildiğini ancak tescilin kötü niyetli olduğunu iddia etti. Tasarımın Almanya'da tescil edildiği ve Türkiye'de ticari faaliyet gösterildiği belirtilerek tasarım ve markanın hükümsüzlüğü talep edildi.",
+        "reasoning_text": "İlk derece mahkemesi, davacı vekilinin 22.03.2023 tarihli duruşmaya katılmadığı için davayı açılmamış olarak kararlaştırdı. İstinaf başvurusu, Hukuk Muhakemeleri Kanunu'nun 353/1-b-1 maddesi uyarınca esastan reddedildi.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Davacı vekilinin istinaf başvurusunun Hukuk Muhakemeleri Kanunu'nun 353/1-b-1 maddesi uyarınca ESAS TAN REDDİNE, 2-Davacı yönünden istinaf karar harcı olan 269,85 TL peşin alındığından yeniden alınmasına yer olmadığına, 3-İstinaf başvurusu nedeniyle davacının yaptığı giderlerin kendi üzerinde bırakılmasına, Dosya üzerinden yapılan inceleme neticesinde, kararın tebliğiğinden itibaren iki hafta içinde Yargıtay İlgili Hukuk Dairesindeki temyiz yolu açık olmak üzere oybirliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu 353/1-b-1",
+            "Hukuk Muhakemeleri Kanunu 150",
+            "Hukuk Muhakemeleri Kanunu 355"
+        ]
+    },
+    "summary_for_human": "İzmir Bölge Adliye Mahkemesi, davacı vekilinin duruşmaya katılmadığı için davayı açılmamış olarak kararlaştırdı. İstinaf başvurusu esastan reddedildi.",
+    "summary_for_model": "Dava, tasarım ve markanın hükümsüzlüğü iddiasıyla açıldı. İlk derece mahkemesi, davacı vekilinin duruşmaya katılmadığı için davayı açılmamış olarak kararlaştırdı. İstinaf başvurusu Hukuk Muhakemeleri Kanunu'nun 353/1-b-1 maddesi uyarınca esastan reddedildi."
+}

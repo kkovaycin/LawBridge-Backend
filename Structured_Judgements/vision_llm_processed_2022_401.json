@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2022_401.pdf",
+        "court_name": "T.C. ANKARA 2. FİKRİ VE SANATİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2022/401",
+        "karar_no": "2022/433",
+        "case_subject": "Fikir ve Sanat Sanat Eseri Sahipliğinden Kaynaklanan Haklara Tecavüzün Ref'i, Önlenmesi ve Tazmini, Haksız Rekabet, Kişilik Haklarına Saldırının Önlenmesi",
+        "dava_tarihi": "09/11/2021",
+        "karar_tarihi": "29/12/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davalı İstanbul Milletvekili olarak tanımlanmıştı. Davacı vekili tarafından dava dilekçeleri ile dava açıldı. Davacı vekili, davalının kişisel internet sitesinde ve kitapçığında kurumsal kimlik kullanıldığını, bu durumun hak ihlali oluşturduğunu iddia etti. Davacı vekili, davalının kurumsal kimliği ile ilgili ihbarların yapıldığını ve davalının logosunun ve görselinin kaldırılması talep edildiğini belirtti.",
+        "reasoning_text": "Mahkeme, davalının kurumsal kimliği ile ilgili ihbarların yapıldığını ve davalının logosunun ve görselinin kaldırılması talep edildiğini kabul etti. Mahkeme, davalının kurumsal kimliği ile ilgili ihbarların yapıldığını ve davalının logosunun ve görselinin kaldırılması talep edildiğini değerlendirdi. Mahkeme, davalının kurumsal kimliği ile ilgili ihbarların yapıldığını ve davalının logosunun ve görselinin kaldırılması talep edildiğini kabul etti.",
+        "verdict_text": "Davayı kabulüne, Davalıya ait \"Hukuksuzluğun sıradanlaşması, silahlı terör örgütü üyeliği yargılamaları\" isimli kitapçığı ön ve arka kapak ile ilk sayfasında kullanılan ve www.mustafayeneroglu.com/category/raporlar internet adresindeki ... amblemi, ... çizimi, ...'nin kurumsal yayını intiba ve iltibas oluşturduğundan bu hali ile kullanılamayacağının tesbiti ile kitapçığın kapakındaki ve internet adresindeki kullanımların davalının men edilmesine, Kararın masrafı davalından alınmak üzere ülke çapında yayın yapan trajik en yüksek 3 gazetede ilanına, Davacı vekilinin ihtiyati tedbir talebinin kabulüne, \"Hukuksuzluğun sıradanlaşması, silahlı terör örgütü üyeliği yargılamaları\" isimli kitapçığı ön ve arka kapak ile ilk sayfasında kullanılan ve ... raporlar internet adresindeki ... amblemi, ...'nin kurumsal yayını intiba ve iltibas oluşturduğundan bu hali ile kullanılamayacağının tesbiti ile kitapçığın kapakındaki ve internet adresindeki kullanımların çıkartılmasına, Alınması gereken başvuru ve peşin harçtan ibaret toplam 161,40.TL harçın davalından alınarak hazinede irad kaydına, Davacının kendisini vekil ile temsil etmesi sebebiyle Avukatlık Asgari Ücret Tarifesine göre hesap olan takdiren 15.000,00.TL maktu ücreti vekâletin davalından alınarak davacıya verilmesine, Davacının yapmış olduğu ve aşağıda dökümü yazılı 1.502,40.TL yargılama giderlerinin davalından alınarak davacıya verilmesine, Davalının yapmış olduğu bir gider olmadığından bu konuda karar verilmesine yer olmadığına, Yatırılan ve kullanılmayan gider avansının, hükmün kesinleşmesi müteakip re'sen taraflara iadesine, Dair, taraf vekillerinin yüzlerine karşı, teblig tarihinden itibaren iki hafta içinde... Mahkemesine İstinaf yolu açık olmak üzere verilen karar, açıkça okunup usulen anlatıldı. 29/12/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6102 Sayılı ... Kanunu",
+            "6769 sayılı Sınai Mülkiyet Kanunu",
+            "Türk Medeni Kanunu",
+            "Türk Patent ve Marka Kurumu",
+            "Türk Patent ve Marka Kurumu'nun Koruma Markalarına İlişkin Başkanlık Makamı Olur Özeti",
+            "Hukuk Muhakemeleri Kanunu",
+            "Avukatlık Asgari Ücret Tarifesi"
+        ]
+    },
+    "summary_for_human": "Dava, İstanbul Milletvekili davalının kurumsal kimliği ile ilgili ihbarların yapıldığını ve davalının logosunun ve görselinin kaldırılması talep edildiğini iddia ediyor. Mahkeme, davalının kurumsal kimliği ile ilgili ihbarların yapıldığını ve davalının logosunun ve görselinin kaldırılması talep edildiğini kabul etti.",
+    "summary_for_model": "Dava, İstanbul Milletvekili davalının kurumsal kimliği ile ilgili ihbarların yapıldığını ve davalının logosunun ve görselinin kaldırılması talep edildiğini iddia ediyor. Mahkeme, davalının kurumsal kimliği ile ilgili ihbarların yapıldığını ve davalının logosunun ve görselinin kaldırılması talep edildiğini kabul etti. Davacı vekili tarafından dava dilekçeleri ile dava açıldı. Davacı vekili, davalının kişisel internet sitesinde ve kitapçığında kurumsal kimlik kullanıldığını, bu durumun hak ihlali oluşturduğunu iddia etti."
+}

@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2024_1318.pdf",
+        "court_name": "T.C. İSTANBUL BÖLGE ADLİYE MAHKEMESİ 13. HUKUK DAİRESİ",
+        "esas_no": "2024/1318",
+        "karar_no": "2024/1352",
+        "case_subject": "İhtiyati haciz kararına karşı istinaf başvurusu",
+        "dava_tarihi": "01/08/2024",
+        "karar_tarihi": "19/09/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "İhtiyati haciz talepleri, fatura ve ödeme konularında alacaklı ve borçlu tarafları arasında çıkan anlaşmazlıklar temelinde değerlendirilmiştir. Alacaklı, borçlunun fatura bedelini ödemediğini ve borcun tahakkuk ettiğini iddia etmiştir. Borçlu ise, fatura bedelinin çok yüksek olduğunu ve ödemenin geciktiğini savunmuştur.",
+        "reasoning_text": "İhtiyati haciz kararı, İK'nin 257. ve 258. maddeleri çerçevesinde değerlendirilmiştir. Mahkeme, alacaklı tarafından sunulan fatura ve belgelerin yetersiz olduğunu, borçlunun borcun tahakkuk ettiğini ve alacaklı tarafından hak ihlali yapıldığını tespit etmiştir. İstinaf başvurusunda, ilk derece mahkemesinin kararı usul ve yasaya uygun olmadığı için istinaf kanunu çerçevesinde başvuru yapılmıştır.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Talep eden vekilinin istinaf başvurusunun 6100 sayılı HMK'nın 353/1-b1 maddesi gereğince ESASTAN REDDİNE, 2-Harçlar Kanunu gereğince istinaf eden tarafından yatırılan istinaf kanun yoluyla başvurma harçının hazinede gelir kaydına, 3-Karar tarihi itibarıyla Harçlar Kanunu gereğince alınması gereken 427,60-TL istinaf karar harcı istinaf eden tarafından peşin olarak yatırıldığından yeniden harç alınmasına yer olmadığına, yatırılan harçın hazinede gelir kaydına, 4-İstinaf yargılama giderlerinin istinaf talep eden üzerinde bırakılmasına, 5-Artan gider avansı bulunması ve talep halinde yatıran tarafa iadesine, 6-Kararın İlk Derece Mahkemesince taraflara tebliğe gönderilmesine, Dosya üzerinde yapılan inceleme sonucunda 19/09/2024 tarihinde HMK'nın 362/1-f maddesi gereğince kesin olarak oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İK'nin 257. maddesi",
+            "İK'nin 258. maddesi",
+            "HMK'nın 355. maddesi",
+            "HMK'nın 353/1-b1 maddesi",
+            "Harçlar Kanunu",
+            "HMK'nın 362/1-f maddesi"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir alacaklı ile borçlu arasında fatura ve ödeme konularında çıkan anlaşmazlık üzerine kurulmuştur. Alacaklı, borçlunun fatura bedelini ödemediğini iddia ederken, borçlu bu ödemenin çok yüksek olduğunu savunmuştur. İlk derece mahkemesi, alacaklı tarafından sunulan belgelerin yetersiz olduğunu ve borçlunun borcun tahakkuk ettiğini tespit ederek ihtiyati haciz kararı vermiştir. Borçlu, bu karara karşı istinaf başvurusunda bulunmuştur. İstinaf mahkemesi, ilk derece mahkemesinin kararı usul ve yasaya uygun olmadığı için istinaf kanunu çerçevesinde başvurunun kabulüne karar vermiştir.",
+    "summary_for_model": "Dava, fatura ve ödeme konularında alacaklı ve borçlu arasında anlaşmazlık üzerine kurulmuştur. İlk derece mahkemesi, İK'nin 257. ve 258. maddeleri çerçevesinde ihtiyati haciz kararı vermiştir. Borçlu, bu karara karşı HMK'nın 355. maddesi çerçevesinde istinaf başvurusunda bulunmuştur. İstinaf mahkemesi, HMK'nın 353/1-b1 maddesi ve Harçlar Kanunu çerçevesinde istinaf başvurusunun reddedildiğini, HMK'nın 362/1-f maddesi çerçevesinde karar verildiğini tespit etmiştir."
+}

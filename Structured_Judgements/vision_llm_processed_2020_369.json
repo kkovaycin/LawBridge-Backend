@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2020_369.pdf",
+        "court_name": "İstanbul Anadolu 6. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2016/1148",
+        "karar_no": "2022/80",
+        "case_subject": "Tazminat (Haksız Filden Kaynaklanan)",
+        "dava_tarihi": "05/11/2019",
+        "karar_tarihi": "18/01/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının sosyal medyada firmasını karalamayı ve hak ihlalleri nedeniyle tazminat talep etmiştir. Davalı, paylaşımın kamu yararına olduğunu savunmuştur.",
+        "reasoning_text": "Mahkeme, davalının paylaşımının kamu yararına olduğunu ancak davacının hak ihlalleri nedeniyle tazminat alması gerektiğini karar vermiştir.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere; 1-İstanbul Anadolu 6. Aslıye Ticaret Mahkemesinin 05/11/2019 tarih, 2016/1148 Esas - 2019/1030 Karar sayılı kararına karşı davacı vekili tarafından yapılan istinaf başvurusunun HMK 353/1/b-1 maddesi gereğince ESASLAN REDDİNE, 2-Harçlar Kanunu uyarınca alınması gereken 80,70-TL maktu istinaf karar ve ilam harcından, peşin yatırılan 54,40-TL harcin mahsubu ile kalan 26,30-TL harcin davacından alınarak Hazineye gelir kaydına, 3-İncelemenin duruşmasız olarak yapılması nedeniyle avukatlık ücreti takdirine YER OLMADIĞINA, 4-Yasa yoluyla başvuran tarafından yapılan giderlerin üzerinde bırakılmasına, 5-HMK'nun 359. Maddesinin 4. fikrası gereği karar kesin niteliğinde olduğundan kararın taraflara tebliği işleminin ilk derece mahkemesi tarafından yapılmasına, HMK. m. 353/1/b-1 hükmü uyarınca, dosya üzerinde yapılan inceleme sonucunda ve HMK. m. 362/1-a mad., gereğince, miktar itibarıyla kesin olmak üzere oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353. maddesi",
+            "TTK m 54",
+            "2-Harçlar Kanunu",
+            "HMK 359. Maddesi",
+            "HMK. m. 362/1-a mad."
+        ]
+    },
+    "summary_for_human": "Davacı, davalının sosyal medyada firmasını karalaması nedeniyle tazminat talep etti. Mahkeme, davalının paylaşımının kamu yararına olduğunu ancak davacının hak ihlalleri nedeniyle tazminat alması gerektiğini karar verdi.",
+    "summary_for_model": "Davacı, davalının sosyal medyada firmasını karalaması ve hak ihlalleri nedeniyle tazminat talep etti. Mahkeme, davalının paylaşımının kamu yararına olduğunu ancak davacının hak ihlalleri nedeniyle tazminat alması gerektiğini karar verdi. HMK 353/1/b-1 ve diğer kanunlar çerçevesinde istinaf başvurusu reddedildi."
+}

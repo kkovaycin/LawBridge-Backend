@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_285.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 12. Hukuk Dairesi",
+        "esas_no": "2021/465",
+        "karar_no": "2022/1264",
+        "case_subject": "Haksız rekabet davası",
+        "dava_tarihi": "18/11/2021",
+        "karar_tarihi": "22/09/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilin Instagram hesabından davacı tarafından izinsiz paylaşılmış mesleki içeriklerle haksız kazanç elde edildiğini iddia etmiştir. Mahkeme, davacı vekilinin istinası nedeniyle davayı reddetmiştir.",
+        "reasoning_text": "Mahkeme, davacı vekilinin istinası nedeniyle davayı reddetmiştir. Davacı vekilinin istinası, davanın usulden reddedilmesine yol açmıştır. Davacı vekilinin istinası, davanın usulden reddedilmesine neden olmuştur.",
+        "verdict_text": "Davacı vekilinin istinası nedeniyle davayı reddetmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 56/c",
+            "TTK m.55/1-d",
+            "5846 sayılı Fikir ve Sanat Eserleri Kanunu",
+            "6100 sayılı HMK"
+        ]
+    },
+    "summary_for_human": "Davacı vekilinin istinası nedeniyle davayı reddetmiştir. Davacı vekilinin istinası, davanın usulden reddedilmesine yol açmıştır.",
+    "summary_for_model": "Davacı vekilinin istinası nedeniyle davayı reddetmiştir. Davacı vekilinin istinası, davanın usulden reddedilmesine neden olmuştur. Davacı vekilinin istinası, davanın usulden reddedilmesine yol açmıştır."
+}

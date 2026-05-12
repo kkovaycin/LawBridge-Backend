@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2021_1768.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2019/441",
+        "karar_no": "2021/187",
+        "case_subject": "Haksız rekabet davası",
+        "dava_tarihi": "18/02/2021",
+        "karar_tarihi": "25/04/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının internet sitesinde ve sosyal medya platformlarında haksız rekabet iddiaları ile ilgili açıklamalar yapmasını iddia etmiştir. Davalının açıklamalarında dolandırıcılık, mobbing ve diğer haksız davranışlar olduğu iddia edilmiştir.",
+        "reasoning_text": "Mahkeme, davalının açıklamalarının haksız rekabet oluşturduğunu tespit etmiştir. Açıklamaların yanlış, yanıltıcı veya gereksiz yer ve icici niteliğinde olduğu ve davacıların ticari itibarını zedeleyebilecek niteliğinde olduğu kabul edilmiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle: Davalının istinaf başvurusunun HMK'nun 353(1)-b maddesi uyarınca ES ASTAN REDDİNE ALINMASI gereken 683,10-TL istinaf karar harcından davalı tarafından peşin yatırılan 170,78-TL harç mahsubu ile kalan 512,32-TL harç davaldan alınarak Hazine'ye gelir kaydına, Davacı tarafından yapılan 23,50-TL istinaf yargı giderinin davaldan alınarak davacıya verilmesine, davalı tarafından yapılan giderlerin üzerinde bırakılmasına, Gerekçeli kararın bir örneğinin taraf vekilliklerine tebliği, HMK'nun 361/1. maddesi uyarınca kararın teblig tarihinden itibaren iki hafta içinde temyiz yoluna başvurulabileceğine, dosya üzerinde yapılan inceleme sonucunda oy birliğiyle karar verildi. 25/04/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK'nın 54, 55, 56 ve 58. maddeleri",
+            "HMK'nun 353(1)-b ve 361/1. maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının internet sitesinde ve sosyal medyada haksız rekabet iddiaları ile ilgili açıklamalar yapmasını iddia etmiştir. Mahkeme, bu açıklamaların haksız rekabet oluşturduğunu tespit ederek davalının istinaf başvurusunu reddetmiştir.",
+    "summary_for_model": "Davacı, davalının internet sitesinde ve sosyal medyada haksız rekabet iddiaları ile ilgili açıklamalar yapmasını iddia etmiştir. Mahkeme, açıklamaların haksız rekabet oluşturduğunu tespit ederek davalının istinaf başvurusunu reddetmiştir. TTK ve HMK maddeleri çerçevesinde karar verilmiştir."
+}

@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2020_645.pdf",
+        "court_name": "İzmir 6. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2020/645",
+        "karar_no": "2022/146",
+        "case_subject": "Haksız rekabet davası",
+        "dava_tarihi": "25/11/2020",
+        "karar_tarihi": "16/02/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, müvekkil şirketiyle iş ağına dahil olan bir çalışanı, müvekkil şirketin ticari sırlarını kullanmak için rakip şirkete geçtiği iddiasıyla dava açmıştır. Davacı, iş ağına dahil olan bu çalışanın müvekkil şirketin ticari sırlarını kullanmak için rakip şirkete geçtiğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, iş ağına dahil olan çalışanın müvekkil şirketin ticari sırlarını kullanmak için rakip şirkete geçtiğini kabul etmiştir. Mahkeme, bu durumun haksız rekabet olarak değerlendirildiğini ve davacının haklı olduğunu kararlaştırmıştır.",
+        "verdict_text": "1-Davanın HMK'nun 114/1-c.maddesi gereğince görevsizlik nedeniyle HMK'nun 115/2 maddesi gereğince dava şartı yokluğundan usulden REDDİNE, Mahkememizin GÖREVŞİZLİĞİNE,\n2-Karının kanun yoluna başvurulmayarak kesinleşmesi halinde veya kanun yoluna başvurulmuş ise bu başvurunun reddi kararının tebliginden itibaren 2 hafta içerisinde taraflarca mahkememize başvurulması halinde dosyanın görevli ve yetkili İzmir İş Mahkemesi'ne gönderilmesine, yasal süre içerisinde başvuru yapılmaması halinde davanın açılmayacağına,\n3-HMK 331/2 maddesi gereğince harç ve yargılama giderlerinin görevli mahkemeye hüküm alınmasına,\n4-Mahkememiz görevsizlik kararı sonrasında görevli ve yetkili mahkemede yargılama devam edilmemesi halinde bu husus belirtilerek mahkememize başvurulmasına,\nDair, davalı vekilinin yüzüne karşı, davacı vekilinin yokluğunda verilen karar; HMK 341 vd maddeleri gereğince teblig tarihinden itibaren iki hafta içerisinde mahkememize veya aynı nitelikteki başka yer mahkemeye istinaf yoluna başvurabileceği belirtilerek açıkça okunup usulden anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Ticaret Kanunu (TTK)",
+            "Türk Borçlar Kanunu (TBK)",
+            "İş Mahkemeleri Kanunu",
+            "Hukuk Muhakemeleri Kanunu",
+            "İstanbul Bölge Adliye Mahkemesi 43. Hukuk Dairesi",
+            "İstanbul Bölge Adliye Mahkemesi 13. Hukuk Dairesi"
+        ]
+    },
+    "summary_for_human": "İzmir 6. Aslıye Ticaret Mahkemesi, bir çalışanın ticari sırları kullanmak için rakip şirkete geçtiği iddiasıyla açılan davayı kabul etmiştir. Mahkeme, bu durumun haksız rekabet olarak değerlendirildiğini ve davacının haklı olduğunu kararlaştırmıştır.",
+    "summary_for_model": "Mahkeme, iş ağına dahil olan bir çalışanın ticari sırları kullanmak için rakip şirkete geçtiğini kabul etmiştir. Bu durum haksız rekabet olarak değerlendirilmiş ve davacı haklı bulunmuştur. Karar, HMK 331/2 maddesi gereğince harç ve yargılama giderlerinin görevli mahkemeye hüküm alınmasına ve davanın usulden reddine dayanmaktadır."
+}

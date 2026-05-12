@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2017_603.pdf",
+        "court_name": "T.C. BAKIRKÖY 1. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2017/603",
+        "karar_no": "2019/134",
+        "case_subject": "Endüstriyel Tasarım Tecavüzünün Önlenmesi, Tazminat",
+        "dava_tarihi": "07/12/2017",
+        "karar_tarihi": "11/04/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı aleyhinde açılan davada, davalı tarafından davacı tasarımının dijital platformlarda, internet sitesinde ve sosyal medya aracılığıyla yurtiçi ve yurt dışında satışı ve pazarlama yapıldığını iddia etmiştir. Davalı tarafından tasarım haklarına tecavüz edildiği ve maddi, manevi zarara uğradığı iddia edilmiştir.",
+        "reasoning_text": "Mahkeme, davacı tarafından iddia edilen tasarım tecavüzünün teyit edildiğini ve davalı tarafından davacı tasarımının izinsiz bir şekilde kullanıldığını tespit etmiştir. Davacı tarafından yapılan iddiaların haklı olduğu ve davalı tarafından davacı tasarımının kullanılmasına dair kanıtların bulunduğu tespit edilmiştir.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere ;\n1-Davacının davasının KABULÜNE, davalının davacı adına tescilli ...tescil başvuru nolu çoklu endüstriyel tasarımının 3 nolu tasarımına vakı tecavüzün tespitine, önlenmesine, her türlü üretim ve satışının engellenmesine, 7.000,00 TL maddi ve 10.000,00 TL manevi tazminatın davalıdan alınarak davacıya verilmesine,\n2-Karar tarihinde yürürlükte bulunan harçlar tarifesi gereğince hesaplanan, 1.161,27 TL ilam harçından, 187,86 TL peşin harç ve 102,46 TL tamamlama harçının mahsubu ile, 870,95 TL bakiye karar harçının davalıdan tahsili ile hazaneye irat kaydına,\n3-Karar tarihinde yürürlükte bulunan avukatlık asgari ücret tarifesi gereğince hesaplanan, 3.931,00 TL vekalet ücretinin, davacıdan alınarak davalıya verilmesine,\n4-Karar tarihinde yürürlükte bulunan avukatlık asgari ücret tarifesi gereğince manevi tazminat yönünden hesaplanan, 3.931,00 TL vekalet ücretinin, davacıdan alınarak davalıya verilmesine,\n5-Davacı tarafından yapılan 219,26 TL dava ilk masrafı, 102,46 TL tamamlama harç gideri, 221,80 TL keşif harci gideri, 251,50 TL tebligat-tezkere ve 2.850,00 TL bilirkişi ücreti olmak üzere toplam 3.645,02 TL yargılama gideninin, davalıdan alınarak davacıya verilmesine,\n6-Talep halinde kararın taraf vekillerine tebligine,\n7-Karar kesinleştiğinde kullanılmayan gider avansının ilgisine iaadesine,\nTaraf vekillerinin yüzlerine karşı verilen karar, kararın tebliginden itibaren 2 hafta süre içerisinde İstanbul Bölge Adliye Mahkemesi Hukuk Dairesi nezdiinde İstinaf kanun yolu açık olmak üzere, açıkça okunup anlatıldı.11/04/2019"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TBK 50 ve 51 maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı tarafından tasarım haklarına tecavüz edildiğini iddia etti. Mahkeme, davacı tarafından yapılan iddiaların haklı olduğunu tespit etti ve davalıya 7.000,00 TL maddi ve 10.000,00 TL manevi tazminat ödemesi kararı verdi.",
+    "summary_for_model": "Dava, tasarım haklarına tecavüz iddiası üzerine açıldı. Mahkeme, davacı tarafından yapılan iddiaların haklı olduğunu tespit etti ve davalıya maddi ve manevi tazminat ödemesi kararı verdi. Davalı tarafından yapılan tasarım satışı ve pazarlama faaliyetleri tespit edildi."
+}

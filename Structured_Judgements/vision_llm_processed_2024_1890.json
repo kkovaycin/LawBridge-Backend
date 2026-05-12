@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2024_1890.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2024/1890",
+        "karar_no": "2024/1783",
+        "case_subject": "İhtiyati haciz talebinin reddi",
+        "dava_tarihi": "18/10/2024",
+        "karar_tarihi": "05/12/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "İhtiyati haciz talep eden vekil, borçlunun İstanbul Bayrampaşa Halinde işyeri için satın aldığı kavunların Konya'dan Bayrampaşa Halindeki dükkanına nakliyesi konusunda vergiler dahil toplam 54.000-TL'ye anlaşlıklarını, aynı gün içinde Konya'da bulunan aracını kavunların bulunduğu yere gönderdiğini ve yükleme talimatı verdiğini, ardından İstanbul Meyve ve Sebze Toptancı Halı ve Ticaret Bakanlığı hal kayıt sistemine aracını bildirerek kaydını oluşturduğunu, müvekkilinin yükünü ...'inde 507 işyeri nolu dükkana teslim ettikten sonra yükün 10 gün boyunca boşaltılmadığını, aracın yüklemeden sonra makul süre olan lojistik işlerindeki 3 günlük sürede boşaltılmadığını için fazladan işsiz olarak 7 gün boyunca iş tutulamadığını, zarara uğradığını, nakliye bedelinin ödenmediğini, nakliye bedeli ve araç yatma bedeli olmak üzere toplamda 68.440-TL alacak için borçlunun taşınır ve taşınmaz malları ile üçüncü kişilerdeki hak ve alacaklarının borca yeter kadarıının teminatsız veya teminatlı olarak ihtiyaten hacize karar verilmesini talep etmiştir.",
+        "reasoning_text": "Mahkeme, borçlunun nakliye bedeli ile yükün zamanında indirilmemesi sebebiyle aracın boşta geçirdiği süreden kaynaklı olarak alacak iddiasında bulunduğunu, talebe konu alacağın dayanağı olarak dosyaya faturaların sunulduğunu, ancak faturaların tacir tarafından tek taraflı düzenlenen ve ifa safhasına ilişkin belgeler olduğu, salt fatura dışında taraflar arasında akdi ilişkinin varlığını gösteren delil bulunmadığı, öte yandan taşınan yükün kabul edildiği ve alıcısına malların teslim edildiğine dair yine dosya kapsamında herhangi bir sevk irsaliyesi, teslim - tesellüm belgesi, makbuz vs. delil bulunmadığı, sunulan yazışmaların malların teslimini tevsi edici nitelikte olmadığı, ibraz edilen faturaların karşı taraf borçlu tarafından kabul edildiğine yönelik herhangi bir kayıt, mutabakat metni vs... delil de olmadığı, şu halde taraflar arasındaki ilişkinin taşıma sözleşmesinin varlığının ve bu çerçevede nakliye bedeli ile aracın boşta geçirdiği süre sebebiyle kesilen fatura alacaklarının yargılama konusu oluşturduğu, yaklaşık ispatın sağlanmadığı gerekçesiyle ihtiyati haciz talebinin reddine karar verilmiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle: İhtiyati haciz talep eden vekilin istinaf başvurusunun HMK'nun 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE, Peşin harcin karar harcına mahsubuna başkaca harç alınmasına yer olmadığına, İhtiyati haciz talep eden tarafından yapılan giderlerin üzerinde bırakılmasına, Dosya üzerinde yapılan inceleme sonunda HMK 362(1)-f maddesi uyarınca kesin olmak üzere oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İİK'nin 257 vd maddeleri",
+            "İİK'nin 257/1. maddesi",
+            "İİK'nin 258/1. maddesinin 2. cümlesi",
+            "HMK'nun 353(1)b-1 maddesi",
+            "HMK 362(1)-f maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, borçlunun nakliye bedeli ve aracın boşta kalma süresinden kaynaklanan alacak iddiasını reddetmiştir. Talep eden vekil, borçlunun İstanbul Bayrampaşa Halindeki işyerine kavunların nakliyesi sırasında vergiler dahil toplam 54.000-TL'ye anlaşlıklarını ve aracın 10 gün boyunca boşaltılmadığını iddia etmiştir. Ancak mahkeme, faturaların tek taraflı düzenlendiğini, taraflar arasında akdi ilişkinin delilleri eksik olduğunu ve taşıma sözleşmesinin varlığına dair yeterli kanıt bulunmadığını gerekçe göstererek talebi reddetmiştir.",
+    "summary_for_model": "İhtiyati haciz talebinin reddi, borçlunun nakliye bedeli ve aracın boşta kalma süresinden kaynaklanan alacak iddiası için yetersiz delil sunulması nedeniyle verilmiştir. Faturaların tek taraflı düzenlenmesi, taraflar arasında akdi ilişkinin eksik delilleri ve taşıma sözleşmesinin varlığına dair kanıt eksikliği, talebin reddine yol açmıştır. İİK 257 ve 258 maddeleri, HMK 353(1)b-1 ve 362(1)-f maddeleri çerçevesinde karar verilmiştir."
+}

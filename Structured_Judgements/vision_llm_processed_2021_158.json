@@ -1,0 +1,21 @@
+{
+    "meta_data": {
+        "file_name": "2021_158.pdf",
+        "court_name": "T.C. ANKARA 5. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/158",
+        "karar_no": "2021/235",
+        "case_subject": "Markanın kötüye kullanımı ve hak ihlali",
+        "dava_tarihi": "16/06/2021",
+        "karar_tarihi": "16/06/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı şirketin müvekkili tarafından tescil edilmiş markayı sosyal medyada, internet sitesinde ve sosyal ağlarda izinsiz kullanıldığını iddia etmiştir. Davalı, bu markanın kötüye kullanıldığını ve hak ihlali olduğunu savunmuştur.",
+        "reasoning_text": "Mahkeme, davanın Değişik İş dosyasından yeniden Fikri ve Sınai Haklar Hukuk Mahkemeleri arasında tevziye tabi tutulmasını kararlaştırmıştır. Davanın talebi kabul edilmiş ve dava Değişik İş yerine sehven ESAS dava dosyası olarak tevzi edilmiştir.",
+        "verdict_text": "HÜKÜM: 1-Değişik İş üzerinden görülebiliecek delil tesbiti ve ihtiyati tedbir talebinin sehven esas numarası verilerek gönderilmiş olması nedeniyle, mahkememizin 2021/158 sayılı esasının bu şekilde kapatılmasına, 2-Dosyanın Değişik İş dosyası olarak yeniden Fikri ve Sınai Haklar Hukuk Mahkemeleri arasında tevziye tabi tutulması için, Ankara Hukuk Mahkemeleri Tevzi Bürosuna iaadesine, Dair , Dosya üzerinden yapılan inceleme sonucunda karar verildi.16/06/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": []
+    },
+    "summary_for_human": "Davacı, davalı şirketin markasını izinsiz kullandığını iddia etmiştir. Mahkeme, davayı Değişik İş dosyasından yeniden Fikri ve Sınai Haklar Hukuk Mahkemeleri arasında tevziye tabi tutulmasını kararlaştırmıştır.",
+    "summary_for_model": "Davacı, davalı şirketin tescil edilmiş markasını izinsiz kullandığını iddia etmiştir. Mahkeme, davayı Değişik İş dosyasından yeniden Fikri ve Sınai Haklar Hukuk Mahkemeleri arasında tevziye tabi tutulmasını kararlaştırmıştır."
+}

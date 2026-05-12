@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2020_1314.pdf",
+        "court_name": "İzmir Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2018/270 Esas",
+        "karar_no": "2019/138 Karar",
+        "case_subject": "Markaya Tecavüzün Durdurulması, Men'i, Giderilmesi",
+        "dava_tarihi": "10/12/2018",
+        "karar_tarihi": "08/06/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının markasını kullanmak için müvekkil şirketiyle anlaşarak, sosyal medya ve fiziksel mağazalarda markayı kullanmasını talep etmiştir. Davalı, bu kullanımların markaya tecavüz oluşturduğunu iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacının markasının davalının markasıyla benzerlik taşımadığını ve teknik olarak ayırt edilebildiğini tespit etmiştir. Ayrıca, davalının markasının daha eski ve daha yaygın olarak kullanıldığını ve davacının markasının yeni ve daha az bilindiğini belirtmiştir.",
+        "verdict_text": "a-Davanın kabulü ile \"...\" ibaresinin davalı tarafından fiziki ortamda tabela, kartvizit ve tanıtımlarda, internet ortamında arama sözcüğü, metatag, instagram hesap adı olarak kullanılmasının markaya tecavüz oluşturduğunun tespitine, önlenmesine, tecavüzlü kullanımların ortadan kaldırılmasına, fiziken toplanıp ortadan kaldırılmasına, 13/12/2018 tarihli bilirkişi raporunun bu kararı iki sayılmasına ve bu bilirkişi raporunda belirtilen sosyal medya hesaplarının kapatılmasına, erişimlerinin önlenmesine, davalı tarafından iptal ve kapatmanın yerine getirilmesine, aksi halde Erişim Sağlayıcılar Birliği tarafından icrasına, tecavüz oluşturan fiziki tanıtım gereçleri, sarf malzemeleri vb.'nin toplanmasına, imhasına..."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK) 353. ve 356. maddeleri",
+            "Hukuk Muhakemeleri Kanunu (HMK) 355. madde",
+            "Hukuk Muhakemeleri Kanunu (HMK) 361. madde",
+            "Yargıtay 11. Hukuk Dairesi E. 2017/817 K. 2018/6626",
+            "Yargıtay 11. Hukuk Dairesi E. 2017/1248 K. 2018/6756"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markasını kullanmak için müvekkil şirketiyle anlaşarak, sosyal medya ve fiziksel mağazalarda markayı kullanmasını talep etmiştir. Davalı, bu kullanımların markaya tecavüz oluşturduğunu iddia etmiştir. Mahkeme, davacının markasının davalının markasıyla benzerlik taşımadığını ve teknik olarak ayırt edilebildiğini tespit etmiştir.",
+    "summary_for_model": "Davacı, davalının markasını kullanmak için müvekkil şirketiyle anlaşarak, sosyal medya ve fiziksel mağazalarda markayı kullanmasını talep etmiştir. Davalı, bu kullanımların markaya tecavüz oluşturduğunu iddia etmiştir. Mahkeme, davacının markasının davalının markasıyla benzerlik taşımadığını ve teknik olarak ayırt edilebildiğini tespit etmiştir. Davacı, davalının markasını kullanmak için müvekkil şirketiyle anlaşarak, sosyal medya ve fiziksel mağazalarda markayı kullanmasını talep etmiştir."
+}

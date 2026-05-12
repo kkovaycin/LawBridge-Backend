@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2024_737.pdf",
+        "court_name": "T.C. İSTANBUL BÖLGE ADLİYE MAHKEMESİ 16. HUKUK DAİRESİ",
+        "esas_no": "2021/1053",
+        "karar_no": "2021/1580",
+        "case_subject": "Marka (Tecavüzün Teşbiti İstemli)",
+        "dava_tarihi": "23/09/2021",
+        "karar_tarihi": "23/09/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili tedbir taleplerinde davalının müvekkiline ait markaları izinsiz kullandığını, fotoğraf ve internet sitelerinde hak ihlali yaptığını iddia etmiştir. Mahkeme, davalının müvekkiline ait markaların izinsiz kullanıldığını ve internet sitelerinin engellenmesini talep etmiştir.",
+        "reasoning_text": "Mahkeme, HMK 353 ve 356 maddeleri uyarınca davayı durdurma kararı verdi. Davacı vekili tedbir taleplerini reddetmiştir. İstinaf başvurusu reddedilmiş ve davaya devam edilmiştir.",
+        "verdict_text": "Dava üzerinde duruşma yapılmasına karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 356",
+            "SMK 159",
+            "HMK 389",
+            "SMK 7/5-c",
+            "HMK 345",
+            "HMK 352/1-c",
+            "HMK 346"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının müvekkiline ait markaları izinsiz kullandığını iddia etmiştir. Mahkeme, davayı durdurma kararı verdi ve davaya devam edilmiştir.",
+    "summary_for_model": "Dava, markaların izinsiz kullanılması ve internet sitelerinin engellenmesi talebiyle ilgili. Mahkeme, duruşma yapılmasına karar verdi. İstinaf başvurusu reddedildi."
+}

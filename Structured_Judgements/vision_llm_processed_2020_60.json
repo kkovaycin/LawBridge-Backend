@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2020_60.pdf",
+        "court_name": "T.C. İSTANBUL 1. AŞLİYE TİCARET MAHKEMESİ",
+        "esas_no": "2020/60",
+        "karar_no": "2022/441",
+        "case_subject": "Borçun haciz baskısı altındaki ödeme talepleri",
+        "dava_tarihi": "24/01/2020",
+        "karar_tarihi": "29/04/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, davalı şirketin 01.11.2019 tarihinde mürekkili şirkete ait fatura dayalı olarak içra takibi başlatığını, takibin giyabında kesilmesini, borçlu olmayan fatura için içra dosyasına ödeme zorunluğunu, ve vekalet ücretinin davalı tarafa tahmil edilmesini talep etmiştir. Davalı vekili ise, hizmet bedelinin ödenmediği, fatura için itiraz sürelerinin dolmadığını, ve vekalet ücretinin davacı tarafa yüklenmesini savunmuştur.",
+        "reasoning_text": "Mahkeme, fatura için itiraz sürelerinin dolmadığını, vekalet ücretinin davalı tarafa yüklenmesini, ve dava giderlerinin davacı tarafa birakılmasını kararlaştırıp, davacıya karşı vekalet ücretinin tahsil edilmesini ve dava giderlerinin davacı tarafa birakılmasını kararlaştırımıştır.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzerine;\n1-Davacının davasının REDDİNE,\n2-Karar tarihinde yürürlükte bulunan Harçlar Tarifezi gereğine alınması gereken 80,70 TL karar harcının peşin yatırılan 54,40 TL harçtan mahsubu ile noksan kalan 26,30 TL harcın davacıdan alınarak hazinede gelir kaydına,\n3-Davalı lehine karar tarihinde yürürlükte bulunan Avukatlık Asgarı Üccret Tarifezi gereğine reddedilen miktar üzerinden hesaplanan 2.271,17 TL vekalet ücretinin davacıdan tahsili ile davalıya verilmesine,\n4-Davacı tarafından yapılan yargılama giderlerinin davacı üzerinde birakılmasına,\n5-Taraflarca yatırılan bakiye gider avansının kararın kesinleştiği halinde yatırana iadesine, dair taraf vekillerinin yüzüne karşı verilen miktar itibarıyla KESİN niteliğteki karar açıkça okunup anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK m.1530/7",
+            "TTK Madde 21(2)",
+            "TTK Madde 21(3)",
+            "TCMB 01.01.2019-01.01.2020 dönemi içerisinde geç ödemelerde uygulanacak temerrüt faizi oranı %21,25 olarak belirlenmiştir."
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı şirketin davalı şirkete ait bir fatura için içra takibi başlatıp, takibin giyabında kesilmesini ve vekalet ücretinin davalı tarafa yüklenmesini talep ettiğinde haklı bulmuştur. Mahkeme, fatura için itiraz sürelerinin dolmadığını, vekalet ücretinin davalı tarafa yüklenmesini ve dava giderlerinin davacı tarafa birakılmasını kararlaştırıp, davacıya karşı vekalet ücretinin tahsil edilmesini ve dava giderlerinin davacı tarafa birakılmasını kararlaştırımıştır.",
+    "summary_for_model": "Dava, borçun haciz baskısı altındaki ödeme taleplerine ilişkin olarak içra takibi başlatılmıştır. Mahkeme, fatura için itiraz sürelerinin dolmadığını, vekalet ücretinin davalı tarafa yüklenmesini ve dava giderlerinin davacı tarafa birakılmasını kararlaştırıp, davacıya karşı vekalet ücretinin tahsil edilmesini ve dava giderlerinin davacı tarafa birakılmasını kararlaştırımıştır. TTK m.1530/7, TTK Madde 21(2) ve 21(3), TCMB 01.01.2019-01.01.2020 dönemi içerisinde geç ödemelerde uygulanacak temerrüt faizi oranı %21,25 olarak belirlenmiştir."
+}

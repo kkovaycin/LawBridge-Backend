@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2022_213.pdf",
+        "court_name": "T.C. İSTANBUL 4.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2022/213 Esas",
+        "karar_no": "2023/23",
+        "case_subject": "Marka hakkına tecavüzden kaynaklanan dava",
+        "dava_tarihi": "05/12/2022",
+        "karar_tarihi": "24/01/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, dava neticesinde verilecek kararın etkinliğini sağlamak için 6769 Sayılı SMK'nin 149, 159. maddeleri, TTK'nın 61 ve HMK'nun 389 vd. maddeleri uyarınca, karşı yan tarafından satısa sunulan ve talep eden şirkete ait unsurlu markaların ayırt edilemeyecek derecede benzerini taşıyan ürünlerin, ürün ambalajlarının ve sair tanıtım malzemelerinin üretiminin ve satışının durdurulmasını, mevcut durumda var olan ürünlerin karşı yan uhdesinde olmak kaydıyla toplatılmasını, karşı yana ait yer alan kullanıcı adı instagram hesabına erişimin engellenmesini, ihtiyati tedbir kararının 6100 sayılı HMK'nin 397. maddesi uyarınca devamını, davanın eylemler neticesinde oluşan müvekkil şirketin marka hakkına tecavüzün ve haksız rekabetin varlığının tespiti, önlenip yasaklanmasını, haksız rekabetin neticesi olan maddi durumun ortadan kaldırılmasını talep etmiştir.",
+        "reasoning_text": "Davacı vekili dava dilekçesinde, dava neticesinde verilecek kararın etkinliğini sağlamak için 6769 Sayılı SMK'nin 149, 159. maddeleri, TTK'nın 61 ve HMK'nun 389 vd. maddeleri uyarınca, davanın vakı feragat nedeniyle reddine karar verilmiştir. Feragat beyani dilekçe ile veya yargılama sırasında sözlü olarak yapılır, hükmü ifade etmesi için karşı tarafın veya mahkemenin muvafakatine bağlı değildir. Feragat hükmü kesinleşinceye kadar her zaman yapılabilir.",
+        "verdict_text": "HÜKÜM: Yukarıda gerekçesi açıklanmış olduğu üzere, 1-Davanın vakı feragat nedeniyle REDDİNE, 2-Karar tarihinde yürürlükte bulunan Harçlar Tarifeşi uyarınca 80,70 TL karar harcı peşin olarak yatırıldığından yeniden harç alınmasına yer olmadığına, 3-Davacı tarafından yapılan yargılama giderlerinin üzerinde bırakılmasına, 4-Yatırılan gider avanslarından kullanılmayan kısmının karar kesinleştiğinde yatıran tarafa iadesine, Daire, tarafların yokluğunda (HMK 345/1 md. gereğince) gerekçeli kararın tebliğinden itibaren 2 hafta içerisinde Mahkememize veya başka bir yer mahkemesine dilekçe ile başvurmak ve istinaf harcı ile gerekli giderlerin tamamı ödenmek suretiyle, İstanbul Bölge Adliye Mahkemesine istinaf yolu açık olmak üzere verilen karar, açıkça okunup usulen anlatıldı. 24/01/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 Sayılı SMK",
+            "TTK",
+            "HMK",
+            "HMK 345/1 md.",
+            "HMK 309. madde",
+            "HMK 310. Madde",
+            "HMK 307",
+            "HMK 397. madde"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, marka hakkına tecavüz ve haksız rekabet iddiasıyla dava açtı. Ancak dava, davacı vekilinin feragat dilekçesiyle reddedildi. Karar, feragatın hükmü kesinleşene kadar her zaman yapılabilmesi ve hükmün karşı tarafa bildirilmesinden itibaren 2 hafta içinde istinaf başvurusu yapılabileceğini belirtiyor.",
+    "summary_for_model": "Dava, marka hakkına tecavüz ve haksız rekabet iddiasıyla açıldı. Davacı vekili feragat dilekçesiyle dava reddedildi. Feragat hükmü kesinleşene kadar her zaman yapılabilir ve hükmün bildirilmesinden itibaren 2 hafta içinde istinaf başvurusu yapılabilir. Karar, HMK 345/1 md. uyarınca tarafların yokluğunda verildi."
+}

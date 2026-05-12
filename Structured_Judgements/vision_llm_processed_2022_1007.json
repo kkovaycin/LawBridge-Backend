@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2022_1007.pdf",
+        "court_name": "İzmir Bölge Adliye Mahkemesi",
+        "esas_no": "2022/35 D.İs Esas",
+        "karar_no": "2022/35 D.İs Karar",
+        "case_subject": "Marka hakkına tecavüz iddiası",
+        "dava_tarihi": "06/04/2022",
+        "karar_tarihi": "16/06/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekilinin 2019'da tescil ettirdiği markanın 43. sınıfta kullanıldığını iddia ediyor. Karşı taraf, bu markayı aynı sektörde kullanıyor ve vekilinin izni olmadan kullanıyor. Davacı, vekilinin markasını kullanmanın markaya tecavüz oluşturduğunu iddia ediyor.",
+        "reasoning_text": "Mahkeme, vekilinin markasını kullanmanın markaya tecavüz oluşturduğunu tespit etti. Ancak, vekilinin markasını kullanmanın markaya tecavüz oluşturmadığına dair kanıtlar bulunduğundan, istinaf itirazı reddedildi.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-İhtiyati tedbir talep eden vekilin İzmir Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 2022/35 D.İs Esas - 2022/35 D.İs Karar sayılı 06.04.2022 tarihli ek kararına yönelik istinaf itirazlarının HMK'nın 353/1-b.1. maddesi gereğince ESASLAN REDDİNE, 2-İSTİNAF AŞAMASINDA; alınması gereken 80,70-TL istinaf karar harci peşin alındığından yeniden harç alınmasına yer olmadığına, 3-İhtiyati tedbir talep eden tarafından yapılan yargılama giderlerinin kendisi üzerinde bırakılmasına, 4-HMK 333.maddesi uyarınca karar kesinleştiğinde varsa taraflarca yatırılan gider avansından kalan bakiyenin yerel mahkemeye hesaplanarak ilgili olduğu tarafa iadesine, 5-İstinaf incelemesi durusmasız yapıldığından vekalet ücretine hükmedilmesine yer olmadığına, 6-Kararın taraflara tebliği, kesinleştirme, harç ve gider avans iadesi işlemlerinin ilk derece mahkemesince yerine getirilmesine, Dair; dosya üzerinde yapılan inceleme sonunda HMK'nun 362/1-f maddesi gereğince kesin olmak üzere oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 356",
+            "HMK 403",
+            "SMK m.159",
+            "HMK 389/1",
+            "HMK 390/3",
+            "HMK 357",
+            "HMK 355",
+            "HMK 362/1-f"
+        ]
+    },
+    "summary_for_human": "Davacı, vekilinin markasını kullanmanın markaya tecavüz olduğunu iddia ediyor. Mahkeme, bu iddianın doğru olmadığını tespit etti ve istinaf itirazı reddedildi.",
+    "summary_for_model": "Davacı, vekilinin markasını kullanmanın markaya tecavüz olduğunu iddia ediyor. Mahkeme, bu iddianın doğru olmadığını tespit etti ve istinaf itirazı reddedildi. HMK 353/1-b.1. maddesi uyarınca esastan reddedildi."
+}

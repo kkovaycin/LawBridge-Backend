@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2019_49.pdf",
+        "court_name": "İstanbul 2. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2019/49",
+        "karar_no": "2020/311",
+        "case_subject": "Marka haklarına tecavüz ve haklı reket iddiaları",
+        "dava_tarihi": "21/02/2019",
+        "karar_tarihi": "13/10/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekili aracılığıyla davayı açtı. Davalılar, Facebook ve Twitter hesapları üzerinden vekilinin markasını kullanarak haklı reket ve markaya tecavüz iddiaları ile suçlandı. Davalılar, vekilinin markayı kullanmasının, haklı reket ve markaya tecavüz oluşturduğunu iddia etti.",
+        "reasoning_text": "Mahkeme, davacı tarafından yapılan iddiaların haklı reket ve markaya tecavüz iddiaları olarak değerlendirildiğini belirledi. Davalının sosyal medya hesaplarında davacı markasını kullanması, haklı reket ve markaya tecavüz olarak kabul edildi.",
+        "verdict_text": "1-Davanın KİSMEN KABULÜ İLE, davalıların davacı adına tescilli \"...\" ibaresini içeren kullanımlarının haklı reket teşkil ettiğinin tesbitine, önlenmesine, durdurulmasına, sonuçlarının ortadan kaldırılmasına, 2-Davacıın markaya tecavüz dayalı taleplerinin reddine, 3-Hüküm özetinin karar kesinleştiğinde masrafı davalılara ait olmak üzere tiraji en yüksek üç gazeteden birinde ilana, Fazlaya ilişkin talebin reddine, 4-Karar tarihinde yürürlükte bulunan Harçlar Tarifeşi uyarınca alınması gereken 54,40 TL karar harcından peşin alınan 44,40 TL'nin mahsubu ile kalan 10,00 TL bakiye karar harcının davalılardan tahsili ile Hazine'ye iade kaydına, 5-Davacı tarafından yapılan: 3.250,00 TL bilirkişi ücreti, 458,00TL posta gideri olmak üzere toplam 3.708,00 TL yargılama giderinden kabul ve red oranına göre hesaplanan 1.854,00 TL ile 88,80 TL. harç (peşin+başvuru) olmak üzere toplam 1.942,80 TL yargılama giderinin davalılardan alınarak davacıya verilmesine, kalan kısmın davacı üzerinde bırakılmasına, 6-Davacı yargılamada kendisi vekil ile temsil ettiğinden kabul edilen talepler yönünden AAÜT'sine göre tespit olan 4.910,00 TL'nin davalılardan alınarak davacıya ödenmesine, 7-Bir kısım davalılar yargılamada kendilerine vekil ile temsil ettiğinden kabul edilen talepler yönünden AAÜT'sine göre tespit olan 4.910,00 TL'nin davacıdan alınarak davalılara ödenmesine, 8-Yatırılan gider avanslarından kullanılmayan kısmının talep halinde ve karar kesinleştiğinde yatıran tarafa iadesine, Dair hazırda bulunanların yüzüne karşı, (HMK 345/1 md. gereğince) gerekli kararın tebliğinden itibaren 2 hafta içerisinde Mahkememize veya başka bir yer mahkemesine dilekçe ile başvurmak ve istinaf harci ile gerekli giderlerin tamamı ödenmek suretiyle, İstanbul Bölge Adliye Mahkemesine istinaf yolu açık olmak üzere verilen karar, açıkça okunup usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı Sınai Mülkiyet Kanunu",
+            "6102 sayılı Ticaret Kanunu",
+            "5070 sayılı Elektronik İmza Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının Facebook ve Twitter hesaplarında markasını kullanmasının haklı reket ve markaya tecavüz olarak değerlendirdi. Mahkeme, davalının davacı markasını kullanmasının haklı reket ve markaya tecavüz olarak kabul etti ve davacıya haklı reket ve markaya tecavüz iddiaları için taleplerini reddetti.",
+    "summary_for_model": "Davacı, davalının sosyal medya hesaplarında markasını kullanmasının haklı reket ve markaya tecavüz olarak değerlendirdi. Mahkeme, davalının davacı markasını kullanmasının haklı reket ve markaya tecavüz olarak kabul etti ve davacıya haklı reket ve markaya tecavüz iddiaları için taleplerini reddetti."
+}

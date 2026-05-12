@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2025_589.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2025/589",
+        "karar_no": "2025/788",
+        "case_subject": "İnternet İçerığinin Yayınından Çıkarılması/Engellenmesi",
+        "dava_tarihi": "13/03/2025",
+        "karar_tarihi": "15/05/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkili şirketin internet sitelerinde dolandırıcılık, izinsiz ünvan, logo, marka ve kişisel verilerin hukuka aykırı şekilde toplanması iddialarını ileri sürmüştür. İlgili sitelerin müvekkili şirketin bünyesinde olduğu iddia edilmiş ve sitelerin engellenmesi talep edilmiştir.",
+        "reasoning_text": "Mahkeme, 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 355. maddesi ve 2-492 Sayılı Harçlar Kanunu'nun 159. maddesi çerçevesinde istinaf talebini reddetmiştir. İhtiyati tedbir talebinin reddedilmesinin gerekçesi olarak, talep edilen vekilin istinaf dilekçesinin usul ve yasaya uygun olmadığı ve talep edilen tedbirin gerekliliğinin kanıtlanmadığı belirtilmiştir.",
+        "verdict_text": "İstanbul 3. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 13/03/2025 tarih ve 2025/43 D.İş, 2025/46 K. sayılı kararına karşı istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESAS TAN REDDİNE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gereken 615,40 TL istinaf karar harcı talep eden tarafından peşin yatırıldığından yeniden harç alınmasına yer olmadığına, taleplerin reddedilmesine, vekalet ücretinin ödenmemesine ve kararın kesinleşmesine karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Medeni Kanunu (TMK)",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "2-492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, müvekkili şirketin internet sitelerinde dolandırıcılık ve kişisel verilerin hukuka aykırı şekilde toplanması iddialarını ileri sürmüştür. Mahkeme, bu iddiaların kanıtlanmadığını ve istinaf talebinin usul ve yasaya uygun olmadığını belirleyerek talebi reddetmiştir. Sonuç olarak, istinaf talebinin reddedilmesi ve kararın kesinleşmesi kararı verilmiştir.",
+    "summary_for_model": "Davacı vekili, müvekkili şirketin internet sitelerinde dolandırıcılık, izinsiz ünvan, logo, marka ve kişisel verilerin hukuka aykırı şekilde toplanması iddialarını ileri sürmüştür. Mahkeme, 6100 Sayılı HMK'nın 355. maddesi ve 2-492 Sayılı Harçlar Kanunu'nun 159. maddesi çerçevesinde istinaf talebini reddetmiştir. İstinaf talebinin reddedilmesinin gerekçesi olarak, talep edilen vekilin istinaf dilekçesinin usul ve yasaya uygun olmadığı ve talep edilen tedbirin gerekliliğinin kanıtlanmadığı belirtilmiştir. Karar, ESAS TAN REDDİNE ve 615,40 TL istinaf karar harcı talebini reddetmiştir."
+}

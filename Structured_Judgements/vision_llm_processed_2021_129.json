@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_129.pdf",
+        "court_name": "Ankara 2.Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/129",
+        "karar_no": "2022/10",
+        "case_subject": "Marka İptali ve Marka Hükmüsüzlüğü",
+        "dava_tarihi": "30/04/2021",
+        "karar_tarihi": "13/01/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili tarafından dava açıldı. Davacı, YİDK kararının iptali ve marka hükmüsüzlüğü talep etti. Davacı, davalının markaları için itirazların reddedildiğini, ancak YİDK kararının kaldırılabileceğini iddia etti. Davalı vekili, davanın haklı olduğunu savundu.",
+        "reasoning_text": "Mahkeme, dava konusu markaların benzerlik ve itibar kayıpları nedeniyle hükmüsüz olduğunu tespit etti. Davacı markalarının daha önceki tarihli markalarla benzerlik nedeniyle tescil edilemeyeceği ve davalının kötü niyetle hareket ettiği kararı verildi.",
+        "verdict_text": "Davanın kısmen kabulüne, 1-TÜRKPATENT YİDK'nın ... sayılı kararının 9. Sınıf \"ana fonksiyonu uyarı ve alarm olan cihazlar (taşıt alarmı hariç)\"malları bakımından iptaline, 2-Davaya konu markanın 9. Sınıf \"ana fonksiyonu uyarı ve alarm olan cihazlar (taşıt alarmı hariç), manyetik optik kayıt taşıyıcılar ve bunlara kayıt edilmiş bilgisayar programları ve yazılımları ve 35. Sınıf müşterilerin malları elverişli bir şekilde görmesi ve satın alması için manyetik optik kayıt taşıyıcılar ve bunlara kayıt edilmiş bilgisayar programları ve yazılımları mallarının bir araya getirilmesi hizmetleri, belirtilen hizmetler parekende toptan satış mağazaları, elektronik ortamlar, katalog ve diğer benzeri yöntemler ile sağlanabilir\"mal ve hizmetleri bakımından hükmüsüzlüğüne, 3-6769 sayılı Sınai Mülkiyet Kanunu'nun 51/4.maddesi uyarınca kararın kesinleşmesine, 4-Alınması gereken 80,70-TL harçtan peşin alınan 59,30-TL harçın mahsubu ile eksik kalan 21,40-TL harçın davallardan alınarak davacıya verilmesine, 5-Davacının kendisini vekil ile temsil ettirmesi sebebiyle Avukatlık Asgari Ücret Tarifesine göre hesap olan takdiren 7.375,00-TL maktu ücreti vekâletin davallardan alınarak davacıya verilmesine, 6-Davanın kısmen reddolunması, davalı kurum ve davalı şirket kendilerini vekil ile temsil ettirmesi sebebiyle Avukatlık Asgari Ücret Tarifesi gereğince hesap olan takdiren 7.375,00-TL ücreti vekâletin davacıdan alınarak davallara verilmesine, 7-Davanın kabul red oranının takdiren %50 olarak belirlenmesine, 8-Harçın davanın yalnızca kabul edilen kesimi üzerinden alınması sebebi ile davacının peşin yatırdığı 59,30-TL ilâm harcının tamamının davallardan alınarak davacıya verilmesine, 9-Davacının bunun dışında yapmış olduğu aşağıda dökümü yazılı 2.500,96-TL yargılama giderinin %50'sinin davallardan alınarak davacıya verilmesine, 10-Daval şirketin yapmış olduğu gider ve istinaf masraflarından ibaret 255,70.TL yargılama giderlerinin %50'sinin davacıdan alınarak davalı şirkete verilmesine, 11-Davanın kurum yapımı olduğu için bu konuda karar verilmesine yer olmadığına, 12-Yatırılan ve kullanılmayan gider avansının, hükmün kesinleşmesi müteakip re'sen yatıran tarafa iadesine (HMK m.333) karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Sınai Mülkiyet Kanunu",
+            "Avukatlık Asgari Ücret Tarifesi",
+            "Hukuk Muhakemeleri Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, YİDK kararının iptali ve marka hükmüsüzlüğü talep etti. Mahkeme, dava konusu markaların daha önceki tarihli markalarla benzerlik nedeniyle hükmüsüz olduğunu tespit etti. Davacı markalarının kötü niyetle kullanıldığı kararı verildi.",
+    "summary_for_model": "Davacı, YİDK kararının iptali ve marka hükmüsüzlüğü talep etti. Mahkeme, dava konusu markaların daha önceki tarihli markalarla benzerlik nedeniyle hükmüsüz olduğunu tespit etti. Davacı markalarının kötü niyetle kullanıldığı kararı verildi. Davanın kısmen kabulüne karar verildi."
+}

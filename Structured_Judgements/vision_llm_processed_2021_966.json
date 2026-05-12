@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2021_966.pdf",
+        "court_name": "T.C. İSTANBUL BÖLGE ADLİYE MAHKEMESİ",
+        "esas_no": "2017/631",
+        "karar_no": "2024/166",
+        "case_subject": "Menfi Tespit",
+        "dava_tarihi": "19/10/2020",
+        "karar_tarihi": "07/02/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının muhtelif tarihlerde EFT ve alacaklı olduğu ... ve ... nolu çekleri vermek suretiyle kendisine borç verildiği iddiasına dayanarak başlatılan İstanbul ... İcra Müdürlüğü'nün ... Esas sayılı dosyasından kaynaklı borçlu olmadığının tesbiti ve kötü niyet tazminatına hükmedilmesi talep ve dava etmiştir. Davalı, davacı ile bir süre arkadaşlık ettiklerini, davacının güzellik merkezi açmak için borç istediğini, bunun üzerine aracını satarak aracın bedeli karşılığı ... isimli şahisthan aldığı çekleri davacıya gönderdiğini, borç ilişkisine yönelik mesaj kayıtlarının bulunduğunu beyan ederek; davanın reddini talep etmiştir.",
+        "reasoning_text": "İlk derece mahkemesince, davanın menfi tespit istemi yönünden ispat külfeti kendisinde olan davalının iddiasını ispat edemediği, davacının davalına borçlu olmadığı ve tazminat şartları oluşmadığı gerekçesiyle; \"Davanın KABULÜ ile, İstanbul ... İcra Müdürlüğü'nün ... Esas sayılı takip dosyasından davacının davalına borçlu olmadığının tesbitine, -Davacının kötü niyet tazminatı talebinin reddine\" karar verilmiştir. Davalı istinaf dilekçesinde özetle; borça dayanak çeklerin tanık huzurunda davacıya gönderildiği ancak mahkemenin tanık ve mesaj kayıtları yönünden deliller incelenmeksizin hatalı karar verdiği beyanla; ilk derece mahkeme kararının ortadan kaldırılmasına, davanın reddine karar verilmesini talep etmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere ;1.Davalının istinaf başvurusunun KABULÜNE, HMK m. 353/1-a-6 uyarınca İSTANBUL 14. ASLİYE TİCARET MAHKEMESİ'NİN 19/10/2020 tarihli ve 2017/631 Esas 2020/614 Karar sayılı kararının KALDIRILMASINA,2.Yukarıda belirtilen kapsamda deliller toplanarak esas yönünden yargılama yapılması hususunda dosyanın kararı veren İSTANBUL 14. ASLİYE TİCARET MAHKEMESİ'NE gönderilmesine 3.Harçlar yasası uyarınca yatırılan 709,75-TL harcin talep halinde ilk derece mahkemesince davalına iadesine,4.İstinaf incelemesinin duruşmasız olarak yapılması nedeniyle AAÜT 2/2 hükmü uyarınca ücreti vekalet taktirine yer olmadığına, 5.Dosyanın ilk derece mahkemesine iadesine, Dair, dosya üzerinde yapılan inceleme sonunda,07/02/2024 tarihinde, oy birliğiyle ve kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İİK 72",
+            "HMK 353-1-a-6",
+            "Harçlar Yasası",
+            "AAÜT 2/2"
+        ]
+    },
+    "summary_for_human": "Bu davada, davacı borçluluğunu iddia ediyor ve borçtan kurtulmak için menfi tespit talep ediyor. İlk mahkeme, davalının iddiasını ispat edemediği için davayı kabul etmedi. Davalı ise, ilk mahkemenin kararının hatalı olduğunu iddia ediyor ve davanın reddedilmesini talep ediyor. Üst mahkeme, ilk mahkemenin kararını kaldırdı ve davayı yeniden incelemeye gönderdi. Üst mahkeme ayrıca, ilk mahkemenin davayı duruşmasız incelediği için bu işlemin hatalı olduğunu belirledi.",
+    "summary_for_model": "Dava, borçluluğun menfi tesbiti ve kötü niyet tazminatı talebi üzerine kurulmuştur. İlk derece mahkemesi, davalının iddiasını ispat edemediği için davayı kabul etmiştir. Davalı, ilk mahkemenin kararının hatalı olduğunu iddia ederek istinaf başvurusu yapmıştır. Üst mahkeme, ilk mahkemenin kararını kaldırmış ve davayı yeniden incelemeye göndermiştir. Üst mahkeme ayrıca, ilk mahkemenin davayı duruşmasız incelediği için bu işlemin hatalı olduğunu belirtmiştir. İstinaf talebinin kabulüne HMK 353-1-a-6 maddesi, dosyanın ilk derece mahkemesine iadesine AAÜT 2/2 hükmü ve Harçlar Yasası uyarınca harç talebi yer almaktadır."
+}

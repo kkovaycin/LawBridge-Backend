@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2024_131.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ BAM 25. HUKUK DAİRESİ",
+        "esas_no": "2024/131",
+        "karar_no": "2024/83",
+        "case_subject": "İhtiyati tedbir talebinin reddi ve istinaf",
+        "dava_tarihi": "28/11/2023",
+        "karar_tarihi": "15/01/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, dava dilekçesinde, davacı kuruluşun kişilik haklarına saldıran bir haberin yayınlandığını ve bu içeriğin durdurulmasını talep etmiştir. İddia, haberin müvekkilli kuruluşun itibar ve saygınlığına saldırdığını ve kamuoyunun yanlıtıldığını iddia etmektedir.",
+        "reasoning_text": "Mahkeme, davacı vekili tarafından yapılan istinaf talebini reddetmiştir. Temel gerekçeler arasında, davacı vekili tarafından verilen istinaf dilekçesinin eksiklikleri, ihityati tedbir taleplerinin mevcut olmayışı ve dava sonuçlandığında ihityati tedbirin gereksizliği yer alır. Ayrıca, davacı vekili tarafından yapılan taleplerin Sulh Ceza Hakimliği tarafından yetkili olmadığı ve dava şartı ihlali nedeniyle kabul edilemez olduğu belirtilmiştir.",
+        "verdict_text": "GEREKÇELİ KARARIN YAZILDIĞI TARİH : 15/01/2024\n\nHÜKÜM: Gerekçesi yukarıda açıklandığı üzere;\n1) Davacı tarafın istinaf başvurusunun duruşma yapılmadan KABÜLÜ ile, Ankara 6. Asliye Ticaret Mahkemesi'nin 28/11/2023 gün ve 2023/581 Esas sayılı ara kararının KALDIRILMASI NA,\n2) HMK'nun 353.maddesinin 1.fikrası (b) bendinin 2.maddesi uyarınca düzelterek yeniden esas hakkında karar verilmesi gerektiği anlaşılmakla;\n3) İhtiyati tedbir talebinin içeriği yönünden görevli mahkeme Sulh Ceza Hakimliği olduğundan İhtiyati tedbir talebinin görev nedeniyle REDDİNE,\n4) 492 sayılı Harçlar Kanunu'na ekli (1) sayılı tarife gereğince; davacı tarafça istinaf kanun yolu başvurusu sırasında peşin yatırılan 269,85TL istinaf karar harcinin talep halinde iadesine,\n5) Temyizi kabul olmayan bu kararın, Hukuk Muhakemeleri Kanunu'nun 359/3.maddesi gereğince; ilk derece mahkemesi tarafından tebliğe çıkarılmasına,\nDair, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 362. maddesi gereğince; geçici hukuki korumalar hakkında verilen kararlar hakkında temyiz yoluna başvurulamayacağından, anılan Kanun hükmü gereği kesin olmak üzere dosya üzerinde yapılan inceleme sonucunda 15/01/2023 tarihinde oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hukuk Muhakemeleri Kanunu",
+            "5651 Sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun",
+            "Hukuk Muhakemeleri Kanunu'nun 389. maddesi",
+            "Hukuk Muhakemeleri Kanunu'nun 390. maddesi",
+            "Hukuk Muhakemeleri Kanunu'nun 353. maddesi",
+            "Hukuk Muhakemeleri Kanunu'nun 359. maddesi",
+            "Hukuk Muhakemeleri Kanunu'nun 362. maddesi",
+            "492 sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekili tarafından yapılan istinaf talebini reddetmiştir. Temel gerekçeler arasında, davacı vekili tarafından verilen istinaf dilekçesinin eksiklikleri, ihityati tedbir taleplerinin mevcut olmayışı ve dava sonuçlandığında ihityati tedbirin gereksizliği yer alır. Ayrıca, davacı vekili tarafından yapılan taleplerin Sulh Ceza Hakimliği tarafından yetkili olmadığı ve dava şartı ihlali nedeniyle kabul edilemez olduğu belirtilmiştir.",
+    "summary_for_model": "Mahkeme, davacı vekili tarafından yapılan istinaf talebini reddetmiştir. Temel gerekçeler arasında, davacı vekili tarafından verilen istinaf dilekçesinin eksiklikleri, ihityati tedbir taleplerinin mevcut olmayışı ve dava sonuçlandığında ihityati tedbirin gereksizliği yer alır. Ayrıca, davacı vekili tarafından yapılan taleplerin Sulh Ceza Hakimliği tarafından yetkili olmadığı ve dava şartı ihlali nedeniyle kabul edilemez olduğu belirtilmiştir. Karar, Hukuk Muhakemeleri Kanunu'nun 353, 359 ve 362. maddeleri ve 492 sayılı Harçlar Kanunu'na dayanarak verilmiştir."
+}

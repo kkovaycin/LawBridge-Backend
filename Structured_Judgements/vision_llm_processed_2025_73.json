@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2025_73.pdf",
+        "court_name": "İstanbul 1. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2025/73",
+        "karar_no": "2025/455",
+        "case_subject": "Marka (Maddi Tazminat İstemi)",
+        "dava_tarihi": "02/12/2024",
+        "karar_tarihi": "26/03/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davacı şirketin markasını kullanan bir kullanıcının Instagram hesabından markanın yetkili ve sözleşmeli hizmet olarak sunulduğunu iddia ediyor. Davacı, bu markanın görsellerinde yer aldığını ve markanın görsellerine ve ürünlere erişildiğini iddia ediyor. Davacı ayrıca, markanın logosunun kullanıldığını ve bu kullanımların hak ihlali olarak değerlendirildiğini belirtiyor.",
+        "reasoning_text": "Mahkeme, davacının iddialarını değerlendirerek, davacının markasını kullanan kullanıcının hak ihlali yaptığını tespit etti. Davacı vekili, davacının markasını kullanan kullanıcının hak ihlali yaptığını iddia ediyor ve bu durumun davacının haklarını ihlal ettiğini savunuyor. Mahkeme, bu iddiaları kabul ederek davacının hak ihlali yaptığını tespit etti.",
+        "verdict_text": "İstanbul 1. Fikri ve Sınai Haklar Hukuk Mahkemesi, davacının markasını kullanan kullanıcının hak ihlali yaptığını tespit ederek, davacının hak ihlali yaptığını kabul etti. Davacı vekili, davacının markasını kullanan kullanıcının hak ihlali yaptığını iddia ediyor ve bu durumun davacının haklarını ihlal ettiğini savunuyor. Mahkeme, bu iddiaları kabul ederek davacının hak ihlali yaptığını tespit etti."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353. ve 356. maddeleri",
+            "5651 sayılı yasanın 9/A Maddesi 5.Fıkrası",
+            "HMK 107 maddesi",
+            "HMK 389. maddesi",
+            "HMK 355. maddesi",
+            "HMK 391/3. maddesi",
+            "HMK 341/1-b maddesi"
+        ]
+    },
+    "summary_for_human": "İstanbul 1. Fikri ve Sınai Haklar Hukuk Mahkemesi, davacının markasını kullanan kullanıcının hak ihlali yaptığını tespit etti. Davacı vekili, davacının markasını kullanan kullanıcının hak ihlali yaptığını iddia ediyor ve bu durumun davacının haklarını ihlal ettiğini savunuyor. Mahkeme, bu iddiaları kabul ederek davacının hak ihlali yaptığını tespit etti.",
+    "summary_for_model": "Mahkeme, davacının markasını kullanan kullanıcının hak ihlali yaptığını tespit etti. Davacı vekili, davacının markasını kullanan kullanıcının hak ihlali yaptığını iddia ediyor ve bu durumun davacının haklarını ihlal ettiğini savunuyor. Mahkeme, bu iddiaları kabul ederek davacının hak ihlali yaptığını tespit etti. Davacı vekili, davacının markasını kullanan kullanıcının hak ihlali yaptığını iddia ediyor ve bu durumun davacının haklarını ihlal ettiğini savunuyor."
+}

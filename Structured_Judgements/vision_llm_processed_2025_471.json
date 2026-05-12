@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2025_471.pdf",
+        "court_name": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2025/471",
+        "karar_no": "2025/679",
+        "case_subject": "Marka (Tecavüzün Giderilmesi İstemi) / Marka (Marka Hükümsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "06/02/2025",
+        "karar_tarihi": "30/04/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, markasının dünya çapında tanınmış olduğunu iddia ediyor ve davalının markasını kullanmakla haksız rekabet oluşturduğunu iddia ediyor. Davalı, markanın internette kullanıldığını ve bu durumun davacının menfaatlerini ihlal ettiğini savunuyor.",
+        "reasoning_text": "Mahkeme, davacının iddialarını inceledi ve davalının markasını kullanmanın haksız rekabet oluşturduğunu tespit etti. Davacının uğraması muhtemel zararları için teminat ödemesi talep edildi.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere; 1- Davacı vekilinin istinaf isteminin KISMEN KABULÜ ile. 2- İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesinin 06/02/2025 tarih, 2024/211 E, Sayılı ara kararının 6100 Sayılı HMK'nın 353/1-b/2. maddesi gereğince KALDIRILMASI, ancak belirtilen hususlar yeniden yargılamayı gerektirmediğinden. 3- Davacı vekilinin itirazı konusuz kaldığından karar verilmesine YER OLMADIĞINA, 4- İstinaf talebi kabul edilen davalının istinaf karar harcinin talep halinde ve karar kesinleştiğinde davalya iaadesine, 5- İstinaf yargılaması için davalı tarafından yapılan yargılama giderlerinin kendi üzerinde bırakılmasına, 6- İstinaf incelemesi duruşmasız yapıldığından taraflar lehine vekalet ücreti tayinine yer olmadığına. 7- 6100 Sayılı HMK'nun 302/5. maddesi uyarınca kararın tebliği ve harç tahsil işlemleri ile infazının yerel mahkeme tarafından yaptırılmasına, 6100 Sayılı HMK'nun 353/1-b/2. maddesi hükmü gereğince dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nun 362/1-f ve 394(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 151/2-c",
+            "SMK 159/2-c",
+            "SMK 155",
+            "6100 Sayılı HMK 353/1-b/2",
+            "6100 Sayılı HMK 302/5",
+            "6100 Sayılı HMK 362/1-f",
+            "6100 Sayılı HMK 394(5)"
+        ]
+    },
+    "summary_for_human": "Davacı, markasının haksız kullanıldığını iddia ediyor ve davalının markasını kullanmakla haksız rekabet oluşturduğunu savunuyor. Mahkeme, davacının iddialarını kabul etti ve davalının markasını kullanmanın haksız rekabet oluşturduğunu tespit etti.",
+    "summary_for_model": "Davacı, markasının haksız kullanıldığını iddia ediyor ve davalının markasını kullanmakla haksız rekabet oluşturduğunu savunuyor. Mahkeme, davacının iddialarını kabul etti ve davalının markasını kullanmanın haksız rekabet oluşturduğunu tespit etti. Davacının uğraması muhtemel zararları için teminat ödemesi talep edildi."
+}

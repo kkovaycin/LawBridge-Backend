@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2022_1343.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2022/141",
+        "karar_no": "2022/1403",
+        "case_subject": "İhtiyati Tedbir",
+        "dava_tarihi": "13/10/2022",
+        "karar_tarihi": "13/10/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Talep eden vekili, müvekkilinin TPMK nezdiinde çoklu tasarımın sahibi olduğunu iddia ediyor. Müvekkilin rızası olmadan tasarımın kullanıldığı, satış mağazasında teşhir edildiği ve sosyal medyada paylaşım yapıldığı iddia ediliyor. Bu durum, müvekkilin maddi ve manevi zarara uğramasına neden olmuş.",
+        "reasoning_text": "İlk derece mahkemesi, SMK'nin 159 ve HMK'nin 389 maddeleri doğrultusunda, 50.000,00 TL teminat ile biliriği raporunda görsellerine yer verilen talebe ait ürünlere el konulmasına karar verdi. Ayrıca, Instagram hesabına erişimin engellenmesine karar verildi.",
+        "verdict_text": "İhtiyati tedbir talebinin kabulüne karşı itiraz üzerine, ilk derece mahkemesinin kararı iptal edildi. Talep eden vekili, istinafa başvurusu reddedildi. Karar, ESAS TAN REDDİNE, 492 Sayılı Harçlar Kanunu uyarınca 80,70 TL istinaf kararı harcı peşin yatırılmasına yer verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 159",
+            "HMK 389",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "6769 Sayılı Sınai Mülkiyet Kanunu",
+            "492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, bir tasarımın ihlaline karşı itiraz edilen ihtiyati tedbir kararını iptal etti. Talep eden vekili, istinafa başvurusu reddedildi. Karar, harçların peşin yatırılmasına yer verdi.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, bir tasarımın ihlaline karşı itiraz edilen ihtiyati tedbir kararını iptal etti. Talep eden vekili, istinafa başvurusu reddedildi. Karar, harçların peşin yatırılmasına yer verdi. SMK 159, HMK 389, 6100 Sayılı Hukuk Muhakemeleri Kanunu ve 6769 Sayılı Sınai Mülkiyet Kanunu'na dayanılarak karar verildi."
+}

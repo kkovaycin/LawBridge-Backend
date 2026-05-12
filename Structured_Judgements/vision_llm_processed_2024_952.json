@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2024_952.pdf",
+        "court_name": "T.C. İSTANBUL BÖLGE ADLİYE MAHKEMESİ 44. HUKUK DAİRESİ",
+        "esas_no": "2024/952",
+        "karar_no": "2024/1340",
+        "case_subject": "Marka (Marka Hükmüsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "11/07/2024",
+        "karar_tarihi": "02/04/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davacının markasıyla karıştırma ve haklı rekabete neden olduğu iddiasıyla dava açtı. Davacı, davacının markalarını kullanmakla suçlandı. Davacı, davacının markalarının ticari faaliyetlerini engellemek ve haklı rekabeti ihlal ettiğini iddia etti.",
+        "reasoning_text": "İlki derecede mahkeme, davacının markalarının davacının markalarıyla benzerlik göstermediğini ve karıştırma ihtimalinin bulunmadığını tespit etti. Davacı, davacının markalarını kullanmakla suçlandı ancak bu iddialar reddedildi. İkinci derecede mahkeme, davacının markalarının ticari faaliyetlerini engellemek ve haklı rekabeti ihlal ettiğini tespit etti.",
+        "verdict_text": "İkinci derecede mahkeme, davacının markalarının davacının markalarıyla benzerlik göstermediğini ve karıştırma ihtimalinin bulunmadığını tespit etti. Davacı, davacının markalarını kullanmakla suçlandı ancak bu iddialar reddedildi. Davacı, davacının markalarını kullanmakla suçlandı ancak bu iddialar reddedildi. Davacı, davacının markalarını kullanmakla suçlandı ancak bu iddialar reddedildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "6769 Sayılı Kanun",
+            "Türk Patent ve Marka Kurumu"
+        ]
+    },
+    "summary_for_human": "Davacı, davacının markalarıyla karıştırma ve haklı rekabete neden olduğu iddiasıyla dava açtı. İkinci derecede mahkeme, davacının markalarının davacının markalarıyla benzerlik göstermediğini ve karıştırma ihtimalinin bulunmadığını tespit etti.",
+    "summary_for_model": "Davacı, davacının markalarıyla karıştırma ve haklı rekabete neden olduğu iddiasıyla dava açtı. İkinci derecede mahkeme, davacının markalarının davacının markalarıyla benzerlik göstermediğini ve karıştırma ihtimalinin bulunmadığını tespit etti. Davacı, davacının markalarını kullanmakla suçlandı ancak bu iddialar reddedildi."
+}

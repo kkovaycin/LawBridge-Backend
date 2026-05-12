@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2024_1787.pdf",
+        "court_name": "Bakırköy 2. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2024/1787",
+        "karar_no": "2025/128",
+        "case_subject": "İhtiyati Tedbir",
+        "dava_tarihi": "22/03/2024",
+        "karar_tarihi": "17/01/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilinin ticari markaları ve tasarımları aleyhine istifaya karşı itiraz etti. İlk derece mahkemesi, istifaya karşı itirazı reddetmiştir. İkinci derece mahkemesi, istifaya karşı itirazı kabul ederek ilk derece kararını iptal etmiştir.",
+        "reasoning_text": "İkinci derece mahkemesi, ilk derece kararının 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b/1. maddesine aykırı olduğunu tespit etmiştir. Ayrıca, dava konusu tasarımların aynı olduğu ve farklılıkların önemsiz olduğu gerekçesiyle itirazı kabul etmiştir.",
+        "verdict_text": "ESASTAN REDDİNE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gereken 615,40 TL maktu istinaf karar ve ilam harcından peşin yatırılan 427,60 TL harçın mahsubu ile bakiye 187,80 TL harçın davacidan tahsiliyle Hazineye gelir kaydedilmesine, 3-Davacı taraflıca istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, 4-İncelemenin duruşmasız olarak yapılması sebebiyle taraflara vekalet ücreti tayinine yer olmadığına, 5-Taraflarca yatırılan gider avansından harçmayan kısım karar kesinleştiğinde iadesine, 6-Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin ilk derece Mahkemesine yer getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/(1-f). ve 394/(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "2-492 Sayılı Harçlar Kanunu",
+            "6769 Sayılı Sınai Mülkiyet Kanunu"
+        ]
+    },
+    "summary_for_human": "İkinci derece mahkemesi, davacı vekilinin istifaya karşı itirazını kabul ederek ilk derece kararını iptal etti. Tasarımların aynı olduğu ve farklılıkların önemsiz olduğu gerekçesiyle itiraz kabul edildi.",
+    "summary_for_model": "İkinci derece mahkemesi, ilk derece kararının 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b/1. maddesine aykırı olduğunu tespit etti. Tasarımların aynı olduğu ve farklılıkların önemsiz olduğu gerekçesiyle itiraz kabul edildi."
+}

@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2021_2066.pdf",
+        "court_name": "BÖLGEADLÜyE MAHKEMESİ 13. HUKUK DAİRESİ",
+        "esas_no": "2021/2066 Esas",
+        "karar_no": "2021/1649 Karar",
+        "case_subject": "Tazminat (Haksız Rekabetten Kaynaklanan)",
+        "dava_tarihi": "07/07/2021",
+        "karar_tarihi": "17/11/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, vekili davalar ve mürekkilleri tarafından sosyal medya hesaplarında asilsiz ve kötüleyici paylaşimlar yapıldığı. Bu paylaşimlar, TTK Maddesi 55 ve devamında düzenlenen haksız rekabete sebep olduğuna göre haksız rekabetin tesbiti ve meni ile dava işlevi için ihitayati tedbir kararı talep edildi.",
+        "reasoning_text": "Mahkeme, ihitayati tedbir talebinin reddi kararı verdi. Paylaşimlar, haksız rekabeti oluşturmadığı ve dava işlevi için yeterli delil sunulmadı. Davacılar vekili tarafından ihitayati tedbir talebinin reddi kararı aleyhine istinaf başvurusu yapıldı.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacıların istinaf başvurusunun 6100 sayılı HMK'nın 353/1-b1 maddesi gereğince ESİASTAN REDDİNE, 2-Harglar Kanunu gereğince istinaf edenler tarafından yatırılan 162,10.TL istinaf kanun yoluyla başvurma harcının hazinede gelir kaydına, 3-Karar tarihi itibarıyla Harglar Kanunu gereğince alınması gereken 59,30.TL istinaf karar harcı istinaf edenler tarafından peşin olarak yatırıldığından yeniden alınmasına yer olmadığına, yatırılan harcın hazinede gelir kaydına, 4-İstinaf yargılama giderlerinin istinaf talep edenler üzerinde bırakılmasına, 5-Artan gider avansı varsa talep halinde yatıran tarafa iadesine, 6-Kararın ilk derece mahkemesinde taraflara tebliğe gönderilmesine, Dosya üzerinde yapılan inceleme sonucunda 17/11/2021 tarihinde HMK'nın 362/1-f maddesi gereğince kesin olarak oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK Maddesi 55",
+            "TTK Maddesi 61",
+            "HMK Maddesi 355",
+            "HMK Maddesi 389",
+            "HMK Maddesi 390/3",
+            "HMK Maddesi 353/1-b.1",
+            "HMK Maddesi 362/1-f",
+            "Harglar Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacılar, vekili ve mürekkilleri tarafından sosyal medyada asilsiz paylaşimlar yapıldığı. Mahkeme, bu paylaşimların haksız rekabeti oluşturmadığı ve dava işlevi için yeterli delil sunulmadığı olarak ihitayati tedbir talebini reddetti. Davacılar vekili, bu karara karşı istinaf başvurusu yaptı.",
+    "summary_for_model": "Mahkeme, davacılar vekili ve mürekkilleri tarafından sosyal medyada yapılan asilsiz paylaşimların haksız rekabeti oluşturmadığı ve dava işlevi için yeterli delil sunulmadığı olarak ihitayati tedbir talebini reddetti. Davacılar vekili, bu karara karşı istinaf başvurusu yaptı. TTK ve HMK maddeleri kullanıldı."
+}

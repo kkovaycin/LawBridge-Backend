@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2025_290.pdf",
+        "court_name": "KAYSERİ BÖLGE ADLİYE MAHKEMESİ",
+        "esas_no": "2025/290",
+        "karar_no": "2025/307",
+        "case_subject": "İhtiyati haciz",
+        "dava_tarihi": "18/11/2024",
+        "karar_tarihi": "12/02/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "İhtiyati haciz talep eden vekili dilekçesinde, ...Ltd. Şti'nin müvekkilinden birtakım malzemeler satin aldığını, ürün bedellerine ilişkin olarak tanzim edilen 20/05/2024 tarihli ...Numaralı, 03/05/2024 tarihli ... Numaralı, 09/05/2024 tarihli ... Numaralı, 03/05/2024 tarihli, ... Numaralı e-faturalara karşı tarafın kısmi ödeme yaptığını, uyarılara rağmen karşı tarafın eksik kalan 198.256,50-TL ödemeyi tüm uyarılara rağmen yapmadığını, müvekkilin karşı tarattan alacağı 198.256,50-TL alacaklarına yeter miktarda menkul ve gayrimenkullerle üçüncü şahıslardaki hak ve alacaklarının ihtiyaten hacize karar verilmesini talep etmiştir.",
+        "reasoning_text": "İlke derece Mahkemesi kararı ile; Dosyadaki mevcut delillerin incelenmesinde, borcun menkul, gayri menkullerle 3. Şahıslardaki hak ve alacakları üzerine ihtiyati haciz konulması talep edilmiş ise de alacağın varlığı ve miktarının yargılamayı gerektirmesi nedeniyle ihtiyati haciz isteyen vekilin ihtiyati haciz talebinin reddine karar verilmiştir.",
+        "verdict_text": "ESASTAN REDDİNE, Alınması gerekli olan 615,40 TL istinaf karar ve ilam harcından istinaf eden ve ihtiyati haciz talep eden tarafından peşin yatırılmış 427,60 TL harçın mahsubu ile bakiye 187,80 TL istinaf karar ve ilam harcının istinaf eden ...LİMİTED ŞİRKETİNDEN alınarak Hazineye Gelir kaydına, İstinaf eden tarafından yapılan istinaf yoluna başvuru harci ve istinaf posta giderlerinin kendi üzerinde bırakılmasına, İstinaf incelemesi aşamasında duruşma yapılmadığından vekalet ücreti takdirine yer olmadığına, HMK 302/5 maddesi gereğince işbu ilamin kesinleşme kaydı yapılan kararın yerine getirilmesi için gerekli bildirimlerin, harç tahsil işlemlerinin, HMK 359/4 Maddesi gereğince bu kararın taraflarına tebliği işlemlerinin yapılması ve artan gider avansının ilgili tarafa iaadesi işlemlerinin İlk Derece Mahkemesi tarafından yapılmasına, Dair, dosya üzerinden yapılan inceleme ile İİK 258/son bendi uyarınca KESİN olarak oy birliği ile karar verildi. 12/02/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İİK. madde 257",
+            "İİK. madde 258",
+            "H.M.K 355. Maddesi",
+            "H.M.K 353/1-b-1 maddesi",
+            "HMK 302/5 maddesi",
+            "HMK 359/4 Maddesi"
+        ]
+    },
+    "summary_for_human": "Bu davada, bir şirket tarafından bir diğer şirkete karşı ihtiyati haciz talebi yapılmıştır. İlk derece mahkemesi, alacağın varlığı ve miktarının yargılamayı gerektirdiği için talebi reddetmiştir. İstinaf başvurusu yapılmıştır ve istinaf mahkemesi de ilk derece kararını onaylamıştır. Karar, borcun haczedilmesi ve alacakların tahsil edilmesi için gerekli adımların atıldığını belirtmektedir.",
+    "summary_for_model": "Dava, bir şirketin diğer bir şirkete karşı ihtiyati haciz talep etmesiyle başlamıştır. İlk derece mahkemesi, alacağın varlığı ve miktarının yargılamayı gerektirdiği için talebi reddetmiştir. İstinaf mahkemesi, ilk derece kararını onaylayarak talebin reddini kararlaştırmıştır. Karar, İİK 257 ve 258 maddeleri, HMK 355, 353/1-b-1, 302/5 ve 359/4 maddeleri çerçevesinde verilmiştir. Alacağın haczedilmesi ve alacakların tahsil edilmesi için gerekli adımlar atılmıştır."
+}

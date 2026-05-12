@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2017_753.pdf",
+        "court_name": "T.C. İSTANBUL 1.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2017/753",
+        "karar_no": "2018/255",
+        "case_subject": "Marka hakları ihlali ve ticari faaliyet durdurma talebi",
+        "dava_tarihi": "20/11/2017",
+        "karar_tarihi": "06/06/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davayı vekili aracılığıyla açtı ve davalının markalarını ticari faaliyetlerde kullanmasını durdurulması talep etti. Savunma, davalının markaları kullanmadığını ve karıştırma ihtimalinin olmadığını iddia etti.",
+        "reasoning_text": "Mahkeme, davacının vekaletnamesinde feragat yetkisi bulunduğunu ve davanın feragat nedeniyle reddedildiğini karar verdi. Ayrıca davacıya harç ve vekalet ücreti ödemesi kararı verildi.",
+        "verdict_text": "1- Davanın feragat nedeniyle reddine, 2- Davacıya 1.842,63 TL harç ödemesi, 3- Davacıya 3.145 TL vekalet ücreti ödemesi, 4- Davacı tarafından yapılan giderlerin iadesi, 5- Davalı tarafından yapılan 46,90 TL yargılama giderinin iadesi kararı verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı Sınai Mülkiyet Kanunu m.7, m.29 ve m.149",
+            "TTK 56 vd.",
+            "HMK 307. Maddesi",
+            "Avukatlık Ücret Tarifesi 6/1 Maddesi",
+            "İSTANAF YASA"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacının vekaletnamesinde feragat yetkisi bulunduğunu belirleyerek davayı reddetti. Ayrıca davacıya harç ve vekalet ücreti ödemesi kararı verildi.",
+    "summary_for_model": "Dava, marka hakları ihlali iddiasıyla açıldı. Mahkeme, davacının vekaletnamesinde feragat yetkisi bulunduğunu ve davanın feragat nedeniyle reddedildiğini karar verdi. Davacıya harç ve vekalet ücreti ödemesi kararı verildi."
+}

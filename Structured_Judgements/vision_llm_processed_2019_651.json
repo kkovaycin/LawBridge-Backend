@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2019_651.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2019/651",
+        "karar_no": "2019/1225",
+        "case_subject": "Marka (Maddi Tazminat İstemli)",
+        "dava_tarihi": "26/04/2018",
+        "karar_tarihi": "29/05/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davacının markasının TPMK'de özel marka statüsünde olduğunu ve davacının müvekkilinin markaya tecavüz ettiğini iddia etmiştir. Davacı vekili, davanın kabulünün mümkün olmadığını, müvekkilinin markaya tecavüz düşüncesinin dahi bulunmadığını ve izinsiz kullanımın olmadığını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacının müvekkilinin markaya tecavüz ettiğini tespit etti ve davacının talep ettiği maddi ve manevi tazminat taleplerini kabul etti. Mahkeme, davacının talep ettiği internet sitelerinin erişiminin engellenmesine karar verdi.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Davacı vekilinin istinaf talebinin HMK'nun 353/1-b-1 maddesi uyarınca ES ASTAN REDDİNE, 2-Harc peşin alındığından yeniden harç alınmasına yer olmadığına, 3-Davacı tarafından yapılan istinaf yargılama gidermelerinin kendi üzerinde bırakılmasına, 4-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dosya üzerinde yapılan inceleme sonucunda oy birliği ile HMK'nun 362/1-f maddesi uyarınca kesin olarak karar verildi. 29/05/2019"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 362/1-f"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkilinin markasına tecavüz ettiğini iddia etti. Mahkeme, davacının talep ettiği maddi ve manevi tazminat taleplerini kabul etti ve davacının talep ettiği internet sitelerinin erişiminin engellenmesine karar verdi.",
+    "summary_for_model": "Davacı vekili, davacının markasına tecavüz iddiasıyla dava açtı. Mahkeme, davacının talep ettiği maddi ve manevi tazminat taleplerini kabul etti ve davacının talep ettiği internet sitelerinin erişiminin engellenmesine karar verdi. HMK 353 ve 362/1-f maddeleri esas olarak kullanıldı."
+}

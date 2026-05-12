@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2022_341.pdf",
+        "court_name": "T.C. İSTANBUL 15. AŞLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2022/341 Esas",
+        "karar_no": "2022/778",
+        "case_subject": "Ticari Şirketin fesih istemi",
+        "dava_tarihi": "11/05/2022",
+        "karar_tarihi": "13/10/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, şirket tarafından sosyal medya hesapları üzerinden tüketiciye yanlış ürün sunumu ve ödeme taleplerinin reddedilmesi nedeniyle dava açtı. Şirket, tüketici hakem heyeti tarafından 221 şikayet almıştı. Şirketin kamuyu bozucu ticari faaliyetleri ve işletmenin varlık nedeniyle fesih istemi talep edildi.",
+        "reasoning_text": "Mahkeme, TTK 210/3 ve 636/1-d maddeleri uyarınca şirketin fesihine karar verdi. Şirketin kamuyu bozucu ticari faaliyetleri, tüketici haklarını ihlal etmesi ve işletmenin varlık nedeniyle fesih istemi talep edildi.",
+        "verdict_text": "Şirket feshedildi. Tasfiye memuru atanmış ve tasfiye ücretleri belirlenmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 210/3",
+            "TTK 636/1-d",
+            "TTK 636/5",
+            "TTK 533/2",
+            "TTK 210",
+            "TTK 636/3",
+            "TTK 636/5",
+            "TTK 533/2",
+            "Hukuk 333.md"
+        ]
+    },
+    "summary_for_human": "Mahkeme, şirket tarafından tüketici haklarını ihlal eden ticari faaliyetler nedeniyle şirketi feshetti. Şirketin kamuyu bozucu davranışları ve işletmenin varlık nedeniyle fesih istemi talep edildi.",
+    "summary_for_model": "Davacı, şirketin tüketici haklarını ihlal ettiğini iddia etti. Mahkeme, TTK 210/3 ve 636/1-d maddeleri uyarınca şirketi feshetti. Şirketin kamuyu bozucu ticari faaliyetleri ve işletmenin varlık nedeniyle fesih istemi talep edildi."
+}

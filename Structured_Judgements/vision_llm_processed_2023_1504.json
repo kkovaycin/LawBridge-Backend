@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2023_1504.pdf",
+        "court_name": "Bakırköy 2. Fikri Ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2022/222 E. - 2023/247 K.",
+        "karar_no": "2023/1364",
+        "case_subject": "Marka (Marka Hükmüsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "13/06/2023",
+        "karar_tarihi": "08/11/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; Müvekkillerinin ... ve ... markaları üzerindeki gerçek hak sahipliği ve ... ve ... tescilli markalarla, müvekkillerin ... ve ... markaları üzerinde davalının hukuka, ticari ahlak ve rekabete aykırı davranışı sebebiyle içerisinde bulunduğu eylemlerin Sınai Mülkiyet Kanunu ve TTK gereğince haksız rekabet ve marka haklarına tecavüz olduğunun tesbiti ile muhtemel tekrarının önlenmesi suretiyle her türlü mecrada tecavüzün men'ine, davalı adına kayıtlı ... ve ... markalarının hükmüsüzlüğüne ve silinden terkin edilmesine dava sonuna kadar davalının ... ve ... numaralı markalarının ve ... ve ... kelimelerinin https://...com/ internet sitesinde, şirket adresinde, varsa mağazasında, e ticaret platformlarında, ... instagram hesabında, sosyal medyadaki her türlü mecra dahil her türlü mecrada kullanımını üretim, satış, markalar üzerinde lisans ve devir dahil olmak üzere her şekilde kullanımın kötü niyetle gözetilerek yasaklanmasına, yargılama giderleri ile ücret-i vekâletin davalıya tahmiline karar verilmesini vekâletten arz ve talep etmiştir.",
+        "reasoning_text": "İstinaf talebinin reddi, davacı vekilinin istinaf dilekçesinde özetle; Müvekkilin markanın yaratıcısı olarak yaptığı kullanımlara bakılırsa çok geniş bir ürün ve hizmet yelpazesinde çalışmaları olduğu, en önemli nokta da sayın bilirkişilerin raporunda açıkça belirlendikleri gibi bu kelimelerin rastgele seçilme ihtimallerinin olmadığı, müvekkilin ... ve müvekkilin ...'nun 2013 yılından bu yana markayı aktif olarak ve aralıksız şekilde kullandığı ve yatırım yaptığı, söz konusu markanın tesadüfen seçilemeyecek bir kelime içerdiği, müvekkilin yoga stüdyosuna davalının kardeşi ... ve davalının eski eşi 23.11.2017 yılında ... kayıt olmuş ve davalı bu vesile ile markalardan haberdar olarak bundan faydalanmak istediği, bu sebeplerle davalı tarafın istinaf taleplerinin gerçeği yansıtmadığı belirtilerek istinaf taleplerinin reddine, yerel mahkeme kararının onanmasına karar verilmesini talep etmiştir.",
+        "verdict_text": "ESASTAN REDDİNE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gereken 269,85-TL istinaf karar harcı davalı tarafından peşin yatırıldığından yeniden harç alınmasına yer olmadığına, 3-Davalı tarafça istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, 4-İncelemenin duruşmasız olarak yapılması sebebiyle taraflar yararına vekalet ücreti tayinine yer olmadığına, 5-Taraflarca yatırılan gider avansından harçnamayan kısmın karar kesinleştiğinde iadesine, 6-Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin İlk derece Mahkemesince yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/(1)-f. ve 394/(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Sınai Mülkiyet Kanunu",
+            "TTK",
+            "Hukuk Muhakemeleri Kanunu (6100 Sayılı)",
+            "Harçlar Kanunu (2-492 Sayılı)",
+            "Hukuk Muhakemeleri Kanunu 353/1-b/1. maddesi",
+            "Hukuk Muhakemeleri Kanunu 362/(1)-f. ve 394/(5). maddeleri"
+        ]
+    },
+    "summary_for_human": "Davalı, markasının hükmüsüzlüğü ve silinmesi için dava açtı. İlk derece mahkemesi davalının markalarını kullanmanın yasaklanmasına ve vekâlet ücretinin tahmiline karar verdi. Davacı vekili istinaf talebinde bulundu. İstinaf mahkemesi, davacı vekilinin istinaf taleplerinin gerçeği yansıtmadığını ve yerel mahkeme kararının usul ve yasaya uygun olduğunu belirterek istinaf taleplerini reddetti.",
+    "summary_for_model": "Dava, markanın hükmüsüzlüğü ve silinmesi için açıldı. İlk derece mahkemesi davalının markalarını kullanmanın yasaklanmasına ve vekâlet ücretinin tahmiline karar verdi. Davacı vekili istinaf talebinde bulundu. İstinaf mahkemesi, davacı vekilinin istinaf taleplerinin gerçeği yansıtmadığını ve yerel mahkeme kararının usul ve yasaya uygun olduğunu belirterek istinaf taleplerini reddetti. Karar, 6100 Sayılı Hukuk Muhakemeleri Kanunu ve diğer ilgili kanunlara dayanarak verildi."
+}

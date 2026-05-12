@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2019_2826.pdf",
+        "court_name": "T.C. İSTANBUL BÖLGE ADLİYE MAHKEMESİ 16. HUKUK DAİRESİ",
+        "esas_no": "2019/2826",
+        "karar_no": "2022/627",
+        "case_subject": "Endüstriyel Tasarım (Tasarımın İtibarının Kaybi Nedeniyle Tazminat İstemli)",
+        "dava_tarihi": "17/07/2019",
+        "karar_tarihi": "13/04/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davacının elbiselerinin müvekkilinin kataloglarında yer almadığını ancak internet sitesinde ve Instagram hesabında yer verdiğini iddia etti. Müvekkil, bu durumun tasarım haklarını ihlal ettiğini ve haksız rekabet oluşturduğunu iddia etti. Davacı vekili ise, müvekkilin elbiselerinin farklı olduğunu ve herhangi bir kopya veya benzerlik olmadığını savundu.",
+        "reasoning_text": "Mahkeme, bilirkişi raporlarına dayanarak davacının tasarım haklarını ihlal ettiğini tespit etti. Davacının maddi ve manevi tazminat taleplerinin kabulüne karar verildi. Davacı vekilinin istinaf talepleri reddedildi.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Taraf vekillerinin istinaf talebinin HMK'nun 353/1-b-1 maddesi uyarınca ayrı ayrı ESASTAN REDDİNE, 2-Alınması gereken 80,70 TL harctan, peşin alınan 256,40-TL (212-TL+44,40-TL) harcin mahsubu ile fazlaya ilişkin 175,70-TL harcin talebi halinde davacıya iadesine, 3-Alınması gereken 1.024,65-TL harctan, peşin alınan 256,16-TL harcin mahsubu ile bakiye 768,49-TL harcin davaldan alınarak hazineye irat kaydına, 3-Taraflarca yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, 4-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda, HMK'nun 361.maddesi uyarınca tebliğden itibaren iki haftalık süre içerisinde Yargıtay İliği Hukuk Dairesindeki temyiz yolu açık olmak üzere oy birliği ile karar verildi.13/04/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Mahkemesi Kanunu (HMK) 353. Maddesi",
+            "Hukuk Mahkemesi Kanunu (HMK) 361. Maddesi",
+            "6769 Sayılı Sınai Mülkiyet Kanunu 81. Maddesi",
+            "BK 50. Maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkilinin elbiselerinin tasarım haklarını ihlal ettiğini iddia etti. Mahkeme, davacının maddi ve manevi tazminat taleplerini kabul etti. Davacı vekilinin istinaf talepleri reddedildi.",
+    "summary_for_model": "Dava, tasarım hakları ihlali ve haksız rekabet iddiaları üzerine kurulmuştur. Mahkeme, bilirkişi raporlarına dayanarak davacının haklarını ihlal ettiğini tespit etti ve maddi/manevi tazminat kararı verdi. İstinaf talepleri reddedildi."
+}

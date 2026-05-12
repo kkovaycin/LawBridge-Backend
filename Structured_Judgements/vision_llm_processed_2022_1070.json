@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2022_1070.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2022/1070",
+        "karar_no": "2022/1402",
+        "case_subject": "Tespit (D.İş)",
+        "dava_tarihi": "12/04/2022",
+        "karar_tarihi": "13/10/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, San. Tic. Ltd. Şti. Tekstil Şti.'nin yıllardır tasarım ve satış faaliyetinde olduğunu, Türkiye'de ilk kez kamuya sunulan tasarımın talep edenin instagram satış sayfasında yayınlandığını ve bu tasarımın ticari olarak değerlendirildiğini iddia etmiştir. Talep, tasarımın hak ihlali ve haklı rekabet ihlali nedeniyle durdurulmasını talep etmektedir.",
+        "reasoning_text": "İstanbul 2. Fıkrı ve Sınai Haklar Hukuk Mahkemesi, ilk derece kararının istinaf yoluyla incelenmesinde, dava konusu tasarımın ticari olarak değerlendirildiğini ve hak ihlali nedeniyle durdurulması gerektiğini tespit etmiştir. Ancak, istinaf talebinin usul ve yasa uygunluğunu sorgulayarak reddetmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1- Usül ve yasaya uygun İstanbul 2.Fıkrı ve Sınai Haklar Hukuk Mahkemesi'nin 12/04/2022 tarih ve 2022/46 E., 2022/50 K. sayılı kararına karşı davacı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2- 492 Sayılı Harçlar Kanunu gereğince alınması gereken 80,70 TL maktu istinaf karar harcı davacı tarafından peşin yatırıldığından yeniden harç alınmasına yer olmadığına,3- Davacı taraflıca istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına,4- İncelemenin duruşmasız olarak yapılması sebebiyle taraflar yararına vekalet ücretine yer olmadığına,5- Davacı taraflıca yatırılan gider avansından harçnmayan kısmın karar kesinleştiğinde iadesine,6- Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin İlk derece Mahkemesince yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/(1)-f. ve 394/(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi. 13/10/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "6769 Sayılı Sınai Mülkiyet Kanunu",
+            "5846 Sayılı Fikir ve Sanat Eserleri Kanunu",
+            "Türk Ticaret Kanunu",
+            "492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, davacı vekilinin istinaf talebini reddetmiştir. Talep, tasarımın ticari olarak değerlendirildiğini ve hak ihlali nedeniyle durdurulması gerektiğini iddia etse de, istinaf talebinin usul ve yasa uygunluğunu sorgulayarak reddetmiştir.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, davacı vekilinin istinaf talebini reddetmiştir. Talep, tasarımın ticari olarak değerlendirildiğini ve hak ihlali nedeniyle durdurulması gerektiğini iddia etse de, istinaf talebinin usul ve yasa uygunluğunu sorgulayarak reddetmiştir. Karar, 6100 Sayılı Hukuk Muhakemeleri Kanunu ve diğer ilgili kanunlara dayanarak verilmiştir."
+}

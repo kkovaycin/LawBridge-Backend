@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2023_288.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 27. HUKUK DAİRESİ",
+        "esas_no": "2023/288",
+        "karar_no": "2025/202",
+        "case_subject": "İtirazin İptali (Eser Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "07/12/2022",
+        "karar_tarihi": "19/02/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili tarafından davalı aleyhine açılan eser sözleşmesinden kaynaklanan itirazin iptali isteme ile ilgili davada mahkemeye verilen karara karşı süresi içinde davalı vekilince istinaf kanun yoluyla başvurulması üzerine yapılan incelemeye; davalı vekili özetle; taraflar ticari ilişkiye istinaden müvekkili şirket tarafından, davalının, farklı tarihlerde mal/hizmet satışı yapıldığını, söz konusu satışlara binaen, müvekkili şirket tarafından 10.10.2020 tarihli 19.169,10 TL bedelli fatura düzenlenmiş olduğunu, faturayı sunduklarını, faturalarla sabit olduğu üzere, davalı tarafından müvekkili şirketten alınan mal ve hizmetlerin karşılığı olarak ödenmesi gereken tutarın 19.169,10 TL olduğunu, bu durumun tarafların ticari defter ve kayıtları incelendiğinde de görüleceğini, davalının faturalardan kaynaklanan borcuna karşılık olarak müvekkili şirkete herhangi bir ödeme yapmadığını, davalı aleyhine Ankara 24. İcra Dairesi 2021/13758 Esas sayılı icra takip dosyası ile icra takibi başlatıldığını, davalının mezkur faturalar ile sabit olan borcuna karşılık ödeme yaptığını gösterir mahiyette hiçbir belge sunmadığını, 07.01.2022 tarihinde borcun tamamına itiraz ettiğini, davalı yanın, süresi içerisinde itiraz etmiş olması sebebiyle İcra Müdürlüğünce icra takibinin durdurulmasına karar verildiğini, belirterek davalının Ankara 24. İcra Dairesi 2021/13758 E. sayılı icra dosyasına yapmış olduğu haksız ve mesnetsiz itirazin iptali ile icra takibinin kaldığı yerden devamına, mevzuattaki en yüksek orandan asıl alacağa faiz işletilmesine, davalının %20'den aşağı olmamak üzere icra inkar tazminata mahkum edilmesine karar verilmesini talep etmiştir.",
+        "reasoning_text": "Mahkemede, dosya kapsamındaki bilgi, belge ve toplanan deliller değerlendirilerek yasal düzenlemelere uygun ve isabetli karar verilmiş olduğu, ileri sürülen istinaf sebepleri dikkate alındığında mahkemenin vakıa ve hukuki değerlendirmesinde usul ve esas yönünden yasaya aykırılık bulunmadığı anlaşılmakla, davalı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince esastan reddine karar verilmesi gerekmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davalı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince esastan reddine, 2-Harçlar Kanunu gereğince alınması gereken 694,65 TL TL istinaf karar harcından peşin alınan 179,90 TL harcin mahsubu ile bakiye 514,75 TL harcin davalıdan tahsili ile Hazineye irat kaydına, 3-Istinaf başvurusu nedeniyle davalı tarafından yapılan yargılama giderlerinin ve ödediği istinaf başvuru harcının kendisi üzerinde bırakılmasına, Dosya üzerinde yapılan inceleme sonucunda HMK'nın 362/1-a maddesi gereğince KESİN olmak üzere 19.02.2025 tarihinde oybirliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hukuk Muhakemeleri Kanunu",
+            "Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir ticari anlaşma çerçevesinde fatura ödemesiyle ilgili bir anlaşmazlık üzerine kurulmuştur. Davacı vekili, davalı tarafından fatura ödemesi reddedildiği için dava açmıştır. Mahkeme, davalı vekilinin istinaf başvurusunu reddetmiştir çünkü dava dosyasında yeterli kanıt bulunmamaktadır ve mahkemenin ilk kararının yasalara uygun olduğu tespit edilmiştir. Sonuç olarak, davalı vekilinin istinaf başvurusu reddedilmiş ve dava sonlandırılmıştır.",
+    "summary_for_model": "Dava, ticari anlaşma çerçevesinde fatura ödemesiyle ilgili anlaşmazlık üzerine kurulmuştur. Davacı vekili, davalı tarafından fatura ödemesi reddedildiği için dava açmıştır. Mahkeme, davalı vekilinin istinaf başvurusunu HMK'nın 353/1-b.1 maddesi gereğince esastan reddetmiştir. Karar, dosya kapsamındaki bilgi, belge ve toplanan deliller değerlendirilerek yasal düzenlemelere uygun ve isabetli olarak verilmiştir. Davalı vekilinin istinaf başvurusunun reddedilmesinin temel gerekçesi, mahkemenin vakıa ve hukuki değerlendirmesinde usul ve esas yönünden yasaya aykırılık bulunmamasıdır."
+}

@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2024_1709.pdf",
+        "court_name": "T.C. SAKARYA BÖLGE ADLİYE MAHKEMESİ 3. HUKUK DAİRESİ",
+        "esas_no": "2024/1709",
+        "karar_no": "2024/1769",
+        "case_subject": "İhtiyati haciz talebinin reddi",
+        "dava_tarihi": "09/09/2024",
+        "karar_tarihi": "23/10/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davacı şirketin borçlu şirketin inşaat projesine başladığını, makinaların devrilmesinin ve tesisin tamamının kopmasının borçlu şirketin sorumluluğunda olduğunu iddia etmiştir. İlk derece mahkemesi, davacı vekilinin talebini reddetmiştir. Davacı vekili, ilk derece kararının kusurlu olduğunu iddia ederek istinaf başvurusu yapmıştır.",
+        "reasoning_text": "Mahkeme, ilk derece kararının kusurlu olduğunu, davacı vekilinin talebinin reddedilmesinin hukuka aykırılık oluşturduğunu ve borçlu şirketin alacaklı şirkete borçlu olduğunu tespit etmiştir. Mahkeme ayrıca, davacı şirketin borçlu şirketten alacaklı konumunda olduğunu ve borcun tahsili için ihtiyati haciz talebinin reddedilmesinin hak ihlali oluşturduğunu belirtmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Sakarya Asliye Ticaret Mahkemesi'nin 28.08.2024 tarihli, 2024/270 D.İş Esas - 2024/271 D.İş Karar sayılı kararı usul ve yasaya uygun bulunduğundan, HMK'nın 353/1-b-1 maddesi gereğince talep eden vekilinin istinaf başvurusunun ESASTAN REDDİNE, 2-Yürürlükteki Yargı Harçları Tarifi gereğince talep edeninden alınması gereken harç peşin alındığından yeniden harç alınmasına yer olmadığına, 3-Talep edenin istinaf başvurusu için yaptığı giderlerin üzerinde bırakılmasına, harçanmayan istinaf gider avansının yatırına iaadesine, 4-Karar tebliği ve avans iaadesi işlemlerinin ilk derece mahkemesince yerine getirilmesine, Dosya üzerinde yapılan inceleme sonucunda HMK'nun 362/1-f maddesi uyarınca kesin olmak üzere oy birliği ile karar verildi. 23.10.2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İİK'un 257/1. fıkrası",
+            "İİK'un 257 maddesi",
+            "HMK'nın 353/1-b-1 maddesi",
+            "HMK'nun 362/1-f maddesi",
+            "5070 sayılı Kanunun 5. Maddesi"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir şirketin borçlu bir diğer şirkete karşı ihtiyati haciz talebini reddetme konusuyla ilgilidir. İlk derece mahkemesi, davacı vekilinin talebini reddetmiştir. Davacı vekili, bu kararın kusurlu olduğunu iddia ederek istinaf başvurusu yapmıştır. Mahkeme, ilk derece kararının kusurlu olduğunu, davacı vekilinin talebinin reddedilmesinin hukuka aykırılık oluşturduğunu ve borçlu şirketin alacaklı şirkete borçlu olduğunu tespit etmiştir. Sonuç olarak, talep eden vekilinin istinaf başvurusunun reddedilmesine karar verilmiştir.",
+    "summary_for_model": "Dava, bir şirketin borçlu bir diğer şirkete karşı ihtiyati haciz talebinin reddedilmesiyle ilgilidir. İlk derece mahkemesi, talebin reddedilmesine karar vermiştir. İstinaf başvurusunda bulunan davacı vekili, ilk derece kararının kusurlu olduğunu iddia etmiştir. Mahkeme, HMK'nın 353/1-b-1 maddesi uyarınca talebin reddedilmesinin hukuka aykırılık oluşturduğunu ve borçlu şirketin alacaklı şirkete borçlu olduğunu tespit etmiştir. Sonuç olarak, talep eden vekilinin istinaf başvurusunun reddedilmesine karar verilmiştir. İİK'un 257/1. fıkrası ve 257 maddesi, HMK'nın 353/1-b-1 ve 362/1-f maddeleri, 5070 sayılı Kanunun 5. Maddesi referans alınmıştır."
+}

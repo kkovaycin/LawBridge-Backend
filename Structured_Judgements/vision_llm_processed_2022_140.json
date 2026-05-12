@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2022_140.pdf",
+        "court_name": "İstanbul 5. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2022/306 Esas",
+        "karar_no": "2022/861",
+        "case_subject": "Haksız rekabet davası",
+        "dava_tarihi": "26/04/2022",
+        "karar_tarihi": "06/12/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının LinkedIn platformunda gerçek dışı, kötüleyici ve yanıltıcı beyanlarla müvekkili şirketin ticari faaliyetlerini etkilemeye çalıştığını iddia etmiştir. Davalının bu davranışları, TTK'nın 55. Maddesi 1. Fıkrasının a bendi 1 numaralı başlığı altında düzenlenen haksız rekabet hükümlerini ihlal ettiği tespit edilmiştir.",
+        "reasoning_text": "Mahkeme, davalının davacı şirketi hakkında yanlış ve yanıltıcı ifadeler kullanması, davacının ticari bir şirket olarak faaliyet göstermesi ve bu ifadelerin ticari zarar yaratma potansiyeli taşıması nedeniyle davacının davasını kabul etmiştir.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere;\n1-Davacının davasının REDDİNE,\n2-Harçlar tarifi uyarına alınması gereken 80,70 TL karar ve ilam harcının peşin alınan 853,88 TL harçtan mahsubu ile fazla harç olan 773,18 TL'nın karar kesinleştiğinde talep halinde davacı tarafa iadesine,\n3-Davacı tarafından yapılan yargılama masraflarının kendi üzerinde bırakılmasına,\n4-Davalı taraf duruşmalarda vekil ile temsil edildiğinden reddedilen dava değeri itibarıyla AAÜT uyarına hesap olunan 9.200,00 TL vekalet ücretinin davacından tahsil edilerek davalı tarafa verilmesine,\n5-Davalı tarafça yapılan yargılama gideri bulunmadığından, bu konuda karar verilmesine yer olmadığına,\n6-Bakiye gider avansının karar kesinleştiğinde talep halinde yatıran tarafa iadesine,\n6325 sayılı Hukuk Uyumluluklarında Arapülülük Kanunu 18/A-13. Maddesi uyarına ve Arapülülük Kanunu Yönetmelği Tarife hükümleri uyarına Adalet Bakanlığı Bütçesinden ödenen 1.560,00 TL arabülülük giderinin davacından tahsili ile hazineye irat kaydına,\ndair davacı ve davalı vekilinin yüzüne karşı gerekçeli kararın tebliğinden itibaren 2 haftalık sürede İSTİNAF YOLU açık olmak üzere karar verildi. 06/12/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK'nın 55. Maddesi 1. Fıkrasının a bendi 1 numaralı başlığı",
+            "TTK m.62",
+            "TTK m.55/1-a",
+            "TBK m.58",
+            "6325 sayılı Hukuk Uyumluluklarında Arapülülük Kanunu 18/A-13. Maddesi",
+            "Arapülülük Kanunu Yönetmelği Tarife hükümleri",
+            "5070 Sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının LinkedIn'de yanlış ve yanıltıcı ifadelerle ticari faaliyetlerini etkilemeye çalıştığını iddia etti. Mahkeme, bu davranışların haksız rekabet olarak değerlendirildiğini ve davacıya 773,18 TL harç iadesi ile 9.200,00 TL vekalet ücreti tahsil edilmesini kararlaştırdı.",
+    "summary_for_model": "Davacı, davalının LinkedIn'de yanlış ve yanıltıcı ifadelerle ticari faaliyetlerini etkilemeye çalıştığını iddia etti. Mahkeme, bu davranışların haksız rekabet olarak değerlendirildiğini ve davacıya harç iadesi ile vekalet ücreti tahsil edilmesini kararlaştırdı."
+}

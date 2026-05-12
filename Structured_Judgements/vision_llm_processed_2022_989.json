@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_989.pdf",
+        "court_name": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2022/989 Esas",
+        "karar_no": "2024/612",
+        "case_subject": "Endüstriyel Tasarım (Maddi Tazminat İstemi) | Endüstriyel Tasarım (Manevi Tazminat İstemi)",
+        "dava_tarihi": "04/11/2021",
+        "karar_tarihi": "03/04/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacılar vekili, davalarında tasarım ürünlerinin üretimi ve pazarlama için işe alındığını iddia etmiştir. Davalı vekili ise bu ürünlerin tasarım departmanı tarafından geliştirildiğini ve tasarım haklarına tecavüz edildiğini iddia etmiştir. Davacılar, tasarım haklarına tecavüz nedeniyle maddi ve manevi tazminat talep etmiştir.",
+        "reasoning_text": "Mahkeme, davaların temyiz edilmesi için ilk derece mahkemesinin kararının kaldırılabileceğini ve davaların reddedildiğini kararlaştırmıştır. Mahkeme ayrıca, davaların temyiz edilmesi için vekalet ücretinin ödenmediğini ve davaların duruşmalara katılmadığını gerekçe olarak göstermiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Davacılar vekilinin istinaf talebinin HMK'nun 353/1-b-1 maddesi uyarınca ES ASTAN REDDİNE, 2-Alınması gereken 427,60 TL harçtan, peşin alınan 59,30 TL harçın mahsubu ile bakiye 368,30 TL harçın davacılardan alınarak hazineye irat kaydına, 3-Davacılar tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde birakılmasına, 4-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda, HMK'nun 361.maddesi uyarınca tebliğden itibaren iki haftalık süre içerisinde Yargıtay İlgili hukuk dairesinde temyiz yolu açık olmak üzere oy birliği ile karar verildi.03/04/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 355. madde",
+            "HMK 353/1-b-1 madde",
+            "HMK 361. madde"
+        ]
+    },
+    "summary_for_human": "Davacılar, tasarım haklarına tecavüz nedeniyle maddi ve manevi tazminat talep etmiştir. Mahkeme, davaların temyiz edilmesi için ilk derece mahkemesinin kararının kaldırılabileceğini ve davaların reddedildiğini kararlaştırmıştır.",
+    "summary_for_model": "Davacılar, tasarım haklarına tecavüz nedeniyle maddi ve manevi tazminat talep etmiştir. Mahkeme, davaların temyiz edilmesi için ilk derece mahkemesinin kararının kaldırılabileceğini ve davaların reddedildiğini kararlaştırmıştır. Davaların temyiz edilmesi için vekalet ücretinin ödenmediği ve davaların duruşmalara katılmadığı gerekçesiyle mahkeme davaları reddetmiştir."
+}

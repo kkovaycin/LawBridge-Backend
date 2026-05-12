@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2024_1155.pdf",
+        "court_name": "Bakırköy 2. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2024/1155",
+        "karar_no": "2024/1355",
+        "case_subject": "Marka İtibarının Kaybi Nedeniyle Tazminat İstemli",
+        "dava_tarihi": "20/05/2024",
+        "karar_tarihi": "19/09/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilin markasını kullanmak için yetkili olmadığını iddia ediyor. Müvekkilin internet sitesine erişim engeli konulduğunu, satışların düştiğini ve e-ticaretin zarar gördüğünü iddia ediyor. Davacı şirketin taleplerinin ve itirazlarının yasal dayanakı olmadığını iddia ediyor.",
+        "reasoning_text": "İhtiyati tedbir kararı, dava sürecinde durum ve koşulların değişmesi nedeniyle değiştirilme veya kaldırılma taleplerine karşı verildi. Davacı vekilinin istinaf talebinin reddedildiği ve dava sürecinde yeni raporların alınması gerektiği belirtildi.",
+        "verdict_text": "Dava davacı vekilinin taleplerinin reddedildiği ve istinaf talebinin reddedildiği kararı verildi. Davacı vekilinin istinaf talebinin HUK 396/2, 341/2 ve 352/1-b maddeleri gereğince usulden reddedildiği belirtildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 159",
+            "HMK 389",
+            "HMK 396",
+            "HMK 396/2",
+            "HMK 341/2",
+            "HMK 352/1-b",
+            "5070 Sayılı Elektronik İmza Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, müvekkilin markasını kullanmak için yetkili olmadığını iddia ediyor. İhtiyati tedbir kararı, dava sürecinde durum ve koşulların değişmesi nedeniyle değiştirilme veya kaldırılma taleplerine karşı verildi. Davacı vekilinin istinaf talebinin reddedildiği ve dava sürecinde yeni raporların alınması gerektiği belirtildi.",
+    "summary_for_model": "Dava, marka ihlali ve hak ihlali iddialarıyla ilgili. İhtiyati tedbir kararı, dava sürecinde durum ve koşulların değişmesi nedeniyle değiştirilme veya kaldırılma taleplerine karşı verildi. Davacı vekilinin istinaf talebinin reddedildiği ve dava sürecinde yeni raporların alınması gerektiği belirtildi. SMK 159, HMK 389, HMK 396, HMK 396/2, HMK 341/2 ve HMK 352/1-b maddeleri ve 5070 Sayılı Elektronik İmza Kanunu bahsedildi."
+}

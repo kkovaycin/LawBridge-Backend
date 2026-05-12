@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2018_258.pdf",
+        "court_name": "T.C. İstanbul Anadolu 1. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2018/258",
+        "karar_no": "2018/812",
+        "case_subject": "Manevi Tazminat Davası",
+        "dava_tarihi": "28/04/2016",
+        "karar_tarihi": "11/09/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davayı manevi tazminat talep ederek açtı. Müvekkil şirketin çocuk taciz skandalı ve sosyal medyada kampanya yapması nedeniyle dava açıldı. Davacı, davanın son derece haksız olduğunu iddia etti.",
+        "reasoning_text": "Mahkeme, davanın reddine karar verdi. Davacı vekilinin açıklamaları ve davacı şirketin suçlu olduğu iddiaları yetersiz bulundu. Davacı vekilinin davayı kötüye kullanması nedeniyle dava reddedildi.",
+        "verdict_text": "1-Davanın REDDİNE, 2-Alınması gereken 35,90 TL karar harcının peşin alınan 170,78 TL'den alınarak bakiye 134,88 TL'nin karar kesinleştiğinde ve talep halinde davacıya iadesine, 3-Davalı lehine AAÜT uyarınca taktir olunan 2.180,00 TL vekalet ücretinin davacıdan alınarak davalı tarafa verilmesine, 4-Davacı tarafından sarf olunan yargılama giderlerinin üzerinde bırakılmasına, 5-Karar kesinleştiğinde ve talep halinde kullanılmayan gider avansının yatıran tarafa iadesine, Dair, davacı vekilinin yüzüne karşı, davalı tarafın yokluğunda kararın tebliğiinden itibaren iki hafta içerisinde İstinaf yolu açık olmak üzere verilen karar açıkça okunup, usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "AHS 10. Maddesi",
+            "T.C. Anayasası'nın 26. Maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkil şirketin çocuk taciz skandalı ve sosyal medyada kampanya yapması nedeniyle manevi tazminat talep etti. Mahkeme, davayı reddetti ve davacı vekilinin açıklamalarını yetersiz buldu.",
+    "summary_for_model": "Davacı vekili, davayı manevi tazminat talep ederek açtı. Mahkeme, davayı reddetti ve davacı vekilinin açıklamalarını yetersiz buldu. Davacı vekilinin davayı kötüye kullanması nedeniyle dava reddedildi."
+}

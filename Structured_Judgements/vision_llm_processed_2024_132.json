@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2024_132.pdf",
+        "court_name": "T.C. İSTANBUL 3. FİKRÎ VE SİNÂÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2024/132",
+        "karar_no": "2025/44",
+        "case_subject": "Markaya Tecavüz - Haksız Rekabetin Tespiti, Men'i, Ref'i, Markanın Hükümşüzlüğü ve Sıçilden Terkini",
+        "dava_tarihi": "16/08/2024",
+        "karar_tarihi": "14/02/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davalar, aynı mahkemede aynı düzey ve sıfattaki hukuk mahkemelerinde açılmış ve aralarında bağlantı bulunan davalardır. Davaların birleşmesi, HKM 166/1 maddesine göre kararlaştırılmıştır.",
+        "reasoning_text": "Davaların birleşmesi, HKM 166/1 maddesine göre, davaların aynı düzey ve sıfattaki hukuk mahkemelerinde açılmış olması ve aralarında bağlantı bulunması nedeniyle kararlaştırılmıştır. Birleşme kararı, ilk davanın açıldığı mahkemede verilmiştir.",
+        "verdict_text": "1-Bu dava ile ... 2. FSHHM'nin ... E. sayılı davaları arasında hukuki ve filii irtibat bulunması, biri hakkında verilecek kararın diğer davayı etkileyecek olması nedeniyle HKM 166/1 maddesi gereğince her iki davanın BİRLEŞTİRİLMESİNE, 2-Davanın esasının kapatılarak, yargılamanın birleşme kararı verilen ... 2. FSHHM'nin ... E. sayılı davası üzerinden yürütülmesine, dava dosyasının birleştirme kararı verilen ... 2. FSHHM'nin ... E. sayılı dava dosyası içine gönderilmesine, 3-Harç ve yargılama giderlerinin birleşen davada değerlendirilmesine, Dair, taraf vekillerinin yokluğunda kararın tebliğiğinden itibaren 2 haftalık süre içinde İSTİNAF YASA YOLU AÇIK olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 25/6",
+            "TTK",
+            "HKM 166/1",
+            "İSTİNAF YASA"
+        ]
+    },
+    "summary_for_human": "İstanbul 3. Fikri ve Sınai Haklar Hukuk Mahkemesi, iki davayı birleştirerek tek bir süreçte ele almıştır. Birleşme kararı, HKM 166/1 maddesine göre verilmiştir.",
+    "summary_for_model": "Mahkeme, iki davayı HKM 166/1 maddesine dayanarak birleştirmiştir. Birleşme kararı, ilk davanın açıldığı mahkemede verilmiştir. Davaların birleşmesi, davaların aynı düzey ve sıfattaki hukuk mahkemelerinde açılmış olması ve aralarında bağlantı bulunması nedeniyle kararlaştırılmıştır."
+}

@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2021_302.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi Türk Milletinden İstanbul Mahkemesi Kararı",
+        "esas_no": "2020/185 E",
+        "karar_no": "2021/281",
+        "case_subject": "Marka (Tecavüzün Giderilmesi İstemi)",
+        "dava_tarihi": "11/03/2021",
+        "karar_tarihi": "11/03/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın 'lulu' markası altında uzun yıllardır içkisiz cafe-restoran işletmeciliği sektöründe hizmet sunduğunu, markanın tanınmış seviyesine ulaştığını ve çeşitli tescil numaralarıyla kaydolduğunu iddia etmiştir. Mahkeme, davanın internet sitesi, sosyal medya hesapları ve diğer platformlarda davacıya ait içerikleri kaldırma talebini reddetmiştir.",
+        "reasoning_text": "Mahkeme, HMK 389 ve 390 maddeleri çerçevesinde, davanın haklılığını yaklaşıksız olarak ispat edemediğini ve davacı vekilinin muhtemel zararlarına karşı davanın terminat alınmadığını tespit etmiştir. Ayrıca, HMK 391/2 ve 392/2 maddeleri çerçevesinde, ihlati tedbir talebinin uygunsuz olduğunu ve davanın istinaf talebinin kabul edilmediğini karar vermiştir.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere; 1- Davacı vekilinin istinaf isteminin KABULÜ ile, 2- İstanbul 2.Fikri ve Sınai Haklar Hukuk Mahkemesi'nin tarih ve 2020/185 E. sayılı Kararının 6100 Sayılı HMK'nun 353/1-a/6 hükmü uyarınca KALDIRILMASINA, 3- Dosyanın, yukarıda gösterilen biçimde inceleme ve değerlendirme yapılmak üzere mahkemesine GÖNDERILMESINE, 4- İstinaf yasa yoluna başvuran davalı tarafından peşin olarak yatırılan 59,30 TL maktu istinaf karar ve ilam harcının talebi halinde kendisine İADESİNE, 5- Dosya üzerinde inceleme yapılması sebebiyle vekalet ücreti takdirine YER OLMADIĞINA, 6- İstinaf yasa yoluna başvuran davalı tarafından istinaf aşamasında yapılan giderlerin ilk derece mahkemesince verilecek nihai kararda dikkate alınmasına, 6100 Sayılı HMK'nun 353/1-a/6. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nun 362/1-f ve 394/(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi. 11/03/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 389",
+            "HMK 390",
+            "HMK 391/2",
+            "HMK 392/2",
+            "6100 Sayılı HMK 353/1-a/6",
+            "6100 Sayılı HMK 362/1-f",
+            "6100 Sayılı HMK 394/(5)"
+        ]
+    },
+    "summary_for_human": "Davacı, markasının internetteki içeriğinin kaldırılmasını talep etti ancak mahkeme bu talebi reddetti. Davacı vekili istinaf talebinde bulundu ancak mahkeme bu talebi de reddetti.",
+    "summary_for_model": "Davacı vekili, markanın internetteki içeriğinin kaldırılmasını talep etti. Mahkeme, HMK 389 ve 390 maddeleri çerçevesinde davanın haklılığını ispat edemediğini ve davacı vekilinin muhtemel zararlarına karşı davanın terminat alınmadığını tespit etti. Ayrıca, HMK 391/2 ve 392/2 maddeleri çerçevesinde ihlati tedbir talebinin uygunsuz olduğunu ve davanın istinaf talebinin kabul edilmediğini karar verdi."
+}

@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2018_3261.pdf",
+        "court_name": "Bakırköy 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2018/3261 Esas",
+        "karar_no": "2018/2312 Karar",
+        "case_subject": "Faydali Model Belgesi (Tecavüzün Tespiti İstemi)",
+        "dava_tarihi": "03/09/2018",
+        "karar_tarihi": "01/11/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, 2015/01504 tescil numaralı çocuk akülü araçları için dijital yapılması isimli faydalı model ve 2015/04801 başvuru numaralı traktör oyuncağı araba tasarımı ile ilgili tecavüzün tespiti talebinde bulundu. Davalı taraf, 2004 yılında aynı ürünü katalogda gösterdiğini iddia etti. Mahkeme, 2018/183 sayılı dosyada davacıya ait 2015/04801 numaralı endüstriyel tasarım ile ilgili araştırma raporunu inceledi ve benzerlik bulamadı.",
+        "reasoning_text": "Mahkeme, davacının iddiasını reddetti çünkü 2004 katalogundaki ürünle davacıya ait tasarım arasında benzerlik bulunmadı. Ayrıca, davacı vekilinin istinaf talebinin kısmen kabulüne karar verildi ve dava davacı tarafından açıldı.",
+        "verdict_text": "İstinaf istemi KISMEN KABULÜNE, KISMEN REDDİNE. 6100 sayılı HMK'nin 353/1-a-6 maddesi gereğince Bakırköy 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi'nin 2018/337 E.ve 03/09/2018 günlü ara kararının KALDIRILMASINA, Dairemizin kararında belirtiltiği üzere 6769 sayılı HMK 159/2-c maddesi gereğince karar verilmesi için dosyanın mahkemesine GÖNDERİLMESİNE, Davacı... Plastik tarafından yatırılan 35,90 TL harcin talebi halinde kendisine iaadesine, İstinaf aşamasında davacı tarafından yapılan 98,10 TL istinaf yoluna başvuru harci ile 49,00 TL posta ve tebligat masrafı olmak üzere toplam 147,10 TL'nin davaldan alınarak davacıya verilmesine, İstinaf incelemesi durusmaz yapıldığından istinaf aşaması için ayrıca avukatlık ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda oy birliği ile ve kesin olarak karar verildi. 01/11/2018"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK",
+            "6769 sayılı Sınai Mülkiyet Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, faydalı model ve tasarım için tecavüz iddiasıyla dava açtı. Mahkeme, 2004 katalogundaki ürünle davacıya ait tasarım arasında benzerlik bulamadı ve iddiasını reddetti.",
+    "summary_for_model": "Davacı, 2015/01504 ve 2015/04801 numaralı faydalı model ve tasarım için tecavüz talebinde bulundu. Mahkeme, 2004 katalogundaki ürünle benzerlik bulamadı ve iddiasını reddetti. İstinaf talebi kısmen kabul edildi."
+}

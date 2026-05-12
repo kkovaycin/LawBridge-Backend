@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_1819.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2023/1819",
+        "karar_no": "2023/1411",
+        "case_subject": "İhtiyati haciz talebinin reddine ilişkin kararın alınıp alınmayacağı",
+        "dava_tarihi": "09/08/2023",
+        "karar_tarihi": "21/09/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, karşı tarafa ofis koltuğu siparişiyle ilgili ödeme talep etmiştir. Karşı taraf, ödemeyi yapmamış ve koltukları kargo ile göndermemiştir. Davacı vekili, bu durumdan dolayı 108.000 TL'lik alacak iddia etmiştir. İkinci derece mahkemesi, davacı vekilinin talebini reddetmiştir.",
+        "reasoning_text": "İkinci derece mahkemesi, davacı vekilinin talebini reddetmiştir çünkü ödeme dekontlarında alacaklı sube yazan kısmın açıkça yazılı olduğu ve whatsapp yazışmalarının kim tarafından yazıldığının belirlendiği için anlaşmanın mahiyeti ve kapsamı net değildir. Ayrıca, alacak miktarının belirlendiği sonuca varılamaz.",
+        "verdict_text": "İkinci derece mahkemesi, davacı vekilinin talebini reddetmiştir. Alacaklı vekilinin istinaf başvurusunun esas olarak reddine karar verilmiştir. Hüküm, HMK'nun 353(1)b-1 maddesi ve HMK 362(1)-f maddesi uyarınca kesin olarak verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İK'nin 257. maddesi",
+            "İK'nin 258/1,c.2 maddesi",
+            "HMK'nun 353(1)b-1 maddesi",
+            "HMK 362(1)-f maddesi"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir vekil tarafından karşı tarafa yapılan ofis koltuğu siparişiyle ilgili ödeme talebinin reddedilmesiyle ilgilidir. Davacı vekili, karşı tarafın ödemeyi yapmadığını ve koltukları kargo ile göndermediğini iddia etmiştir. Ancak ikinci derece mahkemesi, talebin reddedilmesine karar vermiştir. Mahkeme, ödeme dekontlarında ve whatsapp yazışmalarında anlaşmanın mahiyeti ve kapsamının net olmadığı için talebin reddedilmesi gerektiğini düşünmüştür.",
+    "summary_for_model": "Dava, İK'nin 257. ve 258/1,c.2 maddeleri çerçevesinde incelenmiştir. İkinci derece mahkemesi, alacaklı vekilinin talebini reddetmiştir çünkü ödeme dekontlarında ve whatsapp yazışmalarında anlaşmanın mahiyeti ve kapsamı net değildir. Hüküm, HMK'nun 353(1)b-1 ve 362(1)-f maddeleri uyarınca kesin olarak verilmiştir."
+}

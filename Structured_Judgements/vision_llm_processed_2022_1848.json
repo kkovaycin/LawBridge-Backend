@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2022_1848.pdf",
+        "court_name": "BAKIRKÖY 2. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2022/1848 Esas",
+        "karar_no": "2024/1053 Karar",
+        "case_subject": "Tasarım Hakki İddiaları ve Tazminat Talepleri",
+        "dava_tarihi": "24/08/2020",
+        "karar_tarihi": "01/07/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davalar, bir oyuncu kolu tasarımının piyasaya sunulması ve satışı ile ilgili hak ihlalleri ve tazminat taleplerini içermektedir. Tasarımın yenilik ve ayırt edicilik niteliği tartışılmıştır. Davacılar, tasarımın ticari değerini kaybetmesini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, tasarımın yenilik ve ayırt edicilik niteliğini reddetmiştir. Tasarımın ticari değerinin kaybetilmesi iddiası reddedilmiştir. İstinaf talepinin kabul edilmediği ve davaların reddedildiği kararı verilmiştir.",
+        "verdict_text": "Mahkeme, asıl davanın reddine, birleşen davanın kabulüne, birleşen dosya davalısı adına tescilli olan ... tescil numaralı tasarımın hükümsüzlüğüne, karar kesinleştiğinde sicilden terkine karar vermiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK) 353, 356 maddeleri",
+            "Sınai Mülkiyet Kanunu (SMK) 56, 57, 77 maddeleri"
+        ]
+    },
+    "summary_for_human": "Mahkeme, bir oyuncu kolu tasarımının yenilik ve ayırt edicilik niteliğini reddetmiştir. Tasarımın ticari değerinin kaybetilmesi iddiası reddedilmiştir. İstinaf talepinin kabul edilmediği ve davaların reddedildiği kararı verilmiştir.",
+    "summary_for_model": "Tasarım hakki iddiaları ve tazminat talepleri ile ilgili dava. Tasarımın yenilik ve ayırt edicilik niteliği reddedildi. Ticari değer kaybetme iddiası reddedildi. İstinaf talebi reddedildi."
+}

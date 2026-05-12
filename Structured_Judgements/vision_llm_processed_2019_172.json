@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2019_172.pdf",
+        "court_name": "T.C. İZMİR FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2019/172 Esas",
+        "karar_no": "2023/70",
+        "case_subject": "Marka hakları ve tasarım tescili ihlali davası",
+        "dava_tarihi": "27/12/2019",
+        "karar_tarihi": "03/10/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, dava konusu tasarım tescili ihlali iddiasıyla dava açtı. Davacı, davacı vekilinin tasarım tescili ihlali nedeniyle maddi ve manevi tazminat talep etti. Savunma, davacı vekilinin tasarım tescili ihlali iddiasının geçersiz olduğunu iddia etti.",
+        "reasoning_text": "Davacı vekili, dava konusu tasarım tescili ihlali nedeniyle maddi ve manevi tazminat talep etti. Savunma, davacı vekilinin tasarım tescili ihlali iddiasının geçersiz olduğunu iddia etti. Mahkeme, dava konusu tasarım tescili ihlali iddiasının geçersiz olduğunu tespit etti.",
+        "verdict_text": "DAVAYI AÇILMAMIŞ SAYILMASINA, Alınması gereken 269,85 TL'nin, davacı tarafından peşin olarak yatırılan 145,16 TL harçtan mahsup edilerek, kalan 124,69 TL harçın davacıdan tahsiline, Davalı kendisini vekil ile temsil ettirdiğinden, AAÜT.'ne göre belirlenen 25500,00 TL vekâlet ücretinin davacıdan alınarak, davacı tarafa ödenmesine, Davacı tarafından yapılan toplam yargılama giderinin davacı taraf üzerinde bırakılmasına, Kalan ve kullanılmayan gider avanslarının karar kesinleştiğinde talep beklenmesine, Dair davacı vekilinin yüzüne karşı davalı tarafın yokluğunda Gerekçeli hükmün tebliğinden itibaren 2 hafta süre içinde, İzmir Bölge Adliye Mahkemesi ilgili Hukuk Dairesi nezdiinde İstinaf yasa yolu açık olmak üzere verilen karar usulen okunup anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK M. 151/1",
+            "SMK M. 151/2-b",
+            "HMK 150.maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, dava konusu tasarım tescili ihlali nedeniyle maddi ve manevi tazminat talep etti. Savunma, davacı vekilinin tasarım tescili ihlali iddiasının geçersiz olduğunu iddia etti. Mahkeme, dava konusu tasarım tescili ihlali iddiasının geçersiz olduğunu tespit etti.",
+    "summary_for_model": "Davacı vekili, dava konusu tasarım tescili ihlali nedeniyle maddi ve manevi tazminat talep etti. Savunma, davacı vekilinin tasarım tescili ihlali iddiasının geçersiz olduğunu iddia etti. Mahkeme, dava konusu tasarım tescili ihlali iddiasının geçersiz olduğunu tespit etti. Davacı vekili, dava konusu tasarım tescili ihlali iddiasıyla dava açtı. Davacı, davacı vekilinin tasarım tescili ihlali nedeniyle maddi ve manevi tazminat talep etti."
+}

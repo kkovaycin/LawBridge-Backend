@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2020_1647.pdf",
+        "court_name": "İstanbul Anadolu 2. Fikrî ve Sınaî Haklar Hukuk Mahkemesi",
+        "esas_no": "2020/1647 Esas",
+        "karar_no": "2020/1720 Karar",
+        "case_subject": "Marka (Marka İtibarının Kaybi Nedeniyle Tazminat İstemli)",
+        "dava_tarihi": "13/07/2020",
+        "karar_tarihi": "16/10/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; müvekkilin markasının yaratıcısı ve marka üzerinde üstün hak sahibi olduğu, kendi ismi ile özdeş olan \"...\" ibaresi için marka tescili başvurusunda bulunduğu ve Türk Patent ve Marka Kurumu tarafından \"...\" markasının kendi adına tescili sağlandığı. Müvekkili ile karşı tarafın, 08.06.2017 tarihinde \"...\" isminin işyerinde kullanılmasına dair sözleşme akdetttiklerini. Davalının \"...\" ismini ve markasını hem iş yerinde hem de sosyal medyada sözleşmeye aykırı olarak kullanarak marka hakkına tecavüz ettiğini. Davalı kendisine böyle bir kullanım hakkı verilmediğini. Müvekkiline ait isim ve görselleri sosyal medya hesaplarında şahsi manada kazanç elde etmek amacı ile sözleşmeye aykırı olarak kullandığını. Bakırköy ... Noterliğinden keside edilen ... yevmiye nolu ve 09.07.2019 tarihli ihbarname ile sözleşme hükümlerine aykın davranılması nedeniyle maddi ve manevi zararlara uğradıklarını, sözleşmenin feshedildiğini, Filin tecavüz olup olmadığının tespiti. Muhtemel tecavüzün önlenmesi. Tecavüzün kaldırılması ile maddi ve manevi zararın tazminatini talep ve dava etmiştir.",
+        "reasoning_text": "İstanbul Anadolu 2. Fikrî ve Sınaî Haklar Hukuk Mahkemesi'nin 13/07/2020 tarihli ara kararınla; \"davacı adına tescilli olduğu belirtilen ve İstanbul Anadolu 1. FSHM 2019/124 D.iş sayılı dosya içerisinde bulunan bilirkişi raporuna göre tescil başvurusunda bulunan ... tescil nolu ... markasının 29.11.2018 tarihinden itibaren geçerli olmak üzere 13.11.2019 tarihinde davacı adına tescil edildiği, davacı tarafından kendisine ait olan ve sonradan marka olarak tescil başvurusu yapılan isim hakkının kullanılmasına ilişkin sözleşmenin davacı tarafından Bakırköy ...Noterliğinin ... yevmiye nolu 09/07/2019 tarihli ihbarname ile feshedildiği fakat dosyaya tebliğ şerhinin eklenmediği\" gerekçesiyle tedbir talebinin reddine karar verilmiştir.",
+        "verdict_text": "İstanbul Anadolu 2. Fikrî ve Sınaî Haklar Hukuk Mahkemesi'nin 13/07/2020 tarihli 2020/260 Esas sayılı ara kararının KALDIRILMASINA, Dosyanın, tedbir kararı verilmek üzere, karar veren ilk derece mahkemesine gönderilmesine, İstinaf talebi kabul edildiğinden, istinaf peşin harcinin talebi halinde davacı tarafa iadesine, İstinaf yargılama giderleri olarak; Davacı avansından kullanıldığı anlaşlanan; 148,60 TL istinaf kanun yoluna başvurma harci ile 102,00 TL (posta-teb-müz) masrafının davalından alınarak, davacıya verilmesine, İstinaf incelemesi duruşmasız yapıldığından avukatlık ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucu 16/10/2020 tarihinde HMK'nın 353/1-a-6 maddesi uyarınca oybirliğiyle kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353/1-a-6",
+            "SMK 159",
+            "HMK 389"
+        ]
+    },
+    "summary_for_human": "Davacı, markasının kullanılmasına ilişkin sözleşme ihlali nedeniyle tazminat talep etmiştir. İlk derece mahkemesi tedbir talebini reddetmiştir. İstinaf başvurusu kabul edilerek dosyanın ilk derece mahkemesine geri gönderilmiştir.",
+    "summary_for_model": "Dava, markanın kullanılmasına ilişkin sözleşme ihlali ve tazminat talebini içerir. İlk derece mahkemesi tedbir talebini reddetmiştir. İstinaf başvurusu kabul edilerek dosyanın ilk derece mahkemesine geri gönderilmiştir. HMK 353/1-a-6, SMK 159 ve HMK 389 maddeleri bahsedilmiştir."
+}

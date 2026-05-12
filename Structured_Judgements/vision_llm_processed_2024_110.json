@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2024_110.pdf",
+        "court_name": "T.C. İSTANBUL 1. FİKRİ VE SANATİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2024/110 Esas",
+        "karar_no": "2025/58",
+        "case_subject": "Marka hukuku ve ticari hak ihlali davası",
+        "dava_tarihi": "11/06/2024",
+        "karar_tarihi": "27/02/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekilinin 2004'ten beri aktif olan ve Amerika'da tanınmış bir firma olan markasını 2011'den beri aktif olarak kullandığını iddia ediyor. Davacı, davalının eczacılık depolarına ithalname göndermekle, markasının kullanımını engellemek amacıyla davalının markasını kullanmanın engellenmesini talep ediyor. Davalı ise, markanın tanınmış bir marka olmadığını ve davacının 2011'de tescil başvurusunun görülmemiş olduğunu savunuyor.",
+        "reasoning_text": "Mahkeme, dava konusu markanın SMK 6/3, 6/6, 5/1-b, 5/1-c, 5/1-e maddeleri kapsamında hukuksuzluğu olmadığını ve SMK 6/9 maddesi kapsamındaki taleplerin mahkemeye ait olmadığını karar vererek davayı reddetmiştir.",
+        "verdict_text": "1-Taraflar arasında imzalanan ve mahkemeye ibraz edilen 22.01.2025 havale tarihli 13 madde 9 sayfalık SULH PROTOKOLÜNÜN TASDIĞİNE, HMK 315. maddesi gereğince; Sulh nedeniyle ESAS HAKKINDA BİR KARAR VERİLMESİNE YER OLMADIĞINA, 2-615,40 TL ilam harcının 427,60-TL peşin harctan mahsubu ile eksik kalan 187,80-TL eksik harcin davacidan tahsiline, 3-Sulh protokolünde taraflar karşılıklı olarak birbirlerinden vekalet ücreti ve yargılama gideri talep etmediklerinden, bu konuda hüküm kurulmasına yer olmadığına, 4-Tarafların yapmış olduğu giderlerin üzerlerinde bırakılmasına, 5-Artan gider avansının karar kesinleştiğinde ve talebi halinde taraflara iadesine, Dair karar tarafların yokluğunda, gerekli kararın taraflara tebliginden itibaren 2 haftalık süre içinde İSTANAF YASA YOLU AÇIK OLMAK ÜZERE karar verildi. 27/02/2025 Katip"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 6/3",
+            "SMK 6/6",
+            "SMK 5/1-b",
+            "SMK 5/1-c",
+            "SMK 5/1-e",
+            "SMK 6/9",
+            "Hukuk Muhakemeleri Kanunu 315. Maddesi",
+            "İSTANAF YASA"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markasını kullanmakla suçluyor. Mahkeme, markanın hukuksuz olduğu sonucuna vararak davayı reddetti.",
+    "summary_for_model": "Davacı, davalının markasını kullanmakla suçluyor. Mahkeme, SMK maddeleri kapsamında markanın hukuksuz olmadığını ve davayı reddetti."
+}

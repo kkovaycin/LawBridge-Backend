@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_270.pdf",
+        "court_name": "T.C. İSTANBUL 5. ASLİYE TİCARET MAHKEMESİ",
+        "esas_no": "2023/270",
+        "karar_no": "2024/179",
+        "case_subject": "Alacak (Ticari Nitelikli Hizmet Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "14/04/2023",
+        "karar_tarihi": "06/03/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı tarafın sosyal medya hesaplarında ticari niteliği korumak için gerekli adımları atmadığını iddia etmiştir. Davalı tarafın sözleşme gereği yükümlülüklerini yerine getirmemesi nedeniyle davacı tarafın haklı olarak sözleşmeyi feshettiğini belirtmiştir.",
+        "reasoning_text": "Mahkeme, davalı tarafın sözleşme maddelerine uygun şekilde hareket etmediğini ve bu nedenle sözleşmenin feshedildiğini kabul etmiştir. Davacı tarafın haklı olarak davayı açtığı ve davalı tarafın yükümlülüklerini yerine getirmemesi nedeniyle hak kazandığı tespit edilmiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle, 1-Davanın reddine, 2-Harçlar Yasası'na göre alınması gereken 427,60-TL karar ve ilam harcının peşin olarak alınan 1.963,92-TL harçtan mahsubu ile fazla harç olan 1.536,32-TL'nin karar kesinleştiğinde ve talep halinde davacıya iadesine, 3-Avukatlık Asgari Ücret Tarifesinin gereğince davalı vekiline takdir olan 18.400,00-TL vekalet ücretinin davacıdan tahsili ile davalıya verilmesine, 4-Davacı tarafından sarf edilen yargılama giderlerinin kendi üzerinde bırakılmasına, 5-Arabuluculuk ücreti olan 3.120,00 TL'nin davacıdan tahsili ile hazinede gelir kaydına, 6-Bakiye gider avansının karar kesinleştiğinde yatıran tarafa iadesine, Dair, davalı vekili ile davacı şirketi yetkilisinin yüzüne karşı tebliğden itibaren 2 haftalık sürede HMK 341 maddesi uyarınca istinaf yolu açık olmak üzere karar verildi. 06/03/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Ticaret Kanunu",
+            "Harçlar Yasası",
+            "Avukatlık Asgari Ücret Tarife",
+            "Halk Mahkemeleri Kanunu (HMK)"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı tarafın sosyal medya hesaplarında ticari niteliği korumak için gerekli adımları atmadığını iddia etti. Mahkeme, davalı tarafın sözleşme maddelerine uygun şekilde hareket etmediğini kabul etti ve davacı tarafın haklı olarak davayı açtığını tespit etti.",
+    "summary_for_model": "Davacı, davalı tarafın sosyal medya hesaplarında ticari niteliği korumak için gerekli adımları atmadığını iddia etti. Mahkeme, davalı tarafın sözleşme maddelerine uygun şekilde hareket etmediğini kabul etti ve davacı tarafın haklı olarak davayı açtığını tespit etti. Davacı tarafın hak kazandığı ve davalı tarafın yükümlülüklerini yerine getirmemesi nedeniyle hak kazandığı tespit edilmiştir."
+}

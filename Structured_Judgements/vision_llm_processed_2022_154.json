@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2022_154.pdf",
+        "court_name": "T.C. BAKIRKÖY 2. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2022/154 Esas",
+        "karar_no": "2022/187",
+        "case_subject": "Endüstriyel Tasarım (Maddi Tazminat İstemli)",
+        "dava_tarihi": "23/06/2022",
+        "karar_tarihi": "03/10/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilin tekstil sektördeki faaliyetlerinde ürün gelişimine özen gösterdiğini ve geliştirilen tasarımların korunması için özgün tasarımları TPMK nezdinde tescil ettirdiğini iddia etmiştir. Müvekkilin ... numaralı ürünlerin münhasır hak sahibi olduğunu, Bakırköy ... Fikri ve Sınai Haklar Hukuk Mahkemesi'nin ... değişik iş sayılı dosyasıyla davalı işyerinde keşif ve bilirkişi incelemesi yapıldığını, müvekkiline ait tasarım ile davalı işyerinde ele geçiren ürünlere ilişkin görseller üzerinde mahkemece yapılacak bilirkişi incelemesinde de tasarım hakkına tecavüzün varlığının tespit edileceğini, davalı tarafın halihazırda tespit işlemi sonrasında da satışa devam ettiğini, davalı tarafların satışlarının toptan olduğunu, davalı tarafın instagram sayfasının ön yüzünde ve yapılan delil tespitindeki dosyada malların toptan satışının yapıldığını sabıt olduğunu, açıklanan nedenlerle davanın tasarım hakkına tecavüzünün tesbitini, durdurulmasını, önlenmesini, 1.000,00 TL maddi ve 25.000,00 TL manevi tazminatın delil tespitinin yapıldığı 02/03/2022 tarihinden itibaren işleyecek değişken oranlardaki ticari reeskont faizi ile birlikte davalıdan davacıya verilmesine, hükmün ilana, yargılama giderleri ile vekalet ücretinin davalı üzerinde bırakılmasına karar verilmesini talep ve dava etmiştir.",
+        "reasoning_text": "Davacı vekili, müvekkilin, nezdinde bulunan 18 adet ürünün tasarımının herkese açık platform olan ... uygulamasında görüldüğünü, görüldüğü tarih itibarıyla davacı yanın henüz belirttiği tasarımlara ilişkin tescil başvurusunun, münhasır hak sahibi olduğuna dair bütünde bir yazı bulunmadığını, müvekkilin, herkese açık olan ve herkesin yararlanabildiği bir uygulamadan tasarımı görmesi ve gördüğü tarihte yaptığı inceleme neticesinde tescille yönelik bir başvuru olmamasının dolayısıyla tasarıma tecavüz durumunun söz konusu olmadığını, değişik iş sayılı dosyasından yapılan tespit sonrasında satışa devam edildiği iddialarının gerçekçi yanşıtmadığını, tasarımlara yönelik herhangi bir satışta bulunmadığını, buna ilişkin davacı tarafça dosyaya delil sunulmadığını, davacı yanın tazminata ilişkin taleplerini kabul etmediklerini, hakısız olarak açılan davanın reddine karar verilmesini talep etmiştir.",
+        "verdict_text": "Yukarıda açıklanan gerekçelerle; 1-Davacının davasının feragat nedeniyle REDDİNE, 2-Pesin alınan 444,02 TL harçtan, alınması gereken 26,90 TL harcin mahsubu ile arta kalan 417,12 TL harçın karar kesinleştiğinde talep halinde davacıya iadesine, 3-Taraflar karşılıklı olarak vekalet ücreti ve yargılama giderlerinden feragat ettiklerinin bildirilmesi karşısında, vekalet ücreti konusunda davalı lehine vekalet ücreti takdirine yer olmadığına ve yapılan yargılama giderlerinin davacı üzerinde bırakılmasına, 4-Harcanmayan avansın karar kesinleştiğinde yatırana iadesine, 5-Kararın taraflara tebliğine, Kararın taraflara tebliğinden itibaren 2 haftalık süre içerisinde İstanbul BAM nezdinde istinaf yolu açık olmak üzere dosya üzerinden yapılan inceleme sonucunda karar verildi.03/10/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Patent ve Marka Kurumu",
+            "TPMK"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkilin tekstil ürünlerinin tasarımını korumak için TPMK'da tescil ettirdiğini iddia etti. Mahkeme, davanın feragat nedeniyle reddedildiğini ve tarafların vekalet ücreti ve yargılama giderlerinden feragat ettiğini belirledi.",
+    "summary_for_model": "Dava, tekstil ürünlerinin tasarım hakları ve ticari tazminat taleplerini içermektedir. Mahkeme, davanın feragat nedeniyle reddedildiğini ve tarafların vekalet ücreti ve yargılama giderlerinden feragat ettiğini karar verdi."
+}

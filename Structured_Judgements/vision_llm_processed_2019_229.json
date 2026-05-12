@@ -1,0 +1,37 @@
+{
+    "meta_data": {
+        "file_name": "2019_229.pdf",
+        "court_name": "T.C. ANKARA 5. FİKRİ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2019/229 Esas",
+        "karar_no": "2021/310",
+        "case_subject": "Marka Hakki İhlali / Haksız Rekabet",
+        "dava_tarihi": "23/10/2019",
+        "karar_tarihi": "16/07/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davalar, davacı vekili tarafından KÜNEFE markasının ticari faaliyetlerinde kullanıldığını iddia ediyor. Davalılar, davacı vekilinin markayı ihlal ettiğini, aynı pazarda rakip olarak davacı vekilinin kazanç kaybına yol açtığını ve davacı vekilinin ticari faaliyetlerini durdurması gerektiğini iddia ediyor.",
+        "reasoning_text": "Mahkeme, davacı vekilinin davayı açmadan önce zorunlu arabulucuya müracaat etmediğini ve davayı usulden reddettiğini tespit etti. Davaların kabulüne rağmen davacı vekilinin davayı savunmadığı ve davaların sonucunun kararlaştırılmasına rağmen davacı vekilinin davayı savunmadığı tespit edildi.",
+        "verdict_text": "Davaların kabulü ile davalıların davacı vekilinin marka hakki ihlali ve haksız rekabet oluşturucu eylemlerinin bulunduğunun tespitine, bu eylemlerin önlenmesine, durdurulmasına, taklit ambalajlara, tabelalara ve tecavüz oluşturan tüm eşyalara el konmasına, muhafazasına, satışının durdurulmasına, imhası talepleri hakkında karar verilmesine yer olmadığına, davacı vekilinin davacı markaları ile iltisat oluşturan markasal kullanımlarla birlikte web sayfalarında reklam yapılmasına ve bu markasal kullanımlarla internet üzerinden satış yapılmasına durdurulmasına, karar kesinleştiğinde masrafi mütessilien davallarca karşılanmak üzere hükmün özetinin ulusal düzeyde yayın yapan en yüksek tirajlı 5 gazetedende birinde ilan edilmesine, bilirkisi Tuğba Yılmaz tarafından tanzim edilen 17/01/2021 tanzim tarihli bilirkisi raporunun kararın iki sayılmasına, 2-Harçlar Kanunu uyarınca alınması gereken 59,30 TL maktu karar ve ilam harcından peşin alınan 54,40 TL'nin düşümü ile bakiye kalan 4,90 TL'nin mütessilien davallardan tahsili ile hazneye gelir kaydına, 3-Davacı kendisini vekil ile temsil ettirdiğinden karar verildiği tarihte yürürlükte bulunan AAÜT m.3 hükmü gereği hesaplanan 5.900,00 TL vekalet ücretinin mütessilien davallardan alınarak davacıya verilmesine, 4-Davacı tarafından yapılan 44,40 TL başvurma harcı, 54,40 TL peşin harç, 8,50 TL vekalet harcı, 650,00 TL delil tespiti bilirkisi ücreti, 500,00 TL bilirkisi ücreti, 10,91 TL dosya kapakı masrafı, 589,75 TL posta ve tebligat masrafı, 18,40 TL müzekkere masrafı olmak üzere toplam 1.876,36 TL yargılama giderinin mütessilien davallardan alınarak davacıya verilmesine, 5-HMK m.333 hükmü gereği karar kesinleştiğinde artan avansın yatıran tarafa resen iadesine, Dair, Davacı vekilinin yüzüne karşı, davalılar ... ve ...'in yokluğunda, HMK m.341 ve m.345 hükümleri gereği kararın taraflara tebliginden itibaren iki hafta içerisinde Ankara Bölge Adliye Mahkemesi ilgili hukuk dairesi nezdiinde İSTİNAF yasa yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 16/07/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK m.54",
+            "TTK m.55/1-a-4",
+            "TTK m.56/1hükmü",
+            "SMK 7.maddesi",
+            "SMK m.29/1-a",
+            "SMK m.7/2-b",
+            "HMK m.128",
+            "SMK m.29",
+            "TTK 54 vd hükümler",
+            "HMK m.171",
+            "HMK m.172/1",
+            "HMK m.333",
+            "HMK m.341",
+            "HMK m.345",
+            "Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin KÜNEFE markasını ihlal ettiğini ve haksız rekabet oluşturduğunu tespit etti. Davalıların davacı vekilinin ticari faaliyetlerini durdurması gerektiğini ve davacı vekilinin kazanç kaybına yol açtığını iddia etti. Mahkeme, davacı vekilinin davayı savunmadığını ve davaların sonucunun kararlaştırılmasına rağmen davacı vekilinin davayı savunmadığını tespit etti.",
+    "summary_for_model": "Mahkeme, davacı vekilinin KÜNEFE markasını ihlal ettiğini ve haksız rekabet oluşturduğunu tespit etti. Davalıların davacı vekilinin ticari faaliyetlerini durdurması gerektiğini ve davacı vekilinin kazanç kaybına yol açtığını iddia etti. Mahkeme, davacı vekilinin davayı savunmadığını ve davaların sonucunun kararlaştırılmasına rağmen davacı vekilinin davayı savunmadığını tespit etti. Davalar, davacı vekilinin davayı açmadan önce zorunlu arabulucuya müracaat etmediğini ve davayı usulden reddettiğini tespit etti."
+}

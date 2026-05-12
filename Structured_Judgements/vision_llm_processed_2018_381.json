@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2018_381.pdf",
+        "court_name": "T.C. İSTANBUL 1. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2018/381",
+        "karar_no": "2018/324",
+        "case_subject": "Endüstriyel Tasarım Haklarına Tecavüzden Kaynaklanan",
+        "dava_tarihi": "05/09/2018",
+        "karar_tarihi": "12/09/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın tecilini talep etti ve davalının sosyal medya hesaplarında endüstriyel tasarımını kullanmasının tecavüz olarak değerlendirildiğini iddia etti. Davalının cevabı henüz alınmamıştır.",
+        "reasoning_text": "Mahkeme, davacının feragat etmesi, vekalet ücreti talebi ve diğer teknik eksiklikler nedeniyle davayı reddetmiştir.",
+        "verdict_text": "1-Davacı davasından feragat ettiğinden, HMK 307.maddesi gözetilerek DAVANIN FERAGAT NEDENİYLE REDDİNE, 2-35.90 TL ilam harcının peşin harçtan mahsubu ile yeniden harç alınmasına yer olmadığına, 3-Davacı vekili yargılama gideri ve vekalet ücreti talep etmediğinden, bu konuda hüküm kurulmasına yer olmadığına, 4-Davacı tarafın yapmış olduğu yargılama giderlerinin üzerinde bırakılmasına, 5-Artan gider avansının karar kesinleştiğinde davacıya iadesine, Dair karar taraf vekillerinin yokluğunda, gerekli kararın taraflara tebliginden itibaren 2 haftalık süre içinde İSTANAF YASA yolu açık olmak üzere karar verildi. 12/09/2018"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 307.maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, endüstriyel tasarımını sosyal medyada kullanan davalının tecavüz iddiasıyla dava açtı. Mahkeme, davacının feragat etmesi ve teknik eksiklikler nedeniyle davayı reddetti.",
+    "summary_for_model": "Davacı, sosyal medyada endüstriyel tasarımını kullanan davalının tecavüz iddiasıyla dava açtı. Mahkeme, davacının feragat etmesi ve teknik eksiklikler nedeniyle davayı reddetti. HMK 307.maddesi gözetilerek karar verildi."
+}

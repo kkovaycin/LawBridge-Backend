@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2020_282.pdf",
+        "court_name": "T.C. İSTANBUL 19. AŞLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2020/282 Esas",
+        "karar_no": "2021/265 Karar",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "22/10/2018",
+        "karar_tarihi": "10/03/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, dava dilekçesinde davalı aleyhine açılan işin 27/10/2020 tarihinden itibaren üç aylık yasal süre içinde yenilenmediğini iddia etti. Davacı vekili, davalı tarafından kitapların satışının yapılmadığı şeklinde kamuoyunu yanıltarak yalan ve yanlış söylemlerle davacı şirkete bir intiba ve sansasyon yaratmayı amaçladığını, davacı şirketin açıkça hedef alındığını, bu nedenlerle açıkça hukuka aykırı, davacı şirketin haklarına tecavüz eden ve ticari itibarlarını zedeleyen dava konusu söylem ve ileti sebebiyle 50.000-TL manevi tazminatın, yayın tarihinden itibaren işleyecek yasal faizi ile birlikte davalı tarafından tahsiline, dava konusu ifadelerin hukuka aykırılığının tesbiti ve masrafi davalidan alınmak suretiyle kararın tiraji en yüksek ulusal iki gazetede yayınlanmasına, yargılama gideri ve vekalet ücretinin davalı üzerinde bırakılmasına karar verilmesini talep ve dava etmiştir.",
+        "reasoning_text": "Davalı vekili cevabında, davacı vekilinin dava dilekçesinde özetlendiğini, davalı vekilinin cevabında özetlendiğini, davaya konu edilen twitter paylaşımında davacı şirketin isminin hiçbir şekilde zikredilmediğini, davacının manevi ve ticari itibarını sarsma saiki güdümediğini, akde ve maddi olaya uygun somut bir gerçek veya durum ifade edilmediğini, hukuka aykırı hiçbir ifade kullanılmadığını, davalının twitter paylaşımının konusu, adı geçen üç adet kitabın, kitap satışlarında esas ağırlığı teşkil eden mağaza satışları için yayından itibaren yaklaşık iki ay geçmiş olmasına rağmen, davalının henüz mağaza siparişlerini vermemesi olduğunu, davalının amacının mağaza siparişlerini vermesi ve twitter paylaşımı, üyesi bulunduğu türkiye yayıncılar birliği başkanına sorunu bildirmek saikiyle yapıldığını, bir gün sonra 31/05/2018 tarihinde yetkililerinin adı geçen kitaplardan 1670 adet mağaza siparisi verdiğini, bu nedenlerle haksız ve hukuka aykırı davanın reddine, yargılama giderleri ve vekalet ücretinin davacı tarafa yükletilmesine karar verilmesini talep etmiştir.",
+        "verdict_text": "Yukarıda açıklanan gerekçeler uyarınca; 1-Davanın 27.01.2021 tarihi itibarıyla H.M.K.'nin 150. maddesi uyarınca AÇILMAMIŞ SAYILMASINA, 2-Harçlar kanunu hükümlerine göre alınması gereken 59,30 TL harçın peşin alınan 853,88 TL harçın mahsup edilerek 794,58 TL harçın davacıya İADESİNE, 3-Davalı kendisini vekille temsil ettirdiğinden Avukatlık Asgari Ücret Tarifi 7. maddesine göre hesaplanan 3.650,00 -TL vekalet ücretinin davacıdan alınarak davalya verilmesine, 4-Davacı tarafından yapılan yargılama giderlerinin davacı üzerinde bırakılmasına, 5-Davalı tarafından yapılan 14,00 TL yargılama giderinin davacıdan alınarak davalya verilmesine, 6-Tarafların kalan bakiye gider avanslarının karar kesinleştiğinde ilgili taraflara iaadesine, Dair, dosya üzerinde yapılan inceleme sonunda tarafların yokluğunda kararın tebliğinden itibaren iki haftalık yasal süresi içinde İstinaf kanun yolu açık olmak üzere karar verildi. 10/03/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "H.M.K. 150. maddesi",
+            "Harçlar kanunu",
+            "Avukatlık Asgari Ücret Tarifi 7. maddesi",
+            "İstinaf kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı tarafından kitap satışlarında yanlış iddialar yapıldığını iddia etti ve tazminat talep etti. Davalı ise iddiaları reddetti ve dava reddedildi. Mahkeme, dava dosyasının işlenmemesine karar verdi ve harç, vekalet ücreti ve yargılama gideri gibi mali taleplerini belirledi.",
+    "summary_for_model": "Bu dava, bir şirketin ticari itibarını korumak için açılan bir tazminat davasıdır. Davacı, davalı tarafından yanlış iddialar yapıldığını iddia etti ve manevi tazminat talep etti. Davalı ise iddiaları reddetti. Mahkeme, dava dosyasının işlenmemesine karar verdi ve harç, vekalet ücreti ve yargılama gideri gibi mali taleplerini belirledi. Davanın reddedilmesi ve mali taleplerin belirlenmesi, dava sürecinin sonuçlandığını göstermektedir."
+}

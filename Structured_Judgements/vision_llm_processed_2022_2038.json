@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_2038.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2022/138",
+        "karar_no": "2022/400",
+        "case_subject": "İhtiyati Haciz",
+        "dava_tarihi": "13/12/2022",
+        "karar_tarihi": "13/12/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Taraflar arasında görülen davanın yerel mahkemede yapılan yargılama sırasında verilen ara kararına karşı istinaf yoluna başvurulmuş olup, duruşmasız olarak dosya üzerinde yapılan inceleme ve istinaf talepleriyle sınırlı olarak yapılan değerlendirme sonucunda; Talep, taraflar arasındaki \"davanın Macaristan'daki otelinin sabit ve hareketli mobilaryalarının özel üretim olarak yapımına\" ilişkin eser sözleşmesi ilişkisi kapsamında hak edildiği iddia edilen 20.684,05 Euro karşılığı 328.003,72 TL iş bedeli alacağının tahsili amacıyla karşı tarafın/borçlunun taşınır ve taşınmaz malları ile üçüncü şahısların hak ve alacaklarının ihtiyaten haczi isteme ilişkidir. Mahkemede 09.05.2022 tarihli kararla, sunulan gümrük beyannameleri, mail yazışmaları, whatsapp yazışmaları, sözleşme ve faturalar ile talebe konu alacağın yaklaşık olarak ispat edildiği gerekçesiyle, borç miktarının %15'i oranında (49.200,53-TL) teminat karşılığında ihtiyati haciz talebinin kabulü ile, aleyhine ihtiyati haciz istenilen borçlunun 328.003,52-TL borcuna yetecek miktarda, yedlerinde bulunan menkul ile gayrimenkul malları ile üçüncü şahıslar olan hak ve alacaklarının haczi caiz olan kısmının ihtiyaten haczine, karar verilmiştir.",
+        "reasoning_text": "İhtiyati haciz düzenleyen İ.K.'nin 257. maddesi uyarınca, rehnle temin edilmemiş ve vadesi gelmemiş bir para borçunun alacaklısı, borçlunun yedinde veya 3. şahısta olan menkuller ve gayri menkul mallarını ve alacaklarıyla diğer haklarını ihtiyaten hacz ettirebileceği, borçlunun muayyen ikametgahi yoksa veya borçlu taahhütlerinden kurtulmak maksadıyla mallarını gizlemeye kaçırmaya veya kendisi kaçmaya hazırlanır ya da kaçar ya da bu maksatla alacaklının haklarını ihlal eden hileli işlemlerde bulunursa, borcun vadesi gelmemiş olsa bile ihtiyati haciz istenebileceği düzenlenmiştir. İ.K.'nin 258. maddesine göre, ihtiyati haciz talep eden, öncelikle dilekçesinde dayandığı ihtiyati haciz sebebini açıkça belirtmek ve davanın esası yönünden kendisinin haklılığını yaklaşık olarak, yasal delillerle ispat etmek zorundadır. Dosya kapsamı değerlendirildiğinde, dava dilekçesi ekinde sunulan özellikle mail ve whatsapp yazışmaları ile gümrük beyannameleri, sözleşme ve faturalara göre, talebe konu alacağın varlığının yaklaşık ispat ölçüsünde olarak ispat edilmiş olduğu ve somut olarak İ.K.'nin 257/1. Maddesindeki şartların oluştuğu anlaşılmakla, yerel mahkemede dosyada bulunan belgelere dayanılarak yaklaşık ispat kosulu gerçekleştirildiği gerekçesiyle talep eden vekilinin ihtiyati haciz talebinin kabulüne karar verilmesi isabetli olmuştur.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;A)1-Karşı taraf vekilinin istinaf başvurusunun HMK'nın 353/1-b-1 maddesi gereğince esastan REDDİNE,2-Karşı tarafça yapılan istinaf yargılama giderlerinin üzerinde BIRAKILMASININA,3-İstinaf harçları peşin alındığından ayrıca harç alınmasına YER OLMADIĞINA,B)1-İhtiyati haciz talep eden vekilinin istinaf başvurusunun KABULÜ ile, İSTANBUL 19. ASLİYE TİCARET MAHKEMESİ'nin 16/06/2022 tarih ve 2022/138 Değişik İş - 2022/138 Karar sayılı ek kararının KALDIRILMASININA,2-Dosyanın Dairemiz kararına uygun şekilde inceleme yapılarak yeniden bir karar verilmek üzere yerel mahkemesine GÖNDERİLMESİNE,3-Talep eden tarafından yatırılan istinaf karar harçının istek halinde kendisine İADESİNE,4-Talep eden tarafça yapılan istinaf yargılama giderinin ilk derece mahkemesince yeniden verilecek kararda DİKKATE ALINMASININA, 5-İstinaf yargılama sırasında duruşma açılmadığından vekâlet ücreti takdirine YER OLMADIĞINA, Dair, dosya üzerinde yapılan inceleme sonucunda, 6100 sayılı HMK'nın 353/1-a-6 maddesi gereğince KESİN olmak üzere 13/12/2022 tarihinde oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İ.K.'nin 257. maddesi",
+            "İ.K.'nin 258. maddesi",
+            "6100 sayılı HMK'nın 353/1-b-1 maddesi",
+            "6100 sayılı HMK'nın 353/1-a-6 maddesi"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir otel işletmecisinin Macaristan'daki otelinin üretim maliyetlerini karşılamak için bir borçlunun mallarını haczedilmesi talebini içermektedir. Mahkeme, talebe konu alacağın yaklaşık olarak ispat ettiği gerekçelerle, borç miktarının %15'i tutarında teminat karşılığında ihtiyati haciz talebini kabul etmiştir. Karşı tarafın itirazı reddedilerek, dava yerel mahkemeye geri gönderilmiştir.",
+    "summary_for_model": "Dava, Macaristan'daki otelinin üretim maliyetlerini karşılamak için borçlunun mallarını haczedilmesi talebini içermektedir. İ.K.'nin 257. ve 258. maddeleri uyarınca, borçlunun mallarının haczedilmesi talebinin kabulüne karar verilmiştir. HMK'nın 353/1-b-1 ve 353/1-a-6 maddeleri uyarınca, istinaf başvurusu reddedilerek dava yerel mahkemeye geri gönderilmiştir."
+}

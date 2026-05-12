@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2024_450.pdf",
+        "court_name": "T.C. ANKARA 14. AŞLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2024/450 Esas",
+        "karar_no": "2024/517",
+        "case_subject": "Davacı vekili tarafından dava dilekçesinde özele; davanın internet sitesinde ve Twitter hesabında yayınlanan haberin kaldırılması talebi",
+        "dava_tarihi": "26/09/2023",
+        "karar_tarihi": "05/07/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın internet sitesinde ve Twitter hesabında yayınlanan haberin davacı hakkındaki kuruluş kişilik haklarına saldırdığını iddia etti. Davacı, bu haberin kaldırılması, yayının durdurulması ve davaya bırakılması talep etti. Davacı vekili, davanın resmi internet sitesinde yayınlanan haberin davacı hakkındaki kuruluş kişilik haklarına saldırdığını iddia etti.",
+        "reasoning_text": "Mahkeme, davanın internet sitesinde yayınlanan haberin davacı hakkındaki kuruluş kişilik haklarına saldırdığını tespit etti. Davacı vekili tarafından yapılan taleplerin mahkemeye sunulmasına rağmen, mahkeme davanın usulden reddine dair karar verdi.",
+        "verdict_text": "1-Davanın ... görevine girmesi nedeniyle mahkememin GÖREVŞİZLİĞİNE, Görevi ilişkin dava şartı bulunmaması nedeniyle HMK 114/1-c ve 115/2 maddeleri gereğince davanın USULDEN REDDİNE, 2-Harçlar Kanunu gereğince alınması gerekli 427,60 TL karar ve ilam harcının davacidan alınarak hazineye gelir kaydına, 3- Davacı tarafından yapılan yargılama giderlerinin üzerinde bırakılmasına, 4- Davanın yargılamada vekil ile temsil edildiği anlaşılıdığından yürürlükte bulunan Avukatlık Asgari Ücret Tarifeşi uyarinca hesaplanan 17.900,00 TL vekalet ücretinin davacidan alınarak davalya verilmesine, 5- Taraflarca yatırılan ve kullanılmayan gider ve delil avansının HMK'nın 333. maddesi uyarinca karar kesinlestikten sonra Hukuk Muhakemeleri Kanunu Gider Avansı Tarifeşinin 5. maddesi dikkate alınarak yatırlara iadesine, Dair, dosya üzerinden inceleme yapılmak suretiyle, tarafların yokluğunda karşı taraflara tebliginden itibaren 2 hafta içerisinde ... başvuru yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 05/07/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 114/1-c ve 115/2 maddeleri",
+            "Harçlar Kanunu",
+            "Avukatlık Asgari Ücret Tarifeşi",
+            "Hukuk Muhakemeleri Kanunu Gider Avansı Tarifeşinin 5. maddesi",
+            "HMK'nın 333. maddesi",
+            "5651 Sayılı Internet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun'un 9. maddesinin 1. fikrası"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekili tarafından yapılan taleplerin mahkemeye sunulmasına rağmen, davanın usulden reddine dair karar verdi. Davacı vekili, davanın internet sitesinde ve Twitter hesabında yayınlanan haberin davacı hakkındaki kuruluş kişilik haklarına saldırdığını iddia etti.",
+    "summary_for_model": "Mahkeme, davanın internet sitesinde yayınlanan haberin davacı hakkındaki kuruluş kişilik haklarına saldırdığını tespit etti. Davacı vekili tarafından yapılan taleplerin mahkemeye sunulmasına rağmen, mahkeme davanın usulden reddine dair karar verdi. Davacı vekili, davanın internet sitesinde ve Twitter hesabında yayınlanan haberin kaldırılması, yayının durdurulması ve davaya bırakılması talep etti."
+}

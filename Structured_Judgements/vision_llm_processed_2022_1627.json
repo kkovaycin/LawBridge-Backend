@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2022_1627.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2022/1627 Esas",
+        "karar_no": "2024/934 Karar",
+        "case_subject": "Fikir Ve Sanat Eseri (Maddi Tazminat İstemi)",
+        "dava_tarihi": "01/10/2016",
+        "karar_tarihi": "16/05/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı şirketin internet sitelerinde kendisinin fotoğrafını ve ismini izinsiz olarak kullanıldığını iddia etmiştir. Davacı, bu kullanımların maddi ve manevi zarara yol açtığını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacıya ait fotoğrafın ve isminin davalı hastanelerin internet sitelerinde kullanıldığının, bu kullanımların maddi ve manevi zarara yol açtığının ve davacıya maddi tazminat talep etmesinin haklı olduğunu tespit etmiştir.",
+        "verdict_text": "Mahkeme, davacıya maddi tazminat olarak 35.000,00 TL ve manevi tazminat olarak 15.000,00 TL ödemesi kararı vermiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Borçlar Kanunu 50 ve 51. maddeleri",
+            "Fikir ve Sanat Eserleri Kanunu (FSEK) 86. madde",
+            "Türk Medeni Kanunu (TMK) 25, 26, 49. maddeleri",
+            "Türk Ceza Kanunu (TCK) 353, 356. maddeleri",
+            "Türk Ticaret Kanunu (TTK) 58. madde"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin internet sitelerinde kendisinin fotoğrafını ve ismini izinsiz olarak kullanıldığını iddia etti. Mahkeme, bu kullanımların maddi ve manevi zarara yol açtığını tespit etti ve davacıya maddi ve manevi tazminat ödemesi kararı verdi.",
+    "summary_for_model": "Davacı, davalı şirketin internet sitelerinde kendisinin fotoğrafını ve ismini izinsiz olarak kullanıldığını iddia etti. Mahkeme, bu kullanımların maddi ve manevi zarara yol açtığını tespit etti ve davacıya maddi ve manevi tazminat ödemesi kararı verdi. Davacıya maddi tazminat olarak 35.000,00 TL ve manevi tazminat olarak 15.000,00 TL ödemesi kararı verildi."
+}

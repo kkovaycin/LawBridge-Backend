@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_621.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2022/621 Esas",
+        "karar_no": "2024/114 Karar",
+        "case_subject": "Endüstriyel Tasarımın Hükümsüzlüğünden Kaynaklanan",
+        "dava_tarihi": "07/10/2022",
+        "karar_tarihi": "19/01/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekili aracılığıyla, müvekkil firmanın 1970 yılından beri seramik ve porselen sektörlerinde ticari faaliyetlerde bulunduğunu, aynı zamanda marka ve tasarım tesciline sahip olduğunu iddia etmiştir. Müvekkil firmanın Türk Patent ve Marka Kurumu'nda 32-00 Locarno sınıfinda 08.07.2014 tarihinden bu yana tescilli olan tasarımların sahibi olduğunu, bu tasarımların müvekkil firmanın endüstriyel tasarımları ile tecavüz teşkil ettiğini ve haklı rekabeti ihlal ettiğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacı-birleşen davada davalı vekilinin istinaf taleplerini reddetmiştir. Mahkeme, tasarımların yenilik ve ayırt edici niteliğine sahip olmadığını, bilginmiş kullanıcı üzerinde bırakacağı genel izlenimin aynı olduğunu ve tasarımların aralarında benzerlik bulunmadığını değerlendirmiştir. Ayrıca, tasarımların internet sitelerinde yayın tarihinin kesin olarak tesbit edilemediğini ve bu nedenle delil olarak kabul edilemeyeceğini belirtmiştir.",
+        "verdict_text": "İstanbul 2.Fıkri ve Sınai Haklar Hukuk Mahkemesi'nin 24/09/2021 tarihli 2018/560 E. - 2021/274 K. sayılı kararın esas alınmasıyla; davacı-birleşen davada davalı vekilinin istinaf taleplerinin reddine karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Mahkemesi Kanunu (HMK)",
+            "Sınai Mülkiyet Kanunu (SMK)",
+            "Türk Patent ve Marka Kurumu"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkil firmanın endüstriyel tasarımlarını kullanmakla suçlamaktadır. Mahkeme, tasarımların yenilik ve ayırt edici niteliğine sahip olmadığını ve bilginmiş kullanıcı üzerinde aynı izlenim bırakmadığını karar vermiştir.",
+    "summary_for_model": "Davacı, müvekkil firmanın endüstriyel tasarımlarını kullanmakla suçlamaktadır. Mahkeme, tasarımların yenilik ve ayırt edici niteliğine sahip olmadığını ve bilginmiş kullanıcı üzerinde aynı izlenim bırakmadığını karar vermiştir. Tasarımların internet sitelerinde yayın tarihinin kesin olarak tesbit edilemediği için delil olarak kabul edilemediği belirtilmiştir."
+}

@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2024_185.pdf",
+        "court_name": "4. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2024/185",
+        "karar_no": "2025/8",
+        "case_subject": "Marka hakkindaki tecavüz davası",
+        "dava_tarihi": "21/11/2024",
+        "karar_tarihi": "10/01/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, dava dilekçesinde markanın tecavüzüne dair iddialarını özetlemiştir. Davalar, markanın ticari amaçla kullanılmasına, satışa ve reklamcılığa karşı tutulan ve 2. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin tespit ve ihtiyati tedbir kararının ardından davaların kabulüne yol açmıştır.",
+        "reasoning_text": "Mahkeme, davaların kabulüne karar verirken Hüküm Kurulu 308. maddesine dayanarak davaların kabulüne uygun olduğunu değerlendirmiştir. Davaların kabulü, davaların tam veya kısmen muvafakat edilmesi durumunda hüküm verilebileceğini ve Hüküm Kurulu 309. maddesine göre kabulün kesin hüküm gibi sonuç doğuracağını belirtmiştir.",
+        "verdict_text": "HÜKMÜ: Gereğesi yukarıda açıklanmıştır. 1-HMK'nın 308. maddesi gereğince davaların KABULÜYLE; Davaların eylemlerinin davacıya ait marka hakkına tecavüz oluşturduğunun tesbiti ile bu tecavüzün önlenmesi, sonuçlarının ortadan kaldırılması, davacı adına tescilli markalarda bulunan \"...\" ibarelerinin davalar tarafından kullanıldığı ilan, reklam, broşür, afiş ve sair her türlü tanıtım malzemeler: basılı kağıtlar, faturalar, kartvizitler ve sair her türlü ticari evraklar ve bu şekilde bastrılmış olan materyaller üzerinde kullanımı da dahil olmak üzere tüm kullanımlarının önlenmesi, bu ibareyi içeren ilan, reklam, broşür, afiş ve sair her türlü tanıtım malzemeler: basılı kağıtlar, faturalar, kartvizitler ve sair her türlü ticari evraklar ve bu şekilde bastrılmış olan materyallere el konulmasına, el konulan ürün ve malzemelerin masraflar davalara ait olmak üzere hüküm kesinleşikten sonra imhasına, ... 2-Fikri ve Sınai Haklar Hukuk Mahkemesi'nin ... Değişik İş sayılı dosyası kapsamında davalar yönünden verilen tedbir kararı ile ... adreslerinde el konulan ürün ve malzemelerin masraflar davalara ait olmak üzere hüküm kesinleşikten sonra imhasına, ... internet adresinde davacıya ait marka hakkına tecavüz teşkil eden kullanımların kaldırılmasına, aksi halde internet adreslerine erişimin engellenmesine, 2-Karar tarihinde yürürlükte bulunan Harçlar Tarifeşi uyarınca hesap olunan 615,40 TL karar harcından peşin yatırılan 427,60 TL'nin mahsubu ile kalan 187,80-TL bakiye karar harcının davalardan tahsili ile hazineye irat kaydına, 3-Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifeşi uyarınca davacı yararına hesap olunan 40.000,00-TL vekalet ücretinin davalardan alınarak kendisini vekil temsil eden davacıya verilmesine, 4-Davacı tarafından yapılan: 380,00 TL posta gideri ve 855,20 TL harç (peşin+başvuru) olmak üzere toplam 1.235,20-TL yargılama gideri ve ... 2. FSHM'nin ... Değişik İş delil dosyasında yapılan 25.000,00-TL bilirkişi ücreti, 20,0 TL posta gideri ve 1.132,10-TL harç (peşin+başvuru) olmak üzere toplam 26.152,10-TL davalardan alınarak davacıya verilmesine, 5-Yatırılan gider avanslarının kullanılmayan kısmının karar kesinleştiğinde yatıran tarafa iadesine, Dair; taraf vekillerinin yokluğunda, HMK 345/1.maddesi gereğince gerekli kararın tebliğinden itibaren iki hafta içerisinde Mahkememize veya başka bir yer mahkemesine dilekçe ile başvurmak süresi ile İstanbul Bölge Adliye Mahkemesi nezdiğinde istinaf kanunu yolu açık olmak üzere karar verildi. 10/01/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hüküm Kurulu 308. maddesi",
+            "Hüküm Kurulu 309. maddesi",
+            "Hüküm Kurulu 311. maddesi",
+            "Hüküm Kurulu 345/1.maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, markasının ticari kullanımına karşı dava açmıştır. Mahkeme, davaları kabul ederek markanın tecavüzüne karşı önlem ve imha kararları vermiştir. Davalardan tahsil edilen harç ve ücretler davacıya verilmiştir.",
+    "summary_for_model": "Marka hakkindaki tecavüz davasında mahkeme, davaları kabul ederek markanın ticari kullanımını önleme ve imha kararları vermiştir. Hüküm Kurulu 308, 309, 311 ve 345/1 maddeleri uygulanmıştır. Davalardan tahsil edilen harç ve ücretler davacıya verilmiştir."
+}

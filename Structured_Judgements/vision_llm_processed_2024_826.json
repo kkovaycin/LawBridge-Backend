@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2024_826.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2024/826",
+        "karar_no": "2024/1333",
+        "case_subject": "Marka (Tecavüzün Tesbiti İstemi) | Marka (Marka Hakkına Tecavüzden Kaynaklanan) | Marka (Tecavüzün Giderilmesi İstemi)",
+        "dava_tarihi": "17/05/2024",
+        "karar_tarihi": "11/07/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davacının 2012'den beri elektrikli araç şarj cihazları ve solar malzeme satışı alanında faaliyet gösterdiğini, bu alanda Türk Patent kanunu uyarınca markaları tescil ettiğini iddia ediyor. Davacı, davacının sosyal medya platformlarında ve ticaret sitelerinde davacının markalarını kullanmakla suçlanıyor. Davacı, davacının markalarını kullanmanın markaya tecavüz oluşturduğunu ve hak ihlalini iddia ediyor.",
+        "reasoning_text": "Mahkeme, davacının markalarının davacının ticaret sitelerinde ve sosyal medya platformlarında kullanıldığını tespit etti. Bu kullanım, davacının markalarının ticaret sitelerinde ve sosyal medya platformlarında kullanılmasına karşı bir itibar oluşturduğu için markaya tecavüz olarak değerlendirildi. Mahkeme, davacının markalarının kullanımının davacının ticaret sitelerinde ve sosyal medya platformlarında kullanılmasına karşı bir itibar oluşturduğunu ve bu durumun markaya tecavüz oluşturduğunu tespit etti.",
+        "verdict_text": "İhtiyati tedbir talebinin kabulüne, mahkeme kararı verilmiştir. Karşı taraf vekili itiraz dilekçesinde özetle; İhtiyati tedbir kararı nedeniyle uğradığı zararların her geçen gün artığını, bu nedenle itidati tedbir kararının kaldırılmasına, davacı tarafından yatırılan 100.000,00 TL terminatın müvekkilinin zararlarını karşılamasının mümkün olmadığını, mahkemeye gerekli görüşmesi halinde karşı tarafa yatırılan 100.000 TL terminat tutarının tarafı tarafından yatırılması şartıyla tedbirin kaldırılması, İhtiyati tedbir kararının devamında karar verileceği, bildirmiş oldukları karşılayabileceği bir tutarda terminat yatırılması, Müvekkili firmanın, 2-4 Kasım 2023 tarihleri arasında fuara katılacağı, uğradığı zararların daha fazla artmaması için ve İhtiyati tedbire ilişkin işlemlerinivedi işlerden olması sebebiyle taleplerini konusundaivedikle karar verilmesini talep etmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "Türk Patent Kanunu",
+            "Türk Patent ve Marka Kurumu",
+            "Sınai Mülkiyet Kanunu",
+            "Hukuk Muhakemeleri Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davacının markalarını sosyal medya ve ticaret sitelerinde kullanmakla suçluyor. Mahkeme, bu kullanımın markaya tecavüz oluşturduğunu tespit etti ve itidati tedbir talebini kabul etti. Davacı, itidati tedbir kararının kaldırılması için talep etti.",
+    "summary_for_model": "Davacı, davacının markalarını sosyal medya ve ticaret sitelerinde kullanmakla suçluyor. Mahkeme, bu kullanımın markaya tecavüz oluşturduğunu tespit etti ve itidati tedbir talebini kabul etti. Davacı, itidati tedbir kararının kaldırılması için talep etti. Davacı, davacının markalarını kullanmanın markaya tecavüz oluşturduğunu iddia ediyor."
+}

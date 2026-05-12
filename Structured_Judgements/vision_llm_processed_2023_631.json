@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2023_631.pdf",
+        "court_name": "T.C. 14. AŞLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2023/631 Esas",
+        "karar_no": "2024/107",
+        "case_subject": "Tespit davası",
+        "dava_tarihi": "26/09/2023",
+        "karar_tarihi": "09/02/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, gazetesinin 24.05.2023 tarihli haberinde '...'In Ruslara satılıyor' başlıklı haberde spekülatif ve olumsuz etki yaratacağı nedeniyle davanın internet sitesi ve Twitter hesabının tedbiren kaldırılması, yayının durdurulması, yayım masrafının davalıya bırakılması ve yer alan düzeltme metninin kabul görmemesi halinde işbu dava sonucunda verilecek davanın kabulüne ilişkin kararın özetinin davalı yayın organının fiziki nüshası, resmi internet sitesi ve Twitter hesabında, ayrıca ulusal düzeyde yayın yapan ve tiraji en yüksek üç gazeteden birinde yayınlatılmasını talep etmiştir. Davalı vekilinin süresi içerisinde cevap dilekçesini sunmamış olduğu anlaşılmıştır.",
+        "reasoning_text": "Davacı yanın talebi, kişilik haklarına saldırının tespiti ve yayının durdurulması ile dava dilekçesi ekinde sunulan düzeltme metninin yahut davanın kabulü halinde karar özetinin yayınlatılmasını isteme ile ilgilidir. 5651 Sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun'un 9. maddesinin 1. fıkrasına göre, internet ortamında yer aldığı belirtilen içeriklerin yayından çıkarılması ve/veya erişimin engellenmesi istemleri yönünden Sulh Ceza Hakimliği görevli olduğundan, mahkememizin görevsizliği nedeniyle davanın usulden reddine dair karar vermek gerekmiştir.",
+        "verdict_text": "Yukarıda Açıklanan Gerekçelerle; 1-Davanın Sulh Ceza Hakimliğinin görevine girmesi nedeniyle mahkememizin GÖREVŞİZLİĞİNE, Görevi ilişkin dava şartı bulunmaması nedeniyle HMK 114/1-c ve 115/2 maddeleri gereğince davanın USULDEN REDDİNE, 2- Harçlar Kanunu gereğince alınması gerekli harç peşin alındığından yeniden alınmasına yer olmadığına, 3- Davacı tarafından yapılan yargılama giderlerinin üzerinde bırakılmasına, 4- Davanın yargılamada vekil ile temsil edildiği anlaşıldığından yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca hesaplanan 17.900,00 TL vekalet ücretinin davacıdan alınarak davalıya verilmesine, 5- Taraflarca yatırılan ve kullanılmayan gider ve delil avansının HMK'nın 333. maddesi uyarınca karar kesinleştikten sonra Hukuk Muhakemeleri Kanunu Gider Avansı Tarifesinin 5. maddesi dikkate alınarak yatırılanlara iadesine, Dair, davacı vekili ve davalı vekilinin yüzüne karşı taraflara tebliğinden itibaren 2 hafta içerisinde ...Bölge Adliye Mahkemesine istinaf başvuru yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 09/02/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 114/1-c",
+            "HMK 115/2",
+            "Harçlar Kanunu",
+            "Avukatlık Asgari Ücret Tarifesi",
+            "Hukuk Muhakemeleri Kanunu",
+            "5651 Sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davanın Sulh Ceza Hakimliğinin görevine girmesi nedeniyle görevsizlik nedeniyle davayı usulden reddetmiştir. Ayrıca davacı tarafından yapılan yargılama giderlerinin üzerinde bırakılması, vekalet ücretinin alınması ve taraflarca yatırılan avansın iadesi gibi maddelerin de kararlaştırılmıştır.",
+    "summary_for_model": "Dava, Sulh Ceza Hakimliğinin görevine girmediği için reddedildi. Ayrıca vekalet ücreti ve avans iadesi gibi maddeler de kararlaştırıldı. 5651 Sayılı Kanun ve HMK maddeleri esas olarak kullanıldı."
+}

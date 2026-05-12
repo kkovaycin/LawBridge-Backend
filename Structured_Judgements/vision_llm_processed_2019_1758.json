@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2019_1758.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLIYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": null,
+        "karar_no": null,
+        "case_subject": "YİDK Kararının İptali, Marka Hükümsuzluğu, Markaya Tecavüzün ve Haksız Rekabetin Tesbiti, Önlenmesi ve Durdurulması",
+        "dava_tarihi": null,
+        "karar_tarihi": "15/10/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilin markaları ile dava konusu markası arasında benzerlik olduğu iddiasıyla dava açmıştır. Davacı, YİDK tarafından reddedilen itirazı ve markanın tescil edilmesini talep etmiştir.",
+        "reasoning_text": "Mahkeme, davacı markasının yüksek tanınmışlığı ve orijinalitesi nedeniyle dava konusu markanın tescil edilmesini reddetmiştir. Davacı markasının farklı hizmetlerde kullanılması durumunda, dava konusu markanın tanınmışlığına zarar verebileceği gerekçesiyle tescilin reddedilmesi kararı verilmiştir.",
+        "verdict_text": "Gerekçesi yukarıda belirtildiği üzere; 1-Davacı vekilinin istinaf başvurusunun HMK'nin 353/1-b.1 maddesi gereğince ESASTAN REDDİNE, 2-Davacı tarafından alınması gereken 59,30 TL maktu istinaf karar ve ilam harcından, davalı tarafça istinaf başvurusunda yatırılan 44,40 TL istinaf karar ve ilam harcının mahsubu ile bakiye 14,90 TL'nin anılan davalidan tahsili ile hazineye irat kaydına, 3-Istinaf aşamasında davalı vekili tarafından yapılan yargılama giderlerinin davalı üzerinde bırakılmasına, 4-Istinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına, Dosya üzerinde yapılan inceleme sonucunda oybirliği ile 16/09/2021 tarihinde HMK 361. maddesi uyarınca kararın tebliğiğinden itibaren iki hafta içerisinde Yargıtay temyiz yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı SMK'nin 6/4-5. maddeleri",
+            "6769 sayılı SMK'nin 6/5. maddesi",
+            "6100 sayılı HMK'nin 355. maddesi",
+            "HMK'nin 353/1-b.1 maddesi",
+            "HMK 361. maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı markasının yüksek tanınmışlığı nedeniyle dava konusu markanın tescil edilmesini reddetmiştir. Davacı markasının farklı hizmetlerde kullanılması durumunda, dava konusu markanın tanınmışlığına zarar verebileceği gerekçesiyle tescilin reddedilmesi kararı verilmiştir.",
+    "summary_for_model": "Mahkeme, dava konusu markanın tescil edilmesini reddetmiştir. Davacı markasının yüksek tanınmışlığı ve orijinalitesi nedeniyle, dava konusu markanın tescil edilmesi reddedilmiştir. Davacı markasının farklı hizmetlerde kullanılması durumunda, dava konusu markanın tanınmışlığına zarar verebileceği gerekçesiyle tescilin reddedilmesi kararı verilmiştir."
+}

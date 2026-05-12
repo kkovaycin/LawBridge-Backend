@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2020_1937.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 45. Hukuk Dairesi",
+        "esas_no": "2017/348",
+        "karar_no": "2023/754",
+        "case_subject": "Tazminat (Simsarlık ve Hizmet Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "10/04/2017",
+        "karar_tarihi": "10/05/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Dava, davacı vekili tarafından dilekçede özetlendi. Davacılar ve dava dışı kişiler arasında anlaşma ve yatırım anlaşmalarına dayanarak dava açıldı. Davacılar, Türk Danışman ve Yatırımcı Grubunun hizmet karşılığında yatırım yapmalarına ilişkin hakların tanınmasını talep ettiler. Davacılar, EFF1 aracılığıyla yatırım yaptıklarını ve bu yatırımın sonucunda büyük bir kâr elde ettiklerini iddia ettiler. Davacılar, EFF1'in 2008'de yaptığı satıştan sonra yatırımın iptal edildiğini ve bu durumun onlara zarar verdiğini iddia ettiler.",
+        "reasoning_text": "Mahkeme, dava dışı kişilerin davaya dahil edilmesinin gerekliliğini ve davacıların davayı takip yetkilerinin olmadığını değerlendirdi. Mahkeme, davacıların davayı takip yetkilerinin olmadığını ve davacıların davayı takip yetkileri olmadığını belirledi. Mahkeme, davacıların davayı takip yetkilerinin olmadığını ve davacıların davayı takip yetkileri olmadığını kabul etti. Mahkeme, davacıların davayı takip yetkilerinin olmadığını ve davacıların davayı takip yetkileri olmadığını kabul etti.",
+        "verdict_text": "İstanbul 12. Asliye Ticaret Mahkemesi'nin 15/11/2019 tarihli 2017/348 sayılı kararının HMK'nin 353/1.a maddesi uyarınca kaldırılmasına, 2-Dosyalarca, Dairemiz kararına uygun şekilde araştırılıp yargılara verilmesine, 3-Taraflarca verilecek kararda dikate alınmasına, 4-Tarafların yapmış olduğu istinaf vergilaması için ilk derece mahkemesine verilecek kararda dikkate alınmasına, 6-İstinaf yargılama sırasında duruşma açılmadığından vekalet ücreti takdirine yer olmadığına, 7-Kararın ilk derece mahkemesinde taraflara tebliği, Dosya üzerinden yapılan inceleme neticesinde, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 362/1.g bendi gereğince kesin olmak üzere oy birliği ile karar verildi. 10/05/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "Türk Ticaret Kanunu",
+            "Türk Borçlar Kanunu",
+            "Vergi Usul Kanunu",
+            "Türk Medeni Kanunu",
+            "Kooperatifler Kanunu",
+            "İcra İflas Kanunu",
+            "Finansal Kiralama Kanunu",
+            "Ticari İşletme Rehni Kanunu"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, davacıların davayı takip yetkilerinin olmadığını ve davayı takip yetkileri olmadığını kabul etti. Mahkeme, davacıların davayı takip yetkilerinin olmadığını ve davayı takip yetkileri olmadığını belirledi. Mahkeme, davacıların davayı takip yetkilerinin olmadığını ve davayı takip yetkileri olmadığını kabul etti.",
+    "summary_for_model": "Mahkeme, davacıların davayı takip yetkilerinin olmadığını ve davayı takip yetkileri olmadığını kabul etti. Mahkeme, davacıların davayı takip yetkilerinin olmadığını ve davayı takip yetkileri olmadığını belirledi. Mahkeme, davacıların davayı takip yetkilerinin olmadığını ve davayı takip yetkileri olmadığını kabul etti."
+}

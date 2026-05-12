@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2019_2473.pdf",
+        "court_name": "İzmir Bölge Adliye Mahkemesi 11. Hukuk Dairesi",
+        "esas_no": "2018/481 E - 2019/779 K",
+        "karar_no": "2022/1624",
+        "case_subject": "Haksız Rekabetin Meni, Maddi ve Manevi Tazminat",
+        "dava_tarihi": "02/07/2019",
+        "karar_tarihi": "08/11/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilin kedi-köpek maması üretimi ve dağıtımı ile istifad ettiğini iddia etti. Müvekkilin internet üzerinden perakende sattığı ürünler ve Facebook grubundaki yorumları, haksız rekabet olarak değerlendirildi. Davalılar, müvekkilin veteriner kliniği işlettiğini, aynı zamanda ticari iş yürüttüğünü ve davacıya rakip olduğunu savundular.",
+        "reasoning_text": "Mahkeme, davacı vekilinin iddialarını kabul etti ve davalıların haksız rekabeti gerçekleştirdiğini tespit etti. Davalıların Facebook hesabından yapılan yorumların davacıya zarar verdiği ve ticari itibarını zedelediği kabul edildi. Maddi ve manevi tazminat talepleri kabul edildi.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Davalar vekilinin istinaf başvurusunun Hukuk Mahkemeleri Kanunu'nun 353/1-b-1 maddesi uyarınca ESAS TAN REDDİNE, 2-Davalar yönünden istinaf karar harcı olan 80,70 TL'den peşin alınan 44,40 TL'nin mahsubu ile bakiye 36,30 TL'nin davallardan alınarak hazineye gelir kaydına, 3-Istinaf başvurusu nedeniyle davallar tarafından yapılan giderlerin kendi üzerlerinde bırakılmasına, Dosya üzerinden yapılan inceleme neticesinde, kararın tebliğiğinden itibaren iki hafta içinde Yargıtay İlgili Hukuk Dairesinde temyiz yolu açık olmak üzere 08.11.2022 tarihinde oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6102 sayılı yasa",
+            "TTK'nun 55. maddesi",
+            "TTK'nun 57. maddesi",
+            "TTK'nun 58. maddesi",
+            "TBK'nun 66. maddesi",
+            "Hukuk Muhakemeleri Kanunu'nun 353/1-b-1 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkilin kedi-köpek maması üretimi ve dağıtımı ile haksız rekabet yaptığını iddia etti. Mahkeme, davalıların Facebook grubundaki yorumların davacıya zarar verdiğini kabul etti ve maddi ve manevi tazminat kararı verdi.",
+    "summary_for_model": "Davacı vekili, müvekkilin kedi-köpek maması üretimi ve dağıtımı ile haksız rekabet yaptığını iddia etti. Mahkeme, davalıların Facebook grubundaki yorumların davacıya zarar verdiğini kabul etti ve maddi ve manevi tazminat kararı verdi. Davalılar istinaf başvurusunda bulundu ancak reddedildi."
+}

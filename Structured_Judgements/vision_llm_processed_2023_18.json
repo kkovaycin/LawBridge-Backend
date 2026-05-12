@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2023_18.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ BAM 37. HUKUK DAİRESİ",
+        "esas_no": "2014/347 Esas",
+        "karar_no": "2023/881",
+        "case_subject": "Tazminat davası",
+        "dava_tarihi": "30/12/2019",
+        "karar_tarihi": "22/12/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, davacının mükellefiyle olan işlemler, kira sözleşmeleri ve tahakkuk etmiş zararlar hakkında detaylı olarak anlatılmıştır. Davacının mükellefiyle olan işlemleri, kira sözleşmeleri ve tahakkuk etmiş zararlar hakkında detaylı olarak anlatılmıştır.",
+        "reasoning_text": "Mahkeme, dava konusu olan kira sözleşmelerinin feshedilmesinin, davacının zarar görmesinin ve mükellefiyle olan işlemlerin sonucunun incelenmesinde esas olarak kullanılır. Mahkeme, dava konusu olan kira sözleşmelerinin feshedilmesinin, davacının zarar görmesinin ve mükellefiyle olan işlemlerin sonucunun incelenmesinde esas olarak kullanılır.",
+        "verdict_text": "ESASTAN REDDİNE, Alınmasi gereken 2.436,92 TL.harçtan peşin alınan 663,63 TL.harçın mahsubu ile bakiye 1.773,29 TL. harçın davaldan alınarak hazınesine işad kaydına, HMK 27. maddesi gereği, tarafların hukuki dinlenilme hakkı nedeniyle ve 04/08/2017 tarihinde yürürlüğe giren 7035 sayıl Yasanın 27. maddesi ile HMK 302. maddesine eklenen 5.fıkrası uyarınca hükmün ilk derecede mahkemesince taraflara tebliğ edilmesine, Dosya üzerinde yapılan incelemede 21/12/2023 tarihinde oy birliği ile kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı HUKUK MUHAKEMELERİ KANUNU",
+            "342. madde",
+            "355. madde",
+            "316. madde",
+            "334. madde",
+            "7035 sayılı Yasa",
+            "27. madde",
+            "302. madde"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacının mükellefiyle olan işlemleri ve kira sözleşmeleri nedeniyle zarar görmesinin incelenmesinde esas olarak kullanılır. Davacının mükellefiyle olan işlemleri ve kira sözleşmeleri nedeniyle zarar görmesinin incelenmesinde esas olarak kullanılır.",
+    "summary_for_model": "Mahkeme, dava konusu olan kira sözleşmelerinin feshedilmesinin, davacının zarar görmesinin ve mükellefiyle olan işlemlerin sonucunun incelenmesinde esas olarak kullanılır. Mahkeme, dava konusu olan kira sözleşmelerinin feshedilmesinin, davacının zarar görmesinin ve mükellefiyle olan işlemlerin sonucunun incelenmesinde esas olarak kullanılır."
+}

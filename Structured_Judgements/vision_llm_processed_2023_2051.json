@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2023_2051.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLIYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2023/2051",
+        "karar_no": "2023/1575",
+        "case_subject": "İhtiyati Tedbir Kararına İtiraz",
+        "dava_tarihi": "15/09/2023",
+        "karar_tarihi": "01/12/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, vekilin 2019/05982, 2015/07997 ve 2020/01548-1 sayılı çoklu tasarımların sahibi olduğu ve bu tasarımların fiziksel olarak iş yerlerinde üretildiği ve satıldığı iddia edildi. Karşı taraf, bu tasarımların Instagram'da satıldığını iddia etti.",
+        "reasoning_text": "İkinci derece mahkemesi, ilk derece mahkemesinin ihityati tedbir kararını reddetti. Karşı taraf vekili, ihityati tedbirin infazının imkansız olduğunu ve mahkemenin kararının hukuka aykırı olduğunu iddia etti.",
+        "verdict_text": "Karşı taraf vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ES ASTAN REDDİNE, 269,85 TL maktu istinaf karar ve ilam harci karşı taraf tarafından istinaf başvurusu sırasında yatırıldığı anlaşıldığından, yeniden harç alınmasına yer olmadığına, istinaf aşamasında karşı taraflıca yapılan yargılama giderlerinin uhdesinde bırakılmasına, istinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına, kararın tebliği ve harç tahsil işlemlerinin ilk derece mahkemesi tarafından yapılmasına, Dair, dosya üzerinde yapılan inceleme sonucunda oybirliği ile 01/12/2023 tarihinde HMK'nın 362/1-f maddesi uyarınca KESİN olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK'nin 355. maddesi",
+            "HMK'nın 353/1-b.1 maddesi",
+            "HMK'nın 362/1-f maddesi"
+        ]
+    },
+    "summary_for_human": "Ankara Bölge Adliyesi, bir şirketin Instagram'da satılan ürünlerin ihityati tedbir kararına karşı itirazı reddetmiştir. Karşı taraf, bu kararın infazının imkansız olduğunu iddia etmiştir.",
+    "summary_for_model": "İkinci derece mahkemesi, ilk derece mahkemesinin ihityati tedbir kararını reddetmiştir. Karşı taraf vekili, bu kararın hukuka aykırı olduğunu iddia etmiştir. Karar, HMK'nın 353/1-b.1 ve 362/1-f maddeleri uyarınca verilmiştir."
+}

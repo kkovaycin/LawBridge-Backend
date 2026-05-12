@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_560.pdf",
+        "court_name": "İstanbul Anadolu 12. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2022/844",
+        "karar_no": "2023/709",
+        "case_subject": "Haksız rekabet davası ve itiyatı tedbir talebi",
+        "dava_tarihi": "08/02/2023",
+        "karar_tarihi": "12/05/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davacının web sayfasında ve sosyal medyada müvekkili şirket hakkındaki yanıltıcı ve gereksiz yere incite niteliğindeki açıklama ve değerlendirmeleri nedeniyle davacının haksız rekabet oluştururan davranışının tespiti, önlenmesi, eski hale iade, maddi ve manevi zararın tazmini istemi ile açılan davada davalıya ait sosyal medya hesaplarında yer alan ve haksız rekabet teşkil eden paylaşımlara eşinin engellenmesine yönelik itiyatı tedbir kararı verilmesini talep etmiştir.",
+        "reasoning_text": "Mahkeme, davacının itiyatı tedbir talebinin reddine ilişkin vermiş olduğu 08.11.2022 tarihli kararın hukuka uygun olduğunu, davacı vekilinin itirazının reddine karar verdi. Davacı vekilinin itirazı, mahkemenin davacının itiyatı tedbir talebinin reddine ilişkin vermiş olduğu 08.11.2022 tarihli kararın hukuka uygun olduğunu, davacı vekilinin itirazının reddine karar verdi.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle: İhtiyatı tedbire itiraz eden davalı vekilinin istinaf başvurusunun HMK'nın 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE, Alınması gereken 179,90-TL istinaf karar harcından itiyatı tedbire itiraz eden davalı tarafından peşin yatırılan 193-TL harçtan mahsubu ile bakiye 13,10-TL fazla harç talep halinde itiyatı tedbire itiraz eden davalıya iaadesine, Dosya üzerinde yapılan inceleme sonunda HMK 362(1)f maddesi uyarınca kesin olmak üzere oy birliği ile karar verildi. 12/05/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK'nın 61/1 maddesi",
+            "HMK'nın 389. maddesi",
+            "HMK'nın 353(1)b-1 maddesi",
+            "HMK'nın 362(1)f maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacının itiyatı tedbir talebinin reddine ilişkin 08.11.2022 tarihli kararını hukuka uygun buldu ve davacı vekilinin itirazını reddetti. Davacı vekilinin itirazı, mahkemenin davacının itiyatı tedbir talebinin reddine ilişkin vermiş olduğu 08.11.2022 tarihli kararın hukuka uygun olduğunu, davacı vekilinin itirazının reddine karar verdi.",
+    "summary_for_model": "Mahkeme, davacının itiyatı tedbir talebinin reddine ilişkin 08.11.2022 tarihli kararını hukuka uygun buldu ve davacı vekilinin itirazını reddetti. Davacı vekilinin itirazı, mahkemenin davacının itiyatı tedbir talebinin reddine ilişkin vermiş olduğu 08.11.2022 tarihli kararın hukuka uygun olduğunu, davacı vekilinin itirazının reddine karar verdi."
+}

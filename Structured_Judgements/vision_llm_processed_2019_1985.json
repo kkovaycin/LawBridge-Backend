@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2019_1985.pdf",
+        "court_name": "İzmir Bölge Adlıye Mahkemesi",
+        "esas_no": "2018/20",
+        "karar_no": "2022/1024",
+        "case_subject": "Tasarımın Hükümsüzlüğü",
+        "dava_tarihi": "22/05/2019",
+        "karar_tarihi": "30/06/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının 2015'ten önceki hizmet sözleşmesi ve tasarımın başka yerlerde kullanılmasına izin vermediğini iddia etti. Dava, tasarımın hükümsüzlüğü talebiyle açıldı. İkinci derece mahkemesi, tasarımın yeni ve ayırt edici olduğunu tespit etti.",
+        "reasoning_text": "Mahkeme, tasarımın yenilik ve ayırt edicilik kriterlerini karşıladığını tespit etti. Tasarımın başka bir şirket tarafından kullanıldığı iddiaları reddedildi. Tasarımın hükümsüzlüğü talebi reddedildi.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Davacı vekilinin istinaf başvurusunun Hukuk Muhakemeleri Kanunu'nun 353/1-b-1 maddesi uyarınca ES ASTAN REDDİNE, 2-Davalı yönünden istinaf karar harcı olan 80,70 TL'den peşin alınan 44,40 TL'nin mahsubu ile bakiye 36,30 TL'nin davalından alınarak hazinede gelir kaydına, 3-Istinaf başvurusu nedeni ile davalının yaptığı giderlerin kendi üzerinde bırakılmasına, Dosya üzerinden yapılan inceleme neticesinde, kararın tebliğiğinden itibaren iki hafta içinde Yargıtay ilgili Hukuk Dairesinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi. 30.06.2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu 353/1-b-1",
+            "Yargıtay 11. H.D'nin 08.03.2002 tarih 2020/735E, 2022/1612 K sayılı kararı"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının tasarımını hükümsüz kılmak istedi. Mahkeme, tasarının yeni ve ayırt edici olduğunu tespit etti ve hükümsüzlük talebini reddetti.",
+    "summary_for_model": "Tasarımın hükümsüzlüğü davası. Mahkeme, tasarının yenilik ve ayırt edicilik kriterlerini karşıladığını tespit etti. Tasarımın başka bir şirket tarafından kullanıldığı iddiaları reddedildi."
+}

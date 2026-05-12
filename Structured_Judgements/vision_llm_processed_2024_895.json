@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2024_895.pdf",
+        "court_name": "T.C. İSTANBUL BÖLGE ADLİYE MAHKEMESİ",
+        "esas_no": "2022/866",
+        "karar_no": "2024/795",
+        "case_subject": "İtiraz İptali",
+        "dava_tarihi": "19/04/2024",
+        "karar_tarihi": "09/07/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalıya yapılan \"dolap onarımı ve tadilati\" ile ilgili olarak düzenlenen 25.08.2022 tarihli 339.250,00 TL'lik faturadan kalan bakiye 277.580,00 TL'ye dayalı olarak başlatılan icra takibine karşı itiraz iptali talebinde bulundu. Mahkeme, davalı tarafından yapılan itiraz iptali talebini reddetmiştir. Davacı vekili, davalı/borçlu ile müvekkili arasında ticari ilişki nedeniyle davalı/borçlunun müvekkili şirkete borcu olduğu, davalı işyerinin kapalı olduğu ve dolapların satıldığı gibi iddiaları ileri sürmüştür.",
+        "reasoning_text": "Mahkeme, davacı vekilinin itiraz iptali talebini kabul etmedi. Davacı vekilinin itiraz talebinin kabulüne karşı, davalı/borçlunun iş yerinin kapalı olduğu ve dolapların satıldığı gibi iddiaları dikkate alınarak, davalı/borçlunun borçunu ödemeye ilişkin iddiaları reddedildi. Mahkeme, davacı vekilinin itiraz talebinin kabulüne karşı, davalı/borçlunun borçunu ödemeye ilişkin iddialarını reddetmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin istinaf başvurusu KABULÜNE, 2-İSTANBUL 3. ASLİYE TİCARET MAHKEMESİ'nin 19.04.2024 tarih, 2022/866 Esas sayılı ara kararının KALDIRILMASINA, 3-Dosyanın Dairemiz kararına uygun şekilde inceleme yapılarak yeniden bir karar verilmek üzere yerel mahkemesine GÖNDERİLMESİNE, 4-Davacı tarafından yatırılan istinaf karar harcının istek halinde kendisine İADESİNE, 5-Davacı tarafından yapılan istinaf yargılama giderinin ilk derece mahkemesinde yeniden verilecek kararda DİKKATE ALINMASININA, 6-İstinaf yargılama sırasında duruşma ağlamadığından vekâlet ücreti takdirine YER OLMADIGINA. Dair, dosya üzerinden yapılan inceleme sonucunda, 6100 sayılı HMK'nın 353/1-a-6 maddesi gereğince KESİN olmak üzere 09/07/2024 tarihinde oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İ.K.'nin 257. maddesi",
+            "6100 sayılı HMK'nın 353/1-a-6 maddesi",
+            "6098 sayılı Türk Borçlar Kanunu 470 ve devam maddeleri"
+        ]
+    },
+    "summary_for_human": "Bu dava, davacı tarafından davalıya yapılan bir fatura üzerinden başlatılan icra takibine karşı itiraz iptali talebinin reddedilmesiyle ilgilidir. Mahkeme, davacı vekilinin itiraz talebini kabul etmedi ve davalı/borçlunun borçunu ödemeye ilişkin iddialarını reddetti. Davacı vekilinin itiraz talebinin kabulüne karşı, davalı/borçlunun iş yerinin kapalı olduğu ve dolapların satıldığı gibi iddiaları dikkate alınarak, davalı/borçlunun borçunu ödemeye ilişkin iddiaları reddedildi.",
+    "summary_for_model": "Davacı, davalıya yapılan fatura üzerinden başlatılan icra takibine karşı itiraz iptali talebinde bulundu. Mahkeme, davacı vekilinin itiraz talebini reddetti. İ.K.'nin 257. maddesi ve 6100 sayılı HMK'nın 353/1-a-6 maddesi çerçevesinde, davalı/borçlunun borçunu ödemeye ilişkin iddiaları reddedildi. Davacı vekilinin itiraz talebinin kabulüne karşı, davalı/borçlunun iş yerinin kapalı olduğu ve dolapların satıldığı gibi iddiaları dikkate alınarak, davalı/borçlunun borçunu ödemeye ilişkin iddiaları reddedildi."
+}

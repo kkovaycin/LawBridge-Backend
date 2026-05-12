@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2021_1762.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2021/1762",
+        "karar_no": "2023/1726",
+        "case_subject": "Haksız Rekabetin Tesbiti, Men'i",
+        "dava_tarihi": "08/07/2021",
+        "karar_tarihi": "15/01/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı şirketin Instagram üzerinden haksız reklamlar yaparak davalı markayı kötülemesi ve alım satım ilişkisi kurması iddiasını savundu. Davalı vekili ise, Instagram hesabının davacı şirkete ait olmadığını ve davanın sorumluluğunun olmadığını savundu.",
+        "reasoning_text": "Mahkeme, davacı vekilinin istinaf başvurusunu reddetti. Davanın Instagram hesabının davacı şirkete ait olmadığı ve davanın sorumluluğunun bulunmadığı tespit edildi. Ayrıca, davanın haksız reklam yapmadığı ve davanın reddine karar verildi.",
+        "verdict_text": "ESASTAN REDDİNE, Harçlar Kanunu uyarınca alınması gereken 269,85-TL miktarı istinaf karar ve ilam harcından, davacı tarafından yatırılan 59,30-TL istinaf karar ve ilam harcının mahsubu ile kalan 210,55-TL bakiye harcın davacıdan tahsili ile Hazineye irat kaydına, İstinaf aşamasında davacı tarafından yapılan yargılama giderlerinin kendi uhdesinde bırakılmasına, Dair, dosya üzerinde yapılan inceleme sonucunda oy birliği ile 22/12/2023 tarihinde HMK 361. maddesi uyarınca kararın tebliğinden itibaren iki hafta içerisinde TEMYİZ yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK'nin 58/1 maddesi",
+            "HMK'nin 355. maddesi",
+            "HMK'nin 353/1-b.1 maddesi",
+            "HMK 361. maddesi",
+            "Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin istinaf başvurusunu reddetti. Davanın Instagram hesabının davacı şirkete ait olmadığı ve davanın sorumluluğunun bulunmadığı tespit edildi. Ayrıca, davanın haksız reklam yapmadığı ve davanın reddine karar verildi.",
+    "summary_for_model": "Mahkeme, davacı vekilinin istinaf başvurusunu reddetti. Davanın Instagram hesabının davacı şirkete ait olmadığı ve davanın sorumluluğunun bulunmadığı tespit edildi. Ayrıca, davanın haksız reklam yapmadığı ve davanın reddine karar verildi. TTK'nin 58/1 maddesi ve HMK'nin 355. maddesi, 353/1-b.1 maddesi ve 361. maddesi ile Harçlar Kanunu'na yer verildi."
+}

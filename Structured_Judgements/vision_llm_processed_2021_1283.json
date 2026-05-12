@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_1283.pdf",
+        "court_name": "İstanbul Anadolu 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/1283",
+        "karar_no": "2021/1550",
+        "case_subject": "Marka (Manevi Tazminat İstemi)",
+        "dava_tarihi": "22/09/2021",
+        "karar_tarihi": "22/09/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilin uzun yıllardan beri adı altında yayın faaliyetinde bulunduğunu ve müvekkili adına birçok marka bulunduğunu iddia etmiştir. Davalının ise müvekkili yayın grubunun devam imiş gibi algı oluşturmak için adı ile faaliyetinde bulunduğunu, ayrıca adı ile sosyal medyada hesaplar açtığını, instagramdan da paylaşımlar yaptığını belirtmiştir. Davalının bu eylemlerinin markaya tecavüz oluşturduğunu, markaya tecavüzün ve haksız rekabetin tespiti, önlenmesi, durdurulması ve ortadan kaldırılması ile davalının unvanında yer alan ibaresinin ticaret sicilinden terkini, maddi ve manevi tazminat taleplerini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, dava dosyasında yapılan incelemenin sonucunda davacı vekilinin istinaf talebini reddetmiştir. İstinaf talebinin reddi, davacı vekilinin istinaf talebinin HMK'nın 353/1-b1 maddesi uyarınca esastan reddine, davacı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, istinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına ve dosya üzerinde yapılan inceleme sonucunda oy birliği ile HMK'nın 362/1-f maddesi uyarınca kesin olarak karar verildiğine dayanmaktadır.",
+        "verdict_text": "22/09/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 389",
+            "HMK 362/1-f"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin istinaf talebini reddetmiştir. İstinaf talebinin reddi, davacı vekilinin istinaf talebinin HMK'nın 353/1-b1 maddesi uyarınca esastan reddine, davacı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, istinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına ve dosya üzerinde yapılan inceleme sonucunda oy birliği ile HMK'nın 362/1-f maddesi uyarınca kesin olarak karar verildiğine dayanmaktadır.",
+    "summary_for_model": "Mahkeme, davacı vekilinin istinaf talebini reddetmiştir. İstinaf talebinin reddi, HMK'nın 353/1-b1, 389 ve 362/1-f maddeleri uyarınca yapılmıştır. Davacı vekilinin istinaf talebinin esastan reddine, davacı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, istinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına ve dosya üzerinde yapılan inceleme sonucunda oy birliği ile karar verildiğine dayanmaktadır."
+}

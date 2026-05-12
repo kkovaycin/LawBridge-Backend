@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2025_440.pdf",
+        "court_name": "T.C. İZMİR BÖLGE ADLIYE MAHKEMESİ 14. HUKUK DAİRESİ",
+        "esas_no": "2025/440",
+        "karar_no": "2025/520",
+        "case_subject": "Ticari Satımdan Kaynaklanan",
+        "dava_tarihi": "11/12/2024",
+        "karar_tarihi": "15/04/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, 11.12.2024 tarihli ihtiyati haciz istemli dava dilekçesinde, davalının menkul, gayrimenkul mallarına, 3. sahıslardaki hak ve alacaklarına, kurumlar ile sahislar nezdiınde bulunan terminat mektuplarına, araçlarına ve tüm bankalardaki hesaplarına terminatsiz olarak ihtiyati haciz konulmasını talep etmiştir.",
+        "reasoning_text": "Mahkeme, dava konusu alacak için başlatılan icra takibine vaki itirazın iptali davası olduğunu, davaya konu alacak için itirazı uğramış bir alacak olduğunu, bu nedenle takip tarihi itibariyle takibe konu edilen tutar kadar davacının davalıdan muaccel alacağının bulunduğunu, bu durumun yargılamaya muhtaç iddialarına dayalı ihtiyati haciz isteminin tüm dosya kapsamına nazaran İİK 257. maddesi kapsamında koşulları oluşmadığından reddine dair karar verdiği.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle; 1-İzmir 1. Asliye Ticaret Mahkemesi'nin 2024/1056 Esas sayılı dosyasından verilen 20.12.2024 tarihli ara kararı, usul ve esas yönünden hukuka uygun bulunduğundan, davacı vekilinin bu ara karara karşı yapmış olduğu istinaf kanun yoluyla başvurusunun, 6100 sayılı HMK'n 353/(1)-b-1. maddesi gereğince ESASİTAN REDDİNE, 2-Davacı vekilinin istinaf başvurusunun reddine karar verilmiş olması nedeniyle, alinmasi gereken 1.013,90 TL tedbir harçından, peşin alınan 615,40 TL harçin mahsubu ile kalan 398,50 TL harç bedelinin davacıdan alinarak, Hazine'ye gelir kaydına, 3-Davacı tarafından yatırılan 1.683,10 TL istinaf kanun yoluyla başvurma harçi ile istinaf kanun yolu giderlerinin kendi üzerinde birakılmasına, 4-Kararın, ilk derece mahkemesinde taraflara tebliğine, Dair, dosya üzerinde yapılan inceleme sonucunda, 2004 sayılı İİK'n 258/(3) ve 6100 sayılı HMK'n 391/(3) ve 362/(1)-f maddeleri uyarınca, kesin olarak 15.04.2025 tarihinde oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İİK 257",
+            "İİK 258",
+            "6100 sayılı HMK",
+            "HMK 355",
+            "HMK 389",
+            "HMK 353/(1)-b-1",
+            "HMK 391/(3)",
+            "HMK 362/(1)-f"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davalının menkul ve gayrimenkul mallarına, banka hesaplarına ve terminat mektuplarına ihtiyati haciz uygulanmasını talep etmiştir. Mahkeme, dava konusu alacak için başlatılan icra takibine vaki itirazın iptali davası olduğunu, davaya konu alacak için itirazı uğramış bir alacak olduğunu ve bu nedenle takip tarihi itibariyle takibe konu edilen tutar kadar davacının davalıdan muaccel alacağının bulunduğunu saptamıştır. Ancak, bu durumun yargılamaya muhtaç iddialarına dayalı ihtiyati haciz isteminin tüm dosya kapsamına nazaran İİK 257. maddesi kapsamında koşulları oluşmadığından reddine dair karar vermiştir.",
+    "summary_for_model": "Davacı vekili, davalının menkul, gayrimenkul mallarına, banka hesaplarına ve terminat mektuplarına ihtiyati haciz talep etmiştir. Mahkeme, dava konusu alacak için başlatılan icra takibine vaki itirazın iptali davası olarak kabul etmiştir. İİK 257. maddesine göre, alacak için itirazı uğramış bir alacak olarak kabul edilmiştir. Ancak, İİK 257/2 maddesine göre, davalının mallarını gizleme, kaçırma veya kendisinin kaçmaya hazırlanığı durumunun yokluğu nedeniyle, yargılamaya muhtaç iddialarına dayalı ihtiyati haciz isteminin tüm dosya kapsamına nazaran koşulları oluşmadığından reddine dair karar verilmiştir."
+}

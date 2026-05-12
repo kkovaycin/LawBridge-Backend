@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2018_3836.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 9.Hukuk Dairesi",
+        "esas_no": "2018/3836",
+        "karar_no": "2020/3932",
+        "case_subject": "Tazminat (Sigorta Ödemesine Dayanan Rüçuen)",
+        "dava_tarihi": "05/02/2016",
+        "karar_tarihi": "13/11/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, davalı şirketin sigortalı aracın hasarını ödemediğini iddia etmiştir. Yerel mahkeme davayı reddetmiştir. Davacı vekili istinaf başvurusunda bulunmuştur.",
+        "reasoning_text": "Mahkeme, davacı vekilinin istinaf başvurusunun Hüküm Kanunu'nun 353/1-b/1. maddesi uyarınca esastan reddine karar verdi. Davacı vekilinin iddiaları yetersiz bulunmuştur.",
+        "verdict_text": "ESASTAN REDDİNE, 2-Harçlar Yasaşı'na göre alınması gereken 54,40 TL harçtan peşin alınan 35,90 TL harçın mahsubu ile bakiye 18,50 TL harçın davacıdan tahsili ile Hazineye İrat kaydına, 3-Istinaf yargılama giderlerinin istinaf eden üzerinde bırakılmasına, 4-Duruşma yapılmadığından, vekalet ücreti hükmedilmesine yer olmadığına, 5-Istinaf aşaması için yatırılan gider avansından artan kısım yatıran tarafa iadesine, Dosya üzerinde yapılan inceleme sonucunda, Hüküm Kanunu'nun 362/1-a maddesi uyarınca kesin olmak üzere, oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hüküm Kanunu 353/1-b/1. maddesi",
+            "Hüküm Kanunu 362/1-a maddesi",
+            "Harçlar Yasaşı"
+        ]
+    },
+    "summary_for_human": "Davacı, sigortalı aracın hasarını ödemeyen davalı şirkete karşı tazminat talep etti. Yerel mahkeme davayı reddetti. Davacı vekili istinaf başvurusunda bulundu. Mahkeme, davacı vekilinin iddialarını yetersiz bularak istinaf başvurusunu reddetti.",
+    "summary_for_model": "Davacı vekili, sigortalı aracın hasarını ödemeyen davalı şirkete karşı tazminat talep etti. Yerel mahkeme davayı reddetti. Davacı vekili istinaf başvurusunda bulundu. Mahkeme, davacı vekilinin iddialarını yetersiz bularak istinaf başvurusunu Hüküm Kanunu 353/1-b/1. maddesi uyarınca esastan reddetti."
+}

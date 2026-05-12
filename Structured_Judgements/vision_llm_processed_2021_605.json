@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2021_605.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2021/605",
+        "karar_no": "2021/491",
+        "case_subject": "İhtiyati Tedbir Davası",
+        "dava_tarihi": "29/12/2020",
+        "karar_tarihi": "22/04/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "İhtiyati tedbir isteyen vekil, müvekkili şirketin ticari markasını Türkiye'deki marka lisans sahibi, distribütörü ve tek ithalatçısı olarak tanımladı. Müvekkili şirketle karşı taraf arasında 1 yıl süreyle geçerli olmak üzere bayilik sözleşmesi imzalandı. Söz konusu sözleşmenin, sözleşmeye aykırılık sebebiyle müvekkili şirket tarafından ihbarname ile feshedildiğini iddia etti. Karşı taraf, sözleşme bitmesine rağmen markanın altında haklı bir biçimde faaliyetlerine devam ettiğini iddia etti.",
+        "reasoning_text": "Mahkeme, ilk derece mahkemesi kararının kaldırılarak ihtiyati tedbir istemenin reddine karar verildiğini değerlendirdi. Karşı taraf vekili, ihtiyati tedbir isteyenin lisans hakkı sahibi olduğu markanın tescil kapsamında oto yıkama hizmetlerinin bulunmadığını, markanın tescil kapsamında bulunan bir kısım emtialarla müvekkili tarafından sunulan hizmetlerde markanın kullanılması, markanın özgün ve ayırt edici niteliği son derece yüksek bir marka olduğu hususlarını değerlendirdi.",
+        "verdict_text": "GEREKÇESİ YUKARIDA BELİRTİLDİĞİ ÜZERİNE;\n1-Karşı taraf vekilinin istinaf başvurusunun HMK'nın 353/1.b. maddesi gereğince ESASTAN REDDİNE,\n2-Karşı tarafça istinaf başvurusunda yatırılan maktu harcin mahsubu ile yeniden harç alınmasına yer olmadığına,\n3-Istinaf aşamasında karşı tarafça yapılan yargılama giderlerinin uhdesinde bırakılmasına,\n4-Istinaf aşamasında duruşma açılmadığından taraflara vekalet ücreti takdirine yer olmadığına,\nDosya üzerinde yapılan inceleme sonucunda oybirliği ile 02/04/2021 tarihinde HMK 362/1.f. maddesi uyarınca KESİN olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nın 355. maddesi",
+            "SMK'nın 159. maddesi",
+            "HMK'nın 389 ve 390. maddesi",
+            "HMK'nın 353/1.b. maddesi",
+            "HMK 362/1.f. maddesi"
+        ]
+    },
+    "summary_for_human": "İhtiyati tedbir davasında, müvekkili şirketin ticari markasını kullanan karşı tarafın faaliyetleri durdurulması talep edildi. Mahkeme, ilk derece kararını kaldırabilirken ihtiyati tedbir istemenin reddine karar verdi.",
+    "summary_for_model": "İhtiyati tedbir davasında, müvekkili şirketin ticari markasını kullanan karşı tarafın faaliyetleri durdurulması talep edildi. Mahkeme, ilk derece kararını kaldırabilirken ihtiyati tedbir istemenin reddine karar verdi. Karşı taraf vekili, markanın tescil kapsamında oto yıkama hizmetlerinin bulunmadığını ve markanın özgün niteliğini vurguladı."
+}

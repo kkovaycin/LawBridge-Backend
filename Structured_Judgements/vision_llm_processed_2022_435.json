@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2022_435.pdf",
+        "court_name": "T.C. BAKIRKÖY 1. AŞLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2022/435",
+        "karar_no": "2022/514",
+        "case_subject": "Tazminat (Haksız Filden Kaynaklanan)",
+        "dava_tarihi": "27/07/2020",
+        "karar_tarihi": "18/05/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesi ile müvekkili şirketin markalı ilacı markası sahibi olduğunu iddia etmiştir. Davalılar, Sanayi A.Ş.'nin Yönetim Kurulu Üyesi ve Müdürü olduğunu, internet sitelerinde İK Direktörlüğü, Karıyer Danışmanlığı, Yönetim Danışmanlığı yaptığını, sosyal medya hesabında davalıdan men'i ile paylaşımda bulunduğunu iddia etmiştir. Davacı, davalıların markayı haksız ve gerçekte aykırı şekilde karşılaştırdığını iddia ederek SMK m.149/1/a/b/c uyarınca davayı açmıştır.",
+        "reasoning_text": "Mahkeme, davanın ticari dava olarak nitelendirilebileceğini, ancak davacı vekilinin davayı ticari dava olarak açmadığını ve davanın usulüne uygunluğunu reddetmiştir. Mahkeme ayrıca, davanın görevli mahkemede değerlendirilmesinin uygun olmadığını ve davanın usulüne uygunluğunu reddetmiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1- Davacının açtığı davada, mahkememizin görevli olmadığı anlaşılmakla; açılan davanın, HMK'nun 115/2.maddesi uyarınca aynı kanunun 114/1-(c) maddesinde belirtilen dava şartı noksanlığı nedeniyle usulden REDDİNE, mahkememizin GÖREVŞİZLİĞİNE, 2- Görevli mahkemenin Bakırköy ... Fikri ve Sınai Haklar Hukuk Mahkemesi olduğu, 3-Mahkememiz kararının kanun yoluna götürülemezsin kesilmesi halinde daha önceden Bakırköy ... Fikri ve Sınai Haklar Hukuk Mahkemesinde görevsizlik kararı verildiğinden olumsuz görev uyuşmazlığının, hali merci tayini için dosyanın İSTANBUL BAM ... Hukuk Dairesine GÖNDERİLMESİNE, 4-Mahkememizce verilen görevsizlik kararının kesilmesinden sonra dava yetkili ve görevli mahkemede devam edilmemesi ve talep halinde yargılama giderlerinin değerlendirilerek HMK'nun 331/2. maddesi gereğince bir karar verileceğinin İHTARATINA, 5-Harç ve masrafların görevli mahkemede nazara ALINMASINA, Dair; 6100 sayılı HMK.'nun 341. ve devamı maddeleri gereğince gerekli kararın tebliğinden itibaren 2 haftalık süre içerisinde İstanbul Bölge Adliye Mahkemesi nezdiinde İSTANBUL kanun yolu açık olmak üzere dosya üzerinden yapılan inceleme sonucunda karar verildi.18/05/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK m.149/1/a/b/c",
+            "SMK m.149/c",
+            "6102 sayılı Türk Ticaret Kanunu",
+            "6100 sayılı HMK",
+            "6769 sayılı Sınai Mülkiyet Kanunu",
+            "5235 sayılı Kanun",
+            "6100 sayılı HMK'nin 341. ve devamı maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, davalıların markayı haksız kullanmakla suçladı. Mahkeme, davanın ticari niteliği ve usulüne uygunluğunu reddetti. Davanın görevli mahkemede değerlendirilmesinin uygun olmadığını ve davanın usulüne uygunluğunu reddetti.",
+    "summary_for_model": "Davacı, davalıların markayı haksız kullanmakla suçladı. Mahkeme, davanın ticari niteliği ve usulüne uygunluğunu reddetti. Davanın görevli mahkemede değerlendirilmesinin uygun olmadığını ve davanın usulüne uygunluğunu reddetti. Davanın ticari dava olarak nitelendirilebildiği ancak davacı vekilinin davayı ticari dava olarak açmadığı ve davanın usulüne uygunluğunu reddettiği belirtilmiştir."
+}

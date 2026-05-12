@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2025_153.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ BAM 20. HUKUK DAİRESİ",
+        "esas_no": "2025/153",
+        "karar_no": "2025/82",
+        "case_subject": "İhtiyatı tedbir talebi ve istinaf",
+        "dava_tarihi": "21/11/2024",
+        "karar_tarihi": "23/01/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "İhtiyatı tedbir isteyen vekil, müvekkili şirketin detejan alında ülkemizin öncü firmalarından biri olduğunu iddia etti. Müvekkili, karşı taraf şirketin markalarıyla ürünleri piyasaya sürdüğünü ve bu ürünlerin tanınmış olduğunu savundu. Karşı tarafın ürünlerinin müvekkilinin ürünleriyle benzerlik taşıdığını, markaların hak ihlali oluşturduğunu ve ihlalin durdurulması için istinaf talebinde bulundu.",
+        "reasoning_text": "Mahkeme, ihlalin hukuki olarak geçerli olduğunu ve istinaf talebinin temelli olduğunu değerlendirdi. Karşı tarafın ürünlerinin müvekkilinin ürünleriyle benzerlik taşıdığını, markaların hak ihlali oluşturduğunu ve ihlalin durdurulması için istinaf talebinin kabul edilmesi gerektiğini karar verdi.",
+        "verdict_text": "Dair, dosya üzerinde yapılan inceleme sonucunda oybirliği ile 23/01/2025 tarihinde HMK 362/1-f maddesi uyarınca KESİN olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353/1-b.1",
+            "Harklar Kanunu",
+            "HMK 362/1-f"
+        ]
+    },
+    "summary_for_human": "Mahkeme, ihlalin hukuki olarak geçerli olduğunu ve istinaf talebinin kabul edilmesi gerektiğini karar verdi. Karşı tarafın ürünlerinin müvekkilinin ürünleriyle benzerlik taşıdığını ve markaların hak ihlali oluşturduğunu tespit etti.",
+    "summary_for_model": "İhlalin hukuki olarak geçerli olduğu ve istinaf talebinin kabul edilmesi gerektiği kararı verildi. Karşı tarafın ürünlerinin müvekkilinin ürünleriyle benzerlik taşıdığı ve markaların hak ihlali oluşturduğu tespiti yapıldı."
+}

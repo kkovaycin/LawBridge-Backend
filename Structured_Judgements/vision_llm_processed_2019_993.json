@@ -1,0 +1,34 @@
+{
+    "meta_data": {
+        "file_name": "2019_993.pdf",
+        "court_name": "İstanbul Anadolu 8. Asliye Ticaret Mahkemesi",
+        "esas_no": "2018/489",
+        "karar_no": "2019/846",
+        "case_subject": "Manevi Tazminat (Haksız Rekabetten Kaynaklanan)",
+        "dava_tarihi": "16/10/2018",
+        "karar_tarihi": "20/06/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Dava, davacı vekilinin sosyal medyada pedofilik tecavüzü destekleyen bir paylaşım yapması nedeniyle açıldı. Davacı, bu paylaşımın eleştiri sınırları içinde kaldığını iddia etti ancak mahkeme, paylaşımın ağır ve rencide edici olduğunu ve hak ihlali oluşturduğunu tespit etti.",
+        "reasoning_text": "Mahkeme, davacı vekilinin paylaşımının eleştiri sınırları içinde kaldığını reddeterek, bu paylaşımın hak ihlali oluşturduğunu ve davacı şirketin ticari faaliyetlerini olumsuz etkilediğini tespit etti. Ayrıca, davacı vekilinin görevsizlik kararı nedeniyle vekalet ücreti ödemesi gerektiğine hükmedildi.",
+        "verdict_text": "Davacı vekilinin istinaf başvurusunun reddedildiği, davacı yan lehine vekalet ücreti ödemesi gerektiği ve davacı vekilinin istinaf harçının ödenmesi gerektiği kararı verildi. Davacı vekilinin vekalet ücreti ödemesi için 1.000 TL manevi tazminat kararı verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "T.C. Anayasası'nın 26. maddesi",
+            "Avrupa İnsan Hakları Sözleşmesi'nin 10. maddesi",
+            "TTK'nun 55/1-a maddesi",
+            "TTK'nun 55. maddesi",
+            "TTK'nun 56. maddesi",
+            "TBK'nun 58. maddesi",
+            "HMK'nin 331/2. maddesi",
+            "HMK'nin 326. maddesi",
+            "HMK'nin 353(1)b-1 maddesi",
+            "HMK'nin 361/1. maddesi",
+            "AAÜT'nin 10. maddesi",
+            "Yargıtay 11 HD'nin 2016/2081 esas, 2017/1355 karar sayılı ilami"
+        ]
+    },
+    "summary_for_human": "Dava, davacı vekilinin sosyal medyada pedofilik tecavüzü destekleyen bir paylaşım yapması nedeniyle açıldı. Mahkeme, paylaşımın eleştiri sınırları içinde olmadığını ve hak ihlali oluşturduğunu tespit etti. Davacı vekilinin istinaf başvurusunun reddedildiği ve vekalet ücreti ödemesi gerektiği kararı verildi.",
+    "summary_for_model": "Dava, davacı vekilinin sosyal medyada pedofilik tecavüzü destekleyen bir paylaşım yapması nedeniyle açıldı. Mahkeme, paylaşımın eleştiri sınırları içinde olmadığını ve hak ihlali oluşturduğunu tespit etti. Davacı vekilinin istinaf başvurusunun reddedildiği ve vekalet ücreti ödemesi gerektiği kararı verildi. Davacı vekilinin vekalet ücreti ödemesi için 1.000 TL manevi tazminat kararı verildi."
+}

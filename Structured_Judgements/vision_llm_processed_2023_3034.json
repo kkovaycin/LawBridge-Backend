@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_3034.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 25. HUKUK DAİRESİ",
+        "esas_no": "2023/3034",
+        "karar_no": "2023/2869",
+        "case_subject": "İhtiyati tedbir talebinin reddi ve ara kararın kaldırılması",
+        "dava_tarihi": "02/10/2023",
+        "karar_tarihi": "13/12/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, Yeniçağ Gazetesi'nin internet sitesi ve Twitter hesabında yayınlanan haberin, vekil kuruluşun kişisel haklarına saldırdığını iddia ederek ihityati tedbir talebiyle dava açtı. İlk derece mahkemesi, talebin reddine karar verdi.",
+        "reasoning_text": "İhtiyati tedbir talebinin reddi, davanın esasını çözmek için yetkili mahkemece verilemediği için uygunsuz görüldü. Ayrıca, davacı vekili tarafından istinaf kanunu yoluyla başvurunun reddedilmesi ve ilk derece kararının kaldırılması talep edildi.",
+        "verdict_text": "İhtiyati tedbir talebinin reddine dair ilk derece mahkemesi kararının kaldırılmasına, HMK'nın 353/1-b-2 maddesi uyarınca yeniden esas hakkında karar verilmesi gerekmektedir. Davacı vekili tarafından istinaf başvurusu reddedildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hukuk Muhakemeleri Kanunu",
+            "5651 sayılı Internet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun",
+            "Hukuk Muhakemeleri Kanunu",
+            "492 sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, Yeniçağ Gazetesi'nin internet sitesinde yayınlanan haberin vekil kuruluşun haklarına saldırdığını iddia ederek ihityati tedbir talebiyle dava açtı. İlk derece mahkemesi talebi reddetti. Davacı vekili, ilk derece kararının kaldırılması için istinaf başvurusunda bulundu.",
+    "summary_for_model": "İhtiyati tedbir talebinin reddi ve ilk derece kararının kaldırılması talebi, davanın esasını çözmek için yetkili mahkemece verilemediği için uygunsuz görüldü. Davacı vekili tarafından istinaf kanunu yoluyla başvurunun reddedilmesi ve ilk derece kararının kaldırılması talep edildi."
+}

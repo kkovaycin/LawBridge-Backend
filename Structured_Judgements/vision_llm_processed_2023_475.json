@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_475.pdf",
+        "court_name": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2022/297",
+        "karar_no": "2023/680",
+        "case_subject": "Marka Hakkindan Tecavüzden Kaynaklanan",
+        "dava_tarihi": "09/01/2023",
+        "karar_tarihi": "18/04/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, davalı tarafından internet sitelerinde ve sosyal medyada davacı markalarının kullanıldığını iddia etmiştir. Davalı tarafından yapılan ihbarnameye rağmen, markaların kullanımı devam etmektedir.",
+        "reasoning_text": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi, davacı vekilinin istinaf talebini reddetmiştir. Mahkeme, davacı vekilinin istinaf talebinin HUKUK MUHAKEMELERİ KANUNU'nun 353/1-b-1 maddesi uyarınca esastan reddine karar vermiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacı vekilinin istinaf talebinin HMK'nun 353/1-b-1 maddesi uyarınca ESAS TAN REDDİNE, 2-Harç peşin alındığından yeniden harç alınmasına yer olmadığına, 3-Davacı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, 4-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dosya üzerinde yapılan inceleme sonucunda oy birliği ile HMK'nun 362/1-f maddesi uyarınca kesin olarak karar verildi. 18/04/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HUKUK MUHAKEMELERİ KANUNU (HMK) 355. madde",
+            "HUKUK MUHAKEMELERİ KANUNU (HMK) 390/son madde",
+            "HUKUK MUHAKEMELERİ KANUNU (HMK) 353/1-b-1 madde",
+            "HUKUK MUHAKEMELERİ KANUNU (HMK) 362/1-f madde"
+        ]
+    },
+    "summary_for_human": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi, davacı vekilinin istinaf talebini reddetmiştir. Mahkeme, davacı vekilinin istinaf talebinin HUKUK MUHAKEMELERİ KANUNU'nun 353/1-b-1 maddesi uyarınca esastan reddine karar vermiştir.",
+    "summary_for_model": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi, davacı vekilinin istinaf talebini reddetmiştir. Talep, HUKUK MUHAKEMELERİ KANUNU'nun 353/1-b-1 maddesi uyarınca esastan reddine karar verilmiştir. Davacı vekilinin istinaf talebinin reddi, mahkemenin kararının temelli ve yasal olarak desteklendiğini göstermektedir."
+}

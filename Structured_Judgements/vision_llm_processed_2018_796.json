@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2018_796.pdf",
+        "court_name": "T.C. İSTANBUL 2. AŞLİYE TİCARET MAHKEMESİ",
+        "esas_no": "2018/723 Esas",
+        "karar_no": "2019/92",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "06/08/2018",
+        "karar_tarihi": "11/02/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; davalı tarafından internet haber sitesinde yayınlanan haber nedeniyle vekilinin ticari itibarı ve dolayısıyla satışları zedelendiğini, kamuoyunda yanlış algı yaratıldığını iddia etmiştir. Davacı, haberin vekilinin ticari itibarına ağır surette zedelenmesini ve kamuoyunda vekil aleyhine bir intiba ve sansasyon yaratmayı amaçladığını iddia etmiştir.",
+        "reasoning_text": "Davacı vekili tarafından yapılan haberin, davacı vekilinin ticari itibarına saldırdığı iddia edilmiştir. Ancak mahkeme, haberin davacı vekilinin ticari itibarına saldırdığı iddiasının temelsiz olduğunu, haberin kamuoyunu bilgilendirme amacıyla hizmet ettiğini ve eleştiri sınırları içinde olduğunu tespit etmiştir.",
+        "verdict_text": "AYRINTISI VE YASAL GEREKÇESİ YUKARIDA AÇIKLANDIĞI ÜZERİNDE: 1-Davanın REDDİNE, 2-Davacı taraf vekille temsil olduğundan yürütülecek Avukatlık Asgari Ücret Tarifesinin 10/3 maddesi uyarınca taklı olan 2.735,00 TL maksu vekalet ücretinin davacıdan alınıp davalığa verilmesine, 3-Davacı tarafça yapılan yargılama giderinin üzerinde bırakılmasına, 4-Davacı tarafça yatırılan avansın kullanılmayan kısmının, karar kesinleştiğinde davacı tarafa iadesine, 5-Alınması gerekli 44,40-TL karar harcının peşin alınan 853,88-TL harçtan mahsubu ile fazla alınan 809,48-TL'nin karar kesinleştiğinde ve istek halinde davacıya iadesine, Dair, taraf vekillerinin yüzüne karşı, tarafların gerekçeli kararı tebliğ tarihinden itibaren 2 HAFTA içerisinde mahkememize verecekleri bir dilekçe ile veya bulundukları yerdeki başka bir mahkeme aracılığıyla mahkememize gönderecekleri dilekçe ile HMK. 341.maddesi uyarınca İstanbul BAM. nezinde İSTİNAF yoluna başvurma hakları bulunduğu hatırlatılmak suretiyle verilen karar açıkça okunup anlatıldı.11/02/2019"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Anayasa'nın 28. maddesi",
+            "5187 sayılı Basın Kanunu'nun 1. ve 3. maddeleri",
+            "Avrupa İnsan Hakları Mahkemesi kararları",
+            "Türk Medeni Kanunu'nun 24 ve 25. maddeleri",
+            "HMK. 341.maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, vekilinin ticari itibarına saldırdığı iddiasıyla manevi tazminat talep etti. Mahkeme, haberin kamuoyunu bilgilendirme amacıyla hizmet ettiğini ve eleştiri sınırları içinde olduğunu tespit ederek davayı reddetmiştir.",
+    "summary_for_model": "Davacı, vekilinin ticari itibarına saldırdığı iddiasıyla manevi tazminat talep etti. Mahkeme, haberin kamuoyunu bilgilendirme amacıyla hizmet ettiğini ve eleştiri sınırları içinde olduğunu tespit ederek davayı reddetmiştir. Davacı vekilinin ticari itibarına saldırdığı iddiası temelsiz olarak değerlendirilmiştir."
+}

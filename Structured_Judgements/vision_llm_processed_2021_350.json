@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2021_350.pdf",
+        "court_name": "T.C. ANKARA 3. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/350",
+        "karar_no": "2022/191",
+        "case_subject": "Marka İptali ve Tescil İddiaları",
+        "dava_tarihi": "29/11/2021",
+        "karar_tarihi": "16/06/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, markalarının ticari faaliyetlerinde kullanıldığını iddia ediyor ve bu markaların diğer markalarla karıştırılma ihtimali olduğunu savunuyor. Davacı, markalarının 1938'den beri aktif olarak kullanıldığını ve geniş bir müşteri kitlesine sahip olduğunu belirtiyor.",
+        "reasoning_text": "Mahkeme, markaların ticari faaliyetlerinde kullanıldığını ve bu markaların diğer markalarla karıştırılma ihtimali olmadığını tespit etti. Davacı markalarının ticari faaliyetlerinde kullanıldığı ve bu markaların diğer markalarla karıştırılma ihtimali olmadığını belirledi.",
+        "verdict_text": "1-Davanın KABÜLÜNE, 2-TÜRK PATENT YÜDK'un ... sayılı kararının iptaline, 3-... sayılı markanın hüküm­süzlüğüne ve sicilden terkine, 4-Alınması gereken 80,70 TL harçtan peşin alınan 59,30 TL harçın düşümü ile 21,40 TL bakiye harçın davallardan tahsili ile Hazine'ye gelir kaydına, 5-Davacı kendisini vekil ile temsil ettirdiği için 7.375,00-TL vekalet ücretinin davallardan alınarak davacıya verilmesine, 6-Davacı tarafından yapılan aşağıda dökümü gösterilen 2.554,70 TL yargılama giderlerinin davallardan alınarak davacıya verilmesine, 7-Tarafların yatırdıkları gider avanslarından kalan tutarın HMK 333/1 uyarınca karar kesinleştiğinde iaade işlemi yapılmak üzere tebliğden itibaren 15 gün içinde, banka hesabı numarası bildirildiğinde hesaba aktarılmasına, aksi halde PTT aracılığı ile adreste ödemeli olarak gönderilmesine, Dair verilen karar, taraf vekillerinin yüzüne karşı diğer davanın yokluğunda 6100 sayılı HMK'nun 341. ile 345. Maddelerine göre tebliğinden itibaren iki haftalık süre içinde Ankara Bölge Adliye Mahkemesine İstinaf Kanun Yoluna dilekçe ile başvurulabileceğine yönelik karar açıkça okunup, usulen anlatıldı.16/06/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı SMK m.6/1",
+            "6100 sayılı HMK",
+            "5000 sayılı kanun 15/c maddesi",
+            "TTK 57/5 ve 58/I, b'den kaynaklanmaktadır",
+            "Yargıtay Hukuk Genel Kurulunun 08.06.216 tarih ESAS NO:2014/11-696 KARAR NO:2016/778 sayılı kararı"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacının markalarının ticari faaliyetlerinde kullanıldığını ve bu markaların diğer markalarla karıştırılma ihtimali olmadığını tespit etti. Davacı markalarının ticari faaliyetlerinde kullanıldığı ve bu markaların diğer markalarla karıştırılma ihtimali olmadığını belirledi.",
+    "summary_for_model": "Mahkeme, davacının markalarının ticari faaliyetlerinde kullanıldığını ve bu markaların diğer markalarla karıştırılma ihtimali olmadığını tespit etti. Davacı markalarının ticari faaliyetlerinde kullanıldığı ve bu markaların diğer markalarla karıştırılma ihtimali olmadığını belirledi. Davacı, markalarının 1938'den beri aktif olarak kullanıldığını ve geniş bir müşteri kitlesine sahip olduğunu belirtiyor."
+}

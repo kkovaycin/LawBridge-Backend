@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2023_296.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 13. Hukuk Dairesi",
+        "esas_no": "2023/296 Esas",
+        "karar_no": "2023/290 Karar",
+        "case_subject": "İkinci derece mahkemede verilen karara karşı istinaf kanunu yoluyla başvurulan dava",
+        "dava_tarihi": "07/12/2022",
+        "karar_tarihi": "23/02/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacılar ve davalı arasında iş sözleşmesi akdedildiği, davanın gizlilik ve rekabet yasağına aykırı hareket ettiği, davanın Avukatlık Ortaklığı'na ait sistemlere erişerek gizli bilgileri kullanmaya başladığı ve bu durumun hukuki danışmanlık hizmeti olarak kabul edilemediği iddia edildi.",
+        "reasoning_text": "İstanbul Bölge Adliye Mahkemesi, davanın gizlilik ve rekabet yasağına aykırı davranışının kanıtlandığını ve bu durumun istinaf talebini haklı kıldığını tespit etti. Davanın Avukatlık Ortaklığı'na ait sistemlere erişimi ve bu sistemlerin kullanılması, hukuki danışmanlık hizmeti olarak kabul edilemediği için ihitayati tedbir kararı verildi.",
+        "verdict_text": "Davacıların istinaf başvurusu reddedildi. İstinaf edenler tarafından yatırılan istinaf kanunu yoluyla başvurma harci, istinaf kararı harci ve istinaf talep giderleri davacılardan tahsil edildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6098 sayılı Türk Borçlar Kanunu",
+            "6100 sayılı Hukuk Muhakemesi Kanunu",
+            "6100 sayılı Kanun'un 353/1-b1 maddesi",
+            "6100 sayılı Kanun'un 362/1-f maddesi",
+            "Harçlar Kanunu",
+            "Gizlilik, Rekabet Yasası ve Ayartma Sözleşmesi"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, davanın Avukatlık Ortaklığı'na ait sistemlere erişerek gizli bilgileri kullanmaya başladığı ve bu durumun hukuki danışmanlık hizmeti olarak kabul edilemediği için ihitayati tedbir kararı verdi. Davacıların istinaf başvurusu reddedildi.",
+    "summary_for_model": "Davanın gizlilik ve rekabet yasağına aykırı davranışının kanıtlandığı ve bu durumun istinaf talebini haklı kıldığı için ihitayati tedbir kararı verildi. Davacıların istinaf başvurusu reddedildi. İstinaf harçları davacılardan tahsil edildi."
+}

@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2022_519.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2022/519",
+        "karar_no": "2022/525",
+        "case_subject": "Haksız reklamın tespiti ve meni davası",
+        "dava_tarihi": "20/01/2022",
+        "karar_tarihi": "28/04/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davayı dilekçesinde özetlemiştir. Davalar tarafından yöneltilen \"...\" kullanıcısı isimli Instagram sosyal medya hesabının tedbiren kapatılması / erişimin engellenmesine, kararın davalara, Bilgi Teknolojileri ve İletişim Kurumu'na ve Instagram / Facebook Türkiye Temsilcisi olan ... Limited Şirketine bildirilmesine, Sayın Mahkemenin aksi kanaatte olunması durumunda, ... isimli Instagram hesabında bulunan müvekkil şirket otel işletmesine ait ve/veya otel işletmesi ile ilgili iletişim bilgileri dahil yazılı ve görsel tüm paylaşımların kaldırılmasına, davalar tarafından açılan ve müvekkil şirketin otel işletmesi olan ...'nin otel görsellerini ve iletişim bilgilerini içeren, müşteriler nezdiğinde tereddit yaratan www.com uzantılı web sitesine erişimin engellenmesine, davaların şahsi sosyal medya hesapları da dahil olmak üzere, müvekkil şirket ve otel işletmesi ile ilgili hiçbir iletişim mecrasından paylaşım yapmamasına ihtiyati tedbir kapsamında talep etmiştir.",
+        "reasoning_text": "İlk derece mahkemesinde ihtiyati tedbir talebinin değerlendirildiği ara kararda; \"...İhtiyati tedbir kararı verilebilmesi için kanun maddesinde de görüleceği üzere ihtiyati tedbir istemi ancak uyumsuzluk konusu hakkında verilebilecek olup ayrıca ihtiyati tedbir talep edenin haklılığını yaklaşık olarak ispat etmesi gerekmektedir. Davacının ihtiyati tedbir talep ettiği kullanıcı ismine ilişkin markanın davalı adına kayıtlı olduğu, davacı şirketin isim değişikliğine giderek farklı bir markayı tescil ettiği görülmekle davalı adına kayıtlı markayla aynı isim üzerinden yapılan paylaşımların haksız rekabete konu olmayacağına ve davacı şirketin yönetim kurulunun da değiştirildiği genel kurula ilişkin yokluk, iptal nedenlerine dayalı genel kurulun iptali davası olduğu, bu davada alınacak kararın da davaya ve markanın şirket adına kullanımına ilişkin etkisi olduğu kanaatine varılarak...\" gereği, ihtiyati tedbir talebinin reddine karar verilmiştir. Bu ara karara karşı, davacı vekilince istinaf başvurusu bulunmuştur.",
+        "verdict_text": "KARAR: Gerekesi yukarıda açıklanmış olduğu üzere; 1-HMK'nın 353/1.b.1 ve HMK'nın 391/3. maddeleri uyarınca, ihtiyati tedbir talep eden davacı vekilinin istinaf başvurusunun esastan reddine, 2-Davacı tarafından yatırılan istinaf harçlarının Hazineye iad kaydına, 3-Davacı tarafından istinaf kanun yoluna başvuru için yapılan masrafların kendi üzerlerinde bırakılmasına, 4-Gerekeli kararın ilk derece mahkemesine taraflara tebliğine, 5-Dosyanın, kararı veren ilk derece mahkemesine gönderilmesine dair; HMK'nın 353/1.b.1 ve 391/3. maddeleri uyarınca dosya üzerinde yapılan inceleme sonucunda, oybirliğiyle ve kesin olarak karar verildi. 28.04.2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK'nın 61/1. maddesi",
+            "TTK'nun 54 vd. maddeleri",
+            "HMK'nın 355. maddesi",
+            "HMK'nın 389 vd. maddeleri",
+            "HMK'nın 353/1.b.1 ve 391/3. maddeleri",
+            "HMK'nın 362/1.f ve 391/3. maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, davalara karşı haksız reklam ve meni davası açmıştır. İlk derece mahkemesi, ihtiyati tedbir talebini reddetmiştir. Davacı vekili, bu karara karşı istinaf başvurusu yapmıştır. İstinaf mahkemesi, ilk derece mahkemesinin kararını onaylamıştır.",
+    "summary_for_model": "Davacı vekili, davalara karşı haksız reklam ve meni davası açmıştır. İlk derece mahkemesi, ihtiyati tedbir talebini reddetmiştir. Davacı vekili, bu karara karşı istinaf başvurusu yapmıştır. İstinaf mahkemesi, ilk derece mahkemesinin kararını onaylamıştır. Davanın temeli, davalara karşı haksız reklam ve meni iddialarıdır."
+}

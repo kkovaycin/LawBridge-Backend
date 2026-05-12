@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2025_653.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2025/653",
+        "karar_no": "2025/647",
+        "case_subject": "İhtiyati tedbir talebi",
+        "dava_tarihi": "15/01/2025",
+        "karar_tarihi": "27/03/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "İhtiyati tedbir talebini veren vekil, 2017/00820 sayılı tasarıma karşı tecavüzde bulunduğunu iddia ediyor. Talep, Instagram linkinin engellenmesini ve tasarımın durdurulmasını içeriyor.",
+        "reasoning_text": "İlk derece mahkemesi, tasarımın harci alem olduğu ve hak ihlali olmadığını tespit etti. İkinci derece mahkemesi, ilk kararın kaldırılmasına ve talebin reddine karar verdi.",
+        "verdict_text": "İhtiyati tedbir talebi reddedildi. Karar, 27/03/2025 tarihinde yazıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK'nin 355. maddesi",
+            "HMK'nin 390/3. maddesi",
+            "HMK'nin 353/1-b.1 maddesi",
+            "HMK'nin 362/1-f maddesi",
+            "5070 sayılı Yasa"
+        ]
+    },
+    "summary_for_human": "İkinci derece mahkemesi, ilk derece mahkemesinin ihityati tedbir talebini reddeden kararını onayladı. Tasarımın harci alem olduğu ve hak ihlali olmadığı tespit edildi.",
+    "summary_for_model": "İkinci derece mahkemesi, ilk derece mahkemesinin ihityati tedbir talebini reddeden kararını onayladı. Tasarımın harci alem olduğu ve hak ihlali olmadığı tespit edildi. HMK maddeleri ve 5070 sayılı Yasa referanslandı."
+}

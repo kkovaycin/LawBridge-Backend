@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_88.pdf",
+        "court_name": "BAKIRKÖY 2. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2022/88 Esas",
+        "karar_no": "2023/1611 Karar",
+        "case_subject": "Marka (Marka Hakkına Tecavüzden Kaynaklanan)",
+        "dava_tarihi": "10/11/2021",
+        "karar_tarihi": "03/11/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, davalya ait ... başvuru numaralı marka başvurusunun, müvekkili şirketin markalarına dayanılarak yapılan itiraz sonucu TPE tarafından markalar arasında iltisab tehlikesi bulunduğu gerekçesi ile reddine karar verildiğini, anılan markanın müvekkiliinin itirazı üzerine reddedilmiş olmasına karşı, müvekkili şirket markalarına tescil talep edilen marka örneğinden de çok daha fazla benzer şekilde kullanılmaya devam edildiğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacının markasının TPEK tarafından tanınmış marka olarak kabul edildiğini, davalının fili markasal kullanımlarında davacı markasına yakınlaştığını ve bu emtialar bakımından özel bir bilgi ve dikkat seviyesi olmayan ortalama tüketici tarafından tanınmış olduğunu tespit etmiştir. Davacı vekili davalya ait ciro bilgilerin bulunmaması nedeniyle maddi tazminat hesaplamasının yapılamadığını, dava tarihinden itibaren işleyecek reeskont faizi ile davadan alınarak davacıya verilmesini talep etmiştir.",
+        "verdict_text": "BAKIRKÖY 2. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ'NİN 10/11/2021 tarihli 2021/185 E. - 2021/200 K. sayılı kararıyla; \"... Somut olanın değerlendirilmesinde; davacının ... esas unsurlu seri markalarının olduğu ve ... markasının TPMK'nun ... sayılı tescil ile tanınmış marka olarak kabul edildiği, davalının fili markasal kullanımlarında ... kelimesindeki ... harfinin sol tarafaki bacanın üst sola doğru uzatlarak ve alta ... kelimesi getirilerek davacı markasına yaklaştığı, giysi (kot) emtiasında olan söz konusu kullanımlar yönünden sınıfsal benzerliğin mevcut olduğu ve bu emtialar bakımından özel bir bilgi ve dikkat seviyesi olmayan ortalama tüketici tarafından tanınmış olan davacı markası ile karışırma riskinin gerçekleştiği, marka tecavüzünün yasal koşulları oluşturduğu kanaatine varılmıştır. Davacı vekili davalya ait ciro bilgilerin bulunmaması nedeniyle maddi tazminat hesaplamasının yapılamadığını, dava tarihinden itibaren işleyecek reeskont faizi ile davadan alınarak davacıya verilmesini talep etmiştir.\""
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Mahkemeleri Kanunu (HMK)",
+            "Ticaret Kanunu (TTK)",
+            "Sınai Mülkiyet Kanunu (SMK)",
+            "Marka Kullanım Klavuzu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markalarını kendi markasına benzettiği ve hak ihlali yaptığı iddiasıyla dava açmıştır. Mahkeme, davacı markasının tanınmış olduğunu ve davalının kullanımlarının karışırma riski oluşturduğunu tespit ederek davayı kabul etmiştir.",
+    "summary_for_model": "Davacı, davalının markalarını kendi markasına benzettiği ve hak ihlali yaptığı iddiasıyla dava açmıştır. Mahkeme, davacı markasının tanınmış olduğunu ve davalının kullanımlarının karışırma riski oluşturduğunu tespit ederek davayı kabul etmiştir. Davacı vekili, maddi tazminat hesaplamasının yapılamadığını ve reeskont faizi ile davadan alınarak davacıya verilmesini talep etmiştir."
+}

@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2018_169.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2018/169",
+        "karar_no": "2018/832",
+        "case_subject": "Fikir Ve Sanat Eseri (Maddi Tazminat İstemli)",
+        "dava_tarihi": "25/10/2015",
+        "karar_tarihi": "28/03/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın vekil ile 25/10/2015 tarihli menajerlik sözleşmesi bulunduğunu, bu sözleşmeyi haksız yere feshettiğini iddia etti. Sözleşmenin 7. ve 10. maddeleri uyarınca davacıya maddi ve manevi tazminat talepleriyle dava açıldı.",
+        "reasoning_text": "Mahkeme, dava dilekçesinde yer alan ihtiyatı tedbir taleplerinin reddedildiğini, davacı vekilinin istinaf talebinin reddedildiğini ve davanın vekilinin davayı haksız yere feshettiğini tespit etti.",
+        "verdict_text": "Davacı vekilinin istinaf talebinin HMK'nun 353/1-b-1 maddesi uyarınca ES ASTAN REDDİNE, alınması gereken 35,90 TL harçtan peşin alınan 31,40 TL harçın mahsubu ile bakiye 4,50 TL harçın davacıdan tahsili ile hazineye iad kaydına, davacı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, istinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, dosya üzerinde yapılan inceleme sonucunda oy birliği ile HMK'nun 362/1-f maddesi uyarınca kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 107",
+            "HMK 389",
+            "HMK 362/1-f",
+            "HMK 353/1-b-1"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davanın vekil ile imzalanan menajerlik sözleşmesini haksız yere feshettiğini iddia etti. Mahkeme, davacı vekilinin istinaf talebini reddederek davayı sonlandırdı.",
+    "summary_for_model": "Dava, menajerlik sözleşmesinin haksız feshedilmesi iddiası üzerine açıldı. Mahkeme, davacı vekilinin istinaf talebini reddederek davayı sonlandırdı. HMK maddeleri uyarınca karar verildi."
+}

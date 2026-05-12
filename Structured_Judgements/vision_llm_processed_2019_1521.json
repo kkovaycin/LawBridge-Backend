@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2019_1521.pdf",
+        "court_name": "İstanbul Anadolu 8. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2017/1272 E. - 2018/179 K.",
+        "karar_no": "2021/1337",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "27/02/2018",
+        "karar_tarihi": "11/11/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın reddine yönelik verilen hükme karşı istinaf kanunu yoluyla başvurmuştur. Davacı vekili, müvekkilin çocuk tecavüzcülerine sponsor olduğu ve Türkcell abonelerinin hatlarını iptal etmesi çağrısında bulunduğu iddialarını savunmuştur. Davacı vekili, müvekkilin tweet'inde eleştirilerin toplumda olumsuz etki yaptığını iddia etmiştir.",
+        "reasoning_text": "İlk derece mahkemesi, davanın reddine karar vermiştir. İstinaf incelemesi sonucunda, davanın sosyal medya hesabındaki paylaşımının ifade özgürlüğü kapsamında değerlendirildiği ve davacı vekilinin istinaf başvurusunun esastan reddine karar verildiği belirtilmiştir. Davacı vekilinin istinaf başvurusunun haklı bulunmadığı ve davanın reddine karar verildiği sonucuna varılmıştır.",
+        "verdict_text": "Davacı vekilinin istinaf başvurusunun esastan reddine karar verildi. Davacı tarafından yatırılan istinaf kanun yolu harçlarının hazineden tahsiline, davacı tarafından istinaf kanun yolu başvuru için yapılan masrafların kendi üzerlerinde bırakılmasına, gerekçeli kararın ilk derece mahkemesine taraf taraflara tebliği ve dosyanın ilk derece mahkemesine gönderilmesine dair karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TMK 25",
+            "TBK 49",
+            "TBK 58",
+            "TTK 55",
+            "TTK 56",
+            "Avrupa İnsan Hakları Sözleşmesi 10. madde",
+            "Anayasa 26. madde",
+            "HMK 353/1.b.1. madde",
+            "HMK 362/1.a madde"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davanın reddine yönelik verilen hükme karşı istinaf başvurusunda bulunmuştur. İlk derece mahkemesi, davanın reddine karar vermiştir. İstinaf incelemesi sonucunda, davanın sosyal medya hesabındaki paylaşımının ifade özgürlüğü kapsamında değerlendirildiği ve davacı vekilinin istinaf başvurusunun haklı bulunmadığı sonucuna varılmıştır.",
+    "summary_for_model": "Dava, haksız fiilden kaynaklanan tazminat talebidir. İlk derece mahkemesi, davanın reddine karar vermiştir. İstinaf incelemesi sonucunda, davanın sosyal medya hesabındaki paylaşımının ifade özgürlüğü kapsamında değerlendirildiği ve davacı vekilinin istinaf başvurusunun haklı bulunmadığı sonucuna varılmıştır. Davacı vekilinin istinaf başvurusunun esastan reddine karar verildi."
+}

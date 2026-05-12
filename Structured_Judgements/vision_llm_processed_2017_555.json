@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2017_555.pdf",
+        "court_name": "T.C. BAKIRKÖY 1. FİKRİ VE SANAT ESERİ SAHİPLİĞİNDEN KAYNAKLANAN HAKLARA TECAVÜZÜN TESİTİ, MEN'İ, REF'İ, HAKSIZ REKABİTİN TESİTİ, ALAN ADLARINA ERİŞİMİN ENGELLENMESİ, MADDİ-MANEVI TAZMİNAT",
+        "esas_no": "2017/555",
+        "karar_no": "2018/392",
+        "case_subject": "Tasarım haklarına tecavüz ve haksız rekabet davası",
+        "dava_tarihi": "31/10/2017",
+        "karar_tarihi": "06/12/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, firmanın tekstil sektöründe 22 yıllık faaliyet gösterdiğini, tescil edilmiş tasarımları kullanıldığını ve bu tasarımların mağazalarda ve Instagram hesaplarında ticari amaçla kullanıldığını iddia etmiştir. Davacı, bu kullanımların 6769 sayılı SMK'nin 81. ve 149. maddeleri kapsamında tecavüz olarak değerlendirildiğini ve maddi-manevi tazminat talep ettiğini belirtmiştir.",
+        "reasoning_text": "Mahkeme, tasarım haklarının ihlali ve haksız rekabetin kanıtlandığını, davacının tazminat taleplerinin kısmen kabul edildiğini ve davalının masrafları karşılanacağını karar vermiştir. Mahkeme, 6769 sayılı SMK'nin 81. maddesi ve 149. maddesi ile KHK'nin 554. maddesi ve 58/1 maddesi çerçevesinde karar vermiştir.",
+        "verdict_text": "Davacıya karşı 1.110,86 TL maddi ve 30.000,00 TL manevi tazminat kararı verilmiştir. Davalının masrafları karşılanmıştır. Davacıya 270,00 TL vekalet ücreti ve 2.000,00 TL vekalet ücreti verilmiştir. Davalının masrafları karşılanmıştır."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı SMK'nin 81. ve 149. maddeleri",
+            "KHK'nin 554. maddesi",
+            "KHK'nin 58/1 maddesi",
+            "6100 Sayılı Yasanın 333. maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacının tasarım haklarına tecavüz ve haksız rekabet iddialarını kabul ederek maddi-manevi tazminat kararı vermiştir. Davalının masrafları karşılanmıştır.",
+    "summary_for_model": "Dava, tasarım haklarına tecavüz ve haksız rekabet iddialarıyla açılmıştır. Mahkeme, davacının taleplerini kısmen kabul ederek maddi-manevi tazminat ve masraflarını kararlaştırmıştır. 6769 sayılı SMK ve KHK maddeleri çerçevesinde karar verilmiştir."
+}

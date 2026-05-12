@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2022_125.pdf",
+        "court_name": "T.C. İSTANBUL 3.FİKRİ VE SINAI HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2022/125 Esas",
+        "karar_no": "2023/138",
+        "case_subject": "Marka Hakkına Tecavüz ve Haksız Rekabetin Tespiti, Önlenmesi, Sonuçlarının Ortadan Kaldırılması",
+        "dava_tarihi": "13/07/2022",
+        "karar_tarihi": "14/09/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, davacının tescilli markalarının kopyalanması ve haksız rekabet iddiaları ile ilgilidir. Davacı, markalarının ticari faaliyetlerinde kullanıldığını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, SMK'nın 29 ve 7. maddeleri ile TTK'nın haksız rekabet düzenlemeleri çerçevesinde davacı haklarının ihlal edildiğini tespit etmiştir.",
+        "verdict_text": "Davacı lehine karar verilmiştir. Davacıya 4.351,40 TL tutarında gider ödemesi kararı verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 29. madde",
+            "SMK 7. madde",
+            "TTK 57/5. madde",
+            "TTK 55/1-a-4. madde",
+            "TBK 60. madde",
+            "Anlı Kanun 149. madde",
+            "Netküm Türk Borçlar Kanunu 60. madde"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacının markalarının haksız kullanıldığını tespit ederek davacı lehine karar vermiştir. Davacıya 4.351,40 TL tutarında gider ödemesi kararı verilmiştir.",
+    "summary_for_model": "Davacı, markalarının haksız kullanıldığını iddia etmiştir. Mahkeme, SMK ve TTK düzenlemeleri çerçevesinde davacı haklarının ihlal edildiğini tespit ederek davacı lehine karar vermiştir."
+}

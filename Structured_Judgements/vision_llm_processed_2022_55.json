@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_55.pdf",
+        "court_name": "T.C. İSTANBUL 4.FİKRİ VE SINAI HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2022/55 Esas",
+        "karar_no": "2023/1",
+        "case_subject": "Marka hakları ihlali ve ticari hak ihlali davası",
+        "dava_tarihi": "05/04/2022",
+        "karar_tarihi": "04/01/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekili aracılığıyla, müvekkilin 2012'den beri insanlığa hizmet ederek faaliyet gösterdiğini, 2016'da internet sitesi kurduğunu ve 2020'de amiral internet sitesini değiştirdiğini iddia etmiştir. Davacı, müvekkilin markasını kullanmak için yetkili olmadığını ve davalının internet siteleri, Instagram, Facebook, Twitter ve YouTube hesaplarında markayı kullanmak için yetkili olmadığını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacının iddiasını kabul etmemiş ve davanın mesnetsiz olduğunu tespit etmiştir. Mahkeme, davacının davayı kaybetmesinin sebeplerini, davacının iddiasının temelsizliği ve davacının davayı kaybetmesinin gerekliliğini açıklamıştır.",
+        "verdict_text": "HÜKÜM: Yukarıda gerekçesi açıklanmış üzere,\n1-Davanın vakı feragat nedeniyle REDDİNE,\n2-Karar tarihinde yürürükte bulunan Harçlar Tarifesine uyarına 80,70 TL karar harci peşin olarak yatırıldığından yeniden harç alınmasına YER OLMADIĞINA,\n3-Davacı tarafından yapılan yargılama giderlerinin üzerinde bırakılmasına,\n4-Yatırılan gider avanslarından kullanılmayan kısmının karar kesinleştiğinde yatıran tarafa iadesine,\nDair, tarafların yokluğunda (HMK 345/1 md. gereğince) gerekçeli kararın tebliğinden itibaren 2 hafta içerisinde Mahkememize veya başka bir yer mahkemesine dilekçe ile başvurmak ve istinaf harci ile gerekli giderlerin tamamı ödenmek süretiyle, İstanbul Bölge Adliye Mahkemesine istinaf yolu açık olmak üzere verilen karar, açıkça okunup usulen anlatıldı. 04/01/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 307",
+            "HMK 309",
+            "HMK 310",
+            "HMK 345/1"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkilin markasını kullanmak için yetkili olmadığını iddia etti. Mahkeme, davacının iddiasını kabul etmedi ve davayı kaybetmesini gerekliliğini tespit etti.",
+    "summary_for_model": "Davacı, müvekkilin markasını kullanmak için yetkili olmadığını iddia etti. Mahkeme, davacının iddiasını kabul etmedi ve davayı kaybetmesini gerekliliğini tespit etti. Davacı, davayı kaybetmesinin sebeplerini açıklamıştır."
+}

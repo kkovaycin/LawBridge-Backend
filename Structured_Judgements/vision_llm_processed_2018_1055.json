@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2018_1055.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2018/1055",
+        "karar_no": "2019/863",
+        "case_subject": "Tazminat",
+        "dava_tarihi": "27/02/2018",
+        "karar_tarihi": "30/04/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının kişisel Twitter hesabından 'Vakif Sponsoru... Boykot...' paylaşımının davacı şirketin kişilik haklarına saldırdığını iddia ediyor. İlk derece mahkemesinde davanın reddine karar verilmiş, karar davacı tarafından istinaf edilmiş.",
+        "reasoning_text": "Davacı, paylaşımın davacının kişilik haklarına ve ticari itibarına saldırdığını iddia ediyor. Ayrıca, TTK m. 55 uyarınca haksız rekabet niteliğinde olduğunu belirtiyor. İstinaf başvuruları incelenmiş ve davanın ilk derece kararının iptaline karar verilmiş.",
+        "verdict_text": "Dairenin Görevselliğine, dosyanın İstanbul Bölge Adliye Mahkemesi 13. Hukuk Dairesine Gönderilmesine, Dosya üzerinde yapılan inceleme sonunda 30/04/2019 tarihinde, oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Kanunu (HK) 352. madde",
+            "Ticaret Kanunu (TTK) 55. madde"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının Twitter'da yaptığı paylaşımın kendisinin ticari haklarını ihlal ettiğini iddia ediyor. İlk derece mahkemesi davayı reddetse de, istinaf sonucunda dava İstanbul Bölge Adliye Mahkemesi'ne gönderildi.",
+    "summary_for_model": "Dava, davalının Twitter'da yaptığı paylaşımın davacı şirketin ticari haklarını ihlal ettiğini iddia ediyor. İlk derece mahkemesi davayı reddetse de, istinaf sonucunda dava İstanbul Bölge Adliye Mahkemesi'ne gönderildi. TTK 55. madde ve HK 352. madde bahsedildi."
+}

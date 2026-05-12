@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2021_247.pdf",
+        "court_name": "T.C. İSTANBUL 3. FİKRİ VE SANATİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/247",
+        "karar_no": "2024/110",
+        "case_subject": "Marka Hakkına Tecavüzün Durdurulması ve Kaldırılması",
+        "dava_tarihi": "12/12/2019",
+        "karar_tarihi": "28/06/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davayı marka hakkına tecavüzün durdurulması ve kaldırılması için açmıştır. Davalının markalı ürünlerini satarken markanın izni olmadan kullanması ve diğer markalara ait ürünleri satması iddia edilmiştir. Davacı, davayı 6769 Sayılı Sınai Mülkiyet Kanunu ve 4458 Sayılı Gümrük Kanunu'na dayanarak açmıştır.",
+        "reasoning_text": "Mahkeme, davacı vekilinin dava dilekçesinde öne sürdüğü iddiaları ve davalının savunmalarını değerlendirmiştir. Mahkeme, davalının markayı izinsiz kullanması ve diğer markalara ait ürünleri satması durumunda marka hakkına tecavüzün meydana geldiğini tespit etmiştir. Mahkeme ayrıca, davalının ceza mahkemesinde hüküm almış olması durumunda, bu durumun dava sonuçlarını etkilemediğini açıklamıştır.",
+        "verdict_text": "HÜKÜM: Gerekçesi açıklanmış olduğu üzere;\n1-Davacı ... aleyhine açılan davanın REDDİNE,\n2-Davalılar ... ve ... aleyhine açılan davanın KABULÜYE,\nDavalar tarafından davacının marka haklarına vaki tecavüzün durdurulmasına ve kaldırılmasına, ... Gümrük Müdürlüğü'nün ... sayılı yazısına konu marka hakkına tecavüz teşkil eden eşyara el konulmasına, hüküm kesinleştiğinde imhasına,\n3-Alınması gereken 427,60 TL ilam harçından peşin alınan 44,40 TL harcin mahsubu ile eksis 383,20 TL harcin davalar ... ve ...'den tahsili ile hazineye irat kaydına,\n4-Avukatlık Asgari Ücret Tarifesi uyarınca 25.500,00 TL vekalet ücretinin davalar ... ve ...'den alınarak davacıya verilmesine,\n5-Davacı ... yararına Asgari Ücret Tarifesi uyarınca 25.500,00 TL vekalet ücretinin davacıdan alınarak davalı ...'ye verilmesine,\n6-Davacı tarafından yaptığı 88,80 TL harç, 627,00 TL posta/tebligat harcının toplam 715,80 TL yargılama giderinin davalar ... ve ...'den alınarak davacıya verilmesine,\n7-Davacı tarafından yatırılan gider avansının kullanılmayan kısmının karar kesinleştiğinde davacıya iadesine,\nDÂİR; davacı vekili ile davalı ...'nin yüzlerine karşı, diğer tarafların yokluğunda, gerekeli kararın tebliğinden itibaren iki haftalık süre içinde İstanbul Bölge Adliye Mahkemesi nezdiinde İstinaf yolu açık olmak üzere verilen karar açıkça okunup, usulen anlatıldı.28/06/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 Sayılı Sınai Mülkiyet Kanunu",
+            "4458 Sayılı Gümrük Kanunu",
+            "5607 Sayılı Kanun",
+            "6098 Sayılı Türk Borçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markasını izinsiz kullanarak ve diğer markalara ait ürünleri satarak marka hakkına tecavüz ettiğini iddia etmiştir. Mahkeme, davalının suçlu olduğunu tespit ederek davayı kabul etmiş ve davacıya vekalet ücreti ve gider avansının geri ödenmesini kararlaştırmıştır.",
+    "summary_for_model": "Davacı, davalının marka hakkına tecavüz ettiğini iddia etmiştir. Mahkeme, davalının suçlu olduğunu tespit ederek davayı kabul etmiş ve davacıya vekalet ücreti ve gider avansının geri ödenmesini kararlaştırmıştır. Davalının ceza mahkemesinde hüküm almış olması durumunda, bu durumun dava sonuçlarını etkilemediği açıklanmıştır."
+}

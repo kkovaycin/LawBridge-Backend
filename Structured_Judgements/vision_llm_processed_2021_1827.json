@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2021_1827.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2021/1827",
+        "karar_no": "2024/58",
+        "case_subject": "YİDK Kararının İptali, Tasarım Hükümsüzlüğü",
+        "dava_tarihi": "15/09/2021",
+        "karar_tarihi": "12/01/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilinin 2016 yılından bu yana belirli bir markanın altında ayakkabı ürettiğini ve sattığını, davalı gerçek kişinin de müvekkili ile aynı sektörde faaliyet gösteren bir ayakkabı üreticisi olduğunu iddia etmiştir. Davalı tarafından gerçekleştirilen 2019 07354 numaralı ayakkabı tasarım başvurusu için müvekkiline itiraz edilmiş ve Kurum tarafından bu itiraz reddedilmiştir. Alınan kararın gerekçesinde, müvekkiline sunulan delillerin, davalya ait tasarımı ilk olarak kamuya sunan tarafın müvekkili olduğu iddiasının ispat açısından yeterli olmadığı belirtilmiştir. Ayrıca, WhatsApp konuşma kayıtlarından müvekkilin davaya konu tasarımları Temmuz 2019'dan bu yana ürettiğinin ve sattığının anlaşıldığı, ürün ve tasarımların üzerindeki taban tasarımlarının ve desenlerinin aynı bulunduğu, buna göre dava konusu tasarımların yeni ve ayırt edici olmadıkları, müvekkilin söz konusu ayakkabı tasarımı üzerinde yer alan desen çalışmalarını ilk olarak Aralık 2018'de yaptığı ve bilgisayarına kaydettiği, davalı Kurumun bir başka başvuruda sosyal medya hesaplarında yer alan görselleri delil olarak kabul ettiği, WhatsApp konuşma kayıtlarının gerek özel hukuk gerekse ceza hukuku kapsamında delil sayılabileceğine ilişkin birçok yargı kararı bulunduğu belirtilmiştir.",
+        "reasoning_text": "Mahkeme, davacı tarafından dayandırılan WhatsApp görüşme kayıtlarının kamuya sunma olarak değerlendirilemeyeceği, kamuya sunmanın, sergileme, satış gibi yollarla piyasaya sürme, kullanma, tarif, yayım, tanıtım veya benzer amaçlı faaliyetleri kapsadığı, WhatsApp konuşmalarının bu kapsam girmediği, ayrıca teknolojik ve dijital kayıt ve deliller gibi üzerinde oynama yapılabilecek imkan olan WhatsApp yazışmalarının mutlak ve kesin delil olarak değerlendirilmediği, ancak bu tarz delillerin diğer delillerle birlikte değerlendirildiğinde davada ispata yardımcı olabileceği kabul edilmiştir. Bu kapsamda davaya konu YİDK kararının hukuka uygun olduğu ve hükümsüzlük koşullarının da oluşmadığı gerekçesiyle davanın reddine karar verilmiştir.",
+        "verdict_text": "HÜKÜM : Gerekçesi yukarıda belirtildiği üzere;\n1-Davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ESASTAN REDDİNE,\n2-Alınması gereken 427,60 TL maktu istinaf karar ve ilam harcından, davacı tarafından istinaf başvurusunda yatırılan 59,30 TL istinaf karar ve ilam harcının mahsubu ile kalan 368,30 TL bakiye harcin davacidan tahsili ile Hazineye irat kaydına,\n3-Istinaf aşamasında davacı tarafından yapılan yargılama giderlerinin kendi uhdesinde bırakılmasına,\n4-Istinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına,\nDair, dosya üzerinde yapılan inceleme sonucunda oybirliği ile 12/01/2024 tarihinde HMK 361. maddesi uyarınca kararın tebliğinden itibaren iki hafta içerisinde TEMYİZ yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK'nin 355. maddesi",
+            "SMK'nin 56/4-a. maddesi",
+            "SMK'nin 57. maddesi",
+            "HMK'nın 353/1-b.1 maddesi",
+            "HMK 361. maddesi"
+        ]
+    },
+    "summary_for_human": "Bu davada, davacı vekili, müvekkilinin bir ayakkabı tasarımını ilk olarak kamuya sunan taraf olduğunu iddia ederek, davalı tarafından yapılan tasarımın hükümsüz sayılması için dava açmıştır. Mahkeme, davacı tarafından sunulan WhatsApp konuşma kayıtlarının tek başına kamuya sunma olarak değerlendirilemeyeceğini, ancak diğer delillerle birlikte değerlendirildiğinde davaya yardımcı olabileceğini kabul etmiştir. Mahkeme, YİDK kararının hukuka uygun olduğunu ve hükümsüzlük koşullarının oluşmadığını gerekçelendirmiştir. Sonuç olarak, davanın reddine karar verilmiştir.",
+    "summary_for_model": "Dava, YİDK kararının iptali ve tasarım hükümsüzlüğü talebini içerir. Davacı vekili, müvekkilin 2016'dan beri belirli bir markanın altında ayakkabı ürettiğini ve sattığını, davalı gerçek kişinin aynı sektörde faaliyet gösteren bir ayakkabı üreticisi olduğunu iddia etmiştir. Davalı tarafından gerçekleştirilen 2019 07354 numaralı ayakkabı tasarım başvurusu için müvekkiline itiraz edilmiş ve Kurum tarafından bu itiraz reddedilmiştir. Mahkeme, davacı tarafından sunulan WhatsApp görüşme kayıtlarının tek başına kamuya sunma olarak değerlendirilemeyeceğini, ancak diğer delillerle birlikte değerlendirildiğinde davaya yardımcı olabileceğini kabul etmiştir. Mahkeme, YİDK kararının hukuka uygun olduğunu ve hükümsüzlük koşullarının oluşmadığını gerekçelendirmiştir. Davanın reddine karar verilmiştir. İstinaf başvurusu HMK'nın 353/1-b.1 maddesi gereğince reddedildi. Davacı tarafından yatırılan istinaf harcı Hazineye irat kaydedildi."
+}

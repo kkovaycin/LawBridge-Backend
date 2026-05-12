@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2019_1151.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2019/1151",
+        "karar_no": "2021/353",
+        "case_subject": "Haksız Rekabetin Tesbiti, Men'i Maddi ve Manevi Tazminat",
+        "dava_tarihi": "21/05/2019",
+        "karar_tarihi": "04/04/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı şirketin davacı şirketin müşterileriyle iletişim halinde olan işletmeye ilişkin sırlarını bilen yetişmiş personellerini ayartarak davalı şirkette çalıştırdığını iddia etmiştir. Davalı, davacı şirketin müşterileriyle iletişim halinde olan işletmeye ilişkin sırlarını bilen yetişmiş personellerini ayartarak davalı şirkette çalıştırdığını iddia etmiştir. Davacı vekili, davalı şirketin davacı şirketin müşterileriyle iletişim halinde olan işletmeye ilişkin sırlarını bilen yetişmiş personellerini ayartarak davalı şirkette çalıştırdığını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince esastan reddine karar verdi. Davacı vekilinin istinaf başvurusunun esas yönünden reddine dair hüküm kurmak gerekmiştir.",
+        "verdict_text": "HÜKÜM: Gereçcesi yukarıda belirtildiği üzere;\n1-Davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ESASTAN REDDİNE,\n2-Alnması gereken 59,30 TL maktu istinaf karar ve ilam harçından, davacı tarafından istinaf başvurusunda yatırılan 44,40 TL istinaf karar ve ilam harçının mahsubu ile bakiye 14,90 TL'nin davacıdan tahsili ile hazineye irat kaydına,\n3-Istinaf aşamasında davacı tarafından yapılan yargılama giderlerinin davacı üzerinde bırakılmasına,\n4-Istinaf aşamasında duruşma açılmadığından taraflara vekalet ücreti takdirine yer olmadığına,\nDosya üzerinde yapılan inceleme sonucunda oybirliği ile 11/03/2021 tarihinde HMK 361. maddesi uyarınca kararın tebliğiğinden itibaren iki hafta içerisinde Yargıtay temyiz yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK m.54/2",
+            "Yasa'nın 55. maddesi",
+            "HMK'nın 353/1-b.1 maddesi",
+            "HMK 361. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davalı şirketin davacı şirketin müşterileriyle iletişim halinde olan işletmeye ilişkin sırlarını bilen yetişmiş personellerini ayartarak davalı şirkette çalıştırdığını iddia etmiştir. Mahkeme, davacı vekilinin istinaf başvurusunu esastan reddetmiştir.",
+    "summary_for_model": "Davacı vekili, davalı şirketin davacı şirketin müşterileriyle iletişim halinde olan işletmeye ilişkin sırlarını bilen yetişmiş personellerini ayartarak davalı şirkette çalıştırdığını iddia etmiştir. Mahkeme, davacı vekilinin istinaf başvurusunu esastan reddetmiştir."
+}

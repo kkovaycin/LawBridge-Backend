@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2025_183.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2025/183",
+        "karar_no": "2025/573",
+        "case_subject": "Marka Hakkuna Tecavüzden Kaynaklanan, Marka Hükmüsüzlüğü Talepleri",
+        "dava_tarihi": "17/10/2024",
+        "karar_tarihi": "17/04/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; davalı adına tescilli markaların hükmüsüzlüğü, davacı şirketin tescilli markasına tecavüz ve haksız rekabet iddialarını ileri sürmüştür. Mahkeme ilk derece kararını istinaf yoluyla bozmaya karar vermiştir.",
+        "reasoning_text": "Mahkeme, davanın istinaf aşamasında istinaftan feragat etmesi sebebiyle istinaf başvurusunun reddedildiğini ve istinaf talebinde bulunan davalı tarafa 427,60 TL istinaf kararı ve ilam harcının kararlaştırıldığını belirtmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davalının istinaf aşamasında istinaftan feragat etmesi sebebiyle istinaf başvurusunun 6100 Sayılı HMK'nın 349/2. maddesi gereğince REDDİNE. 2-Pesin alınan 427,60 TL istinaf kararı ve ilam harcının karar kesinleştiğinde ve talep halinde istinaf talebinde bulunan davalı tarafa iadesine, 3-Istinaf talebinde bulunan davalı tarafa yapılan giderlerin kendi üzerinde bırakılmasına, 4-Istinaf incelemesi duruşmasız yapıldığından vekalet ücreti tayinine yer olmadığına. Dosya üzerinde yapılan inceleme sonunda, 6100 Sayılı HMK'nın 361/1. maddesi gereğince, kararın tebliğinden itibaren 2 hafta süre içerisinde Yargıtaya temyiz başvurusunda bulunma yolu açık olmak üzere oy birliği ile karar verildi. 17/04/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı HMK",
+            "6102 sayılı TTK",
+            "6679 sayılı SMK",
+            "HMK md.390/2",
+            "HMK md.349/2",
+            "HMK md.361/1"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin markasına tecavüz ve haksız rekabet iddialarıyla dava açmıştır. İlk derece mahkeme kararı istinaf yoluyla bozulmuştur. İstinaf başvurusu reddedilmiştir.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, marka hükmüsüzlüğü ve tecavüz iddialarıyla açılan davada ilk derece kararı istinaf yoluyla bozmaya karar vermiştir. İstinaf başvurusu reddedilmiştir."
+}

@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2018_368.pdf",
+        "court_name": "T.C. BAKIRKÖY 1. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2018/368",
+        "karar_no": "2019/396",
+        "case_subject": "Markaya tecavüz ve haksız rekabetin tespiti",
+        "dava_tarihi": "17/08/2018",
+        "karar_tarihi": "26/11/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı tarafından ticari faaliyetlerinde kullanılan markaların davacı markasına tecavüz ve haksız rekabet oluşturduğunu iddia etmiştir. Davalı ise, markaların farklı olduğu ve ticari faaliyetlerinde herhangi bir ihlal yapılmadığını savunmuştur.",
+        "reasoning_text": "Mahkeme, davacı tarafından ileri sürülen iddiaları değerlendirerek, davalı tarafından kullanılan markaların davacı markasına benzersizlik arz ettiğini ve ticari faaliyetlerinde ihlal oluşturduğunu tespit etmiştir. Bu nedenle, davacı lehine karar verilmiştir.",
+        "verdict_text": "HÜKM: Gerekçesi yukarıda açıklanmış olduğu üzere;\nDavacının davasının KISMEN KABULÜNE, KISMEN REDDİNE,\nA-Davacının davalı ... adına tescilli .... tescil nolu markanın hükümsuzluğuna dair talebinin REDDİNE,\nB-Davalıların, davalılardan ... adına tescilli .... tescil nolu \"....\" ibareli markayı tescil edildiği şeklinden farklı olarak davacı adına tescilli \"....\" esas unsurlu markalara yaklaşarak \"....\" ibaresini ön plana çıkararak ticari marka, işletme adı, alan adı, sosyal medya hesaplarında kullanması şeklindeki eylemlerinin davacının marka ve ticaret unvanından kaynaklı haklarına tecavüz ve haksız rekabet teşkil ettiğinin tespitine, bu fil ve hareketlerin meni, durdurulmasına, giderilmesine ve ortadan kaldırılmasına, bu meydan; ihlal oluşturan ürün ambalajlarının imalatının ve bu ambalajlarla satışının önlenmesine, ihlal teşkil eden etiket, kutu, koli ve ambalajlar ile münhasıran bunların yapımında kullanılan klise ve kalıplara bulundukları yerde el konularak imhasına, davalı tarafa ait \"www. .... .net\" alan adından \"....\" ibaresinin çıkarılmasına, aksi takdirde erişimin engellenmesine, yine yukarıda belirtiltiği şekilde ihlal teşkil eden içeriklerin davalıların facebook, instagram ve diğer sosyal medya hesaplarından çıkarılmasına aksi takdirde erişimin engellenmesine,\nKara kesinleştiğinde masrafı davallardan alınarak hüküm özetinin ülke çapında yayınlanan traj en yüksek 3 gazeteden birinde ilanına,\n2-Karar tarihinde yürürlükte bulunan harçlar tarifesi gereğince hesaplanan, 44,40 TL ilam harcından, 35,90 TL peşin harçın mahsubu ile, 8,50 TL bakiye karar harcının davallardan tahsili ile hazneye irat kaydına,\n3-Karar tarihinde yürürlükte bulunan avukatlık asgari ücret tarifesi gereğince hesaplanan 3.931,00 TL vekalet ücretinin, davallardan alınarak davacıya verilmesine,\n4-Davanın kısmen reddi sebebiyle, karar tarihinde yürürlükte bulunan avukatlık asgari ücret tarifesi gereğince hesaplanan 3.931,00 TL vekalet ücretinin, davacıdan alınarak davallara verilmesine,\n5-Davacı tarafından yapılan 35,90 TL peşin ve 35,90 TL başvuru olmak üzere toplam 71,80 TL harç giderinin, davallardan alınarak davacıya verilmesine,\n6-Davacı vekili tarafından yapılan 266,00 TL tebligat-tezere ve 2.100,00 TL bilirkişi ücreti olmak üzere toplam 2.366,00 TL yargılama giderinin, davanın kabul-red oranına göre 1.656,20 TL'sinin, davallardan alınarak davacıya verilmesine, bakiyesinin üzerinde brakılmasına,\n7-Davalılar tarafından yapılan 219,00 TL yargılama giderinin, davanın davanın kabul-red oranına göre 65,70 TL'sinin, davacıdan alınarak davallara verilmesine, bakiyesinin üzerinde brakılmasına,\n8-Talep halinde kararın taraflara tebligine,\n9-Karar kesinleştiğinde kullanılmayacak gider avansının ilgisine iadesine,\nTarafl vekillerinin yüzlerine karşı verilen karar, kararın tebliginden itibaren 2 hafta süre içerisinde İstanbul Bölge Adliye Mahkemesinde istinaf kanun yolu açık olmak üzere, açıkça okunup anlatıldı.26/11/2019"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 Sayılı SMK",
+            "6102 Sayılı TTK",
+            "Paris Sözleşmesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı tarafından kullanılan markaların kendi markasına tecavüz ve haksız rekabet oluşturduğunu iddia etti. Mahkeme, davacı lehine karar vererek davalı tarafından yapılan ihlalleri durdurulmasını ve cezaların uygulanmasını emretti.",
+    "summary_for_model": "Davacı, davalı tarafından kullanılan markaların kendi markasına tecavüz ve haksız rekabet oluşturduğunu iddia etti. Mahkeme, davacı lehine karar vererek davalı tarafından yapılan ihlalleri durdurulmasını ve cezaların uygulanmasını emretti. Davalı tarafından kullanılan markaların davacı markasına benzersizlik arz ettiği ve ticari faaliyetlerinde ihlal oluşturduğu tespit edildi."
+}

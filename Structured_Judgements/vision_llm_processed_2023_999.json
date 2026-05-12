@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_999.pdf",
+        "court_name": "İstanbul Anadolu 2.Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2023/720",
+        "karar_no": "2023/999",
+        "case_subject": "Tespit+ İhtiyati Tedbir (D.İş)",
+        "dava_tarihi": "31/03/2023",
+        "karar_tarihi": "06/07/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Talep Eden vekili, taleplerini temellendirmek için deliller sunmuştur. İlk derece Mahkemesi, taleplerin temelli olduğunu tespit etmiştir. Karşı tarafın sosyal medya hesaplarında taleplerin temelli olduğu tespit edilmiştir.",
+        "reasoning_text": "Mahkeme, taleplerin temelli olduğunu tespit etmiştir. İhtiyati tedbir kararı verilmiştir. Taleplerin temelli olduğu ve hak ihlali olduğu tespit edilmiştir. Karşı tarafın sosyal medya hesaplarında taleplerin temelli olduğu tespit edilmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Üstül ve yasaya uygun İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 2022/218 Değişik İş- 31.03.2023 tarihli ek kararına karşı talep eden vekili tarafından yapılan istinaf başvurusunun 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gereken 179,90-TL istinaf karar harcı talep eden tarafından peşin yatırıldığından yeniden harç alınmasına yer olmadığına,3-Talep eden tarafça istinaf aşamasında yapılan yargılama giderlerinin üzerinde birakılmasına,4-İncelemenin duruşmasız olarak yapılması sebebiyle taraflar yararına vekalet ücreti tayinine yer olmadığına,5-Taraflarca yatırılan gider avansından harçanmayan kısım karar kesinleştiğinde iadesine,6-Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin ilk derece Mahkemesince yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/(1-f). ve 394/(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "6769 Sayılı Sınai Mülkiyet Kanunu",
+            "5846 Sayılı Fikir ve Sanat Eserleri Kanunu",
+            "Türk Ticaret Kanunu"
+        ]
+    },
+    "summary_for_human": "Talep Eden vekili, taleplerini temellendirmek için deliller sunmuştur. İlk derece Mahkemesi, taleplerin temelli olduğunu tespit etmiştir. Karşı tarafın sosyal medya hesaplarında taleplerin temelli olduğu tespit edilmiştir.",
+    "summary_for_model": "Talep Eden vekili, taleplerini temellendirmek için deliller sunmuştur. İlk derece Mahkemesi, taleplerin temelli olduğunu tespit etmiştir. Karşı tarafın sosyal medya hesaplarında taleplerin temelli olduğu tespit edilmiştir."
+}

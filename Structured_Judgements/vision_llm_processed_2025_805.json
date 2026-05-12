@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2025_805.pdf",
+        "court_name": "İstanbul Anadolu 2. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2025/805 Esas",
+        "karar_no": "2025/1003",
+        "case_subject": "Marka (Tecavüzün Tesbiti İstemli)",
+        "dava_tarihi": "20/03/2025",
+        "karar_tarihi": "14/07/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacılar vekili dava dilekçesinde özetle; davanın müvekkiline ait markanın kullanımlarının ihlali nedeniyle ihityati tedbir talep etmiştir. İlk derece mahkemesi tarafından ihityati tedbir kararı verilmiştir. Davalı vekili ihityati tedbire itiraz etmiştir.",
+        "reasoning_text": "Mahkeme, davanın davaya konu iş yerini 2017 yılında devraldığını ve eskiye dayalı kullanım iddiasının yargılamayı gerektirmesi nedeniyle ilk derece mahkemesi kararının kaldırılmasına karar vermiştir. İstinaf talebi reddedilmiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Davacılar vekilinin istinaf talebinin HMK'nun 353/1-b-1 maddesi uyarınca ESASTAN REDDİNE,2-Harc peşin alındığından yeniden harç alınmasına yer olmadığına,3-Davacılar tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına,4-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonunda, oy birliğiyle kesin olarak karar verildi.14/07/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 355",
+            "HMK 389",
+            "6769 SMK",
+            "159 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacılar, davanın müvekkiline ait markanın ihlali nedeniyle ihityati tedbir talep etti. İlk derece mahkemesi ihityati tedbir kararı verdi. Davalı vekili itiraz etti. Mahkeme, davanın 2017'de iş yerini devraldığını ve eskiye dayalı kullanım iddiasının yargılamayı gerektirdiğini gerekçe göstererek ilk derece kararını kaldırdı.",
+    "summary_for_model": "Davacılar vekili, davanın müvekkiline ait markanın kullanımlarının ihlali nedeniyle ihityati tedbir talep etti. İlk derece mahkemesi ihityati tedbir kararı verdi. Davalı vekili itiraz etti. Mahkeme, davanın 2017'de iş yerini devraldığını ve eskiye dayalı kullanım iddiasının yargılamayı gerektirdiğini gerekçe göstererek ilk derece kararını kaldırdı. İstinaf talebi reddedildi."
+}

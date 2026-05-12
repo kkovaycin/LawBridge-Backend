@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_94.pdf",
+        "court_name": "T.C. İSTANBUL 1.FİKRÎ VE SINAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2023/94",
+        "karar_no": "2024/1",
+        "case_subject": "Tasarım hakları ihlali ve dava birleşmesi",
+        "dava_tarihi": "28/03/2023",
+        "karar_tarihi": "02/01/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının internet sitesinden Instagram ve sair sosyal mecralardan tasarım ürünlerinin indirilmesini, ürünlerin toplatılmasını ve maddi tazminat taleplerini iddia etmiştir. Savunma, tasarımın meşru kullanımını savunmuştur.",
+        "reasoning_text": "Mahkeme, dava konusu uyumsuz olduğu için dava birleşmesi kararı verdi. HMK 166/1 maddesine dayanarak, davaların birleşmesi gerektiği kararı alındı.",
+        "verdict_text": "1- Mahkememizin işbu 2023/94 esas sayılı dava dosyası ile ... 4.FSHHM'nin ... esas sayılı dosyaları arasında hukuki ve filii irtibat bulunması, biri hakkında verilecek hükmün diğer dava dosyasında etkileyeceği nedeniyle HMK 166/1 MADDE GEREGİNCE her iki dava dosyasının BİRLEŞTİRİLMESİNE, 2- Mahkememizin 2023/94 esas sayılı dava dosyasının esasının kapatılarak, yargılama ... 4 Nolu Fikri Ve Sınai Haklar Hukuk Mahkemesinin 2023/30 esas sayılı dava dosyası üzerinden devam edilmesine, 3-Harc ve yargılama giderleri ile sair taleplerin birleşen dosya üzerinden değerlendirilmesine, Daire karar taraf vekillerinin yokluğunda gereçli kararın tebliğinden itibaren iki haftalık süre içinde esas hükmü birlikte İSTİNAF YASA YOLU AÇIK olmak üzere verilen karar açıkça okundu, usulen anlatıldı 02/01/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 107",
+            "HMK 392",
+            "HMK 166/1",
+            "İSTİNAF YASA"
+        ]
+    },
+    "summary_for_human": "Mahkeme, tasarım hakları ihlali davasını diğer dava ile birleştirdi. HMK 166/1 maddesine dayanarak, davaların birleşmesi gerektiği kararı alındı.",
+    "summary_for_model": "Dava birleşmesi kararı verildi. HMK 166/1 maddesine dayanarak, davaların birleşmesi gerektiği kararı alındı. İstinaf yasa yolu açık olarak belirtildi."
+}

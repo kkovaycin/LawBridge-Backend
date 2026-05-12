@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_356.pdf",
+        "court_name": "T.C. Ankara Bölge Adliye Mahkemesi 20. Hukuk Dairesi",
+        "esas_no": "2022/356",
+        "karar_no": "2024/619",
+        "case_subject": "Tasarım iştinasının incelenmesi",
+        "dava_tarihi": "29/12/2021",
+        "karar_tarihi": "08/04/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, mükemmelinin 2020 00875 numarası ile \"...\" tasarımı için başvuruda bulunduğunu, davalı tarafından tasarımın tesciline itiraz edildiğini, itiraz ekinde sunulan ve Youtube'da 13.02.2019 tarihinde yayımlanan videoda yer alıp itiraza gerekçe gösterilen ürünün genel izlenim itibariyle mükemmelinin tasarımına benzer görüldüğünü ve tasarımın ayırt edici nitelikten yoksun olduğunu gerekçesiyle haksız olarak hükümsüzlüğüne karar verildiğini, oysa bilinenmiş kullanıcı üzerinde bıraktığı genel izlenim itibariyle dava konusu 2020 00875 tescil numaralı tasarım itiraza dayanak gösterilen ... görsellerinden farklı olduğunu, karşı tarafın kötüniyeti olduğunu ilerisürek, ... Yeniden inceleme ve Değerlendirme Kurulu tarafından verilen 2020/T-845 sayılı kararın iptaline karar verilmesini talep ve dava etmiştir.",
+        "reasoning_text": "Mahkemede iddia, savunma, bilirkişi raporu ve tüm dosya kapsamından, teknik boyutuna karşısında içeriği ve sonucu aynen benimsenen bilirkişi heyeti raporunda ve itiraz üzerine alınan ek raporda özet olarak ifade edildiği \"bilinenmiş kullanıcı nazarında 2020 00875/1 sıra numaralı tasarımın, davalı tarafın dosya ya sınduğu ve Youtube'da 13.02.2019 tarihinde yayımlanan videodaki ürün ile benzer olduğu, bu nedenle de dava konusu tasarımın yenilik ve ayırt edicilik vasfının bulunmadığı\" şeklindeki özetlenen görüşe aynı gerekçelerle iştirak edildiği gerekçesiyle, davanın reddine karar verilmiştir.",
+        "verdict_text": "GEREĞÇE: Dava, YİDK tasarım kararı iptali isteğine ilişkindir.\n\nHÜKÜM: Gerekçesi yukarıda belirtildiği üzerine;\n\n1-Davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ES ASTAN REDDİNE,\n\n2-Harçlar Kanunu uyarınca alınması gereken 427,60-TL maktu istinaf karar ve ilam harçından, davacı tarafından istinaf başvurusunda yatırılan 80,70-TL istinaf karar ve ilam harçının mahsubu ile bakiye 346,90-TL'nin davacıdan tahsili ile Hazineye irat kaydına,\n\n3-Istinaf aşamasında davacı tarafından yapılan yargılama giderlerinin uhdesinde bırakılmasına,\n\n4-Istinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına,\n\nDair, dosya üzerinde yapılan inceleme sonucunda oybirliği ile 29/03/2024 tarihinde HMK'nun 361. maddesi uyarınca kararın tebliğinden itibaren iki hafta içerisinde Yargıtay temyiz yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nun 353/1-b.1 maddesi",
+            "Harçlar Kanunu",
+            "HMK'nun 361. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, bir tasarımın yenilik ve ayırt edicilik vasfını kaybettiğini iddia ederek tesciline itiraz etti. Mahkeme, teknik raporlar ve iddialar üzerinden tasarımın yenilik ve ayırt edicilik vasfını kaybetmediğini saptayarak davayı reddetti.",
+    "summary_for_model": "Davacı vekili, bir tasarımın tesciline itiraz etti. Mahkeme, teknik raporlar ve iddialar üzerinden tasarımın yenilik ve ayırt edicilik vasfını kaybetmediğini saptayarak davayı reddetti. HMK'nun 353/1-b.1 maddesi ve Harçlar Kanunu'na dayanılarak istinaf başvurusu reddedildi."
+}

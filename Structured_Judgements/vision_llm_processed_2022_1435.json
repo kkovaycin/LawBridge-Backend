@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_1435.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2022/1435",
+        "karar_no": "2025/376",
+        "case_subject": "Marka (Marka Hükmüsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "27/01/2022",
+        "karar_tarihi": "27/02/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; müvekkilin sportif faaliyetlerde kullanılan ekipman ve kıyafetler ürettiğini, mal ve hizmetlerini üretip sunarken ... ibaresini kullandığını, ... ve ... adresli web sitelerinin sahibi olduğunu, kullanılan markanın 12., 18., 25., 28. ve 35. sınıflarda tescil ettirmek üzere ... ve ... başvuru numaraları ile Türk Patent ve Marka Kurumu'na başvurmuş ise de ..., ... ve ... numaralı marka tescilleri nedeniyle başvurunun davalının itirazı üzerine kısmen reddedildiğini, ... ibareli markanın gerçek hak sahibi olduğunu, 40 yılı aşkın süredir mal ve hizmetleri üzerinde ve ticari evraklarda markayı kullandığını ve dünyanın farklı ülkelerinde kendi adına marka olarak tescil ettirip ticari ünvanında da yer verdiğini, marka henüz tescile konu edilmeden internet alan adlarının tescilinin yapıldığını, yarım yüzyıldır markanın tanınırlığını sağladığını ve tanınmış bir marka haline getirdiğini belirterek davanın kabulünü talep ve dava etmiştir.",
+        "reasoning_text": "İstanbul 2. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin ilk derece kararında, davanın kabulüne ve ticaret ünvanının terkine ilişkin taleplerin reddine karar verildi. İstinaf dilekçesinde, davanın ticaret ünvanının terkine ilişkin taleplerinin reddi nedeniyle istinaf ettikleri, yerel mahkemenin müvekkilin markalarının tanınmışlığı ile ilgili tespitlerini kabul etmediklerini, bu hususa dosya içeriğinde yer alan -diğerlerinin yanında- 07.01.2022 tarihli ek rapor itiraz dilekçeleri ile itiraz ettiklerini, dava konusu markaların hükmüsüzlüğüne gerekçe olarak gösterdikleri tüm hususların yani sıra hükmüsüz karar verilebilmesi için gerekli şartların somut olmadığından, 08.08.2021 tarihli birlikçi raporunda konu ile ilgili herhangi bir inceleme yapılmadığını, itirazları üzerine alınan ek raporda ise davalı firmanın faal durumda olması gerekçe gösterilerek ticaret ünvanının terk edilemeyeceği kanaatine varıldığını, bunun üzerine 07.01.2022 tarihli itiraz dilekçesi sunduklarını, mahkemeye taleplerinin reddine karar verildiğini, dosya kapsamı detaylı olarak incelendiğinde bu kararın hukuka aykırı olduğunu, ünvan terkini için markasal kullanım aranamayacağını, davalı ticaret ünvanının Sınai Mülkiyet Kanunu'nun yürürlük tarihinden sonra tescil ettirildiğini, ticaret ünvanının terkini talebi değerlendirilirken müvekkilin gerçek hak sahipliği gözetilmediğini, gözetildiği takdirde davalının ticaret ünvanından ... ibaresinin terk edilmesi gerektiğini, somut olaydaki gibi gerçek hak sahipliği çok sonra uyumazlık konusu ibareyi ticaret ünvanı olarak tescil ettiren davalının, ticaret ünvanının terkini talebinin, bozma ilami doğrultusunda kabul edildiğini, bu kararın ise Yargıtayca onandığını, bir başka uyumazlık ise yine davacının gerçek hak sahipliği gözetilerek çekişme konusu ibarenin davalı ticaret ünvanından terkine karar verildiğini, bu kararın Yargıtayca onandığını, bu gibi Yargıtay örnek kararlarının olduğu durumda, konusu markaları kötü niyetli olarak edindiği sabit olan davalının ticaret ünvanını da kötü niyetli olarak tescil ettiğini açık olduğunu, bu halde ise davalı ticaret ünvanından ... ibaresinin terk edilmemesinin kötü niyetin hukukça muhafaza edilmesi anlamına geldiğini, müvekkili aleyhine yargılama giderine hükmülemeyeceğini, istinaf başvurusunun kabulü ile taleplerin doğrultusunda karar verilmesini talep etmiştir.",
+        "verdict_text": "İstinaf dilekçesi kabul edilmiş ve talepler doğrultusunda karar verilmiştir. Davanın kabulüne, ticaret ünvanının terkine ve ticaret sicilde tescilli ticaret ünvanından ... ibaresinin çıkarılmasına karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "Sınai Mülkiyet Kanunu",
+            "Paris Sözleşmesi",
+            "7035 Sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adlıye Mahkemesi, davacı vekilinin istinaf dilekçesini kabul ederek davanın kabulüne, ticaret ünvanının terkine ve ticaret sicilde tescilli ticaret ünvanından belirli ibarelerin çıkarılmasına karar vermiştir.",
+    "summary_for_model": "İstanbul Bölge Adlıye Mahkemesi'nin ilk derece kararının istinaf yoluyla yeniden değerlendirildiği ve davanın kabulüne, ticaret ünvanının terkine ve ticaret sicilde tescilli ticaret ünvanından belirli ibarelerin çıkarılmasına karar verildiği bir hukuki süreç."
+}

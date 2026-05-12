@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2025_595.pdf",
+        "court_name": "İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2025/50 E.",
+        "karar_no": "2025/808",
+        "case_subject": "Marka (Tecavüzün Tesbiti İstemi)",
+        "dava_tarihi": "27/02/2025",
+        "karar_tarihi": "29/05/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; davalının markasına tecavüz ve haklı rekabet ihlali iddialarını savunmuştur. İddialar, davalının internet siteleri, sosyal medya hesapları ve reklam paylaşımlarında davacı markasının kullanılmasına dayanmaktadır.",
+        "reasoning_text": "İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi, ilk derece kararının istinaf aşamasında reddine karar vermiştir. Mahkeme, davalının markasına tecavüz ve haklı rekabet ihlali iddialarının reddine karar vermiştir. İstinaf dilekçesinin usul ve esas yönünden kusursuz olduğu kabul edilmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1- Usul ve yasaya uygun İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 27.02.2025 tarih ve 2025/50 E., sayılı ara kararına karşı davacı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2- 492 Sayılı Harçlar Kanunu gereğince alınması gereken 615,40 TL istinaf karar harcı davacı tarafından peşin yatırıldığından yeniden harç alınmasına yer olmadığına, 3- Davacı tarafa istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, 4- İncelemenin duruşmasız olarak yapılması sebebiyle taraflar yararına vekalet ücreti tayinine yer olmadığına, 5- Taraflarca yatırılan gider avansından harçnamayan kısmın karar kesinleştiğinde iadesine, 6- Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin ilk derece Mahkemesince yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/(1)-f. ve 394/(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi. 29/05/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "6769 Sayılı Sınai Mülkiyet Kanunu",
+            "492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi, davacı vekili tarafından yapılan istinaf talebini reddetmiştir. Mahkeme, davalının markasına tecavüz ve haklı rekabet ihlali iddialarının reddine karar vermiştir. İstinaf dilekçesinin usul ve esas yönünden kusursuz olduğu kabul edilmiştir.",
+    "summary_for_model": "İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi, davacı vekili tarafından yapılan istinaf talebini reddetmiştir. Mahkeme, davalının markasına tecavüz ve haklı rekabet ihlali iddialarının reddine karar vermiştir. İstinaf dilekçesinin usul ve esas yönünden kusursuz olduğu kabul edilmiştir. 6100 Sayılı Hukuk Muhakemeleri Kanunu ve 6769 Sayılı Sınai Mülkiyet Kanunu'na dayanılarak karar verilmiştir."
+}

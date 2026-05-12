@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2019_525.pdf",
+        "court_name": "T.C. BURSA 3. ASLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2019/525",
+        "karar_no": "2022/15",
+        "case_subject": "Satış sözleşmesi ve teknik destek ihlalleri",
+        "dava_tarihi": "14/11/2019",
+        "karar_tarihi": "06/01/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı şirketin 2018'de yaptığı satış sözleşmesinde gizlilik maddelerine aykırı hareket ettiğini iddia ediyor. Davalı, teknik destek almadığı ve makine görsellerinin Facebook'da paylaşıldığını iddia ediyor. Davacı, davalı şirketin teknik destek almadığını ve makine görsellerinin paylaşımını kabul etmediğini savunuyor.",
+        "reasoning_text": "Mahkeme, davacı ve davalı vekillerinin tanık delillerine dayanarak davayı değerlendirdi. Davacı vekili, davalı şirketin teknik destek almadığını ve makine görsellerinin paylaşımını kabul etmediğini iddia etti. Davalı vekili ise, davacı şirketin teknik destek almadığını ve makine görsellerinin paylaşımını kabul etmediğini savundu.",
+        "verdict_text": "HÜKÜM; Gerekçesi ve ayrıntısı yukarıda açıklanmış olduğu üzere;\n1-Davanın REDDİNE,\n2-Harçlar yasası gereği alınması gereken 80,70-TL karar ve ilam harcından, pesin yatırılan 44,40-TL pesin harcin mahsubu ile bakiye 36,30-TL'nin davacidan tahsiline İLE HAZİNEYE İRAT KAYDINA,\n3-Davalı kendisini vekil ile temsil ettiğinden, karar tarihinde yürürlükte bulunan AAÜT uyarınca belirlenen 100,00-TL, vekalet ücretinin davacidan alınarak davalya VERİLMESİNE,\n4-Davacı tarafa yapılan yargılama giderlerinin davacı üzerinde BİRAKILMASININA,\n5-7155 Sayılı Kanunun 23.maddesi ile 6155 Sayılı Kanun 18/A-12-13 maddeleri uyarınca 1.320,00-TL zorunlu arabulculuk hizmeti giderinin davacidan alınarak HAZİNEYE İRAT KAYDINA,\n6-Kesinleşme süreci tamamlanana kadar masraf avanslarının kullanılabileceği nazara alınarak kararın kesinleşmesinden sonra yazı işlerince yapılacak hesaba göre artan avansların yatıran tarafa İADESİNE,\nDair, davacı taraf yokluğunda, davalı vekilinin yüzüne karşı, kararın tebliğiinden itibaren 2 haftalık süre içinde İstinaf Kanun Yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 06/01/2022\nKatipler..."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "7155 Sayılı Kanun",
+            "6155 Sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin satış sözleşmesinde gizlilik ihlalleri yaptığını iddia ediyor. Mahkeme, davacı ve davalı vekillerinin tanık delillerine dayanarak davayı değerlendirdi ve davacı lehine karar verdi.",
+    "summary_for_model": "Davacı, davalı şirketin satış sözleşmesinde gizlilik ihlalleri yaptığını iddia ediyor. Mahkeme, davacı ve davalı vekillerinin tanık delillerine dayanarak davayı değerlendirdi ve davacı lehine karar verdi. Davacı, davalı şirketin teknik destek almadığını ve makine görsellerinin paylaşımını kabul etmediğini iddia ediyor."
+}

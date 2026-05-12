@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_247.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2023/247 Esas",
+        "karar_no": "2024/1623 Karar",
+        "case_subject": "Haksız Rekabetin Tesbiti, Durdurulması ve Men'i ile Maddi ve Manevi Tazminat",
+        "dava_tarihi": "20/03/2020",
+        "karar_tarihi": "23/10/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; müvekkiline ait ürünleri satan davalı ile uzun yıllar birlikte çalıştığını, müvekkilin davalı ürünlerinin hem tasarımını yaptığını, hem de ürünler üzerine kendi tasarımlarının baskısını yaparak teslim ettiğini, taraflar arasındaki ticari temül ve güvene binaen herhangi bir risk görülmediğinden davalı tarafından bu tasarımlara ilişkin çizimlerin mail yoluyla gönderildiğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacı vekilinin istinaf taleplerini reddetmiştir. İlk derece mahkemesinin kararının kaldırılmasını talep etmiştir. Asıl davada davacı vekilinin istinaf taleplerinin HMK'nun 353/1-b-1 maddesi uyarınca esastan reddine, asıl davada davalı-birleşen davada davacı vekilinin istinaf taleplerinin HMK'nun 353/1-b-1 maddesi uyarınca esastan reddine karar verilmiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Asıl davada davalı-birleşen davada davacı vekilinin istinaf talebinin HMK'nun 353/1-b-1 maddesi uyarınca ESASTAN REDDİNE, 2-Asıl dava da davaldan alınması gereken 2.049,30 TL harçtan, peşin alınan 512,50 TL harcin mahsubu ile bakiye 1.536,8-TL harcin asıl dava davalısından alınarak, hazinede irat kaydına, 3-Birleşen davada davacıdan alınması gereken 427,60-TL peşin alınan 179,90 TL harcin mahsubu ile bakiye 247,7-TL harcin davacıdan alınarak, hazinede irat kaydına, 3-Asıl davada davalı-birleşen davada davacı vekili tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, 4-Istinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, 5-Artan gider avansının karar kesinleştiğinde ve talep halinde ilk derece mahkemesi tarafından yatran tarafa iadesine, Dair, dosya üzerinde yapılan"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "SMK 71/1",
+            "TBK 50-51",
+            "HMK 355"
+        ]
+    },
+    "summary_for_human": "Davacı, davalıya ait ürünlerin tasarımını yapmış ve ticari temül ile teslim etmiş olarak iddia etmiştir. Mahkeme, davacı vekilinin istinaf taleplerini reddetmiştir.",
+    "summary_for_model": "Davacı vekili, davalıya ait ürünlerin tasarımını yapmış ve ticari temül ile teslim etmiş olarak iddia etmiştir. Mahkeme, davacı vekilinin istinaf taleplerini reddetmiştir. İlk derece mahkemesinin kararının kaldırılmasını talep etmiştir."
+}

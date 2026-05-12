@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2021_408.pdf",
+        "court_name": "İstanbul 1.Fikri Ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/408 Esas",
+        "karar_no": "2024/643",
+        "case_subject": "Fikri Ve Sanat Eseri Sahiplikinden Kaynaklanan Haklara Tecavüz Ref'i, Önlünmesi Ve Tazmini",
+        "dava_tarihi": "15/12/2020",
+        "karar_tarihi": "28/03/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekili aracılığıyla, davalının internet sitesinde izinsiz olarak kullanıldığı iddia edilen fotoğrafların hak sahiplerine ait olduğunu iddia etti. İlk derece mahkemesi, davalının internet sitesinin sahibi olduğunu tespit etti ve davalının hak ihlalini kabul etmedi. Davacı, istinaf başvurusunda bulundu.",
+        "reasoning_text": "Mahkeme, davalının internet sitesinin sahibi olduğunu tespit etti ve davalının hak ihlalini kabul etmediğini belirledi. Davacı'nın iddialarının yetersiz olduğu ve davalının savunmalarının haklı olduğu sonucuna vardı.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Davacı vekilinin istinaf isteminin KABULÜ ile;2-İstanbul 1.Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 15/12/2020 tarih, 2019/106 E. 2020/394 K. Sayılı Kararının 6100 Sayılı HMK'nın 353/1-a-6. maddesi gereğince KALDIRILMASINA,3-Dosyanın, yukarıda gösterilen biçimde inceleme ve değerlendirme yapılmak üzere mahkemesine GÖNDERİLMESİNE,4-İstinaf yasa yoluna başvuran davacı tarafından peşin olarak yatırılan istinaf karar ve ilam harcının talebi halinde kendisine iadesine,5-Dosya üzerinde inceleme yapılması sebebiyle vekalet ücreti tayinine yer olmadığına,6-İstinaf yasa yoluna başvuran tarafından istinaf aşamasında yapılan giderlerin ilk derece mahkemesine verilecek nihai kararda dikkate alınmasına,6100 Sayılı HMK'nın 353/1-a-6. ve 362/1-g. maddeleri gereğince dosya üzerinde yapılan inceleme sonucunda ve KESİN olmak üzere, oy birliğiyle karar verildi. 28/03/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK md. 54",
+            "TTK md. 56",
+            "FSEK 68",
+            "FSEK md.4/5",
+            "FSEK 84",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu (HMK) 353/1-a-6",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu (HMK) 362/1-g"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının internet sitesinde izinsiz olarak kullanıldığı iddia edilen fotoğrafların hak sahiplerine ait olduğunu iddia etti. Mahkeme, davalının internet sitesinin sahibi olduğunu tespit etti ve davalının hak ihlalini kabul etmedi.",
+    "summary_for_model": "Davacı, davalının internet sitesinde izinsiz olarak kullanıldığı iddia edilen fotoğrafların hak sahiplerine ait olduğunu iddia etti. Mahkeme, davalının internet sitesinin sahibi olduğunu tespit etti ve davalının hak ihlalini kabul etmedi. Davacı'nın iddialarının yetersiz olduğu ve davalının savunmalarının haklı olduğu sonucuna vardı."
+}

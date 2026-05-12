@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2018_173.pdf",
+        "court_name": "T.C. İSTANBUL 1. FİKRİ VE SANATİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2018/173",
+        "karar_no": "2018/368",
+        "case_subject": "Markaya tecavüz ve haksız rekabet iddiası",
+        "dava_tarihi": "28/02/2012",
+        "karar_tarihi": "04/10/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın markaya tecavüz ve haksız rekabet iddiasını savundu. İlani markaya tecavüz ve haksız rekabet oluşturduğunu iddia etti. Davalı vekili ise ilanın markaya tecavüz ve haksız rekabet oluşturmayacağını savundu.",
+        "reasoning_text": "Mahkeme, ilanın şekli ve kapsamının infaza uygunluğunu değerlendirdi. İlanın yüksek tirajlı bir gazetede yer alması nedeniyle hüküm özetinin ilana uygunluğunu teyit etti. Mahkeme ayrıca davacı vekilinin duruşmada zapta geçen ve ilana ilgili daha önceki beyan dilekçesi dikkate alındı.",
+        "verdict_text": "1-Kesinleşen konularda yeniden hüküm kurulmasına yer olmadığına, 2-Bozma ilanın içeriği davacı vekilinin önceki tarihlerde sunmuş olduğu dilekçe içeriği dikkate alınarak hüküm özetinin ilana, ilanın 20*30 cm ebatta tiraji yüksek bir gazetede masarafi davaldan alınarak hüküm özetinin bir kez ilana, 3-Harc bozma öncesi ilama tahsil edildiğinde, bu konuda hüküm kurulmasına yer olmadığına, 4-Vekalet ücreti ile ilgili kesinleşen konularda yeniden hüküm kurulmasına yer olmadığına, 5-Bozma sonrası yapılan 56 TL tebligat masrafının davaldan alınarak davacılara verilmesine, Dair karar davacı vekilinin yüzüne karşı davalı vekilinin yokluğunda gerekli kararın tebliğinden itibaren iki haftalık süre içinde YARGITAY NEZLİNDE YASA YOLU AÇIK olmak üzere verilen karar açıkça okundu.04/10/2018"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "556 sayılı KHK 72/2. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markasına tecavüz ve haksız rekabet iddiasıyla dava açtı. Mahkeme, ilanın yüksek tirajlı bir gazetede yer alması nedeniyle hüküm özetinin ilana uygunluğunu teyit etti ve davacıya 56 TL tebligat masrafı verildi.",
+    "summary_for_model": "Davacı, davalının markasına tecavüz ve haksız rekabet iddiasıyla dava açtı. Mahkeme, ilanın şekli ve kapsamının infaza uygunluğunu teyit etti ve davacıya 56 TL tebligat masrafı verildi. 556 sayılı KHK 72/2. maddesi esas olarak kullanıldı."
+}

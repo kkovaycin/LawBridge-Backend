@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2021_271.pdf",
+        "court_name": "T.C. BAKIRKÖY 2. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/271 Esas",
+        "karar_no": "2021/98",
+        "case_subject": "Marka hükmüsüzlüğü davası",
+        "dava_tarihi": "09/06/2020",
+        "karar_tarihi": "04/06/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı şirketin ticari vekil olarak hareket ettiğini iddia ediyor ve davalı şirketin kendisi adına ticari faaliyetler yapmadığını, ancak ticari vekil olarak hareket ettiğini savunuyor. Davacı, davalı şirketin ticari vekil olarak hareket ettiğini iddia ediyor ve davalı şirketin ticari vekil olarak hareket ettiğini iddia ediyor.",
+        "reasoning_text": "Mahkeme, davacı ve davalı arasındaki iddiaları değerlendirerek, davacı şirketin ticari vekil olarak hareket ettiğini kabul ediyor. Mahkeme, davacı şirketin ticari vekil olarak hareket ettiğini kabul ediyor ve davacı şirketin ticari vekil olarak hareket ettiğini kabul ediyor.",
+        "verdict_text": "HÜKMÜ: Yukarıda açıklanan gerekçelere;\n1-Davacının davasının KABULÜ ile;\n-Davalı adına kayıtlı ... ve ... tescil numaralı markaların tescilinin SMK madde 10 uyarınca DAVACIYA DEVRİNE,\n2-Alınması gereken 59,30 TL harçtan peşin alınan 54,40 TL harçın mahsubu ile bakiye 4,90 TL harçın davalardan alınarak hazinede irad kaydına,\n3-Davacı kendisini vekil ile temsil ettirmekle Avukatlık Asgari Ücret Tarifesine göre 5.900,00 TL vekalet ücretinin davalardan alınarak davacıya verilmesine,\n4-Davacı tarafından bu dava nedeniyle yapılan 54,40 TL başvurma harcı, 54,40 TL peşin harç, 1.000,00 TL bilirkişi ücreti ve 149,50 TL tebligat/posta masrafı olmak üzere toplam 1.258,30 TL yargılama giderinin davalardan alınarak davacıya verilmesine,\n5-Kalan gider avansının karar kesinleştiğinde yatıran tarafa iadesine,\nKararın tebliğiğinden itibaren 2 haftalık süre içinde mahkememize verilecek dilekçe ile İstanbul Bölge Adliyesi nezdiinde istinaf yolu açık olmak üzere davacı vekilinin yüzüne karşı davalı tarafın yokluğunda verilen karar açıkça okunup usulen anlatıldı.04/06/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK madde 10",
+            "SMK madde 6/2",
+            "SMK madde 25",
+            "SMK madde 6/4"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin ticari vekil olarak hareket ettiğini iddia ediyor ve davalı şirketin ticari vekil olarak hareket ettiğini savunuyor. Mahkeme, davacı şirketin ticari vekil olarak hareket ettiğini kabul ediyor.",
+    "summary_for_model": "Davacı, davalı şirketin ticari vekil olarak hareket ettiğini iddia ediyor ve davalı şirketin ticari vekil olarak hareket ettiğini savunuyor. Mahkeme, davacı şirketin ticari vekil olarak hareket ettiğini kabul ediyor."
+}

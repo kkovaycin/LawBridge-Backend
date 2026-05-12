@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2024_1726.pdf",
+        "court_name": "İstanbul Anadolu 1. Fikri Ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2024/175 E.",
+        "karar_no": "2025/51",
+        "case_subject": "Patent ve Tasarım İhtilafı",
+        "dava_tarihi": "08/11/2024",
+        "karar_tarihi": "09/01/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı vekilinin ürünlerini satarken kullanmak istediğini iddia ediyor. Davalı vekili, ürünleri projelere göndermek istediğini iddia ediyor. Davacı, davalı vekilinin ürünleri kendi üretip piyasaya sattığını iddia ediyor.",
+        "reasoning_text": "Mahkeme, davalı vekilinin ürünleri satarken kullanmak istediğini iddia ettiğini ve bu durumun hak ihlali oluşturduğunu tespit etti. Davacı vekilinin ürünleri satarken kullanmak istediğini iddia ettiğini ve bu durumun hak ihlali oluşturduğunu tespit etti.",
+        "verdict_text": "İhtiyati tedbir kararı kaldırılmıştır."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 341. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 352/1-b. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 330. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 333. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 326/1 maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 7035 sayılı yasanın 30. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 359/3 maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 362/1-a. maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin ürünleri satarken kullanmak istediğini iddia ettiğini ve bu durumun hak ihlali oluşturduğunu tespit etti. İhtiyati tedbir kararı kaldırılmıştır.",
+    "summary_for_model": "Mahkeme, davacı vekilinin ürünleri satarken kullanmak istediğini iddia ettiğini ve bu durumun hak ihlali oluşturduğunu tespit etti. İhtiyati tedbir kararı kaldırılmıştır. Davacı vekilinin ürünleri satarken kullanmak istediğini iddia ettiğini ve bu durumun hak ihlali oluşturduğunu tespit etti."
+}

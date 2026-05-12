@@ -1,0 +1,33 @@
+{
+    "meta_data": {
+        "file_name": "2017_135.pdf",
+        "court_name": "T.C. İSTANBUL 2.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2017/135",
+        "karar_no": "2019/227",
+        "case_subject": "FSEK-Tecavüzün Ref'i, Maddi ve Manevi Tazminat davası",
+        "dava_tarihi": "13/07/2017",
+        "karar_tarihi": "30/05/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "ÖZET: Davacı, 2013-2014 yılları arasında otel spa bölümünde resepsiyonist olarak çalıştı. Otel, davacının fotoğraflarını izinsiz reklam amaçlı kullandı. Davacı, maddi ve manevi tazminat talep etti.",
+        "reasoning_text": "ÖZET: FSEK m.86/1 ve Türk Medeni Kanunu 24 vd. maddeleri uyarınca, davacının fotoğraflarının izinsiz kullanılması kişilik hak ihlali olarak değerlendirildi. Maddi tazminat talebi, davacının vekâlet ücreti ve dava giderleri için kabul edildi.",
+        "verdict_text": "HÜKÜM: Davacının maddi tazminat talebinin KABULÜ ile 3.000,00 TL'nin davalından alınarak davacıya ödendmesine, Davacının manevi tazminat talebinin KİSMEN KABULÜ ile 5.000,00 TL'nin davalından alınarak davacıya ödendmesine, Fazlalık talebinin reddine, Karar tarihinde yürürlükte bulunan Harçlar Tarifesi uyarınca peşin yatırılan 563,56 TL'den karar harcı olarak hesaplanan 546,48 TL'nin düşülmesine, kalan 17,08 TL'nin karar kesinleştiğinde talep halinde davacıya iadesine, Maddi tazminat talebi yönünden; karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca kabul olan miktar üzerinden hesaplanan 3.000,00 TL vekalet ücretinin davalından alınarak kendisini vekille temsil ettiren davacıya ödendmesine, Manevi tazminat talebi yönünden; karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca kabul olan miktar üzerinden hesaplanan 3.931,00 TL vekalet ücretinin davalından alınarak kendisini vekille temsil ettiren davacıya ödendmesine, Manevi tazminat talebi yönünden; karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca red olan miktar üzerinden hesaplanan 3.931,00 TL vekalet ücretinin davacıdan alınarak kendisini vekille temsil ettiren davalına ödendmesine, Davacı tarafından yapılan: 2.100,00 TL bilirkişi ücreti, 172,50 TL posta gideri olmak üzere toplam 2.272,50 TL'nin -ret ve kabul göre hesaplanan- 550,90 TL ve 594,96 TL harç (peşin+başvuru) olmak üzere toplam 1.145,86 TL yargılama giderinin davalından alınarak davacıya verilmesine, kalan giderin davacı üzerinde bırakılmasına, Davalı tarafından yapılan, 150,00 posta giderinin -ret ve kabul göre hesaplanan- 113,63 TL yargılama giderinin davacıdan alınarak davalına verilmesine, kalan giderin davalı üzerinde bırakılmasına, Yatırılan gider avanslarından kullanılmayan kısmının talep halinde ve karar kesinleştiğinde yatıran tarafa iadesine, Dair taraf vekillerinin yüzüne karşı, (HMK 345/1 md. gereğince) gerekçeli kararın tebliğinden itibaren 2 hafta içerisinde Mahkememize veya başka bir yer mahkemesine dilekçe ile başvurmak ve istinaf harcı ile gerekli giderlerin tamamı ödenek suretiyle, İstanbul Bölge Adliye Mahkemesine istinaf yolu açık olmak üzere verilen karar, açıkça okunup usulen anlatıldı. 30/05/2019"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "FSEK m.86/1",
+            "MK 24 vd.",
+            "Türk Medeni Kanunu 24 vd.",
+            "FSEK m.86/III",
+            "Borglar Kanunu 56. madde",
+            "FSEK m.68",
+            "TMK m.24",
+            "TMK m.25",
+            "BK 50",
+            "HMK 345/1 md.",
+            "5070 sayılı elektronik imza kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, otel spa bölümünde çalıştığı sırada çekilen fotoğrafların izinsiz reklam amaçlı kullanıldığını iddia etti. Mahkeme, maddi ve manevi tazminat taleplerini kabul etti. Davacıya 3.000 TL maddi ve 5.000 TL manevi tazminat ödendi.",
+    "summary_for_model": "Dava, otel spa bölümünde çalışan davacının fotoğraflarının izinsiz reklam amaçlı kullanılmasına karşı açıldı. Mahkeme, FSEK m.86/1 ve Türk Medeni Kanunu 24 vd. maddeleri uyarınca, maddi ve manevi tazminat taleplerini kabul etti. Davacıya toplam 8.000 TL tazminat ödendi."
+}

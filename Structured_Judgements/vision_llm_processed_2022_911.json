@@ -1,0 +1,35 @@
+{
+    "meta_data": {
+        "file_name": "2022_911.pdf",
+        "court_name": "T.C. İSTANBUL 12. AŞLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2022/911",
+        "karar_no": "2023/757",
+        "case_subject": "Menfi Tespit davası",
+        "dava_tarihi": "08/11/2022",
+        "karar_tarihi": "10/10/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, müvekkilin bir çocuk babası olduğu, 2018'de araç kiraladığı ve kiralama sürecinde ihmal edildiği iddia edildi. Davacı, müvekkilin borçlu olduğunu, dava konusu olan senetin düzenlenme tarihinin geçtiğini ve dava konusu olan bono dolayısıyla menfi tespit davası açtığını iddia etti.",
+        "reasoning_text": "Mahkeme, dava konusu olan senetin kira sözleşmesi nedeniyle düzenlendiğini ve dava konusu olan bono dolayısıyla menfi tespit davası açıldığını tespit etti. Mahkeme, dava konusu olan senetin kira sözleşmesi nedeniyle düzenlendiğini ve dava konusu olan bono dolayısıyla menfi tespit davası açıldığını tespit etti.",
+        "verdict_text": "HÜKÜM yukarıda açıklanan nedenlerle; 1-Mahkememizin görevsizliği nedeniyle dava şartı yokluğundan davanın usulden reddine, 2-Kararın istinaf yoluna başvurulmaksızın kesinleşmesine müteakip bu tarihten itibaren istinaf yoluna başvurulması ve istinaf talebinin reddinin kesinleşmesine müteakip iki haftalık süre içinde talep halinde dosyanın görevli İstanbul Sulh Hukuk Mahkemesine gönderilmesine, süresi içinde gönderilme başvurusunun olmaması halinde davanın açılmamış sayılabileceğine karar verileceğine, 3-HMK'nın 331. Maddesi uyarınca harç ve yargılama giderlerinin görevli mahkemeye değerlendirilmesine, 4-Dosyanın kanuni süresi içinde gönderilmemesi durumunda talep halinde yargılama gideri ve vekalet ücretinin mahkememizce karara bağlanmasına, Dair; HMK 345 maddesi uyarınca kararın taraflara tebliğ edildiği tarihten başlayarak iki hafta içinde HMK 342 maddesi gereğince düzenlenmiş dilekçe ile HMK 343 maddesi uyarınca mahkememize veya başka bir mahkemeye yapılacak başvuru ile HMK 341/1 maddesi uyarınca İstanbul Bölge Adliye Mahkemesi nezdiğinde istinaf yolu açık olarak davacı vekili ile davah vekilinin yüzüne karşı verilen karar açıkça okunup anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Anayasa'nın 37. maddesi",
+            "6100 sayılı Hukuk Muhakemeleri Kanunu'nun 1. maddesi",
+            "6100 sayılı Hukuk Muhakemeleri Kanunu'nun 114/(1)-c maddesi",
+            "6100 sayılı Hukuk Muhakemeleri Kanunu'nun 115. maddesi",
+            "6102 sayılı TTEK'in 4. maddesi",
+            "6100 sayılı HMK'nın 4/1-a maddesi",
+            "6098 sayılı Türk Borçlar Kanunu'nun 299. maddesi",
+            "6100 sayılı HMK'nın 4. maddesi",
+            "HMK'nın 331. Maddesi",
+            "HMK 345 maddesi",
+            "HMK 342 maddesi",
+            "HMK 343 maddesi",
+            "HMK 341/1 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkilin borçlu olduğunu ve dava konusu olan senetin düzenlenme tarihinin geçtiğini iddia etti. Mahkeme, dava konusu olan senetin kira sözleşmesi nedeniyle düzenlendiğini ve dava konusu olan bono dolayısıyla menfi tespit davası açıldığını tespit etti. Mahkeme, dava konusu olan senetin kira sözleşmesi nedeniyle düzenlendiğini ve dava konusu olan bono dolayısıyla menfi tespit davası açıldığını tespit etti.",
+    "summary_for_model": "Davacı vekili, müvekkilin borçlu olduğunu ve dava konusu olan senetin düzenlenme tarihinin geçtiğini iddia etti. Mahkeme, dava konusu olan senetin kira sözleşmesi nedeniyle düzenlendiğini ve dava konusu olan bono dolayısıyla menfi tespit davası açıldığını tespit etti. Mahkeme, dava konusu olan senetin kira sözleşmesi nedeniyle düzenlendiğini ve dava konusu olan bono dolayısıyla menfi tespit davası açıldığını tespit etti."
+}

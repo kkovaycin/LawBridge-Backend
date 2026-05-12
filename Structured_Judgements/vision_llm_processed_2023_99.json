@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2023_99.pdf",
+        "court_name": "Bakırköy 1. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2023/99",
+        "karar_no": "2023/72",
+        "case_subject": "Deli Tespit - İhtiyati Tedbir (D.İş)",
+        "dava_tarihi": "20/12/2022",
+        "karar_tarihi": "19/01/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekili aracılığıyla, davalının 1961'den beri faaliyet gösterdiği ürünün tanıtımını ve gelişimini sağlayan kalite sembolü olarak kabul edilen markasının TPMK tarafından tanınmış bir marka olarak tescili edildiğini iddia ediyor. Davalının internet üzerinden ve fiziksel olarak satış yaptığını, bu durumun davacının tescilli markasından doğan haklarına tecavüz ettiğini ve bu nedenle adres ve internet ortamında biliriği incelemesi yapılması talep edildiğini belirtiyor.",
+        "reasoning_text": "Mahkeme, davacının iddialarını değerlendirirken, davalının markasını tescilli bir marka olarak kullanmasının davacının haklarını ihlal ettiğini ve bu durumun davacının ticari faaliyetlerini engellediğini tespit etti. Mahkeme ayrıca, davalının internet üzerinden ve fiziksel olarak satış yaptığını ve bu durumun davacının haklarını ihlal ettiğini tespit etti.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1- Usul ve yasaya uygun Bakırköy 1. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 20/12/2022 tarih ve 2022/261 E, 2022/260 K Sayılı kararına karşı talep eden vekili tarafından yapılan istinaf başvurusunun 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2- 492 Sayılı Harçlar Kanunu gereğince alınması gereken 179,90 TL maktu istinaf kararı ve ilam harcından peşin yatırılan 80,70 TL harcin mahsubu ile bakiye 99,20 TL harcin davacidan tahsiliyle Hazineye gelir kaydedilmesine, 3- Davacı taraflıca istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına,4- İncelemenin duruşsız olarak yapılması sebebiyle taraflar yararına vekalet ücreti tayinine yer olmadığına,5- Taraflarca yatırılan gider avansından harçtanmayan kısım karar kesinleştiğinde iadesine,6- Karar tebliği, harç tahsil müzekkeresi düzenlenmesine, harç ve avans iadesi işlemlerinin ilk derece Mahkemesine yer getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362(1-f. ve 394/5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi. 19/01/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "6769 Sayılı Sınai Mülkiyet Kanunu",
+            "492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının tescilli markasını kullanmasının ticari haklarını ihlal ettiğini iddia ediyor. Mahkeme, davalının markasını tescilli bir marka olarak kullanmasının davacının haklarını ihlal ettiğini tespit etti ve davalının internet üzerinden ve fiziksel olarak satış yaptığını tespit etti.",
+    "summary_for_model": "Davacı, davalının tescilli markasını kullanmasının ticari haklarını ihlal ettiğini iddia ediyor. Mahkeme, davalının markasını tescilli bir marka olarak kullanmasının davacının haklarını ihlal ettiğini tespit etti ve davalının internet üzerinden ve fiziksel olarak satış yaptığını tespit etti. Davacı, davalının markasını tescilli bir marka olarak kullanmasının davacının ticari haklarını ihlal ettiğini iddia ediyor."
+}

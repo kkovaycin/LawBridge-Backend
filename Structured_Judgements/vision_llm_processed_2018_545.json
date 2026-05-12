@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2018_545.pdf",
+        "court_name": "T.C. İstanbul Anadolu 7. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2018/545",
+        "karar_no": "2018/896",
+        "case_subject": "Haksız Rekabetten Kaynaklanan Tazminat Davası",
+        "dava_tarihi": "09/05/2018",
+        "karar_tarihi": "11/09/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın müvekkiline ait Twitter hesabından hakaret içeren bir paylaşım yapıldığını iddia etti. Davacı, bu paylaşımın sosyal medyada açık olduğu ve herkes tarafından görülebileceğini belirterek manevi tazminat talep etti. Savunma ise, paylaşımın hakaret unsurları içermediğini ve davanın yersiz olduğunu savundu.",
+        "reasoning_text": "Mahkeme, davanın TTK'nun 55. Maddesi uyarınca haklı olduğunu tespit etti. Davanın sosyal medyada yayınlanan paylaşımının davacı tarafından hakaret olarak algılandığını ve bu durumun manevi tazminat gerektirdiğini kabul etti. Ancak, tazminat miktarı belirlenirken, davanın ekonomik durumu ve paylaşımın ciddiyeti dikkate alındı.",
+        "verdict_text": "Gerekçesi Yukarıda Açıklandıığı Üzere; DAVANIN KISMEN KABULÜNE, 2.000,00 TL'nin manevi tazminat olarak, 13/05/2016 tarihinden itibaren işleyecek yasal faizi ile davalıdan tahsiline, davacıya verilmesine, Fazlaya dair talebin reddine, Peşin olarak alınan harçtan alınması gereken 137,02 TL harçın mahsubu ile 33,76 TL bakiye harçın talebi halinde davacıya iadesine, Tamamı davacı tarafından karşılanan 166,98 TL harçın tamamının ve 6 davetiye gideri 84,00 TL'nin kabul ve ret oranı gereğince 16,80 TL'sinin toplamı 183,78 TL yargılama giderinin davalıdan tahsiline, davacıya verilmesine, karar kesinleştiğinde bakiye kalacak gider avansının davacıya iadesine, Manevi tazminat davalarında davanın kısmen kabulü halinde davalı tarafa taktır edilecek tazminat miktarı davacıya taktır edilecek miktarı geçemeyeceği de nazar alınarak ve kabul ve reddedilen miktarlar üzerinden hesaplanan vekalet ücretleri de makunun altında kaldığından her iki taraf lehine de 1.980,00'er TL maktu vekalet ücreti taktrine, birbirlerinden alınmasına, Dair karar, davacı vekilinin yüzüne karşı, mazeretli kabul edilen davalı vekilinin yokluğunda: kabul edilen miktar sebebiyle davalı yönünden kesin, davacı yönünde ise karar gerekçesinin tebliğinden itibaren 2 hafta içinde İstanbul Bölge Adliye Mahkemesinde istinaf yolu açık olarak verildi, açıkça okundu usulen tefhim olundu."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK'nun 55. Maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı tarafından iddia edilen hakaret paylaşımının manevi tazminat gerektirdiğini kabul etti. Davanın kısmen kabul edildi ve 2.000 TL manevi tazminat kararı verildi. Davacıya harç iadesi ve vekalet ücreti de tahsil edildi.",
+    "summary_for_model": "Dava, TTK'nun 55. Maddesi uyarınca haklı olarak değerlendirildi. Mahkeme, davanın kısmen kabul edilmesini ve 2.000 TL manevi tazminat kararı vermeyi kararlaştırdı. Davacıya harç iadesi ve vekalet ücreti de tahsil edildi."
+}

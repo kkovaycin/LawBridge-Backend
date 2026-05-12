@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_759.pdf",
+        "court_name": "İstanbul 10. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2022/759",
+        "karar_no": "2025/137",
+        "case_subject": "Şirket hisselerinin tesbiti ve pay defterine kaydı",
+        "dava_tarihi": "10/11/2022",
+        "karar_tarihi": "12/02/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı şirketin hisselerinin kendisine ait olduğunu iddia ediyor. Şirket 2011'de Limited Şirket modeline dönüştürüldü ve ticaret siciline kaydedildi. Davalı, kanser hastalığı nedeniyle işleri yürütemedi ve hisselerinin devredilmesi talep edildi.",
+        "reasoning_text": "Mahkeme, davacı ve davalı arasındaki anlaşmazlığı inceledi. Davacı, hisselerin kendisine ait olduğunu iddia ediyor ancak davalı tarafından imzalanan anlaşmalar ve banka kayıtları bu iddiayı desteklemiyor. Mahkeme, davacı ve davalı arasındaki anlaşmanın geçersiz olduğunu tespit etti.",
+        "verdict_text": "1-Asıl davanın KABULÜNE, 2-Birleşen davanın KABULÜNE, 3-Aslı Müdahale davasının REDDİNE, 4-Asıl dava yönünden; a-Harçlar Kanunu gereğince alınması gereken 615,40-TL harcin mahsubu ile fazladan alınan 238,40-TL'nin yatıran tarafa iadesine, b-Davacı kendisini vekil ile temsil ettirdiğinden A.A.Ü.T (Madde-13 İkinci Kısım İkinci Bölüm) göre hesaplanan 30.000,00-TL maktu vekalet ücretinin davalidan müştereken ve mütessesen alınarak davacıya verilmesine, c-Davacı tarafından yapılan 615,40 TL harcin davallardan müştereken ve mütessesen alınarak davacıya verilmesine, 5-Birleşen dava yönünden; a-Harçlar Kanunu gereğince dava değeri üzerinden alınması gereken toplam 615,40-TL harçtan daha önceden ödenen toplam 426,94-TL harç düşülükten sonra eksik kalan 188,46-TL harçın davalidan alınarak hazineye irad kaydına, b-Davacı kendisini vekil ile temsil ettirdiğinden A.A.Ü.T (Madde-13 İkinci Kısım İkinci Bölüm) göre hesaplanan 30.000,00-TL maktu vekalet ücretinin davalidan alınarak davacıya verilmesine, c-Davacı tarafından yapılan; 426,94-TL Peşin/nisbi harçın davalidan alınarak davacıya verilmesine, 6-Aslı Müdahale davası yönünden 30.000,00 TL vekalet ücretinin aslı müdahil davacıdan alınarak, kendini vekil ile temsil ettiren aslı müdahil davallara verilmesine 7-Davacı tarafından yapılan; 1.200,00-TL Tebligat, Posta ve diğer masraflar, olmak üzere toplam 1.200,00 TL'nin aslı ve birleşen dava davallarıdan müştereken mütessesen alınarak davacıya verilmesine, 8-Aslı Müdahale talebinde bulunan tarafın yaptığı masrafların kendi üzerinde bırakılmasına, 9-Taraflarca yatırılan ve kullanılmayan gider avansının karar kesinleştiğinde ve talep halinde ilgili tarafa iadesine"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK'nin 308. maddesi",
+            "Harçlar Kanunu",
+            "A.A.Ü.T (Madde-13 İkinci Kısım İkinci Bölüm)"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı ve davalı arasındaki hisse devri anlaşmazlığını inceledi. Davacı, hisselerin kendisine ait olduğunu iddia ediyor ancak mahkeme bu iddiayı geçersiz buldu. Aslı müdahale davası reddedildi.",
+    "summary_for_model": "Mahkeme, davacı ve davalı arasındaki hisse devri anlaşmazlığını inceledi. Davacı, hisselerin kendisine ait olduğunu iddia ediyor ancak mahkeme bu iddiayı geçersiz buldu. Aslı müdahale davası reddedildi. Davacı ve davalı arasındaki anlaşmanın geçersiz olduğu tespit edildi."
+}

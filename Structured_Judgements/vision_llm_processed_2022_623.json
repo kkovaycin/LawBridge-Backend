@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2022_623.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 17. Hukuk Dairesi",
+        "esas_no": "2022/623",
+        "karar_no": "2022/854",
+        "case_subject": "İflas (Adi Takipte Doğan İflas)",
+        "dava_tarihi": "23/12/2021",
+        "karar_tarihi": "30/06/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, vekilinin borçlu şirketten alacaklı olduğunu, ödeme yapılmaması nedeniyle borçlu şirketin iflasını isteme zorunluluğu ortaya çıktığını, takibin kesinleştiğini ve davalı şirketin muhafaza tedbirlerine hükmedilmesi ile borcun ödenmemesi durumunda iflas kararı verilmesini talep etti.",
+        "reasoning_text": "İlk derece mahkemesi, takip dosyasında davalıya çıkarılan iflas ödeme emrinin usulüne uygun tebliğ edilmediğini tespit etti. Bu durum, Bakırköy 6. İcra Hukuk Mahkemesi'nin 2021/507E, 2021/595K sayılı kararının iptaline karar verdi. Karar, davanın itirazında kabul edildi ve takibin durduğunu, davanın usulden reddine karar verildi.",
+        "verdict_text": "İlk derece mahkemesi kararı kaldırıldı. Davanın usulden reddine karar verildi. Mahkemeye, İİK 159 maddesi kapsamında verilen tüm tedbirlerin kaldırılmasına, bu hususta icra müdürlüğüne ve ilgili yerlere müzekkere yazılmasına karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "Hukuk Muhakemeleri Kanunu 353. maddesi",
+            "İİK 156. Maddesi",
+            "İİK 158. Maddesi",
+            "492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, borçlu şirketin iflasını talep eden davacı vekilinin dilekçesini inceleyerek ilk derece mahkemesi kararını kaldırdı. Davanın usulden reddine karar verildi ve mahkemeye tedbirlerin kaldırılmasına karar verildi.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, borçlu şirketin iflasını talep eden davacı vekilinin dilekçesini inceleyerek ilk derece mahkemesi kararını kaldırdı. Davanın usulden reddine karar verildi. Tedbirlerin kaldırılmasına karar verildi. İİK 156 ve 158 maddeleri ile 6100 Sayılı Hukuk Muhakemeleri Kanunu ve 492 Sayılı Harçlar Kanunu referans edildi."
+}

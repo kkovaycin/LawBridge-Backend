@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2024_271.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ BAM 22. HUKUK DAİRESİ",
+        "esas_no": "2024/271 (ESASTAN RET)",
+        "karar_no": "2024/560",
+        "case_subject": "İhtiyati haciz talebi",
+        "dava_tarihi": "06/12/2023",
+        "karar_tarihi": "03/05/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "İhtiyati haciz talep eden alacaklı vekili, borçlularla WhatsApp görüşmelerde aracın satış bedeli, ödeme tarihi ve hasar durumu konularında anlaşma sağlandığını, vekilin borçluların bildirdiği banka hesaplarına havaleleri yaptığını ancak aracın devrinin verilmediğini, borçlunun aracın borçlu Ltd. Şti. yetkilisi borçlu adına kayıtlı olduğunu, aracın bedeline ilişkin ödemelerin yerine getirildiğini, borçlu tarafından aracın devrine ilişkin işlemlerin yerine getirilmediğini belirterek borçluların borca yetersiz miktarda menkul, gayrimenkullerle 3. sayısalardaki hak ve alacaklarının ihtiyaten hacize karar verilmesini talep etmiştir.",
+        "reasoning_text": "Mahkeme, ihtiyati haciz talebinin banka dekontlarına dayandığını, söz konusu talep konusu alacağın muaccel olduğunu dair yaklaşık ispat seviyesinde dosya kapsamında delil sunulmadığını, alacağın varlığı yargılamayı gerektirdiği gibi alacağın muaccel olduğu ya da borçlunun mal kaçırdığı ya da mal varlığını gizlediğini ve bu yönde hileli işlemlerde bulunduğuna ilişkin dosya kapsamına sunulan bir delil bulunmadığını, İK. 257/1. maddesinde belirtilen ihtiyati haciz koşulları oluşmadığı gerekçesiyle talebin reddine karar vermiştir.",
+        "verdict_text": "HÜKM: Gerekçesi yukarıda açıklanmış olduğu üzere;\n1-İhtiyati haciz talep eden alacaklı vekilinin istinaf başvurusunun Hukuk Muhakemeleri Kanununun 353/1-b.1.maddesi gereğince ESASTAN REDDİNE,\n2-Harçlar Kanunu gereğince alınması gereken 427,60 TL istinaf karar ve ilam harçından, peşin alınan 269,85 TL harçın mahsubu ile bakiye 157,75 TL harçın istinaf eden ihtiyati haciz talep edeninden alınarak Hazineye irat kaydına,\n3-İstinaf eden tarafından yapılan istinaf posta giderlerinin üzerinde bırakılmasına,\n4-İstinaf incelemesi sırasında duruşma açılmadığından karşı taraf lehine vekalet ücretine hükmedilmesine yer olmadığına,\n5-HMK'nın 333.maddesi gereğince gider avansından kalanın karar kesinleştiğinde yatırana iaadesine,\n6-Kararın tebliği ilk derece mahkemesince yapılmasına, HMK'nin 362/1.f maddesi gereğince dosya üzerinden yapılan inceleme sonunda kesin olmak üzere 03/05/2024 tarihinde oybirliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hukuk Muhakemeleri Kanunu",
+            "İK. 257/1. madde",
+            "Hukuk Muhakemeleri Kanunu 353/1-b.1.maddesi",
+            "Harçlar Kanunu",
+            "HMK'nın 333.maddesi",
+            "HMK'nin 362/1.f maddesi",
+            "5070 sayılı Kanun m. 5",
+            "6098 sayılı TBK m. 15."
+        ]
+    },
+    "summary_for_human": "Mahkeme, alacaklı vekilinin ihtiyati haciz talebini reddetmiştir. Talep, borçlularla yapılan WhatsApp görüşmeleri ve banka dekontları üzerinden dayandırılmıştır. Ancak mahkeme, talebin yaklaşık ispat seviyesinde delil sunulmadığını, alacağın muaccel olduğu ya da borçlunun mal kaçırdığı gibi hileli işlemlerin kanıtlanmadığını ve İK. 257/1. maddesinde belirtilen ihtiyati haciz koşullarının oluşmadığını gerekçe olarak göstermiştir. Bu nedenle talep reddedilmiştir.",
+    "summary_for_model": "İhtiyati haciz talebi, borçlularla WhatsApp görüşmeleri ve banka dekontları üzerinden dayandırılmıştır. Mahkeme, talebin yaklaşık ispat seviyesinde delil sunulmadığını, alacağın muaccel olduğu ya da borçlunun mal kaçırdığı gibi hileli işlemlerin kanıtlanmadığını ve İK. 257/1. maddesinde belirtilen ihtiyati haciz koşullarının oluşmadığını gerekçe olarak göstermiştir. Talep, Hukuk Muhakemeleri Kanunu 353/1-b.1.maddesi ve diğer ilgili kanunlar çerçevesinde reddedilmiştir."
+}

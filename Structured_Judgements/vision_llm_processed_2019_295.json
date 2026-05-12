@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2019_295.pdf",
+        "court_name": "T.C. İstanbul Anadolu 12. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2019/295",
+        "karar_no": "2019/135",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "20/05/2016",
+        "karar_tarihi": "03/12/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davacı şirketin çocukların eğitimini desteklemek amacıyla büyük projelerin destekçisi olduğunu, sosyal medyada vekilinin adına kınama kampanyasına dönüştürüldüğünü ve vekilinin kişisel haklarına saldıran bir tweet paylaşımını iddia etti. Savunma, tazminat talebini kabul etmedi ve davanın reddini istedi.",
+        "reasoning_text": "Mahkeme, davacı vekilinin sosyal medyada yaptığı paylaşımın davacı şirketin kişisel haklarını ihlal ettiğini ve TTK'nun 55. maddesi kapsamında hak ihlali olarak değerlendirildiğini tespit etti. Manevi zarar ve fiziksel zarar nedeniyle tazminat talebinin kabulüne karar verildi.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davanın REDDİNE, 2-Karar harci 44,40-TL'den davacı taraflıca peşin olarak yatırılan 170,78 TL harcin mahsubu ile bakiye 126,38-TL harcin karar kesinleştiğinde ve talep halinde davacı tarafa iadesine, 3-Davacı tarafından yapılan yargılama giderlerinin üzerinde bırakılmasına, 4-Davalı tarafından yapılan yargılama gideri bulunmadığından bu hususta karar verilmesine yer olmadığına, 5-Davalı taraf kendisini vekil ile temsil ettiğinden karar tarihinde geçerli A.Ö.T.'deki esaslara göre belirlenen 2./25,00-TL vekalet ücretinin davacıdan alınarak davalığa verilmesine, 6-Davacı taraflıca dosyaya yatırılan ve sarf edilmeyen gider avansının karar kesinleştiğinde ilgili tarafa iadesine, Dair Davacı vekili ile Davalı asılın yüzlerine karşı, kararın tebliğinden itibaren 2 haftalık süre içinde İstanbul Bölge Adliye Mahkemesinde istinaf yolu açık olmak üzere verilen karar, açıkça okunup, usulen anlatıldıdı. 03/12/2019"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 55. maddesi",
+            "TTK 56. maddesi",
+            "TTK 58. maddesi",
+            "Türk Medeni Kanunu 4. maddesi",
+            "Anayasa 26. maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin sosyal medyada yaptığı paylaşımın davacı şirketin kişisel haklarını ihlal ettiğini tespit etti ve tazminat talebini kabul etti. Davacı vekilinin tweet paylaşımı, davacı şirketin çocukların eğitimini desteklemek amacıyla büyük projelerin destekçisi olduğu iddiasını ve vekilinin adına kınama kampanyasına dönüştürüldüğünü iddia etti.",
+    "summary_for_model": "Mahkeme, davacı vekilinin sosyal medyada yaptığı paylaşımın davacı şirketin kişisel haklarını ihlal ettiğini ve TTK'nun 55. maddesi kapsamında hak ihlali olarak değerlendirildiğini tespit etti. Manevi zarar ve fiziksel zarar nedeniyle tazminat talebinin kabulüne karar verildi. Davacı vekilinin tweet paylaşımı, davacı şirketin çocukların eğitimini desteklemek amacıyla büyük projelerin destekçisi olduğu iddiasını ve vekilinin adına kınama kampanyasına dönüştürüldüğünü iddia etti."
+}

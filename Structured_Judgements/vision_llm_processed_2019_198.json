@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2019_198.pdf",
+        "court_name": "T.C. İSTANBUL 2. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2024/104",
+        "karar_no": "2024/220",
+        "case_subject": "Marka hakkına tecavüzden kaynaklanan dava",
+        "dava_tarihi": "07/05/2024",
+        "karar_tarihi": "16/09/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, davalının markasını kullanan ürünlerin yüksek kalite ve popülerliğini vurguladı. Davalının markaya tecavüz ve haksız rekabet oluşturduğunu iddia etti. Davacı, dava konusu ürünlerin tasarım, dizayn ve diğer kamuoyuna sunuluş biçimlerini kullanmanın davalının markasına tecavüz ve haksız rekabet oluşturduğunu savundu.",
+        "reasoning_text": "Mahkeme, davacı vekili tarafından sunulan iddiaları ve kanıtları değerlendirdi. Davacı vekili tarafından yapılan iddiaların temelsiz olduğu ve dava konusu ürünlerin tasarım, dizayn ve diğer kamuoyuna sunuluş biçimlerinin davalının markasına tecavüz ve haksız rekabet oluşturmadığı tespit edildi. Davacı vekili tarafından yapılan iddiaların temelsiz olduğu için dava reddedildi.",
+        "verdict_text": "HÜKÜM: Açıklanan sebeplerle; 1-Tarafların sulh oldukları anlaşılmakla, konusuz kalan davada karar verilmesine yer olmadığına, 2-Yargılama giderlerinin davacı üzerinde bırakılmasına, 3-Harc peşin alındığından bu hususta karar verilmesine yer olmadığına, 4-Davalı tarafından yapılan bir yargılama gideri bulunmadığından ve kendisini vekil ile temsil etmediğinden yargılama gideri ve vekalet ücreti hususunda karar verilmesine yer olmadığına, 5-Davacı tarafından yatırılan gider avansından harçanmayan kısmın karar kesinleştikten sonra ve talep halinde davacıya iadesine, 6-Davalı tarafından yatırılan gider avansı bulunmadığından bu hususta karar verilmesine yer olmadığına, Daire tarafların yokluğunda (HMK 345/1 md. gereğince) gerekli kararın tebliğinden itibaren 2 haftalık kesin süre içerisinde İstanbul Bölge Adliye Mahkemesine istinaf yolu açık olmak üzere verilen karar, açıkça okunup usulen anlatıldı. 16/09/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı SMK md. 149",
+            "6102 sayılı TTK md. 56",
+            "HMK 345/1 md."
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekili tarafından yapılan iddiaların temelsiz olduğunu tespit ederek davayı reddetmiştir. Davacı vekili tarafından yapılan iddiaların temelsiz olduğu için dava reddedildi.",
+    "summary_for_model": "Mahkeme, davacı vekili tarafından yapılan iddiaların temelsiz olduğunu tespit ederek davayı reddetmiştir. Davacı vekili tarafından yapılan iddiaların temelsiz olduğu için dava reddedildi. Davacı vekili tarafından yapılan iddiaların temelsiz olduğu için dava reddedildi."
+}

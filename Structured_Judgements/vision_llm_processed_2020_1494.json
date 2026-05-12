@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2020_1494.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2020/1494 Esas",
+        "karar_no": "2023/899",
+        "case_subject": "Tazminat (Sözleşmeden Kaynaklanan)",
+        "dava_tarihi": "16/05/2019",
+        "karar_tarihi": "14/09/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, fotoğrafın sosyal medyada yayınlanması için izinsiz olarak kullanıldığını ve bu durumun davacının maddi ve manevi zararını oluşturduğunu iddia etmiştir. Davacı, fotoğrafın kendisinin izni olmadan yayınlandığını ve bu durumun kendisinin haklarını ihlal ettiğini savunmuştur.",
+        "reasoning_text": "Mahkeme, davacının iddiasını kabul etmemiş ve davanın reddini kararlaştırmıştır. Mahkeme, fotoğrafın yayınlanmasının davacının rızası olmadan yapıldığını ancak bu durumun davacının maddi ve manevi zararını oluşturmadığını değerlendirmiştir. Ayrıca, fotoğrafın ticari amaçla kullanıldığını ve bu durumun davacının haklarını ihlal etmediğini belirtmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklanmış üzere; 1- Davacı vekilinin istinaf istemenin KABULÜ ile; 2- İstanbul 1.Fıkri ve Sınai Haklar Hukuk Mahkemesi'nin 16/05/2019 tarih, 2017/350 E. 2019/231 K. Sayılı Kararının 6100 Sayılı HMK'nın 353/1-a-6. maddesi gereğince KALDIRILMASINA, 3-Dosyanın, yukarıda gösterilen biçimde inceleme ve değerlendirme yapılmak üzere mahkemesine GÖNDERİLMESİNE, 4- İstinaf yasa yoluna başvuran davacı tarafından peşin olarak yatırılan istinaf kararı ve ilam harcının talebi halinde kendisine iaadesine, 5-Dosya üzerinde inceleme yapılması sebebiyle vekalet ücreti tayinine yer olmadığına, 6-İstinaf yasa yoluna başvuran tarafından istinaf aşamasında yapılan giderlerin ilk derece mahkemesinde verilecek nihai kararda dikkate alınmasına, 6100 Sayılı HMK'nın 353/1-a-6. ve 362/1/g. maddeleri gereğince dosya üzerinde yapılan inceleme sonucunda ve KESİN olmak üzere, oy birliğiyle karar verildi. 14/09/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "5846 Sayılı FSEK Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, fotoğrafının izinsiz olarak sosyal medyada yayınlandığını iddia ederek maddi ve manevi zarar talep etmiştir. Mahkeme, davayı reddetmiştir çünkü fotoğrafın yayınlanmasının davacının rızası olmadan yapıldığını ancak bu durumun davacının haklarını ihlal etmediğini değerlendirmiştir.",
+    "summary_for_model": "Davacı, fotoğrafının izinsiz olarak sosyal medyada yayınlandığını iddia ederek maddi ve manevi zarar talep etmiştir. Mahkeme, fotoğrafın yayınlanmasının davacının rızası olmadan yapıldığını ancak bu durumun davacının haklarını ihlal etmediğini değerlendirmiş ve davayı reddetmiştir."
+}

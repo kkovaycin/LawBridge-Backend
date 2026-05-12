@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2021_581.pdf",
+        "court_name": "Antalya Bölge Adliye Mahkemesi",
+        "esas_no": "2021/581",
+        "karar_no": "2021/815",
+        "case_subject": "Tazminat (Ölüm Ve Cismani Zarar Sebepyle Açılan Tazminat)",
+        "dava_tarihi": "05/01/2018",
+        "karar_tarihi": "30/11/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının imam nikahlı eşinin trafik kazasında ölümüne yol açtığını iddia etmiştir. Davalı, davacının eşinin ölümünden sonra başka biriyle evlendiğini iddia etmiştir. Davacı, davalının eşinin ölümünden sonra evlenmediğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacının davalının eşinin ölümünden sonra başka biriyle evlendiğini iddia etmesinin yetersiz olduğunu ve davalının eşinin ölümünden sonra evlenmediğini iddia etmesinin de yetersiz olduğunu değerlendirmiştir. Mahkeme ayrıca, davalının eşinin ölümünden sonra evlenmediğini iddia etmesinin davacının hak ettiği tazminat miktarını azaltmadığını da belirtmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacı Müfris ... A.Ş aleyhine açılan davanın FERAGAT NEDENİYLE REDDİNE, 2-Davacı ... ve ... Sigorta A.Ş aleyhine açılan maddi tazminat davasının KISMEN KABULÜ İLE; 169.005,49 TL maddi tazminatin (taleple bağlı kalarak) 1.000,00 TL 'lik kısmına davalı ... için olay tarihinden (30/10/2017) davalı ... için dava tarihinden itibaren işleyen yasal faiz uygulanarak bakiye alacak kısmına her iki davalı yönünden işlah tarihi olan 23/02/2021 tarihinden itibaren yasal faiz uygulanarak davallardan müştereken ve mütessilien tahsiline, 3-Davacının fazlaya ilişkin talebinin reddine, 4-Alınması gerekli 11.544,77 TL harçtan 35,90 TL peşin, 718,14 TL işlah harci olmak üzere toplam 754,04 TL harçın mahsubu ile bakiye 10.790,73 TL harçın davallara ... ve ... Sigorta A.Ş 'den müştereken ve mütessilien tahsiline, 5-Davacı tarafından yatırılan 35,90 TL başvurma, 359,90 TL peşin ve 718,14 TL işlah harci olmak üzere toplam 789,94 TL'nin davallara ... ve ... Sigorta A.Ş 'den alınarak davaciya verilmesine, 6-Davacı tarafından yatırılan 500,00 TL bilirkişi ücreti, 300,00 TL Adli Tip fatura bedeli, 663,50 TL tebligat ve posta gideri olmak üzere toplam 1.463,50 TL yargılama giderinden 1.140,20 TL'sinin davallara ... ve ... Sigorta A.Ş 'den müştereken ve mütessilien alınarak davaciya verilmesine, 285,10 TL'sinin davacı üzerine bırakılmasına, 7-A.A.Ü.T.uyarınca hesaplanan 20.005,52 TL vekalet ücretinin davallara müştereken ... ve ... Sigorta A.Ş 'den mütessilien alınarak davaciya, 8-Müterafik kusur indirimi nedeniyle reddedilen dava miktarı üzerinden davallara lehine vekalet ücreti takdirine yer olmadığına, Dair, davacı vekili ile davalı ... 'ın yüzüne karşı, diğer tarafların yokluğunda kararın tebliği tarihinden itibaren 2 hafta içerisinde istinaf yasa yolu açık olmak üzere verilen karar açıkça okunup anlatıldı. 30/11/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TBK 166/2"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının eşinin trafik kazasında ölümüne yol açtığını iddia etmiştir. Mahkeme, davacının iddialarını yetersiz bulmuştur ve davayı kısmen kabul ederek maddi tazminat vermiştir.",
+    "summary_for_model": "Davacı, davalının eşinin trafik kazasında ölümüne yol açtığını iddia etmiştir. Mahkeme, davacının iddialarını yetersiz bulmuştur ve davayı kısmen kabul ederek maddi tazminat vermiştir. Davacı, davalının eşinin ölümünden sonra evlenmediğini iddia etmiştir."
+}

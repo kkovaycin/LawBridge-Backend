@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2022_680.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2022/680",
+        "karar_no": "2024/1854",
+        "case_subject": "Marka (Tecavüzün Tesbiti İstemli)",
+        "dava_tarihi": "13/01/2022",
+        "karar_tarihi": "07/11/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; davalının müstakil adına tescilli markaları kullanırken, internet siteleri, reklam ve tanıtımlarda markayı kullanması, davalının marka hakkına tecavüz etmesi iddia edildi. Davalı, ihbar edilmiş markaların kullanıldığını reddetmiştir.",
+        "reasoning_text": "Mahkeme, davalının markayı kullanmasının tecavüz oluşturduğunu tespit etti. Davalının markayı kullanmasının, markanın tanınmışlığına dayanarak haksız menfaat elde etmesi amaçlı olduğunu belirledi. Davalının ihbar edilmiş markaları kullanmasının, markanın tanınmışlığına dayanarak haksız menfaat elde etmesi amaçlı olduğunu tespit etti.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1- Usûl ve yasaya uygun İstanbul 2. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 13/01/2022 tarih ve 2020/270 E., 2022/18 K. sayılı kararına karşı davalı asıl tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/b-1. maddesi gereğince ESASTAN REDDÎNE, 2- 492 Sayılı Harçlar Kanunu gereğince alınması gereken 427,60 TL maktu istinaf karar ve ilam harcından peşin yatırılan 80,70 TL harcin mahsubu ile bakiye 346,90 TL harcin davalardan tahsiliye Hazineye gelir kaydedilmesine, 3- Davalı taraça istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına-4- İncelemenin duruşmasız olarak yapılması sebebiyle taraflar yararına vekalet ücreti tayinine yer olmadığına.5- Taraflarca yatırılan gider avansından harcamayan kısım karar kesinleştiğinde iaadesine, Dosya üzerinde yapılan inceleme sonucunda, 20/07/2017 tarih ve 7035 Sayılı Kanunun 31. maddesi gereğince değişik 6100 Sayılı HMK'nun 361/1. maddesi gereğince, kararın tebliği itibaren 2 hafta içerisinde Yargıtaya temyiz başvurusunda bulunma yolu açık olmak üzere, oy birliğiyle karar verildi. 07/11/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı HMK",
+            "353/b-1. maddesi",
+            "492 Sayılı Harçlar Kanunu",
+            "7035 Sayılı Kanun",
+            "31. maddesi",
+            "361/1. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markasını internet siteleri, reklam ve tanıtımlarda kullanmasının markaya tecavüz olduğunu iddia etti. Mahkeme, davalının markayı kullanmasının haksız menfaat elde etme amaçlı olduğunu tespit etti ve davayı kabul etti.",
+    "summary_for_model": "Davacı, davalının markasını kullanmasının markaya tecavüz oluşturduğunu iddia etti. Mahkeme, davalının markayı kullanmasının haksız menfaat elde etme amaçlı olduğunu tespit etti ve davayı kabul etti. Davalı, ihbar edilmiş markaların kullanıldığını reddetmiştir."
+}

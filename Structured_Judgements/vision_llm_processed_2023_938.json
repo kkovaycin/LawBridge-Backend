@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2023_938.pdf",
+        "court_name": "T.C. İSTANBUL BÖLGE ADLİYE MAHKEMESİ 16. HUKUK DAİRESİ",
+        "esas_no": "2023/938 Esas",
+        "karar_no": "2025/289 Karar",
+        "case_subject": "Markaya Tecavüz ve Haksız Rekabetin Tesbiti",
+        "dava_tarihi": "04/11/2021",
+        "karar_tarihi": "26/02/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, müvekkili şirketin 06/10/2010 tarihinde kurulduğunu, kurulduğu tarihten itibaren başvurusu yaptığını ve bu markaların geniş kitlelere ulaşan reklam ve tanıtım programları hazırladığını iddia etmiştir. Davalı vekili ise, davacının markalarını kullanmadığını ve renk markası olarak tescil edilmediğini savunmuştur.",
+        "reasoning_text": "Mahkeme, davacının markalarına yaklaşma iradesi gösterdiğini ve ticari sunumun benzersizliğini kanıtladığını değerlendirmiştir. Davalı vekili ise, renk markasının tescil edilmediğini ve ticari sunumun benzersizliğini reddetmiştir.",
+        "verdict_text": "Asıl ve birleşen davada davalı vekilinin istinaf taleplerinin reddine karar verilmiştir. Davacı avansından kullanılan anlaşlan; davacı tarafından yapılan masrafların üzerinde bırakılmasına, artan gider avanslarının karar kesinleştiğinde ve talep halinde ilk derece mahkemesince yatıran tarafa iaadesine, dair, dosya üzerinde yapılan inceleme sonucunda iş bu kararın tebliğiğinden itibaren 2 hafta içinde Yargıtay temiz yolu açık olmak üzere 26/02/2025 tarihinde oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK) 353. ve 356. maddeleri",
+            "Türk Patent Kanunu (TPK)",
+            "Tüketicinin Korunması Kanunu (TTK) 55/1-a-4 maddesi",
+            "Tüketicinin Korunması Kanunu (TTK) 55/1a-4 maddesi",
+            "Hukuk Muhakemeleri Kanunu (HMK) 353/1-b-1 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkili şirketin markalarını kullanmadığını iddia ediyor. Mahkeme, davacının markalarına yaklaşma iradesi gösterdiğini ve ticari sunumun benzersizliğini kanıtladığını değerlendirmiştir. Davalı vekili ise, renk markasının tescil edilmediğini ve ticari sunumun benzersizliğini reddetmiştir.",
+    "summary_for_model": "Davacı vekili, müvekkili şirketin markalarını kullanmadığını iddia ediyor. Mahkeme, davacının markalarına yaklaşma iradesi gösterdiğini ve ticari sunumun benzersizliğini kanıtladığını değerlendirmiştir. Davalı vekili ise, renk markasının tescil edilmediğini ve ticari sunumun benzersizliğini reddetmiştir. HMK ve TPK maddeleri esas alınmıştır."
+}

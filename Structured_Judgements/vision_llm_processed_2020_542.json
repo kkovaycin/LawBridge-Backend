@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2020_542.pdf",
+        "court_name": "T.C. İSTANBUL 14. ASLİYE TİCARET MAHKEMESİ",
+        "esas_no": "2020/542",
+        "karar_no": "2022/4",
+        "case_subject": "İtirazin İptali",
+        "dava_tarihi": "21/09/2020",
+        "karar_tarihi": "06/01/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; müvekkili ile davalı şirket arasında 2017 yılında ... adlı tablonun müzayedede satılması amacıyla güvene dayalı olarak sözlü anlaşma yapıldığını, davalı şirketin söz konusu tabloyu 14 Ocak 2018 tarihinde müzayedede 600.000.000 TL'ye satmış ancak müvekkili şirkete ödeme yapmadığını, davalı şirketin tabloyu sattığına dair gazete haberi olduğunu, ... Aslıye Ticaret Mahkemesinin ... Esas sayılı dosyası ile birleştirilmesini, müvekkili şirket tarafından başlatılan ilamsız icra takibine borçlu tarafından itiraz edildiğini, davalya ait whatsapp ve e-posta yazışmalarında borçlu olduğunu belirterek, dava dilekçesinde belirtilen nedenlerle davanın kabulünü talep ve dava etmiştir. Davalı şirkete usulüne uygun dava dilekçesinin tebliğe çıkarıldığı, davaya cevap verilmediği görüldü. Dava, İtirazin İptali istemine ilişkindir.",
+        "reasoning_text": "Mahkemenin ... Esas sayılı dosyasının, Mahkememin ... Esas sayılı dosyası ile birleştirildiği, Mahkememin ... Esas sayılı dosyasının 08/10/2020 tarihli 3 numaralı celsesi 5 numaralı ara kararı gereğince birleşen dosyanın tefrikine karar verilerek, Mahkememin 2020/542 Esasına kaydedildiği anlaşılmıştır. Davacı tarafın dayanak olarak ileri sürmüş olduğu yazışmalar incelendiğinde yazışmaların davalı şirket ile davacı tarafından değil annesi tarafından yapılmış olduğu, sözleşmenin davacının annesi ile davalı arasında kurulduğu, davacı vekilinin 7. Celsedeki beyanında mülkiyet hakkına dayanarak bu davayı açtıkları beyan ettiği anlaşılmıştır. Tüm bunlara göre sözleşmenin tarafı olmayan davacının aktif husumet ehliyeti bulunmadığı anlaşılmış ve bu nedenle davanın reddine karar verilmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda gerekçesi ve ayrıntısı açıklanan nedenlerle; 1-Davanın aktif husumet nedeniyle reddine, 2-Alınması gereken maktu 80,70-TL harcin, peşin alınan 17.567,19-TL harçtan mahsubu ile artı kalan bakiye 17.486,49-TL harcin karar kesinleştiğinde ve talep halinde davacıya iadesine, 3-Davacı tarafından yapılan yargılama giderlerinin üzerinde bırakılmasına, 4-Tarafların zorunlu arabuluculuk sürecinde anlaşamaları nedeniyle 6325 sayılı Kanunun 18/A-13 maddesi uyarınca zorunlu arabuluculuk gideri olan 1.320,00-TL'nin davacıdan tahsil edilerek hazineye gelir kaydına, 5-Davalı kendisini vekil ile temsil ettiğinden A.A.Ü.T. gereğince 5.100,00-TL vekalet ücretinin davacıdan alınarak davalya verilmesine, 6-Taraflarca yatırılan ve kullanılmayan gider avansının karar kesinleştiğinde resen taraflara iadesine, Dair, gerekli kararın tebliğinden itibaren iki haftalık yasal süresi içerisinde Bölge Adliye Mahkemesi nezdiinde istinaf kanun yolu kabul olmak üzere verilen karar alenen okunup usulen anlatıldı.06/01/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6325 sayılı Kanun",
+            "5070 sayılı Yasası"
+        ]
+    },
+    "summary_for_human": "Bu davada, davacı vekili, davalı şirketle 2017'de bir anlaşma yapıldığını iddia ediyor. Anlaşma uyarınca davalı şirket, 2018'de bir tabloyu sattı ancak ödemeyi yapmadı. Davacı, bu durumu mahkemeye taşıdı. Mahkeme, davacının aktif husumet ehliyetine sahip olmadığını ve anlaşmanın davacının annesiyle yapıldığını belirledi. Bu nedenle davayı reddetti. Ayrıca, davacıya karşı harç ve vekalet ücreti gibi mali talepler de kararlaştırıldı.",
+    "summary_for_model": "Dava, davacı vekili tarafından davalı şirkete karşı açıldı. Davacı, 2017'de yapılan anlaşma ve 2018'de satılan tabloya ilişkin ödemenin yapılmadığını iddia etti. Mahkeme, davacının aktif husumet ehliyetine sahip olmadığını ve anlaşmanın davacının annesiyle yapıldığını tespit etti. Bu nedenle davayı reddetti. 6325 sayılı Kanun ve 5070 sayılı Yasaya dayanarak harç ve vekalet ücreti talepleri de kararlaştırıldı."
+}

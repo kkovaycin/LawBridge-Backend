@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2021_624.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2021/624 Esas",
+        "karar_no": "2024/917",
+        "case_subject": "Ticari Nitelikteki Hizmet Sözleşmesinden Kaynaklanan İtirazın İptali",
+        "dava_tarihi": "17/11/2020",
+        "karar_tarihi": "12/09/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde; müvekkili şirket tarafından 23-26 Ekim 2018 tarihleri arasında Hannover/Almanya'da gerçekleştirilen fuar organizasyonuna katılması için davalı ile katılım sözleşmesi imzalandığını, sözleşme bedeli olan 35.640,00 Euro'nun ilk iki taksidinin 30/01/2018 ve 30/04/2018 tarihlerinde her bir taksit 8.910,00 Euro olacak şekilde ödeneceğini, ilk taksitin ödenmemesi üzerine çekilen ihbarnameye cevap verilmediği gibi ödeme de yapılmadığını, bunun üzerine ödeme süresi geçen 2. taksit ile 1. taksitin tahsili için İstanbul ... İcra Müdürlüğü'nün ... Esas sayılı dosyası ile başlatılan takibin davalının itirazi üzerine durduğunu, davalının bir fesih bildiriminde bulunmadığı gibi sözleşme uyarınca fesih halinde dahi sözleşme bedelinin bir kısmının ödenmesi gerektiğini belirterek icra takibine karşı yapılan itirazin iptali ile takibin devamına, %20'dan az olmamak üzere icra inkar tazminatina karar verilmesini talep ve dava etmiştir.",
+        "reasoning_text": "Davacı vekili cevabın dilekçesinde; sözleşme aslının müvekkiline verilmediğini, dosyaya sunulan örneğinde ise davacıya ait bir kase ve davacının yetkilisinin imzasının bulunmadığını, dolayısıyla ortada müvekkili açısından geçerli bir sözleşme olmadığını, üstelik davacının, bahsi geçen fuar katılımlarını sağlamak üzere yetkili bir şirket olmadığını, ayrıca davacının, müvekkiline fuara katılımını sağlamak üzere başvuruda bulunduğuna ilişkin bir belge de sunmadığını, davacının, müvekkiline hiçbir hizmet sunulmadığı gibi alacaklarına ilişkin bir faturada düzenlenleyip müvekkiline tebliği edilmediğini belirterek davanın reddine, %20 kütünyet tazminatina hükmedilmesine karar verilmesini savunmuştur.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-İstanbul 13. Aslıye Ticaret Mahkemesinin 2018/1102 Esas, 2020/554 Karar sayılı ve 17/11/2020 tarihli kararı usul ve esas yönünden hukuka uygun bulunduğundan, 6100 sayılı Hukuk Muhakemeleri Kanununun 353/1b-1 bendi gereğince taraf vekillerinin istinaf başvurusunun ayrı ayrı esastan REDDİNE,2-Hüküm tarihinde yürürlükte bulunan 492 sayılı Harçlar Kanununa bağlı tarife gereğince alınması gereken 427,60 TL harcin davacı tarafından peşin olarak yatırılan 529,00 TL harçtan mahsubu ile bakiye 101,40 TL harcin talep halinde davacıya İADESİNE, 3-Hüküm tarihinde yürürlükte bulunan 492 sayılı Harçlar Kanununa bağlı tarife gereğince alınması gereken 427,60 TL harcin davalı tarafından peşin olarak yatırılan 816,28 TL harçtan mahsubu ile bakiye 388,68 TL harcin talep halinde davalya İADESİNE, 4-Taraflarca yapılan istinaf yargılama giderlerinin kendi üzerlerinde BIRAKILMASININA, Dosya üzerinde yapılan inceleme sonucunda, 6100 sayılı Hukuk Muhakemeleri Kanununun 353/1b-1 bendi ile aynı kanunun 362/1a maddesi gereğince kesin olarak oybirliği ile karar verildi. 12.09.2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hukuk Muhakemeleri Kanunu",
+            "492 sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Bu dava, ticari bir hizmet sözleşmesiyle ilgili bir anlaşmazlık üzerine kurulmuştur. Davacı, fuar katılımı için imzalanan sözleşmenin ödemelerinin yapılmadığını iddia ediyor ve bu durumdan dolayı davalının itirazını iptal etmesini talep ediyor. Mahkeme, ilk derece kararının usul ve esas yönünden doğru olduğunu kabul ederek davacı vekillerinin istinaf başvurusunu reddetmiştir. Davacıya ve davalya harç talepleri de kararlaştırılmıştır.",
+    "summary_for_model": "Dava, fuar katılımı için imzalanan ticari hizmet sözleşmesinin ödemelerinin yapılmaması ve itirazın iptali talebi üzerine kurulmuştur. İlk derece mahkemesi, davacı vekillerinin istinaf başvurusunu reddetmiştir. Mahkeme, 6100 sayılı Hukuk Muhakemeleri Kanunu ve 492 sayılı Harçlar Kanunu'na dayanarak harç taleplerini kararlaştırmıştır. Davacı vekili, sözleşmenin aslının müvekkiline verilmediğini ve yetkili bir şirket olmadığından dolayı reddetmiştir."
+}

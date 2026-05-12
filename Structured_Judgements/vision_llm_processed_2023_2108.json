@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2023_2108.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ BAM 20. HUKUK DAİRESİ",
+        "esas_no": "2023/2108",
+        "karar_no": "2023/1643",
+        "case_subject": "Marka hukuku ve ticari itiraz davası",
+        "dava_tarihi": "21/12/2021",
+        "karar_tarihi": "04/01/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekilinin markaların sahibi olduğunu iddia etti. Davalının markasına yapılan itirazların reddedildiğini, ancak vekilin itirazının mesnet markalarla dava konusu markanın benzer olduğu için kabul edildiğini iddia etti. Davalı, markaların benzer olmadığını ve vekilin kurum kararının usul ve yasaya uygun olduğunu savundu.",
+        "reasoning_text": "Mahkeme, dava konusu markanın vekilin markalarıyla benzer olduğu ve vekilin markalarının tanınmış olduğu için dava konusu markanın vekilin markasının tanınmışlığından haksız yarar sağlayacağı gerekçesiyle dava konusu markanın tescil halinde hukuksuz olduğunu tespit etti. Davacının itirazının mesnet olmadığı ve vekilin itirazının kabul edildiği için ilk derece mahkemesinin kararının kaldırılarak dava konusu markanın tescil edilmesini istemek için itiraz edildi.",
+        "verdict_text": "Gerekçesi yukarıda belirtildiği üzere;\n1-Davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ESASTAN REDDİNE,\n2-Harçlar Kanunu uyarınca alınması gereken maktu istinaf karar ve ilam harcı davacı vekili tarafından istinaf başvurusunda peyin olarak yatırıldığından yeniden harç alınmasına yer olmadığına,\n3-Istinaf aşamasında davacı tarafından yapılan yargılama giderlerinin davacı uhdesinde bırakılmasına,\n4-Istinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına,\nDair, dosya üzerinde yapılan inceleme sonucunda oy birliği ile 15/12/2023 tarihinde HMK 361. maddesi uyarınca kararın tebliğinden itibaren iki hafta içerisinde Yargıtay temyiz yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353/1-b.1",
+            "Harçlar Kanunu",
+            "HMK 361"
+        ]
+    },
+    "summary_for_human": "Davacı, vekilinin markalarının dava konusu markaya benzer olduğunu iddia etti. Mahkeme, vekilin markalarının tanınmış olduğu için dava konusu markanın tescil halinde hukuksuz olduğunu tespit etti ve davayı reddetti.",
+    "summary_for_model": "Davacı, vekilinin markalarının dava konusu markaya benzer olduğunu iddia etti. Mahkeme, vekilin markalarının tanınmış olduğu için dava konusu markanın tescil halinde hukuksuz olduğunu tespit etti ve davayı reddetti. İstinaf başvurusu HMK 353/1-b.1 maddesi uyarınca reddedildi."
+}

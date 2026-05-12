@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2023_52.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2021/806 E. - 2022/850 K.",
+        "karar_no": "2025/699",
+        "case_subject": "İcra ve haciz davası",
+        "dava_tarihi": "08/11/2022",
+        "karar_tarihi": "30/04/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davayı borçluluk iddiası ve haciz talepleriyle açmıştır. Davacı, İstanbul İcra Müdürlüğü tarafından haciz işlemi başlatıldığını ancak borçluluk iddiasının eksik olduğunu iddia etmiştir. Davacı vekili, haciz işleminin iptali ve haciz tutarının iadesi talep etmiştir. Davalı vekili ise, davacı vekilinin borçluluk iddiasının haklı olmadığını ve haciz işleminin yasal olarak gerçekleştirildiğini savunmuştur.",
+        "reasoning_text": "Mahkeme, davacı vekilinin iddialarını ve savunmalarını değerlendirerek, haciz işleminin yasal olarak gerçekleştirildiğini ve davacı vekilinin borçluluk iddiasının haklı olmadığını tespit etmiştir. Mahkeme ayrıca, davacı vekilinin istinaf başvurusunun reddedildiğini ve davanın kabul edilmediğini karar vermiştir.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere; 1-Üsül ve yasaya uygun İstanbul 15. Aslıye Ticaret Mahkemesi'nin 08/11/2022 tarih ve 2021/806 E. 2022/850 K. sayılı kararına karşı davalı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gereken 1.099,66-TL nispi istinaf karar ve ilam harçından peşin yatırılan 274,92-TL harçın mahsubu ile bakiye 824,74-TL harçın davalıdan tahsilyle Hazineye gelir kaydedilmesine, 3-Davalı tarafça istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına,4-İncelemenin duruşmasız olarak yapılması sebebiyle taraflarca vekalet ücreti tayinine yer olmadığına,5-Taraflarca yatırılan gider avansından harçnamayan kısmın karar kesinleştiğinde iadesine,6-Karar tebliği, harç tahsil müzekkeresi düzenlenmesine, harç ve avans iadesi taleplerinin ilk derece Mahkemesine yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/1-a maddesi gereğince, miktar itibarıyla kesin olmak üzere oy birliğiyle karar verildi. 30/04/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TBK 604",
+            "TBK 102",
+            "HMK 353/1-b/1",
+            "HMK 362/1-a",
+            "2-492 Sayılı Harçlar Kanunu",
+            "6100 Sayılı HMK"
+        ]
+    },
+    "summary_for_human": "Bu dava, İstanbul'da bir haciz ve borçluluk iddiası ile açılmıştır. Davacı vekili, haciz işleminin iptali ve haciz tutarının iadesi talep etmiştir. Mahkeme, davacı vekilinin iddialarını değerlendirerek haciz işleminin yasal olarak gerçekleştirildiğini ve davacı vekilinin borçluluk iddiasının haklı olmadığını tespit etmiştir. Davacı vekilinin istinaf başvurusu reddedilmiş ve dava kabul edilmemiştir. Karar, davacı vekilinin borçluluk iddiasının haklı olmadığını ve haciz işleminin yasal olarak gerçekleştirildiğini doğrulamaktadır.",
+    "summary_for_model": "Dava, İstanbul'da haciz ve borçluluk iddiası ile açılmıştır. Davacı vekili, haciz işleminin iptali ve haciz tutarının iadesi talep etmiştir. Mahkeme, davacı vekilinin iddialarını değerlendirerek haciz işleminin yasal olarak gerçekleştirildiğini ve davacı vekilinin borçluluk iddiasının haklı olmadığını tespit etmiştir. Davacı vekilinin istinaf başvurusu reddedilmiş ve dava kabul edilmemiştir. TBK 604, TBK 102, HMK 353/1-b/1, HMK 362/1-a, 2-492 Sayılı Harçlar Kanunu ve 6100 Sayılı HMK gibi kanunlar, davanın hukuki dayanakları olarak kullanılmıştır."
+}

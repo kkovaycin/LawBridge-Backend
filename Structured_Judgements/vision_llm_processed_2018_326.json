@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2018_326.pdf",
+        "court_name": "İstanbul 2. Fıkri ve Sanat Hakları Hukuk Mahkemesi",
+        "esas_no": "2018/326",
+        "karar_no": "2021/137",
+        "case_subject": "Tazminat (Fıkri Ve Sanat Eserleri Sahiplerinden Kaynaklanan)",
+        "dava_tarihi": "02/07/2018",
+        "karar_tarihi": "18/03/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, müvekkilleri halka mal olan uzun yıllardır söz ve beste oluşturan halk sanatçıları olduklarını iddia etmiştir. Davacı, davalının izinsiz olarak eserlerini kullandığını, platformda yayınladığını ve maddi kazanç elde ettiğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacıların maddi ve manevi zarar olmadığını, müvekkillerinin de söz konusu videoyla maddi kazanç elde etmediğini tespit etmiştir. Bu nedenle maddi ve manevi tazminat taleplerinin reddine karar verilmiştir.",
+        "verdict_text": "Yukarıda gerekçesi açıklanmış olan, 1-Tarafların 17/03/2021 tarihli sulh sözleşmesi kapsamında sulh oldukları anlaşılmakla; esas hakkında hüküm kurulmasına yer olmadığına, 2-Karar tarihinde yürütlükte bulunan Harçlar Tarife uyarına göre hesap olan 59,30 TL karar harcından peşin yatırılan 35,90 TL'nin mahsubu ile bakiye 23,40 TL harcin davacidan tahsili ile hazineye irat kaydna, 3-Taraflar karşılıklı olarak yargılama gideri ve vekalet ücreti talebinde bulunmadıklarından bu konuda hüküm kurulmasına yer olmadığına, 4-Yatırılan gider avanslarından kullanılmayan kısmının talep halinde ve karar kesinleştiğinde yatıran tarafa iadesine, Dair taraf vekillerinin yüzüne karşı, (HMK 345/1 md. gereğince) gerekli kararın tebliginden itibaren 2 hafta içerisinde Mahkememize veya başka bir yer mahkemesine dilekçe ile başvurmak ve istinaf harci ile gerekli giderlerin tamamı ödenmek suretiyle, İstanbul Bölge Adliye Mahkemesine istinaf yolu açık olmak üzere verilen karar, açıkça okunup usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Sulh 6100 sayılı HMK'nin 313 vd maddeleri",
+            "HMK 345/1 md.",
+            "5070 sayılı Elektronik İmza Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının izinsiz olarak eserlerini kullandığını ve maddi kazanç elde ettiğini iddia etti. Mahkeme, davacıların maddi ve manevi zarar olmadığını tespit ederek tazminat taleplerini reddetti.",
+    "summary_for_model": "Davacı, davalının izinsiz eser kullanımı ve maddi kazanç iddiasıyla dava açtı. Mahkeme, davacıların maddi/manevi zarar olmadığını ve davalının maddi kazanç elde etmediğini tespit ederek tazminat taleplerini reddetti."
+}

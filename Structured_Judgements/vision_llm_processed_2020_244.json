@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2020_244.pdf",
+        "court_name": "T.C. ANKARA 5. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2020/244",
+        "karar_no": "2021/305",
+        "case_subject": "Marka (Marka ile İlgili Kurum Kararlarının İptali - Markanın Hükümsuzluğu)",
+        "dava_tarihi": "17/09/2020",
+        "karar_tarihi": "16/07/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davayı 17/09/2020'de açtı. Davacı, davayı Türk Patent ve Marka Kurumu'na karşı açtı. Davacı, davayı 2018/94992 sayılı markanın iptali ve davalı markanın hükümsuzluğu için açtı. Davacı, davayı 2020-M-6068 sayılı YİDK kararının iptali ve davalı şahsın sayılı markasının tescili halinde hükümsuzluğu ve sicilden terkini talep etti.",
+        "reasoning_text": "Davacı, davayı 2018/94992 sayılı markanın iptali ve davalı markanın hükümsuzluğu için açtı. Davacı, davayı 2020-M-6068 sayılı YİDK kararının iptali ve davalı şahsın sayılı markasının tescili halinde hükümsuzluğu ve sicilden terkini talep etti. Davacı, davayı 2018/94992 sayılı markanın iptali ve davalı markanın hükümsuzluğu için açtı.",
+        "verdict_text": "DAVAYI REDDİNE, 2-Harçlar Kanunu uyarınca alınması gereken 59,30 TL maktu karar ve ilam harçından peşin alınan 54,40 TL'nin düşümü ile bakıve kalan 4,90 TL'nin davacidan tahsil edilmesi ve gelir kayduna, 3-Davalar kendilerini vekil ile temsil ettirdiklerinden karar verildiği tarihte yürürlükte bulunan AAÜT m.3 hükmü gereği hesaplanan 5.900,00 TL vekalet ücretinin davacidan alınarak davalılara verilmesine, 4-Davacı tarafından yapılan 54,40 TL başvurma harcı, 54,40 TL peşin harç, 7,80 TL vekalet harcı, 304,00 TL posta, tebligat, 2.100,00 TL bilirkişi ücreti olmak üzere toplam 2.520,60 TL yargılama giderinin kendi üzerinde bırakılmasına, 5-Davalı ... tarafından yapılan 7,80 TL vekalet harç sarfiyatina ilişkin yargılama giderinin davacidan alınarak davalı ...'e verilmesine, 6-HMK m.333 hükmü gereği karar kesinleştiğinde artan avansın yatıran tarafa re'sen iadesine, Dair: Davacı vekilinin, Davalı Kurum vekilinin yüzüne karşı, davalı ... vekilinin yokluğunda, HMK m.341 ve m.345 hükümleri gereği kararın taraflara tebliginden itibaren iki hafta içerisinde Ankara Bölge Adliye Mahkemesi ilgili hukuk dairesi nezdiinde İSTİNAF yasa yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı Sınai Mülkiyet Kanunu (SMK)",
+            "35. ve 41. sınıflar",
+            "6/1, 6/3 ve 6/5 maddeleri",
+            "2018/94992 sayılı marka",
+            "2020-M-6068 sayılı YİDK kararı",
+            "Harçlar Kanunu",
+            "AAÜT m.3 hükmü",
+            "HMK m.333, m.341 ve m.345 hükümleri"
+        ]
+    },
+    "summary_for_human": "Davacı, davayı 2018/94992 sayılı markanın iptali ve davalı markanın hükümsuzluğu için açtı. Davacı, davayı 2020-M-6068 sayılı YİDK kararının iptali ve davalı şahsın sayılı markasının tescili halinde hükümsuzluğu ve sicilden terkini talep etti. Mahkeme, davayı reddetti.",
+    "summary_for_model": "Davacı, davayı 2018/94992 sayılı markanın iptali ve davalı markanın hükümsuzluğu için açtı. Davacı, davayı 2020-M-6068 sayılı YİDK kararının iptali ve davalı şahsın sayılı markasının tescili halinde hükümsuzluğu ve sicilden terkini talep etti. Mahkeme, davayı reddetti. Davacı, davayı 2018/94992 sayılı markanın iptali ve davalı markanın hükümsuzluğu için açtı."
+}

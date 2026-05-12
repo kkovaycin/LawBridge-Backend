@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2022_1113.pdf",
+        "court_name": "İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/164",
+        "karar_no": "2022/1224",
+        "case_subject": "Marka (Tecavüzün Tesbiti İstemi)",
+        "dava_tarihi": "26/04/2022",
+        "karar_tarihi": "15/09/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekili aracılığıyla, 1980'li yıllarda İstanbul Ticaret Sicil Müdürlüğü'nde kurulan müvekkilin markasının, 34 anaokulu, 21 ilköğretim okulu, 21 ortaokul ve 18 lise ile faaliyet gösterdiğini iddia etmiştir. Müvekkilin markası, eğitim hizmetleri ve ticaret unvanı ile kullanıldığı için davacı, müvekkilin markasını kullanmanın davacının markasına tecavüz ve haksız rekabet oluşturduğunu iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacının iddialarını değerlendirerek müvekkilin markasının davacının markasına benzer şekilde kullanıldığını ve bu kullanımların davacının markasına tecavüz ve haksız rekabet oluşturduğunu tespit etmiştir. Ayrıca, müvekkilin sosyal medya ve internetteki kullanımlarının davacının markasına zarar verdiğini ve bu durumun davacının haklarını ihlal ettiğini karar vermiştir.",
+        "verdict_text": "HUKUM: Gerekçesi yukarıda açıklandığı üzere; 1- Üstül ve yasaya uygun İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 26.04.2022 tarih ve 2021/164 Esas sayılı kararına karşı davacı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nun 353/1-b.1. maddesi gereğince ES ASTAN REDDİNE, 2- 492 Sayılı Harçlar Kanunu gereğince alınması gereken 80,70-TL istinaf karar harcı davacı tarafından peşin yatırıldığından yeniden harç alınmasına yer olmadığına, 3- Davacı taraflıca istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, 4- İncelemenin durusmaz olarak yapılması sebebiyle taraflar yararına vekalet ücreti tayinine yer olmadığına, 5- Taraflarca yatırılan gider avansından harçnamayan kısmın karar kesinleştiğinde iadesine, 6- Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin ilk derece mahkemesince yerine getirilmesine, 6100 Sayılı HMK'nun 353/1-b.1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nun 362(1).f ve 394(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi. 15/09/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkilin markasının kendi markasına benzer şekilde kullanıldığını iddia ederek tecavüz ve haksız rekabet iddiası ile dava açmıştır. Mahkeme, müvekkilin markasının davacının markasına benzer şekilde kullanıldığını ve bu kullanımların davacının haklarını ihlal ettiğini tespit ederek davacıya hak verdi.",
+    "summary_for_model": "Davacı, müvekkilin markasının kendi markasına benzer şekilde kullanıldığını iddia ederek tecavüz ve haksız rekabet iddiası ile dava açmıştır. Mahkeme, müvekkilin markasının davacının markasına benzer şekilde kullanıldığını ve bu kullanımların davacının haklarını ihlal ettiğini tespit ederek davacıya hak verdi."
+}

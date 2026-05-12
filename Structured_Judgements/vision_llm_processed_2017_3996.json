@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2017_3996.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2017/3996 Esas",
+        "karar_no": "2020/398 Karar",
+        "case_subject": "Marka (Marka ile İlgili Kurum Kararlarının İptali)",
+        "dava_tarihi": "11/05/2016",
+        "karar_tarihi": "20/02/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, MESAM üyesi olarak sosyal medyada yaptığı açıklamaların eleştiri hudutlarını aştığını iddia etti. MESAM Üye Disiplin Yönergeleri uyarınca davacıya 4 yıllık üyelikten çıkarma cezası verildi. Davacı, bu cezanın iptalini talep etti.",
+        "reasoning_text": "Mahkeme, MESAM'ın sosyal medya açıklamalarının eleştiri hudutlarını aştığını tespit etti. Davacının açıklamalarının MESAM üyelerine yönelik hakaret olarak değerlendirildiği ve MESAM'ın kurumsal itibarını zedelediğine karar verildi.",
+        "verdict_text": "Davacının MESAM Üye Disiplin Yönergeleri 7. maddesi uyarınca hak mahrumiyeti cezasına karşı itirazı reddedildi. Davacının MESAM Üye Disiplin Yönergeleri 7/b maddesi uyarınca hak mahrumiyeti cezasına karşı itirazı reddedildi. Davacının MESAM Üye Disiplin Yönergeleri 7. maddesi uyarınca hak mahrumiyeti cezasına karşı itirazı reddedildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemesi Kanunu (HMK) 353, 356, 340 maddeleri",
+            "Anayasa 26/1 fıkrası",
+            "MESAM Üye Disiplin Yönergeleri 5, 6, 7 maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, MESAM üyesi olarak yaptığı sosyal medya açıklamalarının eleştiri hudutlarını aştığını iddia etti. Mahkeme, bu açıklamaların MESAM'ın kurumsal itibarını zedelediğini tespit etti ve davacının itirazını reddederek MESAM Üye Disiplin Yönergeleri uyarınca hak mahrumiyeti cezasına karşı itirazı reddedildi.",
+    "summary_for_model": "Davacı, MESAM üyesi olarak sosyal medyada yaptığı açıklamaların eleştiri hudutlarını aştığını iddia etti. Mahkeme, bu açıklamaların MESAM'ın kurumsal itibarını zedelediğini tespit etti ve davacının itirazını reddederek MESAM Üye Disiplin Yönergeleri uyarınca hak mahrumiyeti cezasına karşı itirazı reddedildi."
+}

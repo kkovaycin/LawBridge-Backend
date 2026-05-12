@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2024_1576.pdf",
+        "court_name": "T.C. KONYABAM 6. HUKUK DAİRESİ",
+        "esas_no": "... Esas ...",
+        "karar_no": "... Karar",
+        "case_subject": "Menfi Tespit (Kiyemetli Evraktan Kaynaklanan)",
+        "dava_tarihi": "11/06/2024",
+        "karar_tarihi": "27/05/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının müvekkiline haklı olarak icra takibi yaptığını, müvekkilin davalının borçlu olmadığını, icra dosyasında kredi kartı ödeme slipinin müvekkil ile ilgili olmadığını, müvekkil ile davalı arasında ticari sözleşme bulunmadığını iddia etmiştir. Davalı ise davacının müvekkiline yönelttiği iddiaların tamamen kötü niyetli olduğunu, davacının şirketiyle mal ve hizmet alımı konusunda anlaşma sağlandığını, 08.11.2022 tarihli, 104.993,80 TL bedelli fatura davacı tarafından kesildiğini, bu süreçte müvekkilin davacının gösterdiği tedarikçilere kredi kartı ile ödeme yaptığını, ancak davacı taraf mal ve hizmet borcunu ifa etmediğini savunmuştur.",
+        "reasoning_text": "Mahkeme, davalının borçlu olduğunu iddia eden davacının taleplerini değerlendirmiştir. Davacı tarafından sunulan WhatsApp mesajlarının borç kabulü olarak değerlendirilmediğini, bu mesajların belge niteliği taşamadığını, bilirkişi raporunun eksik ve hatalı tanım edildiğini, bilirkişi tarafından yapılan tespitlerin hukuka ve hakkaniyete aykırı olduğunu, bilirkişi raporuna itirazlar hiç bir şekilde değerlendirilmeye alınmadığını, yeni bir bilirkişiden rapor alınması veya ek rapor alınması gerektiğini, alınmamasının hatalı olduğunu, ilk derece mahkemesi kararının kaldırılması talebini kabul etmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davalının istinaf başvuru talebinin KABULÜ ile; Konya... Asliye Ticaret Mahkemesi'nin 11/06/2024 tarih, ... Esas - ... Karar sayılı KARARININ KALDIRILMASI NA, 2-Hukuk Muhakemeleri Kanunu'nun 353/1-a maddesi gereğince dosyanın ilk derece mahkemesine GÖNDERİLMESİNE, 3-İstinaf başvurusunda bulunan davalı tarafından yatırılan toplam 648,95 TL istinaf karar harcinin talep halinde davalya iadesine, 4-İstinaf incelemesi duruşmalı yapılmadığından ücret-i vekalet ile ilgili hükmün kurulmasına yer olmadığına, 5-İstinaf başvurusunda bulunan davalı tarafından yapılan istinaf yargılama giderlerinin ilk derece mahkemesince yeniden verilecek kararda dikkate alınmasına, 6-Hukuk Muhakemeleri Kanunu'nun 359/4. maddesi gereğince; kararın tebliğ işlemlerinin ilk derece mahkemesi tarafından yapılmasına, Daire, dosya üzerinde yapılan inceleme sonucunda 27/05/2025 tarihinde oybirliği ile HMK'nın 353/1-a maddesi gereğince kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu 353/1-a",
+            "Hukuk Muhakemeleri Kanunu 359/4",
+            "Hukuk Muhakemeleri Kanunu 199",
+            "Hukuk Muhakemeleri Kanunu 355",
+            "Hukuk Muhakemeleri Kanunu 202",
+            "Hukuk Muhakemeleri Kanunu 353/1-a.6",
+            "Türk İş Kanunu 18"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının borçlu olduğunu iddia ediyor ve bu borcun davalının müvekkiline aktarıldığını savunuyor. Davalı ise bu iddiaları reddediyor ve davacının kendisiyle anlaşma yaptığını, ancak borcun ödenmediğini belirtiyor. Mahkeme, davacının taleplerini kabul etmedi ve ilk derece mahkemesi kararını kaldırdı. Davacı tarafından sunulan kanıtların yetersiz olduğunu ve bilirkişi raporunun hatalı olduğunu tespit etti.",
+    "summary_for_model": "Davacı, davalının müvekkiline haklı olarak icra takibi yaptığını iddia ediyor. Davalı, davacının müvekkiline yönelttiği iddiaların kötü niyetli olduğunu savunuyor. Mahkeme, davacının taleplerini reddederek ilk derece mahkemesi kararını kaldırdı. Davacı tarafından sunulan WhatsApp mesajlarının borç kabulü olarak değerlendirilmediğini, bu mesajların belge niteliği taşamadığını, bilirkişi raporunun eksik ve hatalı tanım edildiğini, bilirkişi tarafından yapılan tespitlerin hukuka aykırı olduğunu tespit etti. Hukuk Muhakemeleri Kanunu 353/1-a ve 359/4 maddeleri çerçevesinde karar verildi."
+}

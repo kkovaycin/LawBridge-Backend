@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2024_2170.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ BAM 20. HUKUK DAİRESİ",
+        "esas_no": "2024/2170",
+        "karar_no": "2024/1837",
+        "case_subject": "İhtiyati tedbir talebinin reddedilmesi",
+        "dava_tarihi": "05/07/2024",
+        "karar_tarihi": "14/12/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı şirketin bir markayı ihlal ettiğini iddia ediyor. Davalı şirketin 2022'de kurulduğunu, 2022'de markanın değiştirildiğini ve sosyal medyada markayı kullanmaya başladığını belirtiyor. Davacı, davalı şirketin markayı kullanmasının ihlale yol açtığını iddia ediyor.",
+        "reasoning_text": "Mahkeme, davacı vekilinin istinaf başvurusunu reddetti. Davacı vekilinin istinaf başvurusunun esas yönünden reddedildiği ve dava dosyasının tamamının incelendiği için mahkemenin ilk derece kararını onayladığı belirtildi.",
+        "verdict_text": "HÜKÜM: Gereçcesi yukarıda belirtilmiş üzere; 1-İhtiyati tedbir isteyen davacı vekilinin istinaf başvurusunun HMK'nun 353/1-b.1 maddesi gereğince ESASTAN REDDİNE, 2-Harçlar Kanunu uyarınca ihtiyati tedbir isteyen davacıdan alınması gereken 427,60-TL maktu istinaf karar ve ilam harci peyin yatırıldığından başka harç alınmasına yer olmadığına, 3-İstinaf aşamasında ihtiyati tedbir isteyen davacı tarafından yapılan yargılama giderlerinin uhdesinde bırakılmasına, 4-İstinaf aşamasında duruşma açılmadığından taraflara vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda oy birliği ile 22/11/2024 tarihinde HMK 362/1-f maddesi uyarınca KESİN olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nun 353/1-b.1 maddesi",
+            "Harçlar Kanunu",
+            "HMK 362/1-f maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davalı şirketin bir markayı ihlal ettiğini iddia ediyor. Mahkeme, davacı vekilinin istinaf başvurusunu reddetti ve ilk derece kararını onayladı.",
+    "summary_for_model": "Davacı vekili, davalı şirketin bir markayı ihlal ettiğini iddia ediyor. Mahkeme, davacı vekilinin istinaf başvurusunu reddetti ve ilk derece kararını onayladı. İstinaf başvurusu HMK'nun 353/1-b.1 maddesi ve Harçlar Kanunu uyarınca reddedildi."
+}

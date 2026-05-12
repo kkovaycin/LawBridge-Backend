@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2022_749.pdf",
+        "court_name": "T.C. BURSA BAM 5. HUKUK DAİRESİ / T.C. BURSA BÖLGE ADLİYE MAHKEMESİ / 5. HUKUK DAİRESİ",
+        "esas_no": "2021/1381",
+        "karar_no": "2022/1048",
+        "case_subject": "İtirazin İptali (Ticari Satımdan Kaynaklanan)",
+        "dava_tarihi": "21/01/2022",
+        "karar_tarihi": "04/07/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı tarafından Balıkesir 3.İcra Müdürlüğü'nden 2021/6650 Esas sayılı dosya üzerinden icra takibi yapılmıştır. Davalı tarafından itiraz edilmesi üzerine, itirazın iptali davası açılmıştır. İlk derece mahkemesi tarafından sunulan faturalarda teslim alan kişilerin imzalı olmadığı, sevkiyat irsaliyesi sunulmadığı ve WhatsApp kayıtlarının yaklaşıksız ispat kurallarına uygun olmadığı belirtilerek talebin reddine karar verilmiştir. Davacı vekili tarafından 18/01/2022 tarihli dilekçe ile yeniden talepte bulunularak dava dışı FE SA isimli şirketin davacıya, davacının da davalıya düzenlediği faturalar ile nakliye firması tarafından düzenlenen fatura ile FE SA isimli şirket tarafından davalıya gönderilen kargolara ait bilgi notlarını içeren internet çıktıları sunulmuştur.",
+        "reasoning_text": "İkinci derece mahkemesi, ilk derece mahkemesinin kararını esas alarak, davalının imzasının bulunmadığı ve teslimin yapıldığına dair imzalı belge sunulmadığı gerekçeleriyle talebin reddine karar vermiştir. Davacı tarafından sunulan belgelerin yetersiz olduğu ve ilk derece mahkemesinin kararının doğru olduğu tespit edilmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan gerekçe ile; 1-Davacı vekilinin istinaf isteminin 6100 sayılı HMK 353/1-b-1 maddesi gereğince ESASTAN REDDİNE, 2-Alınması gerekli istinaf harçları peşin alındığından ayrıca harç alınmasına yer olmadığına, 3-Davacı tarafından istinaf yargılama gideri yapılmadığından, bu hususta karar verilmesine yer olmadığına, 4-Kararın tebliğ işlemlerinin ilk derece mahkemesi tarafından yerine getirilmesine, Daire dosya üzerinden yapılan inceleme sonucu oy birliği ile kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK 353/1-b-1"
+        ]
+    },
+    "summary_for_human": "Bu dava, ticari bir satış işlemiyle ilgili olarak itirazın iptali konusuyla açılmıştır. İlk derece mahkemesi, davalının imzasının eksik olduğu ve teslimin kanıtlanamadığı gerekçeleriyle talebin reddine karar vermiştir. Davacı, ikinci derece mahkemeye itirazda bulunmuştur. Ancak ikinci derece mahkemesi de ilk derece mahkemesinin kararını onaylayarak talebin reddine karar vermiştir. Mahkeme, davacı vekilinin istinaf isteminin yetersiz olduğu ve ilk derece mahkemesinin kararının doğru olduğu sonucuna ulaşmıştır.",
+    "summary_for_model": "Dava, ticari satıştan kaynaklanan itirazın iptali konusuyla açılmıştır. İlk derece mahkemesi, davalının imzasının eksik olduğu ve teslimin kanıtlanamadığı gerekçeleriyle talebin reddine karar vermiştir. Davacı vekili tarafından sunulan belgelerin yetersiz olduğu ve ilk derece mahkemesinin kararının doğru olduğu tespit edilerek istinaf talebi reddedilmiştir. Karar, 6100 sayılı HMK 353/1-b-1 maddesine dayanarak verilmiştir."
+}

@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2025_136.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2024/110",
+        "karar_no": "2025/107",
+        "case_subject": "İhtiyati haciz taleplerinin kabulüne dair dava",
+        "dava_tarihi": "06/02/2025",
+        "karar_tarihi": "06/02/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının 09.02.2024 tarihinde kendisine teslim edilen 270 çuval unun 65 çuvalını eksik teslim ettiğini iddia etmiştir. WhatsApp yazışmaları ve işyeri kamera kayıtları bu iddianın desteklendiğini göstermektedir. Davacı, ihityati haciz talebini, davalının ihityati haciz taleplerini reddetmek amacıyla, ihityati haciz taleplerinin kabulüne karşı bir hak ihlali olarak görerek istemiştir.",
+        "reasoning_text": "İlk derece mahkemesi, ihityati haciz talebinin reddedilmesi için yeterli kanıt olmadığını tespit etmiştir. İkinci derece mahkemesi ise, ihityati haciz talebinin kabulüne dair ilk derece mahkemesi kararının kaldırılarak yeniden yargılamanın gerekliliğini tespit etmiştir. Mahkeme, ihityati haciz talebinin kabulüne dair ilk derece mahkemesi kararının isabetli görülmediğini ve bu nedenle davacı vekilinin istinaf başvurusunun kabul edilmesi gerektiğini karar vermiştir.",
+        "verdict_text": "İhtiyati haciz taleplerinin kabulüne dair ilk derece mahkemesi kararının kaldırılmasına, ihityati haciz talebinin kabulüne dair yeni bir karar verilmesine ve ihityati haciz taleplerinin reddedilmesine dair ilk derece mahkemesi kararının kaldırılmasına karar verilmiştir. Davacı vekilinin istinaf başvurusu kabul edilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "2004 sayılı İcra ve İflas Kanunu (İİK)",
+            "İstanbul Bölge Adlıye Mahkemesi Kararı",
+            "Hukuk Muhakemesi Kanunu (HMK)"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir davacı vekilinin, davalının ihityati haciz taleplerini reddetmek amacıyla ihityati haciz talebini istemesiyle ilgili bir hukuki süreçtir. İlk derece mahkemesi, ihityati haciz talebinin reddedilmesi için yeterli kanıt olmadığını tespit etmiştir. Ancak ikinci derece mahkemesi, ilk derece mahkemesi kararının isabetli görülmediğini ve davacı vekilinin istinaf başvurusunun kabul edilmesi gerektiğini karar vermiştir. Sonuç olarak, ihityati haciz taleplerinin kabulüne dair ilk derece mahkemesi kararının kaldırılmasına ve yeni bir karar verilmesine karar verilmiştir.",
+    "summary_for_model": "Dava, ihityati haciz taleplerinin kabulüne dair bir hukuki süreçtir. İlk derece mahkemesi, ihityati haciz talebinin reddedilmesi için yeterli kanıt olmadığını tespit etmiştir. İkinci derece mahkemesi, ilk derece mahkemesi kararının isabetli görülmediğini ve davacı vekilinin istinaf başvurusunun kabul edilmesi gerektiğini karar vermiştir. İİK ve HMK maddeleri çerçevesinde, ihityati haciz talebinin kabulüne dair ilk derece mahkemesi kararının kaldırılmasına ve yeni bir karar verilmesine karar verilmiştir."
+}

@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2017_860.pdf",
+        "court_name": "T.C. İstanbul Anadolu 4. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2017/860",
+        "karar_no": "2018/319",
+        "case_subject": "Davacı vekili tarafından yapılan bir tweet paylaşımının hakaret olarak değerlendirilmesi ve manevi tazminat talebi",
+        "dava_tarihi": "06/06/2016",
+        "karar_tarihi": "05/04/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının kişisel Twitter hesabından yaptığı bir paylaşımda 'Türcell müzik taahhüdüm var dua edin yoksa pedofili sponsoru şerefsizlersiniz ve gün gelecek yargılanacaksınız' ifadesini hakaret olarak nitelendirdi ve 10.000,00 TL manevi tazminat talep etti. Davalı, paylaşımın hakaret olmadığını iddia etti.",
+        "reasoning_text": "Mahkeme, davalının paylaşımının TTK'nın 55/1-a-1 ve 56/1-e maddeleri kapsamında hakaret olarak değerlendirildiğini ve bu davranışın haklı reket oluşturduğunu tespit etti. Davacı şirketin manevi tazminat talebini kabul etti.",
+        "verdict_text": "Davacıya karşı 500,00 TL manevi tazminat, dava masrafları ve vekalet ücretleri kararlaştırıldı. Davacıya karşı 170,78 TL mahsubu ile fazladan harç talep edildi. Davacı vekilinin harçları davalıdan alındı. Davacı vekilinin vekalet ücreti davalıdan alındı. Davalı vekilinin vekalet ücreti davacıdan alındı. Tarafların dosya ve gider avansları kararlaştırıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 55/1-a-1",
+            "TTK 56/1-e",
+            "TTK 54 vd. maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının Twitter'da yaptığı bir paylaşımın hakaret olarak değerlendirilmesini ve 10.000 TL manevi tazminat talep etti. Mahkeme, paylaşımın hakaret olarak nitelendiğini ve davacı şirketin manevi tazminat talebini kabul etti.",
+    "summary_for_model": "Davacı vekili, davalının Twitter'da yaptığı bir paylaşımın hakaret olarak değerlendirilmesini talep etti. Mahkeme, TTK'nın ilgili maddeleri çerçevesinde davalının davranışının hakaret ve haklı reket olarak nitelendiğini tespit etti ve davacı şirketin manevi tazminat talebini kabul etti."
+}

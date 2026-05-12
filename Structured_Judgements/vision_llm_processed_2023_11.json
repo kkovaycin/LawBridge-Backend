@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2023_11.pdf",
+        "court_name": "T.C. İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2023/11 Esas",
+        "karar_no": "2024/217",
+        "case_subject": "Marka Hakkindan Tecavüzden Kaynaklanan",
+        "dava_tarihi": "17/01/2023",
+        "karar_tarihi": "12/12/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; Müvekkili markasının sahibi olduğunu, müvekkilin şirketin markayı kullanarak ticari faaliyetlerde bulunduğunu, markanın eğitim sektöründe matematik dersleri vermekte olduğunu, markanın öğrenciler tarafından tanındığını ve markanın ticari faaliyetlerde kullanıldığını iddia etmiştir. Davacı, müvekkilin markayı izinsiz kullandığını ve bu durumun hak ihlali oluşturduğunu iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacı vekilinin iddialarını değerlendirerek, müvekkilin markayı izinsiz kullandığını ve bu durumun hak ihlali oluşturduğunu tespit etmiştir. Mahkeme ayrıca, müvekkilin markayı ticari faaliyetlerde kullanmasının hak ihlali oluşturduğunu ve bu durumun ticari hak ihlali olarak değerlendirildiğini belirtmiştir.",
+        "verdict_text": "DAVANIN KISMEN KABUL KISMEN REDDİ İLE, 1-Davalı tarafından davacının marka hakkına yönelik tecavüzün ve haklı rekabetin tespitine, önlenmesine ve kaldırılmasına, 2-Maddi tazminat yönünden davanın kabulü ile 23.600,00 TL'nin 06/04/2022 tarihinden itibaren işleyecek ticari faizi ile birlikte davalıdan alınarak davacıya verilmesine, 3-Manevi tazminat yönünden davanın kısmen kabulü ile 20.000,00 TL manevi tazminatının 06/04/2022 tarihinden itibaren işleyecek ticari faizi ile birlikte davalıdan alınarak davacıya verilmesine, 4-Alınması gereken 2.978,33 TL harçtan alınan 179,90 TL peşin harç + 675,68 TL peşin harç + 402,00 TL İslah harcı toplamı olan 1.257,58 TL'nin mahsubu ile kalan 1.720,75 TL harçın davalıdan alınarak hazinede irat kaydına, davacılar tarafından yatırılan 1.257,58 TL'nin davalıdan alınarak davacılara verilmesine, 5-Davacı tarafından yapılan toplam 11.284,50 TL yargılama giderinden davanın ret ve kabul oranına göre, 8.463,37 TL yargılama giderinin davalıdan tahsili ile davacılara verilmesine, bakiye kısmın davacılar üzerinde bırakılmasına, 6-Tecavüzün tespiti ve önlenmesi talebi yönünden: Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca takdir olan 40.000,00 TL ücreti vekaletin davalıdan alınarak davacılara ödünmesine, 7-Manevi tazminat talebinin kabul edilen kısmı yönünden: Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca takdir olan 20.000,00 TL ücreti vekaletin davalıdan alınarak davacılara verilmesine, 8-Manevi tazminat talebinin red edilen kısmı yönünden: Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca takdir olan 20.000,00 TL ücreti vekaletin davacılardan alınarak davalına verilmesine, 9-Maddi tazminat talebi yönünden: Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca takdir olan 23.600,00 TL ücreti vekaletin davalıdan alınarak davacılara ödünmesine, 10-Kullanılmayan ve artan gider avansının karar kesinleştiğinde ve talep halinde taraflara iadesine, Dair davacı vekilinin yüzüne karşı, davalı tarafın yokluğunda gerekli kararın tebliğinden itibaren 2 hafta içerisinde istinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı.12/12/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 29. Maddesi",
+            "TTK 55/1-a4",
+            "Avukatlık Asgari Ücret Tarifesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin iddialarını kabul ederek, davacıya maddi ve manevi tazminat ödemesi kararı verdi. Davacı vekilinin iddiaları kısmen kabul edildi ve kısmen reddedildi.",
+    "summary_for_model": "Mahkeme, davacı vekilinin iddialarını değerlendirerek, davacıya maddi ve manevi tazminat ödemesi kararı verdi. Davacı vekilinin iddiaları kısmen kabul edildi ve kısmen reddedildi. Mahkeme ayrıca, avukatlık ücretleri ve yargılama giderleri ile ilgili kararlar verdi."
+}

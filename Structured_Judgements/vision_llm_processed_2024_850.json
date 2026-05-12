@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2024_850.pdf",
+        "court_name": "SAMSUN BÖLGE ADLİYE MAHKEMESİ 3. HUKUK DAİRESİ",
+        "esas_no": "2023/447",
+        "karar_no": "2024/967",
+        "case_subject": "İhtiyati haciz taleplerinin reddi ve istinaf",
+        "dava_tarihi": "15/12/2023",
+        "karar_tarihi": "21/05/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "İhtiyati haciz isteyen davacı vekilinin dava dilekçesinde özetlendi; müvekkilin (1) nolu taraf olan ve (3) nolu taraf olan ile ... IMO numaralı geminin %30'lük kısmına denk gelen kısmının satın alınması için bir anlaşma yaptığını, ancak (1) nolu tarafın müvekkili tarafından hisse bedellerine karşılık gelen 304.500-EUR ödenmiş olmasına rağmen geçen süre zarfinda (1) nolu şirketin maliki olduğu geminin hisseleri müvekkiline devredilmediğini, karşı taraflar tarafından geminin devredilmeyen hisselerine ilişkin müvekkilin toplam 304.500-EUR tutarında alacağı için hali hazırda ... sahadasında bulunan ... IMO numaralı m/v \"...\" isimli geminin TTK 1352 maddesinin (I) fikrası (t) ve (y) bendleri vd uyarınca ihtiyati haciz konulmasına karar verilmesini taleple dava ettiği anlaşılmıştır.",
+        "reasoning_text": "Yerel Mahkemenin 2023/447 d.iş esas, 15/12/2023 tarihli ara kararı ile, ihtiyati haciz talebinin reddine karar verildiği görülmüştür. İstinafa başvuran tarafların ve ileri sürülen istinaf sebepleri: İhtiyati haciz isteyen davacı vekilinin istinaf başvuru dilekçesinde özetlendi; taraflar arasındaki 26.09.2022 tarihli whatsapp yazışmasına göre davacının talebe konu geminin %30'lük hissesinin devraldığının sabit olduğu, davacının anlaşmaya dair yükümlülüklerini yerine getirdiği, geminin mülkiyetinin devrinin gerçekleştirilmediği, davacının TTK'nın 1352. maddesi uyarınca deniz alacaklısı konumunda olduğu, ihtiyati haciz talebinin yerinde olduğu, verilen kararın hatalı olduğu gerekçesi ile istinaf edilmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;\n1. Davacının İstinaf Başvurusunun Esastan REDDİNE,\n2. Alınması gerekli 427,60 TL harçtan, istinafa başvuran davacı tarafından yatırılan 269,85 TL harçın mahsubu ile bakiye kalan 157,75 TL harçın davacıdan alınarak hazineye gelir kaydına, Karar kesin olduğundan, harç tahsil müzekkeresinin İlk Derece Mahkemesince yazılmasına,\n3. İş bu kararın, bilgi mahiyetinde İlk Derece Mahkemesi'ne taraflara tebliğine,\nDair, HMK'nın 362/1-f maddesi uyarınca dosya üzerinden yapılan incelemede kesin olmak üzere oy birliğiyle karar verildi. 21/05/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 1352 maddesi",
+            "HMK 355. madde",
+            "HMK 353/(1)-b-1. madde",
+            "HMK 362/1-f madde",
+            "Elektronik İmza Kanunu 5070"
+        ]
+    },
+    "summary_for_human": "Bu davada, davacı, bir gemi üzerinde %30'lük hissesini devralmak için yaptığı anlaşma nedeniyle, bu hisselerin devredilmediğini iddia ederek ihtiyati haciz talep etmiştir. Yerel Mahkeme, bu talebi reddetmiştir. Davacı, bu kararı istinaf ederek, geminin hisselerinin devraldığının sabit olduğunu, anlaşma yükümlülüklerinin yerine getirildiğini ve davacının deniz alacaklısı olduğunu savunmuştur. Ancak, İstinaf Mahkemesi, davacının talebinin yerinde olmadığını ve verilen kararın hatalı olmadığını kararlaştırmıştır. Sonuç olarak, davacının istinaf başvurusu reddedilmiş ve harçlar tahsil edilmiştir.",
+    "summary_for_model": "Dava, bir gemi üzerinde %30'lük hissesini devralmak için yapılan anlaşma nedeniyle, hisselerin devredilmediğini iddia eden davacının ihtiyati haciz talebini reddeden Yerel Mahkeme kararının istinafıdır. İstinaf Mahkemesi, davacının talebinin yerinde olmadığını, anlaşma yükümlülüklerinin yerine getirildiğini ve davacının deniz alacaklısı olduğunu savunan istinaf gerekçelerinin yetersiz olduğunu tespit ederek talebi reddetmiştir. HMK 355. madde, HMK 353/(1)-b-1. madde ve HMK 362/1-f maddesi çerçevesinde karar verilmiştir."
+}

@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2022_1706.pdf",
+        "court_name": "İstanbul Anadolu 1. Fıkrî ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2022/1706",
+        "karar_no": "2022/2094",
+        "case_subject": "Marka (Marka Hakkına Tecavüzden Kaynaklanan)",
+        "dava_tarihi": "02/09/2022",
+        "karar_tarihi": "09/12/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; müvekkili tarafından FESK 2017 Fen Spor Kulübü'nün bölgede tanındığını ancak müvekkiline gönderilen ihbarname ile sözleşmenin feshedildiğini bildirdiğini, müvekkilinin çabaları sonucu müvekkili ile bütünleşmiş bir marka haline dönüşen \"...\" ibareli markanın davacı tarafından kendi adına tescil edildiğini öğrendiklerini, müvekkilin davaya ihbarname gönderilerek zararlarının tanzimi ile müvekkili ile tanınmış ve bütünleşmiş bu markaya tecavüzün men'i ve haksız rekabet teşkil eden tüm eylemlerin sonlandırılmasını istediğini, müvekkilin bu marka üzerinde öncelik hakkı bulunduğunu, davanın kötü niyetli olup, kötü niyetin kanun tarafından korunmayacağını belirterek markaya tecavüzün ve haksız rekabetin tesbiti, önlenmesi, men'i ile konu ile ilgili olarak ihtiyati tedbir kararı verilmesini, ayrıca marka hükmüsüzlüğünü istemiştir.",
+        "reasoning_text": "Davacı vekili, davanın Asliye Ticaret Mahkemesinde görülmesi gerektiğini, davacının iddialarının gerçeğe uygun olmadığını, müvekkilin 35 yıldır aktif bir şekilde eğitim öğretim sektöründe faaliyet gösterdiğini ve ... ibaresini davalı olarak kullandığını, dava konusu markanın da 35 yıldır müvekkili tarafından kullanıldığını ve daha sonra da tescil edildiğini, davacının kötü niyetli olduğunu, taraflar arasındaki sözleşmede hatalı olarak FESK yazılmasının markanın davacıya ait olduğunu göstermeyeceğini bildirerek davanın reddini istemiştir, karşı davasında ise müvekkiline ait markaya davacı karşı davanın tecavüz ettiğini ve haksız rekabette bulunduğunun tesbitine, önlenmesine, ayrıca müvekkilin haklarını ihlal eden her türlü eylemlerin durdurulması ve yasaklanması için ihtiyati tedbir kararı verilmesini istemiştir.",
+        "verdict_text": "İstanbul Anadolu 1. Fıkrî ve Sınai Haklar Hukuk Mahkemesi 02/09/2022 tarihli dosya üzerinde yapılan inceleme sonucunda davacı karşı davanın davaya konu markayı kullandığına dair bir delil bu aşamada dosyada mevcut olmadığı, marka kullanımlarının ne şekilde tespit edilebileceğinin tedbir talep eden tarafından açıklanmadığı gerekçeleriyle ihtiyati tedbir talebinin reddine karar verilmiştir, kararı davacı-karşı davacılar vekili istinaf etmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353. Maddesi",
+            "HMK 353/1-b-1 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkilinin markasına tecavüz ve haksız rekabet iddiasıyla dava açtı. Mahkeme, dosyada yeterli delil bulunmadığı için ihtiyati tedbir talebini reddetti. Davacı ve karşı davacı vekilleri istinaf başvurusu yaptı.",
+    "summary_for_model": "Marka tecavüz ve haksız rekabet davasında mahkeme, dosyada delil eksikliği nedeniyle ihtiyati tedbir talebini reddetmiştir. Davacı ve karşı davacı vekilleri istinaf başvurusu yapmıştır. HMK 353 ve 353/1-b-1 maddeleri bahsedilmiştir."
+}

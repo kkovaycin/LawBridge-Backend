@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_1253.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2022/1253",
+        "karar_no": "2024/765",
+        "case_subject": "Endüstriyel Tasarım (Endüstriyel Tasarımın Hüküm­süzlüğünden Kaynaklanan)",
+        "dava_tarihi": "07/04/2022",
+        "karar_tarihi": "29/04/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Dava, davalının endüstriyel tasarım belgesinin hüküm­süzlüğü talebine iliskindir. İlk derece mahkemesinde, davanın kabulüne karar verildi. İstinaf istemi reddedildi.",
+        "reasoning_text": "İstinaf dilekçesinde belirtilen sebeplerle sınırlı olarak ve kamu düzenine aykırı hususlar olup olmadığı gözetenlarak yapıldı. İlk derece mahkemesinin kararı, davanın kabulüne karar verdi.",
+        "verdict_text": "Davalı vekilinin istinaf talebinin HMK'nun 353/1-b-1 maddesi uyarınca ES ASTAN REDDİNE 2-Alınması gereken 427,60 TL harçtan, peşin alınan 80,70 TL harçın mahsubu ile bakiye 346,9-TL harçın davaldan alınarak HAZİNEYE İRAT KAYDINDA, 3- Davalı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, 4-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda, HMK'nun 361.maddesi uyarınca tebliğden itibaren iki haftalık süre içerisinde Yargıtay İlgili hukuk dairesinde temyiz yolu açık olmak üzere oy birliği ile karar verildi. 29/04/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hukuk Muhakemeleri Kanunu (HMK)",
+            "HMK 353. Maddesi",
+            "HMK 353/1-b-1 Maddesi",
+            "HMK 361. Maddesi"
+        ]
+    },
+    "summary_for_human": "Davalının endüstriyel tasarım belgesinin hüküm­süzlüğü talebini reddeden ilk derece mahkemesinin kararı, istinaf istemiyle reddedildi. Davalı vekilinin istinaf talebinin reddi, HMK maddeleri uyarınca kararlaştırıldı.",
+    "summary_for_model": "Dava, endüstriyel tasarım belgesinin hüküm­süzlüğü talebine iliskindir. İlk derece mahkemesi davayı kabul etti. İstinaf istemi reddedildi. HMK maddeleri uyarınca karar verildi."
+}

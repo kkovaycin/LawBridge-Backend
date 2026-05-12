@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_270.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2021/293 E. - 2021/107 K.",
+        "karar_no": "2022/478",
+        "case_subject": "Marka (Marka Hakkına Tecavüzden Kaynaklanan)",
+        "dava_tarihi": "11/06/2021",
+        "karar_tarihi": "24/03/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın dilekçesinde özetle; müvekkili şirketin markalı ilacı ile markanın internet ve sosyal medya hesaplarında yayınlanan içeriklerde markanın haklı olarak kullanıldığını iddia etmiştir. Davacı vekili, davanın esasından reddi talep etmiştir.",
+        "reasoning_text": "İlk derece mahkemesi, davanın esasından reddi kararı vermiştir. İstinaf mahkemesi, davanın esasından reddi kararı vermiştir. Davacı vekili, istinaf talebinde bulunmuştur.",
+        "verdict_text": "ESASTAN REDDİNE, 2- 492 Sayılı Harçlar Kanunu gereğince alınması gereken 80,70 TL maktu istinaf karar ve ilam harçından peşin yatırılan 59,30 TL harçın mahsubu ile bakiye 21,40 TL harçın davacidan tahsiline, 3- Davacı tarafa istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, 4- İncelemenin duruşmasız olarak yapılması sebebiyle taraflar yararına vekalet ücreti takdirine yer olmadığına, 5- Davacı tarafa yatırılan gider avansından harçnamayan kısmın karar kesinleştiğinde iadesine, 6- Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin İlk derece Mahkemesince yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/1-a maddesi gereğince, miktar itibarıyla kesin olmak üzere oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK maddeleri (55/5, 59, 54.vd., 55/1-a-5)",
+            "SMK maddeleri (29, 7/2-c, 149/1/a/b/c, 149/c)",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu (HMK) maddeleri (353/1-b/1, 353/1-h 1, 362/1-a)",
+            "492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, marka hakkına tecavüz iddiasıyla açılan davada istinaf talebini reddetmiştir. İlk derece mahkemesi de davayı esasından reddetmiştir. Davacı vekili, istinaf talebinde bulunmuştur.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, marka hakkına tecavüz iddiasıyla açılan davada istinaf talebini reddetmiştir. İlk derece mahkemesi de davayı esasından reddetmiştir. Davacı vekili, istinaf talebinde bulunmuştur. Davanın esasından reddi talep edilmiştir."
+}

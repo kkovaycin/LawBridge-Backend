@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2018_859.pdf",
+        "court_name": "T.C. İZMİR BÖLGE ADLİYE MAHKEMESİ 11. HUKUK DAİRESİ",
+        "esas_no": "2016/122 E. 2017/130 K.",
+        "karar_no": "2021/466",
+        "case_subject": "Mali Hakların İhlali ve Haksız Rekabetin Tesbiti, Önlenmesi, Durdurulması",
+        "dava_tarihi": "19/10/2017",
+        "karar_tarihi": "06/04/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, davacının grafik tasarımını FSEK kapsamında grafik eser olarak kabul etmesi, tasarımını davacıya ait olarak kullanılması, ve bu kullanımını hak ihlali olarak görümü olarak sunulmuştur.",
+        "reasoning_text": "Mahkeme, grafik tasarımını FSEK kapsamında grafik eser olarak kabul etmiş ve davacının tasarımı kullanımını hak ihlali olarak değerlendirmiştir. Tasarımını çekismekli logo olarak kullanımının, ticari bir tanıtım işareti olarak kullanılmasını ve bu kullanımını hak ihlali olarak görümü olarak sunulmuştur.",
+        "verdict_text": "Dava, grafik tasarım eserinden doğan mali hakların ihlalinin ve haksız rekabetin tesbiti, önlenmesi, durdurulması ve ilani isteme ile ilgili olup, ilk derece mahkemesince kabulü ile mali haklar davacıya ait grafik esere devredilip, fiziki ve internet ortamlarında tanıtımlara konu edilmek süretiyle, mali hakların davacıya ait olarak ihlal edildiği, haksız rekabette bulunduğu, durdurulması, önlenmesi, tecavüzün gidilmesi, hüküm özetinin ilan edilmesi karına karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "FSEK (Fransız Sanatlar Eserleri Kanunu)",
+            "TTK (Ticari Tevzi Kanunu)",
+            "Hukuk Muhakemeleri Kanunu",
+            "Yargıtay Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacının grafik tasarımını FSEK kapsamında grafik eser olarak kabul ettiği ve bu tasarımı kullanımını hak ihlali olarak değerlendirdi. Tasarımını çekismekli logo olarak kullanımını ticari bir tanıtım işareti olarak kullanılması ve bu kullanımını hak ihlali olarak görümü olarak sunulmuştur.",
+    "summary_for_model": "Mahkeme, grafik tasarımını FSEK kapsamında grafik eser olarak kabul etmiş ve davacının tasarımını kullanımını hak ihlali olarak değerlendirmiştir. Tasarımını çekismekli logo olarak kullanımını ticari bir tanıtım işareti olarak kullanılması ve bu kullanımını hak ihlali olarak görümü olarak sunulmuştur. Davacının grafik eserinden doğan mali hakların ihlal edildiği, haksız rekabette bulunduğu, durdurulması, önlenmesi, tecavüzün gidilmesi, hüküm özetinin ilan edilmesi karına karar verilmiştir."
+}

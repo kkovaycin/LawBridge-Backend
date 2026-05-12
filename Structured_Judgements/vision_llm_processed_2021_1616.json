@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2021_1616.pdf",
+        "court_name": "Erzurum Aslıye Ticaret Mahkemesi",
+        "esas_no": "2018/104 Esas",
+        "karar_no": "2018/468 Karar",
+        "case_subject": "Hayvan satışına ilişkin borçluluk iddiası",
+        "dava_tarihi": "05/12/2018",
+        "karar_tarihi": "30/11/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalıdan 2017 yılının kurban bayramı arifesinde bir adet büyükbaş hayvan satın aldığını iddia etmiştir. Bu hayvanın piyasa değeri 8.000,00 TL iken kendisinin de nakde ihtiyacı olduğu için dolayı 13.000 TL'lik senet imzalayarak verdiğini, daha sonra davalının senedi iraya vereceğine ilişkin görüşmeler yaptığını, bu aşamada kendisi ile yaptığı sözlü ve facebook görüşmelerinde koyduğu iki adet büyükbaş hayvan ayarlaması halinde senedi kendisine vereceğini söylediğini, kendisinin iki adet hayvanı muhtelif tarihlerde gönderdiğini, ancak hayvanları götüren nakliyecinin senedi istemesine rağmen davalının senedi iade etmediğini, akabinde davalı ile yaptıkları yazışmada kendisinin bu senedi borca mahsuben teslim ettiği ilk hayvanı 3600 TL'ye sattığını ve 13000 TL lik borcun halen ödünmesi gerektiğini ifade ettiğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacının iddiasının yazılı delillerle kanıtlanamadığını, davalının cevabında facebook yazışmalarında davacının sürekli borcunu ödeyeceğinden bahsettiğini, bu nedenle davacının davasını reddine karar verdiğini açıklamıştır. Mahkeme ayrıca, davacının iddiasının delillerle desteklenmediğini ve davalının savunmalarının tutarlı olduğunu değerlendirmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;\n1-Davacı vekilinin istinaf başvurusunun, HMK'nun 353/1-a-6. maddesi gereğince KABULÜ ile, Erzurum Aslıye Ticaret Mahkemesinin 05.12.2018 tarih 2018/104 Esas- 2018/468 Karar sayılı kararının KALDIRILMASININA,\n2-Dosyanın, davanın yeniden görülmesi için mahkemesine GÖNDERILMESINE,\n3-Davacı tarafından yatırılan istinaf peşin karar harcının davaciya iadesine,\n4-Istinaf başvurusu aşamasında davacı tarafından yapılan yargılama giderlerinin mahkemesince verilecek nihai kararla hüküm altına alınmasına,\n5-Istinaf incelemesi duruşmasız yapıldığından istinaf kanun yoluyla başvuran davacı yararına vekalet ücretine hükmedilmesine yer olmadığına,\n6-Gerekli kararın tebliği ve harç iadesine ilişkin işlemlerin yerel mahkemeye yerleştirilmesine,\nDosya üzerinden yapılan inceleme neticesinde HMK'nun 353/(1)-a maddesi uyarınca kesin olmak üzere 30.11.2021 tarihinde oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nun 353/1-a-6. maddesi",
+            "HMK'nun 353/(1)-a maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalıdan büyükbaş hayvan satın alırken borçlandığını iddia etmiştir. Mahkeme, davacının iddiasının delillerle desteklenmediğini ve davalının savunmalarının tutarlı olduğunu değerlendirmiş ve davayı reddetmiştir.",
+    "summary_for_model": "Davacı, davalıdan büyükbaş hayvan satın alırken borçlandığını iddia etmiştir. Mahkeme, davacının iddiasının delillerle desteklenmediğini ve davalının savunmalarının tutarlı olduğunu değerlendirmiş ve davayı reddetmiştir. HMK'nun 353/1-a-6. ve 353/(1)-a maddeleri uygulanmıştır."
+}

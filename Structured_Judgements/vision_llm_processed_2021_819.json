@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2021_819.pdf",
+        "court_name": "T.C. İZMİR 2. AŞLİYE TİCARET MAHKEMESİ",
+        "esas_no": "2021/819",
+        "karar_no": "2022/231",
+        "case_subject": "Hizmet Teklifi/Sözleşmesi kapsamında teknik dosya hazırlama hizmetinin ihmal edilmesi ve sözleşmenin feshi",
+        "dava_tarihi": "04/11/2021",
+        "karar_tarihi": "29/03/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı şirketin teknik dosya hazırlama hizmetini ihmal ettiğini iddia etmiştir. Davalı, bu iddiaları reddetmiştir. Davacı, davalı şirketin sözleşme imzalanmasından sonra gerekli belgeleri göndermediğini, bu durumun sözleşmenin feshi için yeterli olduğunu iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacı ve davalı arasındaki sözleşmenin 7.2. Maddesi uyarınca feshedilebilir olduğunu değerlendirmiştir. Davacı, davalı şirketin sözleşmeye aykırı davranışta bulunduğunu iddia etmiştir. Davalı ise, davacı şirketin sözleşme şartlarını yerine getirdiğini savunmuştur.",
+        "verdict_text": "HÜKMÜ: GEREKÇESİ YUKARIDA AÇIKLANDIĞI ÜZERİNE; 1-DAVANIN REDDİNE, 2-HARÇLAR KANUNU GERÇEĞİNCE ALINMASI GEREKEN 80,70-TL HARÇTAN PEŞİN OLARAK ALINAN 111,...TL HARÇIN MAHSUBU İLE FAZLA YATIRILAN 30,71-TL HARÇIN KARAR KESİLMEŞİNDE VE İSTEK HALİNDE DAVACIYA İADESİNE, 3-KARAR TARİHİNDE YÜRÜRLÜKTE BULAN AVUKATLIK ASGARİ ÜCRET TARİFESİ UYARINCA DAVALI YARARINA TAKDİR EDİLEN 5.100,00-TL VEKALET ÜCRETİNİN DAVACIDAN ALINIP DAVALIYA VERİLMESİNE, 4-DAVACININ YAPTIĞI YARGI LAMA GİDERLERİNİN KENDİ ÜZERİNDE BRRAKLAMASINA, 5-AR TAN GİDER AVANSININ KARAR KESİLMEŞİNDE, İLGİLİ TARAF RESEN İADESİNE, 7-DAVA ŞART ARABULUCULUK KAPSAMINDA HAZİNE TARAFINDAN KARŞILANDIĞI ANLAŞILAN 1.320,00-TL ARABULUCULUK ÜCRETİNİN DAVACIDAN TAHSİL EDİLEREK HAZİNEYE GELİR KAVDININA, BU HUSUSTA HARÇ TAHSİL MÜZEKKERESİ YAZILMASINA, DAIR, DAVACI VEKİLİ VE DAVALI VEKİLİNİN YÜZÜNE KARŞI, DİĞER TARAF LARIN YOKLUĞUNDA, DAVA DEĞERİNİN 6100 SAYILI HMK'NİN 341/2. MADDESİNDE GÖSTERİLEN İSTİNAF KANUN YOLU BAŞVURU SINIRİNİN ALTINDA KALMASI NEDENİYLE KESİN NİTELİKTE OLDUĞU VE KANUN YOLUNA BAŞVURULAMAYACAĞI AÇIKLANMAK SURETİYLE AÇIK YARGI LAMA SONUNDA VERİLEN KARAR AÇIKÇA OKUNUP USULEN ANLATILDI. 29/03/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Harçlar Kanunu",
+            "Türk Ceza Kanunu (TCK)",
+            "Türk Ticaret Kanunu (TTK)",
+            "5070 Sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "Bu davada, davacı şirket, davalı şirketin teknik dosya hazırlama hizmetini ihmal ettiğini iddia etmiştir. Davalı şirket ise bu iddiaları reddetmiştir. Mahkeme, davacı ve davalı arasındaki sözleşmenin 7.2. Maddesi uyarınca feshedilebilir olduğunu değerlendirmiştir. Davacı, davalı şirketin sözleşmeye aykırı davranışta bulunduğunu iddia etmiştir. Davalı ise, davacı şirketin sözleşme şartlarını yerine getirdiğini savunmuştur. Mahkeme, davacı ve davalı arasındaki anlaşmazlığı çözmek için arabuluculuk sürecini başlatmıştır. Son olarak, mahkeme davayı reddetmiştir.",
+    "summary_for_model": "Dava, teknik dosya hazırlama hizmetinin ihmal edilmesi ve sözleşmenin feshi konularında davacı ve davalı arasındaki anlaşmazlığı içermektedir. Davacı, davalı şirketin sözleşme şartlarını ihmal ettiğini iddia etmiştir. Davalı ise bu iddiaları reddetmiştir. Mahkeme, davacı ve davalı arasındaki anlaşmazlığı çözmek için arabuluculuk sürecini başlatmıştır. Mahkeme, davayı reddetmiştir. Davacı ve davalı arasındaki anlaşmazlık, Türk Ticaret Kanunu ve Türk Ceza Kanunu'na dayanarak değerlendirilmiştir."
+}

@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2022_2141.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2022/605 Esas",
+        "karar_no": "2022/1739",
+        "case_subject": "İtiraz İptali (Hizmet Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "28/07/2022",
+        "karar_tarihi": "24/11/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; davalı aleyhine başlatılan icra takibine itiraz edildiğini, TRT personelinin servis hizmeti hususunda \"...\"in ihale sonucu servis hizmetini almış olup akabinde müvekkili ile sözlü olarak anlaşma yaptığını, müvekkilinin 01.10.2020 - 01.11.2020 arasında TRT personelinin servis hizmetini yerine getirdiğini, ancak hizmet bedelini alamadığını, borçlu ... Tic. Ltd. Şti ile müvekkili arasında sözlü olarak kararlaştırıldığı üzere müvekkili tarafından 17.952,30 TL bedelli hizmetin borçlu ... Tic. Ltd. Şti'ne sağlandığını, makbuz ve muhasebe kayıtlarını sunduklarını, TRT Genel Müdürlüğü Personelinin taşınması, servis hizmeti karşılığında müvekkilinin alacağını nakit bir alacak olduğunu, müvekkilinin alacaklarına ilişkin fatura kestığını, davalı tarafa sunduğunu ancak davalı tarafından müvekkilinin ödemesinin yapılmadığını, müvekkili tarafından alacağın elde edilememesi ve arabuluculuk görüşmelerinin de olumsuz sonuçlanması sebebi ile ve borçlunun mal kaçırma, adres değiştirme ihtimali bulunduğundan, uygun görülecek teminat karşılığı, borçlunun, borca yeter miktarda menkul, gayrimenkulleri ile 3. sahişlardaki hak ve alacaklarının haczi, menkullerin muhafazası için ihtiyati haciz konulmasına, itirazin iptaline ve takibin devamına ve icra inkar tazminatına karar verilmesini talep ve dava etmiştir.",
+        "reasoning_text": "İlk Derece Mahkemesi 28/07/2022 tarih ve 2022/605 Esas sayılı Ara Kararı ile; \"Somut olayımızda; talep eden tarafça davalı ile aralarında dava dışı TRT personelinin servis taşımacılığının yapılması hususunda sözlü anlaşma yapıldığı, kendisine kararlaştırılan ücretin ödenmediği iddiası ile ihtiyati haciz talebi edilmiş ancak bu hususta yaklaşık ispata elverişli herhangi bir delil sunulmamıştır. Bu kapsamda davacı tarafından muaccel bir alacağın varlığı ve miktarı konusunda yaklaşık ispata elverişli herhangi bir delil sunulmaması sebebiyle ihtiyati haciz talebinin reddine dair aşağıdaki şekilde karar verilmiştir.\" gerekçeleri ile; \"1-İhtiyati haciz talebinin REDDİNE, ...\" karar verilmiş ve verilen karara karşı, davacı vekili tarafından istinaf kanun yoluna başvurulmuştur.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle: 1-Davacının istinaf başvurusunun 6100 sayılı HMK'nin 353/1-b-1 maddesi gereğince ESASTAN REDDİNE, 2-Harçlar Kanunu gereğince istinaf eden tarafından yatırılan istinaf kanun yoluna başvurma harcının hazinede gelir kaydına, 3-Karar tarihi itibarıyla Harçlar Kanunu gereğince alınması gereken 80,70 TL istinaf karar harcı istinaf eden tarafından peşin olarak yatırıldığından yeniden harç alınmasına yer olmadığına, yatırılan harçın hazinede gelir kaydına, 4-İstinaf yargılama giderlerinin istinaf talep eden üzerinde bırakılmasına, 5-Artan gider avansı varsa talep halinde avansı yatan tarafa iadesine, 6-Kararın ilk derece mahkemesince tarafa tebliği gönderilmesine, Dosya üzerinde yapılan inceleme sonucunda 24/11/2022 tarihinde HMK'nin 362/1-f maddesi gereğince kesin olarak ov hirlili ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nin 353/1-b-1 maddesi",
+            "Harçlar Kanunu",
+            "HMK'nin 362/1-f maddesi",
+            "İİK'nin 257. maddesi",
+            "İİK'nin 258.m. uyarınca",
+            "HMK'nin 355. maddesi"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir hizmet sözleşmesi çerçevesinde TRT personelinin servis hizmeti alımı ve ödemesi konusuyla ilgili bir ihtilaftır. Davacı vekili, davalı tarafından hizmet bedelinin ödenmediğini ve borçlunun mal kaçırma ihtimali bulunduğunu iddia ederek ihtiyati haciz talep etmiştir. İlk derece mahkemesi, davacı tarafından sunulan delillerin yetersiz olduğunu gerekçe göstererek talebi reddetmiştir. Davacı vekili ise bu kararı istinaf yoluyla itiraz etmiştir. İstinaf mahkemesi, ilk derece mahkemesinin kararının esaslı ve yasal olarak kusursuz olduğunu tespit ederek istinaf başvurusunu reddetmiştir.",
+    "summary_for_model": "Dava, TRT personelinin servis hizmeti alımı ve ödemesi konusuyla ilgili bir ihtilaftır. Davacı vekili, davalı tarafından hizmet bedelinin ödenmediğini ve borçlunun mal kaçırma ihtimali bulunduğunu iddia ederek ihtiyati haciz talep etmiştir. İlk derece mahkemesi, davacı tarafından sunulan delillerin yetersiz olduğunu gerekçe göstererek talebi reddetmiştir. İstinaf mahkemesi, HMK'nin 353/1-b-1 maddesi uyarınca davacının istinaf başvurusunu reddetmiştir. İstinaf kararının esaslı ve yasal olarak kusursuz olduğu tespit edilmiştir. İstinaf harcı ve giderler konusu da değerlendirilmiştir."
+}

@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2020_308.pdf",
+        "court_name": "T.C. İSTANBUL 2.FİKRÎ VE SINAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2020/308",
+        "karar_no": "2021/151",
+        "case_subject": "Marka Hakkına Tecavüzün Tesbiti, Önlenmesi, Kaldırılması, Maddi ve Manevi Tazminat",
+        "dava_tarihi": "21/09/2020",
+        "karar_tarihi": "23/03/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davayı müvekkili şirketin Instagram sayfasında markanın hak ihlali iddiasıyla açmıştır. Davacı, davayı 1.000 TL maddi ve 1.000 TL manevi tazminat talep etmiştir. Davalı vekili ise davayı reddetmiştir.",
+        "reasoning_text": "Mahkeme, davanın vekalet ücreti ve yargılama gideri eksikliği nedeniyle reddetmiştir. Davacı vekilinin vekaletnamesi incelenmiş ve davadan feragat yetkisi bulunmamıştır.",
+        "verdict_text": "HÜKÜM: Davanın vakı feragat nedeniyle REDDÎNE, Karar tarihinde yürürlükte bulunan Harçlar Tarifeşi uyarınca 54,40 TL karar harci pesin yatırıldığından yeniden alınmasına yer olmadığına, Davacı tarafından yapılan yargılama giderinin kendi üzerinde bırakılmasına, Davalı yanın vekalet ücreti ve yargılama gideri talebi bulunmadığına, Yatırılan gider avanslarından kullanılmayan kısmının talep halinde ve karar kesinleştiğinde yatıran tarafa iadesine, Daire, tarafların yokluğunda (HMK 345/1 md. gereğince) gerekli kararın tebliğinden itibaren 2 hafta içerisinde Mahkememize veya başka bir yer mahkemesine dilekçe ile başvurmak ve istinaf harci ile gerekli giderlerin tamamı ödenmek suretiyle, İstanbul Bölge Adliye Mahkemesine istinaf yolu açık olmak üzere verilen karar, açıkça okunup usulen anlatıldı. 23/03/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 307",
+            "HMK 309",
+            "HMK 310",
+            "HMK 345/1 md.",
+            "5070 sayılı elektronik imza kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davayı vekalet ücreti ve yargılama gideri eksikliği nedeniyle reddetmiştir. Davacı vekilinin vekaletnamesi incelenmiş ve davadan feragat yetkisi bulunmamıştır.",
+    "summary_for_model": "Dava, vekalet ücreti ve yargılama gideri eksikliği nedeniyle reddedildi. Davacı vekilinin vekaletnamesi incelenmiş ve davadan feragat yetkisi bulunmamıştır. Karar, HMK 307, 309, 310 ve 345/1 maddeleri ile 5070 sayılı elektronik imza kanunu çerçevesinde verilmiştir."
+}

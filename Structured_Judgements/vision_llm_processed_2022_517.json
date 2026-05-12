@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2022_517.pdf",
+        "court_name": "İstanbul 13. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2022/517",
+        "karar_no": "2023/347",
+        "case_subject": "İtirazın İptali (Hizmet Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "01/08/2022",
+        "karar_tarihi": "03/05/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; müvekkili şirketin otomotiv sektöründe araçların satışı ve satılan araçlara ilişkin servis ve onarım hizmeti işi ile işgal ettiği, davalı ...Ş'nin mülkiyetinde bulunan ... Plakalı, ... şase numaralı, 2016 model ... marka / model aracın servis bakım ve onarım işlemi için müvekkili şirket ... Oto Servis ve Ticaret A.Ş. ... şubesine 08.02.2021-14.12.2021 tarihlerinde teslim edildiği, Müvekkili şirkette araça ilişkin onarım faaliyetlerini eksiksiz olarak yerine getirdiği ve davalya 40.244,60-TL tutarından oluşan fatura kesildiği, davalının söz konusu faturayı kısmi ödeme yaparak bakiye 14.501,89-TL'lik kısım ödemediğinden aleyhine ... İcra Müdürlüğü 2022/... E sayılı dosyası ile ilamsız icra takibi yaptığını, davalının süresince borca itiraz ederek, takibin durduğunu ifade ederek, İtirazın İptali ile takibin devamını, Davalının %20'tan aşağı olmamak üzere tazminata hükmedilmesini, Yargılama masrafları ve vekalet ücretinin davalı üzerine bırakılmasını talep ve dava edilmiştir. Davalı vekili cevap dilekçesinde özet: Araç servise ilk kez o da 18/01/2021 tarihinde girmiş ve daha sonra mayıs-haziran gibi araç müvekkilce teslim alınmıştır. Eylül ayında ise aracın güncellenmesi için servis tarafından araç istemiş ve araç servise bu kez 23/11/2021 tarihinde 10 dakikalık bir güncelleme için gönderilmiş ve araç servisten 16/12/2021 tarihine kadar bir daha çıkmamıştır. Ancak; Araç ikinci kez 23/11/2021 tarihinde servise girmiş ve davacı tarafından aracın dosyası yıl sonu gelmesi nedeniyle kapatılmış ve araç müvekkilce teslim gibi gösterilmiş olup ancak araç servisten hiç çıkmamıştır.",
+        "reasoning_text": "Mahkeme, dava dosyasını incelediğinde; davacı tarafından davalı adına aynı hasara ilişkin olarak iki farklı fatura düzenlendiği, davacının düzenlediği bu iki farklı fatura tutarlarının da farklı olmasıının sebebinin kur farkı olduğu kanaatine varıldı. Ancak davacı tarafından davalı adına düzenlenen ilk faturanın davalıya bildirildiği ve taraflar arasında kur farkı için talepte bulunulabileceğine dair akdedilen bir sözleşme olmadığı, davacının davalıdan ikinci fatura nedeniyle bakiye alacak şekilde kur farkı alacağını talip edemeyeceği kanaatine varılarak takipti haksız olduğu anlaşıldı.",
+        "verdict_text": "HÜKÜM: Gerekçesi Yukarıda Açıklandığı Üzere;\n1-Davanın reddine,\n2-Karar tarihi itibarıyla alınması gereken 179,90-TL harcin peşin alınan 252,79-TL harctan mahsubu ile bakiye 72,89-TL harcin davacıya iadesine,\n6325 sayılı Hukuk Uyumluluklarında Arapülülük Kanunu'nun 18/A-14 maddesi ile Hukuk Uyumluluklarında Arapülülük Kanunu Yönetmeliği'nin 26.maddesine göre; Adalet Bakanlığı bütçesinden karşılanan 1.560,00-TL arabülülük ücretinin davacıdan tahsili ile hazineye gelir kaydına,\n3-Davacı tarafından yapılan yargılama giderlerinin davacı üzerine bırakılmasına,\n4-Kendini vekille temsil ettiren davalı lehine karar tarihinde yürürlükte bulunan AAÜT uyarınca 9.200,00-TL maktu vekalet ücretinin davacıdan alınarak davalıya verilmesine,\n5-Yatırılan avandan artan kısmın yatırana/ vekiline iadesine,\nDair, davacı vekili ve davalı vekilinin yüzüne karşı, miktar itibarıyla KESİN olmak üzere verilen karar açıkça okunup usulen anlatıldı. 03/05/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "2004 sayılı İİK maddesi 67",
+            "6100 Sayılı HMK'nın 304. Maddesi",
+            "5070 sayılı yasanın 5. Ve 22. Maddeleri",
+            "6325 sayılı Hukuk Uyumluluklarında Arapülülük Kanunu'nun 18/A-14 maddesi",
+            "Hukuk Uyumluluklarında Arapülülük Kanunu Yönetmeliği'nin 26.maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı tarafından davalı adına düzenlenen iki farklı fatura tutarının kur farkından kaynaklandığını tespit etti. Ancak davacı tarafından davalı adına düzenlenen ilk faturanın davalıya bildirildiği ve taraflar arasında kur farkı için talepte bulunulabileceğine dair akdedilen bir sözleşme olmadığı için, davacının davalıdan ikinci fatura nedeniyle bakiye alacak şekilde kur farkı alacağını talep edemeyeceği kararı verildi. Sonuç olarak dava reddedildi ve davacıya harç iadesi, davalıya vekalet ücreti ve avans iadesi hükmedildi.",
+    "summary_for_model": "Mahkeme, davacı tarafından davalı adına düzenlenen iki farklı fatura tutarının kur farkından kaynaklandığını tespit etti. Davacı tarafından davalı adına düzenlenen ilk faturanın davalıya bildirildiği ve taraflar arasında kur farkı için talepte bulunulabileceğine dair akdedilen bir sözleşme olmadığı için, davacının davalıdan ikinci fatura nedeniyle bakiye alacak şekilde kur farkı alacağını talep edemeyeceği kararı verildi. Davanın reddine, davacıya harç iadesi, davalıya vekalet ücreti ve avans iadesi hükmedildi. İİK maddesi 67, HMK'nın 304. Maddesi, 5070 sayılı yasanın 5. Ve 22. Maddeleri, Arapülülük Kanunu'nun 18/A-14 maddesi ve Arapülülük Kanunu Yönetmeliği'nin 26.maddesi esas olarak kullanıldı."
+}

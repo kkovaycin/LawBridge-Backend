@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2022_289.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2022/289",
+        "karar_no": "2024/633",
+        "case_subject": "Marka Hukuksuzluğu",
+        "dava_tarihi": "25/11/2021",
+        "karar_tarihi": "29/03/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkillerinin 2013'ten beri zeyin yetiştiriciliği yaptığını, ürettiği zeyin ve zeytinyağını belirli markalarla markaladığını iddia etmiştir. Davalılar ise 2020'de aynı markanın ticari olarak kullanıldığını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, dava konusu markanın davacı markaları ile ilişkilendirilme ihtimali dahil kısırlama ihtimalinin bulunmadığını, dolayısıyla dayalı hukuksuzluk koşullarının oluşmadığını ve SMK'nın 6/5 maddesi koşullarının da bulunmadığını gerekçe olarak vermiştir.",
+        "verdict_text": "1-Davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ES ASTAN REDDİNE, 2-Alınması gereken 427,60 TL maktu istinaf karar ve ilam harcından, davacı tarafından istinaf başvurusunda yatırılan 59,30 TL istinaf karar ve ilam harcının mahsubu ile kalan 368,30 TL bakiye harcin davacidan tahsili ile Hazineye irat kaydına, 3-İstinaf aşamasında davacı tarafından yapılan yargılama giderlerinin kendi uhdesinde bırakılmasına, 4-İstinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda oybirliği ile 29/03/2024 tarihinde HMK 361. maddesi uyarınca kararın tebliğiğinden itibaren iki hafta içerisinde TEMYİZ yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK'nın 355. maddesi",
+            "6100 sayılı HMK'nın 361. maddesi",
+            "6769 sayılı SMK'nın 6/1 maddesi",
+            "6769 sayılı SMK'nın 6/5 maddesi",
+            "HMK'nın 353/1-b.1 maddesi"
+        ]
+    },
+    "summary_for_human": "Ankara Bölge Adliyesi, davacı ve davalı arasındaki marka hukuksuzluğu davasında, davacı vekilinin istinaf başvurusunu reddetmiştir. Mahkeme, markaların birbirine benzerliği ve kısırlama ihtimalinin bulunmadığını gerekçe olarak vermiştir.",
+    "summary_for_model": "Bu karar, marka hukuksuzluğu davasında ilk derece mahkemesinin kararını temyiz yoluyla inceleyen yüksek mahkemede verilmiştir. Davacı vekilinin istinaf başvurusu reddedilmiştir. Temel gerekçeler, markaların benzerliği ve kısırlama ihtimalinin bulunmadığıdır."
+}

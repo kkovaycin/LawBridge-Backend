@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2024_1379.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2021/1567 Esas",
+        "karar_no": "2023/1087 Karar",
+        "case_subject": "Marka (Maddi Tazminat İstemi)",
+        "dava_tarihi": "11/03/2021",
+        "karar_tarihi": "13/07/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, müvekkilin uzun yıllardır bayan giymek tekstil alanında faaliyet gösteren bir firma olduğu, tüm marka ve endüstriyel tasarımlarını mevzuatın öngördüğü şekilde TPMK nezdinde tescil ettiğini iddia etmiştir. Davacı, müvekkilin aynı sektörde müvekkilin herhangi bir bilgi ve izni olmadan tescilli ve seri marka statüsündeki 2 adet \"...\"ve 1 adet \"...\"unvanını ve logosunu kullanarak faaliyet gösterdiğini, bu kapsamda davalların aleyhine Bursa 3. Aslıye Hukuk Mahkemesi'nin 2018/10 D.iş sayılı dosyası ile birlikli vastasyla tespit yapılarak rapor alındığını, alınan rapor ile birlikte ihlal tespit edildiğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacının dava konusu marka tescillerinde esas unsur olarak yer alan \"...\"ibaresini davacının marka tescilleri öncesi kullandığını, ibare üzerinde üstün hak sahibi olduğunu, davacının sonraki tarihli marka tescillerine dayalı markaya tecavüz iddiasının dinlenemeyeceğini, üstün hak sahipliği dikkate alındığında uzun süreli sessiz kalmaya dayalı hak kaybı iddiasının değerlendirilmesini gerektiren bir hususun bulunmadığını gerekçesiyle davacının davasının reddine karar vermiştir.",
+        "verdict_text": "İstanbul 2.Fıkri ve Sınai Haklar Hukuk Mahkemesi'nin 11/03/2021 tarihli 2018/240 E. - 2021/129 K. sayılı kararıyla; \"...davacının dava konusu marka tescillerinde esas unsur olarak yer alan \"...\"ibaresini davacının marka tescilleri öncesi kullandığı, ibare üzerinde üstün hak sahibi olduğu, davacının sonraki tarihli marka tescillerine dayalı markaya tecavüz iddiasının dinlenemeyeceği, üstün hak sahipliği dikkate alındığında uzun süreli sessiz kalmaya dayalı hak kaybı iddiasının değerlendirilmesini gerektiren bir hususun bulunmadığı\"gerekçesiyle davacının davasının reddine karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemesi Kanunu (HMK) 353 ve 356. maddeleri",
+            "Türk Patent ve Marka Kanunu (TPMK)",
+            "Tüketicinin Hakları Kanunu (TükHakK)",
+            "Marka Kanunu (MarkaK)"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkilin tescilli markaları kullanmak için hak sahibi olmadığını iddia etti. Mahkeme, davacının üstün hak sahipliği nedeniyle davasını reddetti.",
+    "summary_for_model": "Davacı, müvekkilin tescilli markaları kullanmak için hak sahibi olmadığını iddia etti. Mahkeme, davacının üstün hak sahipliği nedeniyle davasını reddetti. Davacı, müvekkilin tescilli markaları kullanmak için hak sahibi olmadığını iddia etti."
+}

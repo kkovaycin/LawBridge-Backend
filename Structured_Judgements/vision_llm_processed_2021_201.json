@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2021_201.pdf",
+        "court_name": "İstanbul Anadolu 2. Fikrî ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/201",
+        "karar_no": "2021/640",
+        "case_subject": "Marka (Tecavüzün Ref'i İstemli), (Maddi Tazminat İstemli)",
+        "dava_tarihi": "25/03/2021",
+        "karar_tarihi": "25/03/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davacıya ait ticari markaların kullanılması ve internet sitelerinde hak ihlali iddia etmiştir. Mahkeme, ticari markaların kullanılması ve internet sitelerindeki hak ihlali iddialarını değerlendirmiştir.",
+        "reasoning_text": "Mahkeme, ticari markaların kullanılması ve internet sitelerindeki hak ihlali iddialarını SMK 155/1. maddesi çerçevesinde inceleyerek, davacı vekilinin iddialarının haklı olduğunu tespit etmiştir.",
+        "verdict_text": "Gerekçesi ayrıntılı kararda açıklanmıştır. Davacı vekilinin istinaf başvurusu kısmen kabul edilmiştir. Davacı yanının itirazı kısmen kabul edilmiştir. İstinaf talebi kısmen kabul edilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 155/1. maddesi",
+            "HMK 353/1-b-2 maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin ticari markaların kullanılması ve internet sitelerindeki hak ihlali iddialarını kabul ederek istinaf başvurusunu kısmen kabul etmiştir.",
+    "summary_for_model": "Mahkeme, ticari markaların kullanılması ve internet sitelerindeki hak ihlali iddialarını SMK 155/1. maddesi çerçevesinde inceleyerek davacı vekilinin iddialarını haklı bulmuştur. İstinaf başvurusu kısmen kabul edilmiştir."
+}

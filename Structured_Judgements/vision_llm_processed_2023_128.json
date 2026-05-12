@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_128.pdf",
+        "court_name": "T.C. İZMİR FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2023/128 Esas",
+        "karar_no": "2024/145",
+        "case_subject": "Marka Hakkindan Kaynaklanan",
+        "dava_tarihi": "24/08/2023",
+        "karar_tarihi": "10/09/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; müvekkilinin ticaret unvanını tescil ettiğini, markanın ticari kullanımını ve davalının hak ihlalini iddia etmiştir. Davacı, davalının markayı kullanmakta olduğunu iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacının iddialarını değerlendirerek davayı kabul etmiştir. Markanın ticari kullanımının ihlal edildiğini ve davalının markayı kullanmakta olduğunu tespit etmiştir.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere; 1-Davacının davasının kabulüyle; davalının davacıya ait markayı ihlal ettiğinin tespitine, davalının kullanmakta olduğu \"...\" markasının unvan olarak kullandığı tüm ürün, afiş, broşür vs. materyaller ile internet siteleri, sosyal medyada kullanmasının yasaklanmasına, 2-Davalının ticaret unvanında kullanılan ... markasının karar kesinleştiğinde İzmir Ticaret Sicil Müdürlüğüne müzekkere yazılmasına, 3-Alınması gereken 427,60 TL harcin davacı tarafından peşin olarak yatırılan 269,85 TL harçtan mahsubıyla eksik harçın davalından alınarak hazaneye irat kaydına, davacı tarafından peşin olarak yatırılan 269,85 TL harçın davalından alınıp davacı tarafa verilmesine, 4-Davacı duruşmada kendisini vekil ile temsil ettiğinden AAÜT.'ne göre hesap ve takdir edilen 25.500 TL vekalet ücretinin davalından alınarak davacıya verilmesine, 5-Davacı tarafından yapılan 8362,80TL yargılama giderinin davalından alınarak davacı tarafa ödünmesine, 6-Davalı tarafından yapılan yargılama gideri bulunmadığından bu hususta karar tesisine yer olmadığına, 7-Kalan ve kullanılmayan gider avanslarının karar kesinleştiğinde ve talep halinde ilgili yanlara iadesine, Dair, hazır bulunan taraf vekillerinin yüzlerine karşı ve gerekli hükmün tebliginden itibaren 2 hafta süre içinde, İzmir Bölge Adliye Mahkemesi ilgili Hukuk Dairesi nezdiinde İstinaf yasa açık olmak üzere, mahkememizce yapılan açık yargılama neticesinde verilen karar usulen okunup anlatıldı.10/09/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sı SMK",
+            "149.maddesi",
+            "7.maddesi",
+            "29.maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacının markasını ihlal ettiğini iddia ettiği davalının davasını kabul etmiştir. Davacıya ait markanın ticari kullanımının ihlal edildiğini tespit edilmiştir.",
+    "summary_for_model": "Mahkeme, davacının markasını ihlal ettiğini iddia ettiği davalının davasını kabul etmiştir. Markanın ticari kullanımının ihlal edildiğini ve davalının markayı kullanmakta olduğunu tespit etmiştir."
+}

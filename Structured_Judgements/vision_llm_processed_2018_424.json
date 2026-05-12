@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2018_424.pdf",
+        "court_name": "T.C. İstanbul Anadolu 7. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2018/424",
+        "karar_no": "2019/391",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "27/05/2016",
+        "karar_tarihi": "02/04/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekilinin Twitter hesabında 'tecavüzcü destekçisi olduğu' iddiasıyla haksız ve hukuka aykırı ithamlarda bulunduğunu iddia ediyor. Davacı, davalıya ait bir linkten paylaşılan ekran görüntüsünde 'tecavüzcü destekçisi' ifadesinin mahkemeye sunulduğunu belirtiyor. Davacı, bu eylemin davalıya ait küçük düşürücü ifadelerle mali olarak zarar verdiğini iddia ediyor.",
+        "reasoning_text": "Mahkeme, davanın TTK 55. maddesine dayanarak haksız rekabet nedeniyle açılan manevi tazminat talebini kabul etti. Davanın sosyal ağ hesabındaki ifadelerin TTK 55. maddesine uygun olduğu ve davanın ekonomik durumunun dikkate alındığı belirtildi. Mahkeme, davanın manevi zararını gidermek için tazminat miktarını belirledi.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Davanın KİSMEN KABUL, KİSMEN REDDİNE, 2-2000 TL. manevi tazminat bedelinin dava tarihinden itibaren işleyecek yasal faiziyle birlikte davalıdan tahsili ile davacıya ödünmesine, 3-Fazlada dair istemin REDDİNE, 4-Harçlar Kanunu uyarınca alınması gerekli 136,62 TL. harcin peşin alınan 170,78 TL. Harçtan mahsubu ile fazladan alınan 34,16 TL. Harçın talep halinde karar kesinleştiğinde davacıya iadesine, 5-Davacı tarafından yapılan toplam 338,42 TL. Yargılama giderinden red/kabul oranına göre 67,68 TL.sinin davalıdan alınarak davacıya verilmesine, bakiye giderin davacı üzerinde bırakılmasına, 6-Hüküm tarihindeki AAÜT uyarınca kabul edilen manevi tazminat yönünden 2.000,00 TL. vekalet ücretinin davalıdan alınarak davacıya verilmesine, 7-Hüküm tarihindeki AAÜT uyarınca reddedilen manevi tazminat yönünden 2.000,00 TL. Vekalet ücretinin davacıdan alınarak davalıya verilmesine, 8-HMK 333 ve gider avansı tarifesinin 5. maddesi gereğince gider avansının kullanılmayan kısmının kararın kesinleşmesinden sonra ve talebi halinde davacı tarafa iadesine, Kararın taraflara tebliğinden itibaren 2 hafta içinde İstinaf yoluna başvurma yolu açık olmak üzere verilen karar taraf vekillerinin yüzlerine karşı açıkça okunup anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 55",
+            "Harçlar Kanunu",
+            "HMK 333"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacının sosyal ağda 'tecavüzcü destekçisi' ifadesiyle davalıya haksız rekabet nedeniyle açtığı davayı kısmen kabul etti. Davacıya 2.000 TL. manevi tazminat ve vekalet ücreti verildi. Davalıdan alınan harçlar iade edildi.",
+    "summary_for_model": "Mahkeme, TTK 55. maddesine dayanarak davacının manevi tazminat talebini kısmen kabul etti. Davacıya 2.000 TL. manevi tazminat ve vekalet ücreti verildi. Davalıdan alınan harçlar iade edildi. Davanın sosyal ağ ifadelerinin haksız rekabet olarak değerlendirildiği belirtildi."
+}

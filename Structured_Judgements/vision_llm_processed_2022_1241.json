@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_1241.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2021/366 E.",
+        "karar_no": "2022/1347",
+        "case_subject": "Marka (Marka Hakkına Tecavüzden Kaynaklanan)",
+        "dava_tarihi": "01/06/2022",
+        "karar_tarihi": "06/10/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının markasını kullanmakla suçladı. Davalının markası, 2002'den beri ticari olarak kullanılıyor ve kablo sektöründe tanınmıştı. Davacı, davalının markasını sosyal medya ve çevrimiçi mağazalarda kullanmasının, markasını kötüye kullanmakla suçladığını iddia etti.",
+        "reasoning_text": "Mahkeme, davalının markasını kullanmasının, markanın tanınmışlığını kötüye kullanmakla suçlandığını tespit etti. Davalının markasını kullanmasının, markanın tanınmışlığını kötüye kullanmakla suçlandığını ve davalının markasını kötüye kullanmasının, davacıya zarar verdiğini tespit etti.",
+        "verdict_text": "İstanbul 2. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 01/06/2022 tarihli ve 2021/366 E. sayılı kararının esastan reddine, 492 Sayılı Harçlar Kanunu gereğince alınması gereken 80,70 TL maktu istinaf kararı ve ilam harcı peşin alındığından yeniden harç alınmasına yer olmadığına, talep eden davacı tarafından istinaf aşamasında yapılan yargılama giderlerinin üzerlerinde bırakılmasına, incelemenin duruşsız olarak yapılması sebebiyle taraflara vekalet ücreti tayinine yer olmadığına, karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin İlk Derece Mahkemesine yer getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi hükmü gereğince dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/1-f ve 394/(5). maddeleri gereğince, KESİN olmak üzere oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "492 Sayılı Harçlar Kanunu",
+            "6769 Sayılı Sınai Mülkiyet Kanunu"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, davacı vekilinin istinaf talebini reddetti. Davacı, davalının markasını kötüye kullanmakla suçladı. Mahkeme, davalının markasını kullanmasının, markanın tanınmışlığını kötüye kullanmakla suçlandığını tespit etti.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, davacı vekilinin istinaf talebini reddetti. Davacı, davalının markasını kötüye kullanmakla suçladı. Mahkeme, davalının markasını kullanmasının, markanın tanınmışlığını kötüye kullanmakla suçlandığını tespit etti. Davacı vekili, davalının markasını kullanmakla suçladı. Davalının markası, 2002'den beri ticari olarak kullanılıyor ve kablo sektöründe tanınmıştı. Davacı, davalının markasını sosyal medya ve çevrimiçi mağazalarda kullanmasının, markasını kötüye kullanmakla suçladığını iddia etti."
+}

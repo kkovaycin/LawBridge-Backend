@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_2158.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2022/2158",
+        "karar_no": "2022/1675",
+        "case_subject": "İhtiyati tedbir talebi ve marka hak ihlali",
+        "dava_tarihi": "02/11/2022",
+        "karar_tarihi": "30/12/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekili olarak hareket eden bir şirketin, \"kuafor salonu hizmetleri ve bir kısım kozmetik ürünler\" markasını kullanmak için 01.04.2008 tarihli sözleşmeyle yetkilendirildiğini iddia ediyor. Davacı, bu markanın 15.06.2022'de feshedildiğini ancak fesih ihbarının ardından davalının markayı internet ve sosyal medyada kullanmaya devam ettiğini belirtiyor. Davacı, bu durumun hak ihlali olarak değerlendirilmesini ve internet sitelerinin engellenmesini talep ediyor.",
+        "reasoning_text": "Mahkeme, dava konusu markanın 01.04.2008 tarihli sözleşmeyle kullanıldığını ancak tek taraflı fesih yetkisi olmadığından veya fesih haklı veya haksız olmadığından karar verilemediğini tespit ediyor. Davacı'nın marka lisansı verme sözleşmesini feshettiğini iddia etse de, bu fesih haklı veya haksız olup olmadığının tartışılması gerekiyor. Mahkeme, davacı'nın talebini reddederek, dava konusu markanın kullanım haklarının ihlal edildiğini tespit edemediğini açıklıyor.",
+        "verdict_text": "Gerekçesi yukarıda belirtilmiş olduğu üzere;\n1-İhtiyati tedbir isteyen vekilin istinaf başvurusunun HMK'nün 353/1-b.1 maddesi gereğince ES ASTAN REDDİNE,\n2-İhtiyati tedbir isteyenden alınması gereken harç istinaf başvurusunda peşin olarak yatırılan harçtan mahsubu ile başkaca harç alınmasına yer olmadığına,\n3-İstinaf aşamasında ihtiyati tedbir isteyen tarafından yapılan yargılama giderlerinin uhdesinde bırakılmasına,\n4-İstinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına,\n5-Kararın tebliğ ve harç işlemlerinin yerel mahkeme tarafından yaptırılmasına dair,\nDaır, dosya üzerinde yapılan inceleme sonucunda oybirliği ile 30/12/2022 tarihinde HMK 362/1-f maddesi uyarınca KESİN olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353/1-b.1",
+            "HMK 389",
+            "HMK 390/3",
+            "HMK 362/1-f"
+        ]
+    },
+    "summary_for_human": "Davacı, bir şirketin markasını kullanmak için yetkilendirildiğini iddia ediyor ve davalının bu markayı internet ve sosyal medyada kullanmaya devam ettiğini iddia ediyor. Mahkeme, davacı'nın talebini reddederek, dava konusu markanın kullanım haklarının ihlal edildiğini tespit edemediğini açıklıyor.",
+    "summary_for_model": "Davacı, vekili olarak hareket eden bir şirketin markasını kullanmak için yetkilendirildiğini iddia ediyor. Davacı, bu markanın internet ve sosyal medyada kullanıldığını iddia ediyor. Mahkeme, davacı'nın talebini reddederek, dava konusu markanın kullanım haklarının ihlal edildiğini tespit edemediğini açıklıyor."
+}

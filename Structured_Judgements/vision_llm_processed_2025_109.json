@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2025_109.pdf",
+        "court_name": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2025/109",
+        "karar_no": "2025/276",
+        "case_subject": "Tespit (D.İş)",
+        "dava_tarihi": "15/11/2024",
+        "karar_tarihi": "13/02/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının markasını kullanmak için yetkili şirkete ait markayı tecavüz ettiğini iddia etmiştir. Davacı, davalının markasını kullanmak için yetkili şirkete ait markayı kullanmakla suçlamıştır.",
+        "reasoning_text": "Mahkeme, davacının iddiasını kabul etmiş ve davalının markasını kullanmak için yetkili şirkete ait markayı kullanmakla suçlamıştır. Mahkeme, davacının iddiasını kabul etmiş ve davalının markasını kullanmak için yetkili şirkete ait markayı kullanmakla suçlamıştır.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklanmıştır. 1-Karşı taraf vekilinin ilk derece mahkemesi kararına karşı istinaf başvurusunun 6100 sayılı HMK'nun 341/4. maddesi delaletyle 6100 Sayılı HMK'nun 352/1-b. maddesi gereğince USULDEN REDDİNE, 2- istinaf talebinin esası incelemediğinden karşı taraf vekili tarafından peşin olarak yatırılan istinaf karar ve ilam harcının talebi halinde yatırana iaadesine, 3- 6100 Sayılı HMK'nun 326/1 maddesi gereğince karşı taraffa yapılan istinaf yargılama giderlerinin kendi üzerinde BİRAKILMASININA, 4- 6100 Sayılı HMK'nun 330. maddesi gereğince inceleme duruşmasız yapıldığından vekalet ücreti tayinine YER OLMADIĞINA, 5- 6100 Sayılı HMK'nun 333. maddesi gereğince peşin alınan ve harcanmayan gider avansının ilk Derece Mahkemesine İADESİNE, 6- 6100 sayılı HMK'nun 7035 sayılı yasanın 30. maddesiyle değişik 359/3 maddesi gereğince kararın kesin olması nedeniyle ilk derece mahkemesince taraf vekillerine TEBLİĞİNE, Dair, 6100 Sayılı HMK'nun 352/1-b. maddesi gereğince dosya üzerinde yapılan ön inceleme sonucunda, 6100 Sayılı HMK'nun 362/1-a. maddesi gereğince kesin olmak üzere oy birliğiyle karar verildi. 13/02/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı HMK'nun 341/4. maddesi",
+            "6100 Sayılı HMK'nun 352/1-b. maddesi",
+            "6100 Sayılı HMK'nun 326/1 maddesi",
+            "6100 Sayılı HMK'nun 330. maddesi",
+            "6100 Sayılı HMK'nun 333. maddesi",
+            "6100 sayılı HMK'nun 7035 sayılı yasanın 30. maddesiyle değişik 359/3 maddesi",
+            "6100 Sayılı HMK'nun 362/1-a. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markasını kullanmak için yetkili şirkete ait markayı tecavüz ettiğini iddia etmiştir. Mahkeme, davacının iddiasını kabul etmiş ve davalının markasını kullanmak için yetkili şirkete ait markayı kullanmakla suçlamıştır.",
+    "summary_for_model": "Davacı, davalının markasını kullanmak için yetkili şirkete ait markayı tecavüz ettiğini iddia etmiştir. Mahkeme, davacının iddiasını kabul etmiş ve davalının markasını kullanmak için yetkili şirkete ait markayı kullanmakla suçlamıştır."
+}

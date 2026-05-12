@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2021_1300.pdf",
+        "court_name": "İstanbul Anadolu 2. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/1300",
+        "karar_no": "2021/1680",
+        "case_subject": "Marka (Marka Hükmüsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "14/04/2021",
+        "karar_tarihi": "06/10/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dilekçesinde, davaya ait markanın müvekkiline ait şekil markaları ve bu şekil esas unsur olarak içeren markalarla 6769 Sayılı SMK'nun 5 ve 6. maddeleri kapsamında benzer olup bu markanın tescil ve kullanımının tüketici nezdiğinde iltisaba yol açtığını iddia etmiştir. Davacı vekili ayrıca davanın markanın 3. kişilere devrinin önlenmesi ve müvekkili şirketin Sınai Mülkiyet Hakkına tecavüz ve haksız rekabet oluşturduğu iddiasını öne sürmüştür.",
+        "reasoning_text": "Mahkeme, HMK 353. ve 356. maddeleri gereğince dosyanın duruşma yapılmasına gerek görülmemesi nedeniyle dosyanın üzerinde yapılan inceleme sonucunu temel alarak karar vermiştir. Davacı vekilinin taleplerinin reddedilmesi, davanın markanın tescilinin ve kullanımının durdurulması ve önlenmesi taleplerinin reddedilmesi ve davanın markanın 3. kişilere devrinin önlenmesi taleplerinin reddedilmesi ile sonuçlanmıştır.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlere; 1-Davacı vekilinin istinaf talebinin HMK'nun 353/1-b-1 maddesi uyarınca ESASIAN REDDİNE, 2-Harc peşin alınığından yeniden narç alınmasına yer olmadığına, 3-İstinaf yargılama giderlerinin davacı üzerinde bırakılmasına, 4-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dosya üzerinde yapılan inceleme sonucunda oy birliği ile HMK'nun 362/1-f maddesi uyarınca kesin olarak karar verildi. 06/10/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 356",
+            "6769 Sayılı SMK",
+            "HMK 362/1-f"
+        ]
+    },
+    "summary_for_human": "Davacı, davaya ait markanın müvekkiline ait şekil markaları ve bu şekil esas unsur olarak içeren markalarla 6769 Sayılı SMK'nun 5 ve 6. maddeleri kapsamında benzer olup bu markanın tescil ve kullanımının tüketici nezdiğinde iltisaba yol açtığını iddia etmiştir. Mahkeme, HMK 353. ve 356. maddeleri gereğince dosyanın duruşma yapılmasına gerek görülmemesi nedeniyle dosyanın üzerinde yapılan inceleme sonucunu temel alarak karar vermiştir.",
+    "summary_for_model": "Davacı vekili, davaya ait markanın müvekkiline ait şekil markaları ve bu şekil esas unsur olarak içeren markalarla 6769 Sayılı SMK'nun 5 ve 6. maddeleri kapsamında benzer olup bu markanın tescil ve kullanımının tüketici nezdiğinde iltisaba yol açtığını iddia etmiştir. Mahkeme, HMK 353. ve 356. maddeleri gereğince dosyanın duruşma yapılmasına gerek görülmemesi nedeniyle dosyanın üzerinde yapılan inceleme sonucunu temel alarak karar vermiştir. Davacı vekilinin taleplerinin reddedilmesi, davanın markanın tescilinin ve kullanımının durdurulması ve önlenmesi taleplerinin reddedilmesi ve davanın markanın 3. kişilere devrinin önlenmesi taleplerinin reddedilmesi ile sonuçlanmıştır."
+}

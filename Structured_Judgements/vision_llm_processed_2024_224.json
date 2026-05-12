@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2024_224.pdf",
+        "court_name": "T.C. İstanbul Anadolu 6. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2023/935",
+        "karar_no": "2024/229",
+        "case_subject": "Kiymetli Evrak İptali (Bono İptali)",
+        "dava_tarihi": "22/12/2023",
+        "karar_tarihi": "26/03/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davayı iptal talebiyle açtı. Davacı, davalı ile Instagram üzerinden iletişime geçtiğini, aylık 30.000,00 TL bedel üzerinden araç kiralamak için anlaşıklarını, davalı tarafından aracı verdiğinden dolayı boş olarak iki adet senet imzaladığını, bir adetinin ekte sunulan belgesi verdiğini, diğerinin akibetinin belli olmadığını, senetleri boş ve meblâgsız imzaladığını iddia etti. Davalı, senet iptali ve istidat talebini reddetti.",
+        "reasoning_text": "Davacı, senet iptali ve istidat talebini savundu. Davacı, davayı açmadan önce arabuluculuk yoluna başvurmadığını, davayı açmadan önce arabuluculuk son tutanağının bulunmadığını, davacı tarafından arabuluculuk son tutanağının bulunmadığını iddia etti. Davacı, davanın 6325 sayılı Kanun 18/A-2 maddesine göre dava şartı yokluğundan usulden reddine karar verildiğini savundu.",
+        "verdict_text": "1-Davacının davasının arabuluculuk dava şartı yokluğundan USULDEN REDDİNE, 2-Alınması gerekli 427,60 TL harçtan davacı tarafından peşin olarak yatırılan 269,85 TL harçın mahsubu ile 157,75 TL bakiye harçın davacıdan tahsili ile hazineye iad kaydına, 3-Davacının yaptığı yargılama giderlerinin üzerinde bırakılmasına, 4-Davalı tarafça sarfedilen yargılama gideri olmadığından bu konuda karar verilmesine yer olmadığına, 5-Davacı tarafından yatırılan gider avansından artan kısmın HMK. 333.maddesi gereğince karar kesinleşikten sonra yatırına iadesine"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "7445 Sayılı Kanun 31. Maddesi",
+            "6102 sayılı Türk Ticaret Kanunu'na eklenen 5/A-1. maddesi",
+            "6325 sayılı Kanun 18/A-2 maddesi",
+            "HMK. 333.maddesi",
+            "HMK 345/1"
+        ]
+    },
+    "summary_for_human": "Davacı, davayı iptal talebiyle açtı. Davacı, davalı tarafından aracı verdiğinden dolayı boş olarak iki adet senet imzaladığını iddia etti. Davacı, davayı açmadan önce arabuluculuk yoluna başvurmadığını savundu. Mahkeme, davanın arabuluculuk dava şartı yokluğundan usulden reddine karar verdi.",
+    "summary_for_model": "Davacı, davayı iptal talebiyle açtı. Davacı, davalı tarafından aracı verdiğinden dolayı boş olarak iki adet senet imzaladığını iddia etti. Davacı, davayı açmadan önce arabuluculuk yoluna başvurmadığını savundu. Mahkeme, davanın arabuluculuk dava şartı yokluğundan usulden reddine karar verdi. Davacı tarafından yatırılan gider avansından artan kısmın HMK. 333.maddesi gereğince karar kesinleşikten sonra yatırına iadesine karar verildi."
+}

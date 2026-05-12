@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2025_64.pdf",
+        "court_name": "İstanbul Anadolu 1. Fıkri ve Sanat Hakları Hukuk Mahkemesi",
+        "esas_no": "2025/64",
+        "karar_no": "2025/319",
+        "case_subject": "Tazminat (Fikir Ve Sanat Eserleri Sahipliğinden Kaynaklanan)",
+        "dava_tarihi": "13/11/2024",
+        "karar_tarihi": "27/02/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, dava dilekçesinde özetle; müvekkilin 2022'de tiyatro oyunu yazma izni aldığını, ancak izinsiz olarak oyunun yayınlanmasına dahil olduğunu iddia etmiştir. Müvekkil, oyunun yayınlanmasında yer almış ve bu durumun FSEK kanunu ihlali olarak değerlendirilmiştir.",
+        "reasoning_text": "Mahkeme, FSEK 68/1 ve 70 maddeleri çerçevesinde, müvekkilin oyunun ortak yazarı olarak yer alması durumunda manevi hak ihlali yapıldığını tespit etmiştir. Ayrıca, FSEK 78 maddesine göre hüküm tiraji yüksek 3 gazetede ilan edilmesi talep edilmiştir.",
+        "verdict_text": "İLK DERECE MAHKEMESİNİN KARARI: İlk derece mahkemesinin 13/11/2024 tarihli ara kararında; \"Tüm dosya kapsamı ile dava konusu somut olayda, yaklaşık ispatın sağlanamadığı, uyumazlığın yargılamağı gerektirdiği ve tarafların birlikte eser sahibi olduğu hususu nazara alınarak; Davacının ihtiyati tedbir talebinin REDDİNE,\" karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "FSEK 68/1",
+            "FSEK 70",
+            "FSEK 78",
+            "FSEK 52",
+            "FSEK 66",
+            "FSEK 69"
+        ]
+    },
+    "summary_for_human": "Mahkeme, müvekkilin tiyatro oyununun ortak yazarı olarak yer alması durumunda manevi hak ihlali yapıldığını tespit ederek dava konusu somut olamayacağı için ihtiyati tedbir talebini reddetmiştir.",
+    "summary_for_model": "Karar, FSEK kanunu çerçevesinde müvekkilin oyunun ortak yazarı olarak yer alması durumunda manevi hak ihlali yapıldığını tespit etmiştir. İhtiyati tedbir talebi reddedilmiş ve hüküm tiraji yüksek 3 gazetede ilan edilmesi talep edilmiştir."
+}

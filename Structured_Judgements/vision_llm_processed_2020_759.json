@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2020_759.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2017/371",
+        "karar_no": "2022/676",
+        "case_subject": "İtirazın İptali (Ticari Nitelikteki Hizmet Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "25/09/2018",
+        "karar_tarihi": "02/06/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesi ile, müvekkil ile davalı taraf arasında imzalanan reklam sözleşmesi ile ilgili, iş bu sözleşme gereği müvekkil şirket, davalı tarafın onayladığı planlar doğrultusunda reklamların yayınlanması için aracılık işini üstlendiği, buna karşılık davalı tarafın ise müvekkil firmaca düzenlenen ordinalara uygun olarak ödemeyi gerçekleştirmesi gerektiği, taraflar arasındaki sözleşme gereği, müvekkil aracılık faaliyetini yerine getirdiği, bunun sonucunda da 25.11.2016 tarihli 11.800,00-TL bedelli 1 adet fatura kesildiği, davalı taraf sözleşmeye aykırı davranarak fatura bedelini ödemediğinden davalı hakkında takip başlatıldığı, davalı'nın takibe itiraz ettiği, takibin devamı ve davalı'nın %20 den az olmamak üzere icra inkâr tazminatı ile sorumlu tutulmasına karar verilmesini talep ve dava etmiştir.",
+        "reasoning_text": "Mahkeme, davalı yanın yetkiye ilişkin itirazının taraflar arasındaki sözleşmenin 11. maddesi gereğince mahkeme mez yetkili kılınmak reddine, davalı yanın göreve ilişkin itirazının ise; dava ticari niteliği olmakla, TTK 4 ve 5. maddeleri gereğince reddine karar verilerek dosyanın esastan incelenme geçilmemiştir. Mahkeme tarafından verilen ve belirlenen sektör bilgisinin de katıldığı raporla sözleşme konusunun hazastan yerine getirilmediği görülmüştür. Davacı vekili her ne kadar kantılanamayan kısım yönünden islah dilekçesiyle talebin daraltılması yönünde islah talebinde bulunmuş ise de; mahkememize talebin daraltılmasına ilişkin islah kısmı feragat olarak kabul edilmiştir.",
+        "verdict_text": "Davalı yan, yetkiye ilişkin itirazının taraflar arasındaki sözleşmenin 11. maddesi gereğince mahkeme mez yetkili kılınmak reddine, davalı yanın göreve ilişkin itirazının ise; dava ticari niteliği olmakla, TTK 4 ve 5. maddeleri gereğince reddine karar verilerek dosyanın esastan incelenme geçilmemiştir. Mahkeme tarafından verilen ve belirlenen sektör bilgisinin de katıldığı raporla sözleşme konusunun hazastan yerine getirilmediği görülmüştür. Davacı vekili her ne kadar kantılanamayan kısım yönünden islah dilekçesiyle talebin daraltılması yönünde islah talebinde bulunmuş ise de; mahkememize talebin daraltılmasına ilişkin islah kısmı feragat olarak kabul edilmiştir. İzah edilen nedenlerle mahkememize icra edilen yargılama ve tekmil dosya mündericatından edilen vicdani kanaat gereğince; davanın kısmen kabulü ile; İstanbul ... İcra Müdürlüğü'nün ... esas sayılı takip dosyası ile davacının davalıdan 7.336,06 TL alacak olduğu tespiti ile bu miktara ilişkin itirazın iptaline, bu miktara takipten itibaren aylık %3 akdi faiz uygulanmak üzere takipin diğer kayıt ve şartlarla aynı devamına, fazlaya ilişkin istemin reddine\" karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "TTK 4 ve 5. maddeleri",
+            "Hukuk Muhakemeleri Kanunu 353. Maddesi",
+            "Hukuk Muhakemeleri Kanunu 355. ve 357. maddeleri",
+            "Hukuk Muhakemeleri Kanunu 362/1.a maddesi",
+            "Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı ile imzalanan reklam sözleşmesi nedeniyle ödenmeyen fatura bedelini talep etmiştir. Mahkeme, davalı'nın yetkiye ve göreve ilişkin itirazlarını reddetmiş ve davalı'nın %20'lik icra inkâr tazminatı ödemesine hüküm vermiştir.",
+    "summary_for_model": "Davacı, davalı ile imzalanan reklam sözleşmesi nedeniyle ödenmeyen fatura bedelini talep etmiştir. Mahkeme, davalı'nın yetkiye ve göreve ilişkin itirazlarını reddetmiş ve davalı'nın %20'lik icra inkâr tazminatı ödemesine hüküm vermiştir. Davacı vekili, kantılanamayan kısım yönünden islah talebinde bulunmuştur."
+}

@@ -1,0 +1,36 @@
+{
+    "meta_data": {
+        "file_name": "2020_712.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2017/313",
+        "karar_no": "2022/427",
+        "case_subject": "İcra iptali ve icra inkar tazminatı",
+        "dava_tarihi": "01/02/2014",
+        "karar_tarihi": "06/04/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde; davalı ile müvekkili şirketin \"...\" ve \"...\" hesaplarının yönetimi işinin yapılmasına karşılık KDV dahil 45.430-TL ödenmesi konusu anlaşmaları, müvekkilin söz konusu anlaşmadan doğan edimlerini tam ve gereği gibi yerine getirdiğini ancak davalının kendi edimini yerine getirmediğini iddia etmiştir.",
+        "reasoning_text": "İlk Derece Mahkemesi kararı, davacı vekili tarafından itiraz edilmiş ve dava konusu faturaların davalı tarafından kabul edilmemesi nedeniyle dava konusu olarak değerlendirilmiştir. Davacı vekili, davalı vekilinin itiraz dilekçesinde davalı vekilinin davayı kabul etmesi ve icra iptali talebini reddetmesi gerektiğini iddia etmiştir.",
+        "verdict_text": "İkinci Derece Mahkemesi kararı, davacı vekilinin itiraz dilekçesinde davalı vekilinin davayı kabul etmesi ve icra iptali talebini reddetmesi gerektiğini iddia etmiştir. Davacı vekilinin itiraz dilekçesinde davalı vekilinin davayı kabul etmesi ve icra iptali talebini reddetmesi gerektiğini iddia etmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "492 Sayılı Harçlar Kanunu",
+            "Türk Ticaret Kanunu",
+            "Türkiye Ticaret Sicili",
+            "Harçlar Kanunu",
+            "Hukuk Muhakemeleri Kanunu",
+            "Ticaret Kanunu",
+            "Ticaret Kanunu",
+            "Harçlar Kanunu",
+            "Hukuk Muhakemeleri Kanunu",
+            "Harçlar Kanunu",
+            "Ticaret Kanunu",
+            "Harçlar Kanunu",
+            "Hukuk Muhakemeleri Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davalı vekilinin davayı kabul etmesi ve icra iptali talebini reddetmesi gerektiğini iddia etmiştir. İkinci Derece Mahkemesi kararı, davacı vekilinin itiraz dilekçesinde davalı vekilinin davayı kabul etmesi ve icra iptali talebini reddetmesi gerektiğini iddia etmiştir.",
+    "summary_for_model": "Davacı vekili, davalı vekilinin davayı kabul etmesi ve icra iptali talebini reddetmesi gerektiğini iddia etmiştir. İkinci Derece Mahkemesi kararı, davacı vekilinin itiraz dilekçesinde davalı vekilinin davayı kabul etmesi ve icra iptali talebini reddetmesi gerektiğini iddia etmiştir."
+}

@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2022_1193.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2022/1193",
+        "karar_no": "2022/1601",
+        "case_subject": "Marka (Marka Hükmüsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "05/10/2022",
+        "karar_tarihi": "05/10/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, davacı vekilinin talep ettiği markanın davacı tarafından ihmal edildiğini ve davacı vekilinin markayı kötüye kullandığını iddia ediyor. Davacı vekili, markanın internet sitelerinde, reklamlarında ve sosyal medyada kullanıldığını iddia ediyor.",
+        "reasoning_text": "Mahkeme, Hüküm Yetkileri Kanunu (HMK) 355. maddesine dayanarak, dava konusu markanın davacı tarafından kötüye kullanıldığını ve davacı vekilinin markayı ihmal ettiğini tespit etti. Mahkeme ayrıca, dava konusu markanın davacı tarafından kötüye kullanıldığını ve davacı vekilinin markayı ihmal ettiğini tespit etti.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Davacı vekilinin istinaf talebinin HMK'nun 353/1-b1 maddesi uyarınca ESASTAN REDDİNE, 2-Harc peşin alındığından yeniden alınmasına yer olmadığına, 3-Davacı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, 4-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dosya üzerinde yapılan inceleme sonucunda oy birliği ile HMK'nun 362/1-f maddesi uyarınca kesin olarak karar verildi.05/10/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 355",
+            "HMK 353/1-b1",
+            "HMK 362/1-f",
+            "SMK 5-b ve c maddesi",
+            "SMK 155. Maddesi",
+            "SMK 159. maddesi",
+            "6100 sayılı HMK'nın 389. Maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin markayı kötüye kullandığını ve ihmal ettiğini tespit etti. Davacı vekilinin istinaf talebi reddedildi ve dava sonucunda markanın davacı tarafından kötüye kullanıldığı tespit edildi.",
+    "summary_for_model": "Mahkeme, HMK 355. maddesine dayanarak davacı vekilinin markayı kötüye kullandığını ve ihmal ettiğini tespit etti. Davacı vekilinin istinaf talebi reddedildi ve dava sonucunda markanın davacı tarafından kötüye kullanıldığı tespit edildi."
+}

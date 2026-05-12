@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2020_725.pdf",
+        "court_name": "T.C. İZMİR 3. AŞLİYE TİCARET MAHKEMESİ",
+        "esas_no": "2018/152 Esas",
+        "karar_no": "2021/258",
+        "case_subject": "Alacak (Ticari Satımdan Kaynaklanan)",
+        "dava_tarihi": "06/02/2018",
+        "karar_tarihi": "18/03/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, davalı şirketin 06.10.2016 tarihli sözleşme gereğince davalının işletmesini açık tutarak çalıştırmadığını, kapatmadığını ve işletme ruhsatını almadan başkalarına devir ve temlik etmediğini iddia etmiştir. Davalı vekili ise davacı vekilinin iddialarını reddetmiştir.",
+        "reasoning_text": "Mahkeme, davalı şirketin davacı vekilinin iddialarını kabul etmediğini ve davacı vekilinin iddialarının kanıtlanmadığını tespit etmiştir. Davalı şirketin davacı vekilinin iddialarını reddetmesi ve davacı vekilinin iddialarının kanıtlanmaması nedeniyle davacı vekilinin taleplerinin reddedildiğini kararlaştırmıştır.",
+        "verdict_text": "DAVANIN KISMEN KABULÜ İLE; 15.000 USD'nin cezai şartı dava tarihinden itibaren en yüksek döviz mevduat faizi ile birlikte fili ödeme tarihindeki Merkez Bankası döviz satış kuru üzerinden TL karşılığı davalı davalı ... Restoran İşletmeciliği Ltd. Şti.' den alınarak, davacıya verilmesine, 75.000,00 TL katkı tutarının dava tarihinden itibaren işleyecek avans faizi ile birlikte davallardan mütessilen alınarak davacıya verilmesine, Alınması gereken 8.991,91-TL harçtan peşin alınan 3.207,16-TL harçın mahsubu ile bakiye 5.784,75-TL harçın davalıdan alınarak hazineye gelir kaydına, Peşin harç için yapılan 3.207,16-TL yargılama giderinin davalıdan alınarak davacıya verilmesine, Dosya da yapılan 2.319,86-TL yargılama giderinin davalıdan alınarak davacıya verilmesine, Davacı kendisini bir vekil ile temsil ettiğinden hükmün tarihindeki AAÜT gereğince 16.455,23-TL vekalet ücretinin davalıdan alınarak davacıya verilmesine, Karar kesinleştiğinde ayrıca karar yazılmaya gerek görülmeden artan gider avansının derhal davacıya iadesine, Dair; davacı vekili ile davalı vekilinin yüzüne karşı, gerekli kararın tebliğiyle birlikte 2 haftalık süre içerisinde mahkememize ya da başka bir yer mahkemesine dilekçe ile başvurmak ve istinaf harci ile gerekli giderlerin tamamını ödemek suretiyle İzmir Bölge Adliye Mahkemesi nezdinde istinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı.18/03/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 18. Maddesi",
+            "TTK 64. Maddesi",
+            "VUK 219. Maddesi",
+            "6100 sayılı Hukuk Muhakemeleri Kanunu 43/2 Maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davalı şirketin davacı vekilinin iddialarını reddetmesi ve davacı vekilinin iddialarının kanıtlanmaması nedeniyle davacı vekilinin taleplerini kısmen kabul ederek 15.000 USD cezai şart ve 75.000 TL katkı tutarını davalı şirkete ödemeye zorladı.",
+    "summary_for_model": "Mahkeme, davalı şirketin davacı vekilinin iddialarını reddetmesi ve davacı vekilinin iddialarının kanıtlanmaması nedeniyle davacı vekilinin taleplerini kısmen kabul ederek 15.000 USD cezai şart ve 75.000 TL katkı tutarını davalı şirkete ödemeye zorladı. Davacı vekilinin vekalet ücreti ve yargılama giderleri de davalı şirkete ödenmeye zorlandı."
+}

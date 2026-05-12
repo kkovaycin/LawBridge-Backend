@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2020_466.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "...",
+        "karar_no": "...",
+        "case_subject": "Marka tecavüz ve haklı reket iddiası",
+        "dava_tarihi": "12/11/2019",
+        "karar_tarihi": "29/12/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı şirketin markalarını kullanmakla suçlandı. Davacı, davalı vekilinin markaları kullanmasının davalı şirketin markalarıyla ilgili bir tecavüz oluşturduğunu iddia etti. Davalı vekili ise, davalı şirketin markalarını kullanmadığını savundu.",
+        "reasoning_text": "Mahkeme, davalı vekilinin davalı şirketin markalarını kullanmasının davalı şirketin markalarıyla ilgili bir tecavüz oluşturmadığını tespit etti. Davalı vekilinin davalı şirketin markalarını kullanmasının davalı şirketin markalarıyla ilgili bir tecavüz oluşturmadığı için dava reddedildi.",
+        "verdict_text": "1-Davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ES ASTAN REDDİNE, 2-Alınması gereken 59,30 TL maktu istinaf karar ve ilam harcından, davacı tarafa istinaf başvurusunda yatırılan 54,40 TL istinaf karar ve ilam harcının mahsubu ile bakiye, 4,90 TL'nin davacıdan tahsili ile hazinede irat kaydına, 3-Istinaf aşamasında davacı tarafından yapılan yargılama giderlerinin davacı üzerinde bırakılmasına, 4-Istinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına, Dosya üzerinde yapılan inceleme sonucunda oybirliği ile 02/12/2021 tarihinde HMK 361. maddesi uyarınca kararın tebliğiğinden itibaren iki hafta içerisinde Yargıtay temyiz yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 7. ve 29. Maddeleri",
+            "TTK 54 vd maddeleri",
+            "HMK'nın 353/1-b.1 maddesi",
+            "HMK 361. maddesi",
+            "HMK'nın 355. madde hükmü"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davalı şirketin markalarını kullanmakla suçlandı. Mahkeme, davalı vekilinin davalı şirketin markalarını kullanmasının davalı şirketin markalarıyla ilgili bir tecavüz oluşturmadığını tespit etti ve dava reddedildi.",
+    "summary_for_model": "Davacı vekili, davalı şirketin markalarını kullanmakla suçlandı. Mahkeme, davalı vekilinin davalı şirketin markalarını kullanmasının davalı şirketin markalarıyla ilgili bir tecavüz oluşturmadığını tespit etti ve dava reddedildi. İstinaf başvurusu reddedildi."
+}

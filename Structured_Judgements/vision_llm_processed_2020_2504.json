@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2020_2504.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2019/38 E. - 2020/112 K.",
+        "karar_no": "2024/B1",
+        "case_subject": "Marka (Marka Hakkına Tecavüzden Kaynaklanan)",
+        "dava_tarihi": "13/02/2020",
+        "karar_tarihi": "18/01/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, müvekkilin 2014 yılı Ağustos ayından beri genel merkezi İstanbul ili ... İlçesi ... hariye Mevlevihanesi'nde bulunan İnsan ve Medeniyet Hareketi Derneği'nde genel sekreter yardımcısı olarak çalıştığını, aynı zamanda 2017 yılı bahar yılında İstanbul Üniversitesi Sosyal bilimler Enstitüsü Sivil toplum kuruluşları ve sosyal Sorumluluk yönetimi Yüksek Lisans Programına dahil olup, eğitim almaya başladığını, bu eğitim sırasında ... isimli hocanın öğretim görevlisi olduğu Kurumsal Sosyal Sorumluluk dersinde proje geliştirme ödevi verildiğini ve müvekkili tarafından \"...\" isimli proje müvekkili tarafından oluşturulduğunu, \"...\" isimli projenin çocukların hayallerini gerçekleştirmek için tüm illerde 9-15 yaş aralığındaki çocukların tanınması ve hayallerinin gerçekleştirilmesi için oluşturulmuş bir proje olduğunu belirtmiştir.",
+        "reasoning_text": "İstanbul 2. Fikri ve Sınaî Haklar Hukuk Mahkemesi'nin ilk derece kararının istinaf yoluyla itiraz edilmesi üzerine yapılan inceleme sonucunda, dava davacı vekili tarafından sunulan iddiaların ve savunmaların incelenmesi sonucunda, davacı tarafından müvekkilin izni ve bilgisi dışında \"...\" isimli projenin kullanıldığı ve markaya tecavüz edildiği iddia edilmiştir. Mahkeme, davacı tarafından sunulan delillerin yetersiz olduğunu ve davanın reddine karar verdiğini açıklamıştır.",
+        "verdict_text": "İstanbul 2. Fikri ve Sınaî Haklar Hukuk Mahkemesi'nin 13/02/2020 tarih ve 2019/38 E., 2020/112 K. sayılı kararının davacı vekili tarafından istinaf talebinin 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b.1. maddesi gereğince ES ASTAN REDDİNE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gereken 427,60 TL maktu istinaf karar ve ilam harcından peşin yatırılan 54,40 TL harcin mahsubu ile bakiye 373,20 TL harcin davacıdan tahsiliyle Hazineye gelir kaydedilmesine, 3-Davacı tarafından istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, 4-İncelemenin duruşmasız olarak yapılması sebebiyle taraflarca yatırılan gider avansından harçnamayan kısmın karar kesinleştiğinde iadesine, 5-Taraflarca yatırılan gider avansından harçnamayan kısmın karar kesinleştiğinde iadesine, Dosya üzerinde yapılan inceleme sonucunda, 20/07/2017 tarih ve 7035 Sayılı Kanunun 31. maddesiyle değişik 6100 Sayılı HMK'nın 361/1. maddesi gereğince, kararın tebliğinden itibaren 2 hafta içerisinde Yargıtay'a temyiz başvurusunda bulunma yolu açık olmak üzere, oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "2-492 Sayılı Harçlar Kanunu",
+            "7035 Sayılı Kanun",
+            "6769 Sayılı Sınai Mülkiyet Kanunu",
+            "6102 Sayılı Ticaret Kanunu"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, davacı vekili tarafından sunulan istinaf talebini reddetmiştir. Davacı, müvekkilin izni ve bilgisi dışında \"...\" isimli projenin kullanıldığını ve markaya tecavüz edildiğini iddia etmiştir. Mahkeme, davacı tarafından sunulan delillerin yetersiz olduğunu ve davanın reddine karar vermiştir.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, davacı vekili tarafından sunulan istinaf talebini reddetmiştir. Davacı, müvekkilin izni ve bilgisi dışında \"...\" isimli projenin kullanıldığını ve markaya tecavüz edildiğini iddia etmiştir. Mahkeme, davacı tarafından sunulan delillerin yetersiz olduğunu ve davanın reddine karar vermiştir. Davacı vekili tarafından sunulan iddiaların ve savunmaların incelenmesi sonucunda, davanın reddine karar verilmiştir."
+}

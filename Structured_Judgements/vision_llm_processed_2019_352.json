@@ -1,0 +1,32 @@
+{
+    "meta_data": {
+        "file_name": "2019_352.pdf",
+        "court_name": "T.C. İSTANBUL 1.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2019/352",
+        "karar_no": "2021/431",
+        "case_subject": "Endüstriyel Tasarım tecavüzü ve haklı rekabetin tesbiti, maddi ve manevi tazminat davası",
+        "dava_tarihi": "01/11/2019",
+        "karar_tarihi": "15/12/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının @... Instagram sayfasında ve http://... internet sitesinde tescilsiz tasarımını kullanarak satışı yaptığını iddia etmiştir. Bilirkişi raporları, tasarımın tecavüzünün tespit edilmesini sağlamıştır. Davalının ticari defterlerinde ve kayıtlarında tasarımın satışı ile ilgili bilgi bulunmamaktadır.",
+        "reasoning_text": "Mahkeme, tasarımın yeni ve ayırt edici niteliğe sahip olduğunu ve davalının tasarımını kullanmakla hak ihlali yaptığını tespit etmiştir. SMK 151/2-a maddesine göre maddi ve manevi tazminat talep edilmiştir. Davacı, tasarımın ticari değerinin hesaplanması için raporlar sunmuştur.",
+        "verdict_text": "Dava, tasarım hakkına tecavüzün ve haklı rekabetin tesbitine, önlenmesine, maddi ve manevi tazminat istemlerine ilişkindir. Davalının davacıya ait tasarım hakkına tecavüzünün ve haklı rekabetin tesbiti, önlenmesi, maddi ve manevi tazminat istemek için dava açılması talep edilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 151/2-a",
+            "SMK 56",
+            "SMK 58",
+            "SMK 59",
+            "SMK 81",
+            "SMK 149",
+            "SMK 151",
+            "TBK 50",
+            "TBK 51/I",
+            "TBK 50/II"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davalının tasarımını kullanmakla hak ihlali yaptığını tespit ederek maddi ve manevi tazminat kararı vermiştir. Tasarımın yeni ve ayırt edici niteliği ve ticari değeri dikkate alınmıştır.",
+    "summary_for_model": "Dava, tasarım hakkına tecavüz ve haklı rekabet iddialarıyla ilgilidir. Mahkeme, tasarımın yeni ve ayırt edici olduğunu ve davalının tasarımını kullanmakla hak ihlali yaptığını tespit etmiştir. SMK 151/2-a maddesine göre maddi ve manevi tazminat talep edilmiştir."
+}

@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_1299.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2022/1299",
+        "karar_no": "2022/1453",
+        "case_subject": "Marka İtibarı Kaybi Nedeniyle Tazminat İstemli",
+        "dava_tarihi": "21/09/2022",
+        "karar_tarihi": "21/09/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialara göre davacı vekili, davacı firmanın müvekkili şirketi markasıyla ihlal ettiğini iddia etmiştir. Müvekkili şirketin internet sitesine erişim engeli, satışların durdurulması ve markanın internet ortamındaki kullanımının durdurulması talep edilmiştir.",
+        "reasoning_text": "Mahkeme, davacı vekilinin istinaf talebini reddetmiştir. İstinaf talebinin HUKUK MUHAKEMELERİ KANUNU'nun 353/1-b-1 maddesi uyarınca esastan reddine karar verilmiştir.",
+        "verdict_text": "Dava vekilinin istinaf talebinin HUKUK MUHAKEMELERİ KANUNU'nun 353/1-b-1 maddesi uyarınca ESAS TAN REDDİNE, Harç peşin alındığından yeniden alınmasına yer olmadığına, Davalı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dosya üzerinde yapılan inceleme sonucunda oy birliği ile HUKUK MUHAKEMELERİ KANUNU'nun 362/1-f maddesi uyarınca kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HUKUK MUHAKEMELERİ KANUNU (HMK)",
+            "HUKUK MUHAKEMELERİ KANUNU 353/1-b-1",
+            "HUKUK MUHAKEMELERİ KANUNU 362/1-f"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin istinaf talebini reddetmiştir. Talep edilen marka ihlali iddiaları ve istinaf talebinin reddi, HUKUK MUHAKEMELERİ KANUNU'nun ilgili maddeleri uyarınca kararlaştırılmıştır.",
+    "summary_for_model": "Dava vekilinin istinaf talebi HUKUK MUHAKEMELERİ KANUNU'nun 353/1-b-1 maddesi uyarınca esastan reddedildi. Karar, HMK 362/1-f maddesi uyarınca kesin olarak verildi."
+}

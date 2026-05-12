@@ -1,0 +1,33 @@
+{
+    "meta_data": {
+        "file_name": "2021_1215.pdf",
+        "court_name": "İstanbul Anadolu 9. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2016/1227",
+        "karar_no": "2019/1320",
+        "case_subject": "Haksız Rekabet Tesbiti ve Onlenmesi ile Manevi Tazminat",
+        "dava_tarihi": "24/12/2019",
+        "karar_tarihi": "29/02/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilinin İtalya merkezli global şirketler topluluğu olan ... ait olduğunu ve ticari cihazlar vb ürünlerin saklanması ve stoklanması gibi hizmetlerin Türkiye'deki faaliyetlerini yönettiğini iddia etmiştir. Davalı Sendikanın diğer davalının önderliğinde yaklaşık 1 aydır müvekkilinin Tuzla'daki deposunu önünde yasa dışı eylemler organize ederek icra ettiği, kurdukları çadırda sergilenen afiş ve ilanlarla müvekkiline ve yöneticilerine yönelik kötüleyici ve karalayıcı açıklamalarla bulunduklarını, müvekkilinin en önemli müşterisi olan dava dışı ... firmasına asılsız, gerçek dışı bildirimlerde bulunarak müvekkilini müşterisi nezdiğinde haksız yere kötülemek suretiyle ticari itibarina yönelik olarak TTK 55/1(a),(1)'de tanımlanmış haksız rekabet teşkil eden eylemde bulunduğunu iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davalı Sendikanın başkanı olan diğer davalı ...'ın davacı şirkette 01/05/2016 tarihinde işe başladığı ancak sonradan sendika üyesi ve yöneticisi olması sebebiyle işten çıkarıldığını, ayrıca dava dışı başka bir işçinin de sendikal olduğu için iş akdine son verildiğini, bu hususta İstanbul Anadolu 23. İş Mahkemesi'nde sendikal tazminat talepli iki dava açıldığını; müvekkillerin eylem ve protestolarının hiçbiri şiddet içermediği gibi yasal sınırları aşmadığını; anayasal kaynaklı bulunan toplantı ve gösteri ile sendikal hakların kullanımından ibaret olduğunu; müvekkillerin sendikanın kuruluş nedeni ve amacına uygun şekilde gerçekleştirdiği eylemlerin Anayasa, AİHS ve diğer uluslararası sözleşmeler kapsamında güvençeye alınmış hakların kullanımı olarak değerlendirilmesini ve davacının tazminat taleplerinin reddinin gerektiğini; ifadelerin gerçek olması durumunda haksız rekabetin varlığından söz edilemeyeceğini ve TTK 55/1(a), (1) anlamında haksız rekabet koşullarının oluşmayacağını; davacı şirketin iş yaptığı firmanın isminin açıklanmasının ticari sır olmadığından, TTK 55(d)'ye göre haksız rekabet koşuları bulunmadığını; müvekkili sendikanın davacı şirketin rakibi olmadığından, TTK 55(e) kapsamında haksız rekabetten söz edilemeyeceğini; davacının talep ettiği manevi tazminatın afaki ve fahiş olduğunu belirterek, davanın reddine karar verilmesini istemiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle: Davalar vekilinin istinaf başvurusunun HMK 353(1)b-1 uyarınca ES ASTAN REDDİNE,Alınması gereken 427,60-TL istinaf karar harcından peşin yatırılan 170,80-TL harcin mahsubu ile kalan 256,80-TL harcin davallardan alınarak Hazine'ye gelir kaydına,Davalar tarafından yapılan giderlerin üzerinde bırakılmasına, Davacı tarafından yapılan 22-TL istinaf yargı giderinin davallardan alınarak davaciya verilmesine, Gerekenli kararın bir örneğinin taraf vekillerine tebliği, HMK'nun 361/1. maddesi uyarınca kararın tebliği tarihinden itibaren iki hafta içinde temyiz yoluna başvurulabileceğine, dosya üzerinde yapılan inceleme sonucunda oy birliğiyle karar verildi.29/02/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 55/1(a),(1)",
+            "TTK 55/d",
+            "TTK 55/e",
+            "TTK 54/2",
+            "Anayasa",
+            "AİHS",
+            "Türk Medeni Kanunu",
+            "TMK 50",
+            "TBK 58",
+            "HMK 353(1)b-1",
+            "HMK 361/1"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı sendikanın başkanı olan diğer davalı ...'ın davacı şirkette çalıştığı sırada sendika üyesi olarak işten çıkarıldığını ve dava dışı başka bir işçinin de sendikal olduğu için iş akdine son verildiğini iddia ediyor. Mahkeme, davalı sendikanın sosyal medya hesaplarında davacı şirket ve yöneticilerine yönelik kötüleyici açıklamalar yapıldığını ancak bu açıklamaların haksız rekabet oluşturmadığını ve davacının manevi tazminat talebinin reddedilmesi gerektiğini karar verdi.",
+    "summary_for_model": "Davacı vekili, davalı sendikanın başkanı olan diğer davalı ...'ın davacı şirkette çalıştığı sırada sendika üyesi olarak işten çıkarıldığını ve dava dışı başka bir işçinin de sendikal olduğu için iş akdine son verildiğini iddia ediyor. Mahkeme, davalı sendikanın sosyal medya hesaplarında davacı şirket ve yöneticilerine yönelik kötüleyici açıklamalar yapıldığını ancak bu açıklamaların haksız rekabet oluşturmadığını ve davacının manevi tazminat talebinin reddedilmesi gerektiğini karar verdi. Davalı sendikanın eylemleri TTK 55/1(a),(1) kapsamında haksız rekabet teşkil etmediği için davanın reddine karar verildi."
+}

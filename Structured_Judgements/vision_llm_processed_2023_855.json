@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2023_855.pdf",
+        "court_name": "2. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2023/805",
+        "karar_no": "2023/989",
+        "case_subject": "Kooperatif Ortaklığına Karşı Bilgi Alma ve İnceleme Talebi",
+        "dava_tarihi": "20/11/2023",
+        "karar_tarihi": "27/12/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, Ticari Şirket (Bilgi Alma Ve İnceleme Hakki İhlali) davası açmıştır. Davacı, Kooperatifin 18 Eylül 2022 tarihli Olağanüstü Genel Kurulunda alınan kararlar ve yönetim kurulu üyelerinin sorumluluğunun araştırılması için tetkik komisyonu kurulması kararının iptali talep etmiştir. Davacı, yönetim kurulu üyelerinin görev almadığını ve profesyonel destek alınmadığını iddia etmiştir. Davacı, 11 Ağustos 2022 tarihli Yönetim Kurulu Kararının bir kopyasını alma talebinde bulunmuştur. Davacı, bu talebin reddedildiğini ve hak ihlali iddiası ile dava açmıştır.",
+        "reasoning_text": "Mahkeme, davacının talebini reddetmiştir. Mahkeme, Kooperatifler Kanunu'nun 98. Maddesi ve Türk Ticaret Kanunu'nun 437. Maddesi çerçevesinde bilgi alma hakkının sınırlı olduğunu ve davacının talebinin kanuna uygun olmadığını tespit etmiştir. Mahkeme, davacının talebinin Medeni Kanun'un 2. ve 3. Maddeleri ile çeliştiğini ve hak ihlali iddiasının kabul edilemez olduğunu belirtmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davanın reddine, 2-Harc peşin alındığından yeniden alınmasına YER OLMADIĞINA, 3-Davalı kendisini vekil temsil ettirdiğinden hükmün tarihinde yürülükte bulunan A.A.Ü.T'ye göre belirlenen 17.900,00 TL vekalet ücretinin davacından alınarak davalya ÖDENMESİNE, 4-Davacının yaptığı yargılama giderlerinin üzerinde bırakılmasına, kullanılmayan gider avansının karar kesinleştiğinde ve istek halinde davacıya İADESİNE, Dair, davacı asıl ve davalı vekilinin yüzüne karşı kesin olarak oy birliği ile verilen karar açıkça okunup usulen anlatıldı. 27/12/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Kooperatifler Kanunu",
+            "Türk Ticaret Kanunu",
+            "Medeni Kanun"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacının kooperatifin yönetim kurulu kararının bir kopyasını alma talebini reddetmiştir. Mahkeme, bu talebin Kooperatifler Kanunu ve Türk Ticaret Kanunu çerçevesinde sınırlı olduğunu ve davacının hak ihlali iddiasının kabul edilemez olduğunu belirtmiştir. Davacı, kooperatifin yönetim kurulu üyelerinin görev almadığını ve profesyonel destek alınmadığını iddia etmiştir. Mahkeme, davacının talebinin Medeni Kanun ile çeliştiğini ve hak ihlali iddiasının kabul edilemez olduğunu tespit etmiştir.",
+    "summary_for_model": "Davacı, Kooperatifler Kanunu'nun 98. Maddesi ve Türk Ticaret Kanunu'nun 437. Maddesi çerçevesinde bilgi alma ve inceleme talebiyle dava açmıştır. Mahkeme, talebin kanuna uygun olmadığını ve davacının hak ihlali iddiasının kabul edilemez olduğunu tespit etmiştir. Davacı, yönetim kurulu üyelerinin görev almadığını ve profesyonel destek alınmadığını iddia etmiştir. Mahkeme, davacının talebini reddetmiştir."
+}

@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_301.pdf",
+        "court_name": "T.C. ANKARA 3. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/301",
+        "karar_no": "2021/361",
+        "case_subject": "Marka ve ticari faaliyetler ile ilgili dava",
+        "dava_tarihi": "19/10/2021",
+        "karar_tarihi": "20/10/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, ticari faaliyetlerde kullanılan \"Mobilya\" markasının \"Mobilya Luxury\" ile benzerlik ve kafa karışıklığı oluşturduğunu iddia etmiştir. Davacı, markanın web sitesi ve Instagram hesabında kullanıldığını, aynı ticari faaliyetlerin aynı tüketiciye hitap ettiğini ve markaların ayırt edilemezliğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davaların birleşmesi gerektiğini, davaların birleşmesiyle ilgili esashakemelik avantajı olduğunu ve davaların birleşmesiyle ilgili talebin kabul edildiğini belirtmiştir. Mahkeme ayrıca, davaların birleşmesiyle ilgili esashakemelik avantajı olduğunu ve davaların birleşmesiyle ilgili talebin kabul edildiğini belirtmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Mahkememin bu dosyasının bağlantılı bulunduğu Ankara ...Fikri ve Sınaî Haklar Hukuk Mahkemesi'nin ... esas sayılı dosyasıyla birleştirilmesine, 2-Mahkememin 2021/301 esas sayısının bu şekilde kapatılmasına, bundan sonraki tüm işlemlerin birleştirilen dosya üzerinden yürütülmesine, 3-Harc, masraf ve vekalet ücretinin asıl dosya içinde ele alınmasına, Tarafların yokluğunda, dosya üzerinde yapılan inceleme sonunda esas hükmü birlikte istinaf kabul olmak üzere tensiben karar verildi. 20/10/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı SMK'nin 25. maddesi",
+            "6769 sayılı Yasanın 151/1 ve 151/2-b maddeleri",
+            "149/1-c ve 150 maddeleri"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davaların birleşmesi gerektiğini ve davaların birleşmesiyle ilgili talebin kabul edildiğini belirtmiştir. Davacı, ticari faaliyetlerde kullanılan \"Mobilya\" markasının \"Mobilya Luxury\" ile benzerlik ve kafa karışıklığı oluşturduğunu iddia etmiştir.",
+    "summary_for_model": "Mahkeme, davaların birleşmesi gerektiğini ve davaların birleşmesiyle ilgili talebin kabul edildiğini belirtmiştir. Davacı, ticari faaliyetlerde kullanılan \"Mobilya\" markasının \"Mobilya Luxury\" ile benzerlik ve kafa karışıklığı oluşturduğunu iddia etmiştir. Mahkeme ayrıca, davaların birleşmesiyle ilgili esashakemelik avantajı olduğunu belirtmiştir."
+}

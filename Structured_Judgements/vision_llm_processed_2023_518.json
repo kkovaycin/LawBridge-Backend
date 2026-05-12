@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2023_518.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2023/518",
+        "karar_no": "2023/741",
+        "case_subject": "Markanın hükmüsüzlüğü ve Markaya Tecavüzden Kaynaklanan İhtiyati Tedbir Talebinin Reddi",
+        "dava_tarihi": "06/09/2022",
+        "karar_tarihi": "04/05/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın müvekkilinin ana markası olan ibaresini içerdiğini, davanın müvekkilinin tescilli markası kapsamındaki mal ve hizmetlerle ilgili alanda faaliyet gösterdiğini, müvekkilinin ticaret ünvanında ibaresinin sicil kayıtları ile korunduğunu, davanın tescilli markasının müvekkilinin daha önce koruma altına alınmış markalı ile iltisab yarattığını, markanın müvekkili ile özdeşleştiğini, davanın markasının sonraki tarihte tescil edildiği gibi müvekkili markası ile aynı şekilde TV ibaresi öne çıkarılıp büyütülerek ve vurgulanarak kullanıldığını, kullanım görsellerinin sunulduğunu, tescilli markanın kullanım şeklinin değiştirilip tescilli başka bir markaya yaklaştırılıp iltisab oluşturacak şekilde kullanımının tecavüz oluşturduğunu belirterek markanın devrinin önlenmesi için tedbir kararı verilmesini talep etmiştir.",
+        "reasoning_text": "İstanbul Anadolu 2. Fıkri ve Sınai Haklar Hukuk Mahkemesi'nin 06.09.2022 tarihli ara kararı ile, HMK 389. Maddesi gereğince taraf teşkili açısından, dava konusu tescilli markanın tescil belgesi, davalı adına tescilli ise dava sonuçlandıncaya kadar 3 kişilere devir ve temlikinin önlenmesi yönünde ihtiyati tedbir konulmasına, müvekkiline ait markaların izinsiz kullanımının dava sonunda tamamen durdurulmasına yönelik ihtiyati tedbir talebinin, davalı markasının tescilli olması ve tescilli markanın kullanımının tedbir yolu ile engellenemeyeceği HMK'nın 389 Madde şartlarına uymadığı gerekçesiyle bu yöndeki talebin reddine karar verilmiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Davacı vekilinin istinaf talebinin HMK'nun 353/1-b1 maddesi uyarınca ESASTAN REDDİNE, 2-Alınması gereken 179,90-TL harçtan, peşin alınan 80,70-TL harcin mahsubu ile bakiye 99,20-TL harçın davacıdan alınarak hazineye irat kaydına, 3-Davacı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, 4-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonunda, oy birliğiyle kesin olarak karar verildi.04/05/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 389",
+            "TPMK"
+        ]
+    },
+    "summary_for_human": "Davacı, davanın müvekkilinin markasını kullanmasının tecavüz oluşturduğunu iddia ederek markanın devrinin önlenmesi için tedbir talep etmiştir. Mahkeme, HMK 389. Maddesi uyarınca talebin reddine karar vermiştir.",
+    "summary_for_model": "Davacı vekili, davanın müvekkilinin markasını kullanmasının tecavüz oluşturduğunu iddia ederek markanın devrinin önlenmesi için tedbir talep etmiştir. Mahkeme, HMK 389. Maddesi uyarınca talebin reddine karar vermiştir. İstinaf talebinin reddine ve harçların alınmasına karar verilmiştir."
+}

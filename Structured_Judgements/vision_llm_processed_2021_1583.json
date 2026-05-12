@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2021_1583.pdf",
+        "court_name": "İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/1693",
+        "karar_no": "2021/164 E",
+        "case_subject": "Marka (Tecavüzün Tesbiti İstemli)",
+        "dava_tarihi": "27/10/2021",
+        "karar_tarihi": "30/12/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının 1980'lerden beri faaliyet gösteren eğitim kurumu olduğunu ve markasının ticari faaliyetlerinde kullanıldığını iddia etmiştir. Davalının markasını ticari faaliyetlerinde kullanmaması nedeniyle dava açılmıştır. Davacı, davalının markasını ticari faaliyetlerinde kullanmaması nedeniyle iptali için dava açmıştır.",
+        "reasoning_text": "Mahkeme, davalının markasını ticari faaliyetlerinde kullanmaması nedeniyle iptali için dava açıldığını ve davalının markasını ticari faaliyetlerinde kullanmaması nedeniyle iptali için dava açıldığını değerlendirmiştir. Mahkeme, davalının markasını ticari faaliyetlerinde kullanmaması nedeniyle iptali için dava açıldığını ve davalının markasını ticari faaliyetlerinde kullanmaması nedeniyle iptali için dava açıldığını karar vermiştir.",
+        "verdict_text": "İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi, davalının markasını ticari faaliyetlerinde kullanmaması nedeniyle iptali için dava açıldığını ve davalının markasını ticari faaliyetlerinde kullanmaması nedeniyle iptali için dava açıldığını karar vermiştir. Davacı vekili, davalının markasını ticari faaliyetlerinde kullanmaması nedeniyle iptali için dava açmıştır."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Mahkemeleri Kanunu",
+            "492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının eğitim kurumu olarak faaliyet gösteren markasını ticari faaliyetlerinde kullanmaması nedeniyle iptali için dava açmıştır. Mahkeme, davalının markasını ticari faaliyetlerinde kullanmaması nedeniyle iptali için dava açıldığını ve davalının markasını ticari faaliyetlerinde kullanmaması nedeniyle iptali için dava açıldığını karar vermiştir.",
+    "summary_for_model": "Davacı, davalının eğitim kurumu olarak faaliyet gösteren markasını ticari faaliyetlerinde kullanmaması nedeniyle iptali için dava açmıştır. Mahkeme, davalının markasını ticari faaliyetlerinde kullanmaması nedeniyle iptali için dava açıldığını ve davalının markasını ticari faaliyetlerinde kullanmaması nedeniyle iptali için dava açıldığını karar vermiştir."
+}

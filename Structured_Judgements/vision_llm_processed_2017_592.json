@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2017_592.pdf",
+        "court_name": "T.C. BAKIRKÖY 1. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2017/592",
+        "karar_no": "2018/264",
+        "case_subject": "Marka İtibarının Kaybi Nedeniyle Tazminat İstemi",
+        "dava_tarihi": "04/12/2017",
+        "karar_tarihi": "10/07/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davasında müvekkilin TP MK nezdiinde tescil edilen esas unsurlu markaları kullanmakta olduğunu iddia etmiştir. Davanın Ankara FŞHHM'de açıldığı ve Bakırköy 1. FŞHHM'de devam ettiği belirtilmiştir. Davacı, davanın SMK'nın 155. maddesi gereği tescile dayalı kullanım savunması yapılamayacağını, davanın ticari hak ihlali ve hak ihlalinin tespiti, durdurulması, önlenmesi, giderilmesi için 20.000 TL manevi, 10.000 TL maddi tazminat talep etmiştir.",
+        "reasoning_text": "Mahkeme, dava dosyasının H MK'nın 166. maddesi gereği birleştirilmesinin gerektiğini ve bu dosyanın Bakırköy FŞHHM'nin ... E. sayılı dosya ile birleştirilmesinin gerektiğini tespit etmiştir. Davanın ... esas sayılı dosyada devam etmesine karar verilmiştir.",
+        "verdict_text": "Yukarıda Açıklanan Gereklere\n1-Mahkememizin ... esas sayılı dosyasında devam eden davada verilecek hükmün davanın neticesini etkileyecek nitelikte olduğundan dosyalar arasında bağlantı var kabul edildiğinden H MK'nın 166. maddesi gereği dava dosyasının ... esas sayılı dosyada birleştirilmesine,\nYargılamanın ...esas sayılı dosyada devam etmesine,\nEsasın bu şekilde kapatılmasına,\nDair davacı vekilinin ve davalı vekilinin yüzlerine karşı kesin olarak verilen karar açıkça okunup anlatıldı. 10/07/2018"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK'nın 155. maddesi",
+            "H MK'nın 166. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davasında müvekkilin TP MK nezdiinde tescil edilen markaları kullanmakta olduğunu iddia etmiştir. Davanın Ankara FŞHHM'de açıldığı ve Bakırköy 1. FŞHHM'de devam ettiği belirtilmiştir. Davacı, davanın ticari hak ihlali ve hak ihlalinin tespiti, durdurulması, önlenmesi, giderilmesi için 20.000 TL manevi, 10.000 TL maddi tazminat talep etmiştir.",
+    "summary_for_model": "Davacı, davasında müvekkilin TP MK nezdiinde tescil edilen markaları kullanmakta olduğunu iddia etmiştir. Davanın Ankara FŞHHM'de açıldığı ve Bakırköy 1. FŞHHM'de devam ettiği belirtilmiştir. Davacı, davanın ticari hak ihlali ve hak ihlalinin tespiti, durdurulması, önlenmesi, giderilmesi için 20.000 TL manevi, 10.000 TL maddi tazminat talep etmiştir."
+}

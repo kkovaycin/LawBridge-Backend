@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2017_59.pdf",
+        "court_name": "T.C. İSTANBUL 2.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2017/59",
+        "karar_no": "2019/180",
+        "case_subject": "Tazminat (Fikir Ve Sanat Eserleri Sahipliğinden Kaynaklanan)",
+        "dava_tarihi": "27/03/2017",
+        "karar_tarihi": "14/05/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davacının fotoğrafının izinsiz olarak reklam amaçlı kullanıldığını iddia etti. Davacı, çocuk fotoğrafının okul faaliyetleri sırasında çekildiğini ve velilerin izniyle kullanıldığını savundu. Davacı, fotoğrafın eser niteliğinde olmadığını ve FSEK m.86 uyarınca hak ihlali olduğunu iddia etti.",
+        "reasoning_text": "Mahkeme, FSEK m.86 ve TMK m.24 uyarınca davacının hak ihlali olduğunu tespit etti. Fotoğrafın eser niteliğinde olmadığı için, davacıya maddi ve manevi tazminat verilmesine karar verildi.",
+        "verdict_text": "1-Davacının maddi tazminat davasının KİSMEN KABÜLÜ İLE, 600,00 TL'nin dava tarihi itibarıyla işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya ödenmesine, fazlaya ilişkin talebin REDDİNE, 2-Davacının manevi tazminat davasının KİSMEN KABÜLÜ İLE, 3.000,00 TL'nin dava tarihi itibarıyla işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya ödenmesine, fazlaya ilişkin talebin REDDİNE, 3-Pesin yatırılan 251,40 TL (pesin+tamamlama harci) harçtan alınması gereken 245,92 TL'nin mahsubu ile fazla yatırıldığı anlaşılan 5,48 TL'nin karar kesinleştiğinde ve talep halinde yatırına iaadesine, 4-Davacı tarafından yapılan: 2.500,00 TL bilirkişi ücreti, 293,30 TL posta gideri olmak üzere toplam 2.793,30 TL yargılama giderinden kabul ve red oranına göre hesaplanan 88,42 TL ile 245,92 TL harç (işlah+pesin+başvuru) olmak üzere toplam 334,32 TL yargılama giderinin davalıdan alınarak davacılara verilmesine, kalan kısmın davacılar üzerinde bırakılmasına, 5-Davacılar yargılamada kendilerini vekil ile temsil ettirdiğinden kabul edilen maddi tazminat talebi yönünden AAÜT 13/2' maddesine göre tespit olunan 600,00 TL'nin davalıdan alınarak davacılara ödenmesine, 6-Davacılar yargılamada kendisini vekil ile temsil ettirdiğinden kabul edilen manevi tazminat talebi yönünden AAÜT'ne göre tespit olunan 3.000,00 TL'nin davalıdan alınarak davacılara ödenmesine, 7-Davalı yargılamada kendisini vekil ile temsil ettirdiğinden reddolunan maddi tazminat talebi yönünden AAÜT'ne göre tespit olunan 3.931,00 TL'nin davacılardan alınarak davalıya ödenmesine, 8-Davalı yargılamada kendisini vekil ile temsil ettirdiğinden reddolunan manevi tazminat talebi yönünden AAÜT'ne göre tespit olunan 3.000,00 TL'nin davacılardan alınarak davalıya ödenmesine, Dair davacı vekilinin vekillerinin yüzüne karşı,davalının yokluğunda (HMK 345/1 md. gereğince) gerekli kararın tebliğinden itibaren 2 hafta içerisinde Mahkememize veya başka bir yer mahkemesine dilekçe ile başvurmak ve istinaf harci ile gerekli giderlerin tamamı ödenmek suretiyle, İstanbul Bölge Adliye Mahkemesine istinaf yolu açık olmak üzere verilen karar, açıkça okunup usulen anlatıldı. 14/05/2019"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "MK m.25/3",
+            "FSEK m.86",
+            "TMK m.24",
+            "TMK m.25",
+            "AAÜT 13/2",
+            "AAÜT",
+            "HMK 345/1 md."
+        ]
+    },
+    "summary_for_human": "Davacı, fotoğrafının izinsiz olarak reklamda kullanıldığını iddia etti. Mahkeme, fotoğrafın eser niteliğinde olmadığını ve hak ihlali olduğunu tespit etti. Davacıya 600,00 TL maddi ve 3.000,00 TL manevi tazminat verilmesine karar verildi.",
+    "summary_for_model": "Dava, fotoğrafın izinsiz reklamda kullanılmasına karşı açıldı. Mahkeme, FSEK m.86 ve TMK m.24 uyarınca hak ihlali tespiti yaptı ve davacıya maddi ve manevi tazminat verilmesine karar verdi. Davacı vekilinin vekillerine karşı kararın tebliğinden itibaren 2 hafta içinde başvuru yapılması gereklidir."
+}

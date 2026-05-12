@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2020_271.pdf",
+        "court_name": "T.C. ANKARA 3. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2020/271",
+        "karar_no": "2021/187",
+        "case_subject": "Tasarım tescili başvurusu ve ticari hak ihlali",
+        "dava_tarihi": "02/09/2020",
+        "karar_tarihi": "18/05/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, 02/09/2020 tarihli dava dilekçesiyle tasarımın başvuru tarihinden önce 12 aylık süre içinde satıldığını, satış faturalarının delil listesine eklenmesini ve tasarımın araştırma raporunda yer alan görsellerin yayın tarihinin 11/04/2020 olduğunu iddia etmiştir. Müvekkil tarafından sosyal medya ve ticari platformlarda ürünün tanıtımı yapıldığı ve tasarımın tescili için başvurunun reddedildiği belirtilmiştir.",
+        "reasoning_text": "Mahkeme, tasarımın yenilik ve ayırt edici niteliğini değerlendirmek için bilginmiş kullanıcı profilini ve tasarımcıya ait seçenek özgürlüğünü dikkate almıştır. Tasarımın ticari değerinin ve tescil koşullarının karşılanmadığı sonucuna varılmıştır.",
+        "verdict_text": "1-Davanın KABULÜNE, 2-TÜRKPATENT YİDK'nun ... sayılı kararının iptaline, 3-Alınması gereken 59,30 TL harçtan peşin alınan 54,40 TL harçın mahsubu ile bakiye 4,90 TL karar harçının davallardan alınarak Hazineye gelir kaydına, 4-Davacı vekili için 5.900,00-TL vekalet ücretinin davaldan alınarak davacıya verilmesine, 5- Davacı tarafından yapılan aşağıda dökümü gösterilen 2.016,10 TL yargılama giderlerinin davaldan alınarak davacıya verilmesine, 6-Tarafların yatırdıkları gider avanslarından kalan tutarın HMK 333/1 uyarınca karar kesinleştiğinde iaade işlemi yapılmak üzere tebliğden itibaren 15 gün içinde, banka hesabı numarası bildirildiğinde hesaba aktarılmasına, aksi halde PTT aracılığı ile adreste ödemeli olarak gönderilmesine, Dair verilen karar, taraf vekillerinin yüzüne karşı 6100 sayılı HMK'nun 341. ile 345. Maddelerine göre tebliğinden itibaren iki haftalık süre içinde Ankara Bölge Adliye Mahkemesine İstinaf Kanun Yoluna dilekçe ile başvurulabileceğine yönelik karar açıkça okunup, usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "5000 sayılı kanun 15/c maddesi",
+            "6100 sayılı HMK'nun 341. ile 345. Maddeleri",
+            "5070 sayılı Elektronik İmza Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, tasarımın ticari değerinin ve tescil koşullarının karşılanmadığını tespit ederek davayı kabul etmiş ve TÜRKPATENT YİDK'nun kararını iptal etmiştir. Davacıya mahkeme giderleri ve vekalet ücreti verilmiştir.",
+    "summary_for_model": "Dava, tasarımın ticari değerinin ve tescil koşullarının karşılanmadığını iddia eden davacı vekili tarafından açılmıştır. Mahkeme, tasarımın yenilik ve ayırt edici niteliğini değerlendirerek davayı kabul etmiş ve TÜRKPATENT YİDK'nun kararını iptal etmiştir. Davacıya mahkeme giderleri ve vekalet ücreti verilmiştir."
+}

@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2020_2066.pdf",
+        "court_name": "İstanbul 1. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2020/2066 Esas",
+        "karar_no": "2023/1574",
+        "case_subject": "Marka (Maddi Tazminat İstemi)",
+        "dava_tarihi": "21/01/2020",
+        "karar_tarihi": "14/12/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; Müvekkili davacı şirketi, pazarlama sektöründe çalıştığı 27.03.2007 tarihinde başurusu yapılarak usulüne tescili edilmiş olan markayı tam devir şeklinde devraldığını, hu devir işleminin 26.12.2013 tarihinde usulüne uygun olarak TÜRKİYE PATENT ENSTİTÜSÜ (TPE) siciline işlendiğini, davaların müvekkillerine ait markayı haksız olarak kullandığını, davaların işyeri adreslerinde ticari olarak kullandıklarını ve hatta web sayfalarında da bu durumun sabit olduğunu, karşı tarafa ihbarname ile kullanımların durdurulması için ihbarname gönderildiğini ancak sonuç alınamadığını, davaların markaları müvekkillerinden izinsiz şekilde işyerlerinde ve markaların tescili olduğu \"Reklamcılık, pazarlama ve halkla ilişkiler ile ilgili hizmetlerde kullanımlarının ilitibas yaratacağını, ilgili kullanımların marka haklarına tecavüz oluşturduğunu, ayrıca bu kullanımların haksız rekabet oluşturduğunu, bu nedenle bu kullanımların önlenmesini, maddi ve manevi tazminat taleplerini ve hükmün tirajı yüksek bir gazetede yayınlanmasını talep etmiştir.",
+        "reasoning_text": "İlk Derece Mahkemesi kararına karşı istinaf yasa yoluyla başvurulması üzerine yapılan inceleme sonucunda; Davacı vekili dava dilekçesinde özetle; Müvekkili davacı şirketi, pazarlama sektöründe çalıştığı 27.03.2007 tarihinde başurusu yapılarak usulüne tescili edilmiş olan markayı tam devir şeklinde devraldığını, hu devir işleminin 26.12.2013 tarihinde usulüne uygun olarak TÜRKİYE PATENT ENSTİTÜSÜ (TPE) siciline işlendiğini, davaların müvekkillerine ait markayı haksız olarak kullandığını, davaların işyeri adreslerinde ticari olarak kullandıklarını ve hatta web sayfalarında da bu durumun sabit olduğunu, karşı tarafa ihbarname ile kullanımların durdurulması için ihbarname gönderildiğini ancak sonuç alınamadığını, davaların markaları müvekkillerinden izinsiz şekilde işyerlerinde ve markaların tescili olduğu \"Reklamcılık, pazarlama ve halkla ilişkiler ile ilgili hizmetlerde kullanımlarının ilitibas yaratacağını, ilgili kullanımların marka haklarına tecavüz oluşturduğunu, ayrıca bu kullanımların haksız rekabet oluşturduğunu, bu nedenle bu kullanımların önlenmesini, maddi ve manevi tazminat taleplerini ve hükmün tirajı yüksek bir gazetede yayınlanmasını talep etmiştir.",
+        "verdict_text": "KARAR: Gerekçesi yukarıda açıklandığı üzere;1- Davacı vekilinin istinaf isteminin KABULÜ ile;2- İstanbul 1. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 21/01/2020 tarih, 2017/144 E. 2020/33 K. Sayılı Kararının 6100 Sayılı HMK'nın 353/1-a-6. maddesi gereğince KALDIRILMASI;3- Dosyanın, yukarıda gösterilen biçimde inceleme ve değerlendirme yapılmak üzere mahkemesine GÖNDERİLMESİNE;4- İstinaf yasa yoluyla başvuran davacı tarafından peşin olarak yatırılan istinaf karar ve ilam harcının talebi halinde kendisine iadesine;5- Dosya üzerinde inceleme yapılması sebebiyle vekalet ücreti tayinine yer olmadığına;6- İstinaf yasa yoluyla başvuran tarafından istinaf aşamasında yapılan giderlerin ilk derece mahkemesince verilecek nihai kararda dikkate alınmasına, 6100 Sayılı HMK'nin 353/1-a-6. ve 362/1-g. maddeleri gereğince dosya üzerinde yapılan inceleme sonucunda ve KESİN olmak üzere, oy birliğiyle karar verildi. 14/12/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu (HMK)",
+            "Sınai Mülkiyet Kanunu (SMK)",
+            "Ticaret Kanunu (TK)"
+        ]
+    },
+    "summary_for_human": "İstanbul 1. Fikri ve Sınai Haklar Hukuk Mahkemesi, davacı vekilinin istinaf istemini kabul ederek ilk derece mahkemesinin kararını kaldırdı. Davacı, müvekkili şirketin haksız olarak markayı kullandığını iddia etti. İstinaf yasa yoluyla başvuru kabul edildi.",
+    "summary_for_model": "İstanbul 1. Fikri ve Sınai Haklar Hukuk Mahkemesi, davacı vekilinin istinaf istemini kabul ederek ilk derece mahkemesinin kararını kaldırdı. Davacı, müvekkili şirketin haksız olarak markayı kullandığını iddia etti. İstinaf yasa yoluyla başvuru kabul edildi. 6100 Sayılı HMK'nın 353/1-a-6. ve 362/1-g. maddeleri uygulanmıştır."
+}

@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_848.pdf",
+        "court_name": "İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2022/848",
+        "karar_no": "2022/962",
+        "case_subject": "Marka (Marka Hükmüsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "08/03/2022",
+        "karar_tarihi": "09/06/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının Türk Patent ve Marka Kurumu'nda tescilli olan markaları ve internet sitelerini kullanmakla suçladı. İlk derece mahkemesi, markaların benzer olmadığı ve itibar tehlikesinin bulunmadığı gerekçesiyle tedbir talebini reddetmiştir.",
+        "reasoning_text": "İstinaf mahkemesi, ilk derece kararının 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b/1. maddesi uyarınca esastan reddine karar verdi. Tedbir talebinin reddedilmesi, davalının markasının davacı markasıyla ayırt edilemeyecek kadar benzer olduğu iddiası ve ilk derece mahkemesinin kararı ile tutarlılık nedeniyle kabul edildi.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1- Üsül ve yasaya uygun İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 08/03/2022 tarih ve 2021/222 E., sayılı kararına karşı davacı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2- 492 Sayılı Harçlar Kanunu gereğince alınması gereken 80,70 TL istinaf karar harcı davacı tarafından peşin yatırıldığından yeniden harç alınmasına yer olmadığına, 3- Davacı tarafça istinaf aşamasında yapılan yargılama giderlerinin üzerinde birakılmasına, 4- İncelemenin duruşmasız olarak yapılması sebebiyle taraflar yararına vekalet ücreti tayinine yer olmadığına, 5- Taraflarca yatırılan gider avansından harcamayan kısımın karar kesinleştiğinde iadesine, 6- Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin İlk derece Mahkemesinde yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/(1-f). ve 394/(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "492 Sayılı Harçlar Kanunu",
+            "159/1. ve 159/3. maddeleri",
+            "389/1. ve 390/3. maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markalarını ve internet sitelerini kötüye kullandığını iddia etti. İlk derece mahkemesi talebi reddetti. İstinaf mahkemesi ilk kararın esastan reddine karar verdi.",
+    "summary_for_model": "İstinaf mahkemesi, ilk derece mahkemesinin markaların benzer olmadığı ve itibar tehlikesinin bulunmadığı gerekçesiyle tedbir talebini reddetmesini onayladı. 6100 Sayılı HMK'nın 353/1-b/1. maddesi uyarınca esastan reddine karar verildi."
+}

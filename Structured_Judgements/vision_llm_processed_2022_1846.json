@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_1846.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2022/1846 Esas",
+        "karar_no": "2023/78",
+        "case_subject": "Marka Hakkına Tecavüzden Kaynaklanan",
+        "dava_tarihi": "06/10/2022",
+        "karar_tarihi": "19/01/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı şirketin müvekkilinin markasını kullanarak haklarını tecavüz ettiğini iddia etmiştir. Davalı, müvekkilinin markasını kullanmak için internet siteleri ve sosyal medya hesaplarında reklam ve film yapım hizmetleri için kullanıldığını savunmuştur.",
+        "reasoning_text": "Mahkeme, davacı vekilinin istinaf talebini kısmen kabul ederek, dava konusu olan markanın kullanılmasına ilişkin değerlendirmeyi ilk derece mahkemesine göndermiştir. Davacı vekilinin istinaf masrafları davalı tarafından karşılanmıştır.",
+        "verdict_text": "HÜKÜM: Gerekçesi ayrıntılı kararda açıklanmıştır. Davacı vekilinin istinaf talebinin kısmen kabulüne, dava konusu olan markanın kullanılmasına ilişkin değerlendirmeyi ilk derece mahkemesine göndermeye karar verilmiştir. Davacı vekilinin istinaf masrafları davalı tarafından karşılanmıştır."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TMK 2.madde",
+            "TMK 155 md",
+            "TTK 55/1/a/4 hükmü",
+            "Hukuk Muhakemesi Kanunu 353/1-a-6 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin müvekkilinin markasını kullanarak haklarını tecavüz ettiğini iddia etmiştir. Mahkeme, dava konusu olan markanın kullanılmasına ilişkin değerlendirmeyi ilk derece mahkemesine göndermiştir. Davacı vekilinin istinaf masrafları davalı tarafından karşılanmıştır.",
+    "summary_for_model": "Dava, markanın kullanılmasına ilişkin hak ihlali iddiası üzerine kurulmuştur. Mahkeme, dava konusu olan markanın kullanılmasına ilişkin değerlendirmeyi ilk derece mahkemesine göndermiştir. Davacı vekilinin istinaf masrafları davalı tarafından karşılanmıştır."
+}

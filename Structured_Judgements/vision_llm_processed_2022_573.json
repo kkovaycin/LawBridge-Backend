@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2022_573.pdf",
+        "court_name": "BAKIRKÖY 1. FİKRİ VE SINAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2022/573 Esas",
+        "karar_no": "2022/999 Karar",
+        "case_subject": "Patent (Maddi Tazminat İstemi)",
+        "dava_tarihi": "02/06/2022",
+        "karar_tarihi": "02/06/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilinin kâğıt ruloları kullanmadan kumaşın merdenden çıkarılmasını sağlayan \"mekanik rulmanlı merdane\" ürününü 25/02/2014'ten itibaren tescilli olarak kaydetmiştir. Davacı, bu ürünün 2014'ten beri koruma altındaydı ve 2016'da Facebook hesabında taklit ürünün satıldığını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacının ihlati tedbir talebini reddetmiştir. Tedbir talebinin reddedilmesinin, davacının istinaf talebinin reddedilmesiyle ilişkili olduğu ve davacının istinaf talebinin reddedilmesinin usul ve yasaya uygun olduğu sonucuna varmıştır.",
+        "verdict_text": "İSTİNAF BAŞVURUSU; Davacı vekili süresinde ibraz ettiği istinaf dilekçesine; mahkeme huzurunda görülen 2017/306 Esas sayılı dosyanın ... aleyhine açıldığını, ... in davalı şirketin tek ortağı ... in eşi olduğu ve karı koca olduklarının Uyap'tan alınacak kayıtla tesbitinin mümkün olduğunu, davalının kullanımına ilişkin deliller sunulduğunu, ihlafa konu ürünün 2017/306 Esas sayılı dosyasında aynı ismi taşıdığını ... olarak isimlendirildiğini, ... in diğer dosyada ev hanımı olduğu ve gelirinin olmadığını söylediğini, o dönemde işi yürüten asıl kişinin ... olduğu ikrar ettiğini, tedbir kararından iki gün sonra faydalı model başvurusunda bulunduklarını, 26/10/2017 tarihinde kurulan ... Şirketi üzerinden üretime devam ettiklerini, delil sunulmadığı gerekçesiyle tedbir talebinin reddine karar verilmesinin ve vakaların yargılamada değerlendirileceğine yönelik gerekçenin yerinde olmadığını, kötüye kullanılan taklitçilere haksız fiillere devam konusunda güç verildiğini beyanla, ara kararın kaldırılarak, terminatsız tedbir kararı verilmesini talep etmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 356",
+            "SMK 159/c",
+            "HMK 390/son",
+            "HMK 353/1-b-1",
+            "1-6100 sayılı HMK"
+        ]
+    },
+    "summary_for_human": "Davacı, bir şirketin patentli bir ürünü taklit ettiğini iddia ediyor. Mahkeme, davacının istinaf talebini reddetti ve tedbir talebini de reddetti.",
+    "summary_for_model": "Davacı vekili, istinaf talebini reddetmiştir. Mahkeme, davacının istinaf talebinin reddedilmesinin usul ve yasaya uygun olduğunu ve tedbir talebinin reddedilmesinin bu kararın sonucunu oluşturduğunu kararlaştırmıştır."
+}

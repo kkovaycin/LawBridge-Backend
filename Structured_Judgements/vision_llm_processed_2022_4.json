@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_4.pdf",
+        "court_name": "T.C. ANKARA 4. FİKRİ VE SANATİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2022/4",
+        "karar_no": "2022/212",
+        "case_subject": "Tasarım Hakkında Tecavüzün Tesbiti Durdurulması, Ölenmesi Maddi Manevi Tazminat",
+        "dava_tarihi": "05/01/2022",
+        "karar_tarihi": "07/09/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davada 'pimdesigntr' isimli Instagram hesabından yapılan tasarım ve tescil müvekkiline ait ürün fotoğraflarının tecavüz olup olmadığını tesbit etmeyi, tecavüz olduğu takdirde tecavüzün önlenmesini ve durdurulmasını talep etmiştir. Davacı vekili ve davalı vekili 02/09/2022 tarihli dilekçelerinde davadan feragat etmiştir.",
+        "reasoning_text": "Davayı sona erdiren hallerden olmakla dava feragat nedeniyle reddine karar verilmiştir. Feragat, dava sona erme sebebi olarak kabul edilmiştir. Davalı lehine sunulan dilekçe kapsamında vekalet ücreti ve yargılama gideri hakkindaki talepler reddedilmiştir.",
+        "verdict_text": "1-Davanın FERAGAT NEDENİYLE REDDİNE, 2-Davalı lehine sunulan dilekçe kapsamında herhangi bir vekalet ücreti ve yargılama gideri hakkindaki taleplerin REDDİNE, 3-Karar kesinleştiğinde artakalan gider avansının iadesine, 4-Karar kesinleştiğinde dava taraflarının yokluğunda, 6100 sayılı HMK 341 ila 345 inci maddesine göre tebligden itibaren 2 haftalık süre içinde mahkemeye aracılığı ile mahkemesine istinaf kanun yoluna dilekçe ile başvurabileceğine yönelik karar okunup açıklandı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HUKUK MUHAKEMELERİ KANUNU",
+            "Harklar Kanunu",
+            "6100 sayılı HMK 341 ila 345 inci maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı ve davalı vekillerinin feragat dilekçeleri nedeniyle davayı reddetmiştir. Davalı lehine sunulan vekalet ücreti ve yargılama gideri talepleri de reddedilmiştir.",
+    "summary_for_model": "Dava, davacı ve davalı vekillerinin feragat dilekçeleri nedeniyle reddedilmiştir. Davalı lehine sunulan vekalet ücreti ve yargılama gideri talepleri de reddedilmiştir. Karar, 6100 sayılı HUKUK MUHAKEMELERİ KANUNU ve Harklar Kanunu'na dayanarak verilmiştir."
+}

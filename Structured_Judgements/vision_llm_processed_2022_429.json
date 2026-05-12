@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2022_429.pdf",
+        "court_name": "Bakirköy 1. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/195 E. - 2022/80 K.",
+        "karar_no": "2024/2078",
+        "case_subject": "Markaya Tecavüz, Tespit, Durdurulma, Kaldırılma, Unvan Terkini",
+        "dava_tarihi": "24/03/2022",
+        "karar_tarihi": "12/12/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesiyle, müvekkili şirketin her nevi vinç alımı, satımı, kuruluşu, kiralanması vb. faaliyetlerde faaliyet gösterdiğini iddia etti. Müvekkilin TPMK'de tescilli marka sahibi olduğunu, davalının ticaret unvanına benzer ticaret unvanı kullandığını, davalının internet ortamında benzer markayı kullandığını iddia etti. Davacı davayı cevapsız bırakmış, ilk derece mahkemesi kararına karşı istinaf başvurusu yapılmıştır.",
+        "reasoning_text": "İstinaf mahkemesi, ilk derece mahkemesi kararının usul ve yasaya uygun olmadığını, davalının ticaret unvanının tescilli markaya benzediğini, davalının internet sitesinde ve sosyal medyada benzer markayı kullandığını tespit etti. Davalının faaliyetlerinin marka hakkına tecavüz oluşturduğunu, davalının ticaret unvanının terk edilmesini talep etti.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere; 1- Usül ve yasaya uygun Bakırköy 1. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 24/03/2022 tarih ve 2021/195 E., 2022/80 K. sayılı kararına karşı davalı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2- 492 Sayılı Harçlar Kanunu gereğince alınması gereken 427,60 TL maktu istinaf karar ve ilam harcından peşin yatırılan 80,70 TL harcin mahsubu ile bakiye 346,90 TL harcin davalıdan tahsiliyle Hazineye gelir kaydedilmesine, 3- Davalı taraflarca istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, 4- İncelemenin duruşmasız olarak yapılması sebebiyle taraflar yararına vekalet ücreti tayinine yer olmadığına, 5- Taraflarca yatırılan gider avansından harcanmayan kısmın karar kesinleştiğinde iadesine, Dosya üzerinde yapılan inceleme sonucunda, 20/07/2017 tarih ve 7035 Sayılı Kanunun 31. maddesiyle değişik 6100 Sayılı HMK'nın 361/1. maddesi gereğince, kararın tebliğiğinden itibaren 2 hafta içerisinde Yargıtay'a temyiz başvurusunda bulunma yolu açık olmak üzere, oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Sınai Mülkiyet Kanunu 7 ve 29. Maddeleri",
+            "Geçiş Cumhuriyet Başsavcılığı 2021/5345 soruşturma",
+            "Türk Patent ve Marka Kurumu",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu 353/1-b/1. maddesi",
+            "492 Sayılı Harçlar Kanunu",
+            "7035 Sayılı Kanun 31. maddesi",
+            "6100 Sayılı HMK'nın 361/1. maddesi"
+        ]
+    },
+    "summary_for_human": "İstinaf mahkemesi, davalının ticaret unvanının tescilli markaya benzediğini ve internet ortamında benzer markayı kullandığını tespit etti. Davalının faaliyetlerinin marka hakkına tecavüz oluşturduğunu belirleyerek, davalının ticaret unvanının terk edilmesini talep etti.",
+    "summary_for_model": "İstinaf mahkemesi, davalının ticaret unvanının tescilli markaya benzediğini ve internet ortamında benzer markayı kullandığını tespit etti. Davalının faaliyetlerinin marka hakkına tecavüz oluşturduğunu belirleyerek, davalının ticaret unvanının terk edilmesini talep etti. Karar, 6100 Sayılı HMK'nın 353/1-b/1. maddesi ve diğer kanunlara dayanarak verildi."
+}

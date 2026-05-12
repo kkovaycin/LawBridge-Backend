@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2022_949.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2022/949 Esas",
+        "karar_no": "2023/94",
+        "case_subject": "Markaya Tecavüz, Haksız Rekabet, Tazminat",
+        "dava_tarihi": "14/12/2021",
+        "karar_tarihi": "19/01/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı ve davalı arasındaki marka kullanımları ve hak ihlalleri tartışıldı. Davacı, davalının markasını kötüye kullanmakla suçladı. Davalı ise, markanın farklı kullanıldığını savundu.",
+        "reasoning_text": "Mahkeme, markaların benzersizlik ve ayırt edicilik özelliklerini değerlendirerek, davalının markayı kötüye kullandığını tespit etti. Davacıya maddi ve manevi tazminat verilmesine karar verildi.",
+        "verdict_text": "Davacı vekili istinaf isteminin kısmen kabulüne, 2-İstanbul 1. FSHM'nin 2019/330 Esas, 2021/425 Karar sayılı, 14.12.2021 tarihli kararının 6100 sayılı HMK'nun 353/1-a-6 maddesi gereğince KALDIRILMASINA. -Yargılama devam olmak üzere, dosyanın ilk derece mahkemesine gönderilmesine, 3-İstinaf talebi kabul edildiğinden, istinaf peşin harcının talebi halinde davacı tarafa iaadesine,4-İstinaf aşamasında davacı tarafa yapılan yargılama gideri olan 220,70 TL istinaf yoluna başvurma harcı ile 314,90-TL tebiyat ve posta gideri olmak üzere toplam 535,60-TL'nin davaldan alınarak davacıya verilmesine, 5-İstinaf incelemesi duruşmasız yapıldığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucu 19/01/2023 tarihinde HMK'nun 353/1-a-6 maddesi uyarınca oybirliğiyle kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemesi Kanunu (HMK) 353. Maddesi",
+            "Türk Patent ve Marka Kurumu (TPMK) Kuralları"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markasını kötüye kullandığını iddia etti. Mahkeme, davalının markayı kötüye kullandığını tespit etti ve davacıya maddi ve manevi tazminat verdi.",
+    "summary_for_model": "Marka ihlali ve hak ihlalleri tartışıldı. Mahkeme, davalının markayı kötüye kullandığını tespit etti ve davacıya tazminat verdi. HMK 353. Maddesi ve TPMK kuralları dikkate alındı."
+}

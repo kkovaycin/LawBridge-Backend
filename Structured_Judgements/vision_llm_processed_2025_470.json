@@ -1,0 +1,33 @@
+{
+    "meta_data": {
+        "file_name": "2025_470.pdf",
+        "court_name": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2025/470",
+        "karar_no": "2025/704",
+        "case_subject": "Patent (Maddi Tazminat İstemli), Fikri Ve Sanat Eseri (Tecavüzün Meni İstemli)",
+        "dava_tarihi": "08/11/2024",
+        "karar_tarihi": "30/04/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, Türkpatent'ten sayılı tasarım ve sayılı patentin başvuru sahibi olduğunu iddia ediyor. Karşı tarafın vekili, bu ürünleri projelere göndermek için satın almayı planladığını ancak bu ürünleri kendi üretip piyasaya sürdüğünü iddia ediyor. Davacı, bu iddiaları kanıtlamak için çeşitli belgeler ve tanıklıklar sunuyor.",
+        "reasoning_text": "Mahkeme, dava konusu ürünün ticari değerinin ve davacının haklarının ihlal edildiğini tespit etti. Davacı vekili, karşı tarafın ürünü kendi üretip piyasaya sürdüğünü iddia ettiği için dava açtı. Mahkeme, davacının iddialarını destekleyen kanıtların yeterli olduğunu ve davacının haklarının ihlal edildiğini tespit etti.",
+        "verdict_text": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi, davacı vekili tarafından yapılan istinaf talebini reddetmiştir. Davacı vekili, istinaf talebini reddetme kararının 615.40 TL maktu istinaf kararı harcı davalı tarafından peşin yatırıldığından yeniden harç alınmasına yer olmadığına, dava tarafça istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, incelemenin duruşmasız olarak yapılması sebebiyle taraflara vekalet ücreti tayinine yer olmadığına, taraflarca yatırılan gider avansından harçtanmayan kısmin karar kesinleştiğinde iadesine, karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin ilk derece mahkemesine yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nun 362(1-f). ve 394(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı HMK",
+            "2-492 Sayılı Harçlar Kanunu",
+            "SMK 59 ve 81 maddeleri",
+            "SMK 151 maddesi",
+            "SMK 159 maddesi",
+            "SMK 355. Maddesi",
+            "SMK 389/1. maddesi",
+            "SMK 390/3. maddesi",
+            "SMK 353/1-b/1. maddesi",
+            "SMK 362(1-f). ve 394(5). maddeleri",
+            "Sınai Mülkiyet Kanunu m. 97/4"
+        ]
+    },
+    "summary_for_human": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi, davacı vekili tarafından yapılan istinaf talebini reddetmiştir. Davacı, Türkpatent'ten sayılı tasarım ve sayılı patentin başvuru sahibi olduğunu iddia ediyor. Karşı tarafın vekili, bu ürünleri kendi üretip piyasaya sürdüğünü iddia ediyor. Mahkeme, davacının iddialarını destekleyen kanıtların yeterli olduğunu ve davacının haklarının ihlal edildiğini tespit etti.",
+    "summary_for_model": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi, davacı vekili tarafından yapılan istinaf talebini reddetmiştir. Davacı, Türkpatent'ten sayılı tasarım ve sayılı patentin başvuru sahibi olduğunu iddia ediyor. Karşı tarafın vekili, bu ürünleri kendi üretip piyasaya sürdüğünü iddia ediyor. Mahkeme, davacının iddialarını destekleyen kanıtların yeterli olduğunu ve davacının haklarının ihlal edildiğini tespit etti. Karar, 6100 Sayılı HMK'nın 353/1-b/1. maddesi ve diğer ilgili maddeler çerçevesinde verilmiştir."
+}

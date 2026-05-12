@@ -1,0 +1,35 @@
+{
+    "meta_data": {
+        "file_name": "2021_198.pdf",
+        "court_name": "T.C. ANKARA 3. FİKRİ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/198",
+        "karar_no": "2022/157",
+        "case_subject": "Marka hakkına tecavüz ve maddi/manevi tazminat talebi",
+        "dava_tarihi": "25/06/2021",
+        "karar_tarihi": "26/05/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, 1950'li yıllarda kurulan Haber Ajansı'nın Türkiye'de habercilik alanında eko oluşturduğunu ve birçok gazetecinin yetişmesine vesile olan davacının 46 yıl boyunca faaliyetlerini yürütemediğini iddia ediyor. Ankara İcra Müdürlüğü tarafından 19.06.2018'de davacının markasının satışa çıkarıldığı ve 24.04.2019'da başka bir şahıs tarafından satın alındığı belirtiliyor. Davacı, davalının www....com.tr web sitesinde ve sosyal medya hesaplarında davacıya ait markayı kullandığını iddia ediyor.",
+        "reasoning_text": "Mahkeme, davacının markasının tecavüzden bahsedilemeyeceğini ve somut uyumazlıkta marka hakkına tecavüzden bahsedilemeyeceğini tespit ediyor. Davacı'nın markasının 2014/47440 sayılı markası ile davalının mevcut asıl davada hükümsüzlük talep edilen 2020/129493 sayılı markasının farklı hizmet sınıfları için tescilli olduğunu ve bu hizmetlerin aynı/benzer/türde olmadıklarını belirleyerek markalar arasında karıştırma ihtimalinin olmadığını açıklıyor.",
+        "verdict_text": "A-1 Asıl davanın KISMEN KABULÜNE, 2 Davacı adına tescilli ... sayılı markanın 38. Sınıf \"haber ajansı hizmetleri\" emtiası ile sınırlı olarak hükümsüzlüğüne ve sicilden terkine, 3 Fazlaya ilişkin talebin reddine, 4 Alınması gereken 80,70 TL harçtan 59,30 TL peşin alınan harçın düşümü ile 21,40 TL bakiye harçın davacı-karşı davalından alınarak hazineye gelir kaydına, 5 Davacı-karşı davalı için AAÜT uyarınca 7.375,00-TL vekalet ücretinin davacı-karşı davalıdan alınarak davacı-karşı davalına verilmesine, 6 Reddedilen kısım itibarıyla AAÜT uyarınca kendilerini vekil olarak temsil ettiren davacı-karşı davacı için 7.375,00 TL vekalet ücretinin davacı-karşı davalıdan alınarak davacı-karşı davacına verilmesine, 7 Kabul ret oranının takdiren 1/2 olarak belirlenmesine, davacı-karşı davalı tarafından yapılan ve aşağıda dökümü gösterilen 3.811,30 TL yargılama giderinden payına düşen 1.905,65 TL'nin davacı-karşı davalıdan alınarak davacı-karşı davalına verilmesine, kalanının davacı-karşı davalı üzerinde bırakılmasına, B-1 Karşı davanın REDDİNE, 2 Karşı davada alınması gereken 1.366,62 TL harçtan 342,00 TL peşin alınan harçın düşümü ile 1.024,00 TL bakiye harçın davacı-karşı davacından alınarak hazineye gelir kaydına, 3 Karşı davada davallılar için AAÜT uyarınca marka hakkına tecavüz iddiasının reddi yönünden 7.375,00 TL, maddi tazminat talebinin reddi yönünden 7.375,00 TL ve manevi tazminat talebinin reddi yönünden 7.375,00 TL olmak üzere toplam 22.125,00 TL vekalet ücretinin davacı-karşı davacıdan alınarak karşı dava davallarına verilmesine, 4 Karşı davada davalı-karşı davacının yapmış olduğu yargılama giderlerinin üzerlerinde bırakılmasına, 5 Tarafların yatırdıkları gider avanslarından kalan tutarın HMK 333/1 uyarınca karar kesinleştiğinde iaade işlemi yapılmak üzere tebliğiğinden itibaren 15 gün içinde, banka hesabı numarası bildirildiğinde hesaba aktarılmasına, aksi halde PTT aracılığı ile adreste ödemeli olarak gönderilmesine, Dair verilen karar, taraf vekillerinin yüzüne karşı 6100 sayılı HMK'nun 341. ile 345. Maddelerine göre tebliğiğinden itibaren iki haftalık süre içinde Ankara Bölge Adliye Mahkemesine İstinaf Kanun Yoluna dilekçe ile başvurulabileceğine yönelik karar açıkça okunup, usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı SMK",
+            "6/3 maddesi",
+            "25. madde",
+            "29. madde",
+            "7. madde",
+            "6/6 maddesi",
+            "6/1 maddesi",
+            "38. madde",
+            "41. madde",
+            "151/2-c maddesi",
+            "57/5 ve 58/I maddeleri",
+            "333/1 maddesi",
+            "6100 sayılı HMK"
+        ]
+    },
+    "summary_for_human": "Davacı, Haber Ajansı'nın markasını kullanan davalının tecavüz iddiasıyla dava açtı. Mahkeme, davacının markasının farklı hizmet sınıfları için tescilli olduğunu ve markalar arasında karıştırma ihtimalinin olmadığını tespit ederek asıl davayı kısmen kabul etti. Davacı adına tescilli markanın hükümsüzlüğüne ve sicilden terkine karar verildi.",
+    "summary_for_model": "Bu karar, marka hukuku ve ticari işaretler alanında teknik bir analiz sunar. Davacı'nın markasının farklı hizmet sınıfları için tescilli olduğu ve markalar arasında karıştırma ihtimalinin olmadığı tespit edilmiştir. Asıl dava kısmen kabul edilmiş ve davacı adına tescilli markanın hükümsüzlüğüne karar verilmiştir."
+}

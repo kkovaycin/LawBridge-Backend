@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2023_1199.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2021/198E - 2021/198K",
+        "karar_no": "2023/1265",
+        "case_subject": "İhtiyati Haciz",
+        "dava_tarihi": "30/03/2021",
+        "karar_tarihi": "25/05/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekilince istinaf dilekçesi ile ilk derece mahkemesinin kararına karşı istinaf başvurusu yapılmıştır. Taraflar arasında arkaadaşlık neticesinde dekontları sunulduğu üzere alacak borcun söz konusu olduğu, güven ve dostluk ilişkisinden faydalanılarak alınan borcun ödenmediği, iaade istemesine rağmen ertelemelelerle tahsilin önüne geçildiği, taraflar arasında yazılı sözleşme olmayıp sadece Whatsapp konuşmalarının bulunduğu, konuşmalarda borç alışverişinin beyanlar ve taahhütlerle ortaya çıktığı, olası icra takiplerine karşı borçlunun kendi üzerindeki tüm gayrimenkullerini aynı tarihte aynı kişilere satmak suretiyle mal kaçırma girişiminde bulunduğu gibi çeşitli sebeplerle istinaf incelemesi neticesinde kararın istinaf incelemesi neticesinde kaldırıılması talep edilmiştir.",
+        "reasoning_text": "İhtiyati haciz İK'nın 257 ve 258 maddeleri uyarınca değerlendirilmiştir. İhtiyati haciz talebinin reddine ilişkin ilk derece mahkemesi kararı, dava dosyasındaki yazılara, kararın dayandığı delillere ve 6100 sayılı HMK 355. maddesi uyarınca istinaf incelemesinin sınırlı olarak yapılmasına uygun şekilde yapıldığı için istinaf incelemesi neticesinde esastan reddine karar verilmiştir. HMK 353.1.b.1 maddesi uyarınca istinaf başvurusunun esastan reddine, istinaf incelemesinin duruşmasız olarak yapılması nedeniyle AAÜT 2/2 hükmü uyarınca ücreti vekalet takdirine yer olmadığına, alınması gereken 179,90-TL harçtan davacı vekilince yatırılan 59,30-TL harçın mahsubu ile bakiye 120,60-TL harçın davacidan tahsiline, ilk derece mahkemesinde işlem yapılmasına, istinaf başvurusu için yapılan yargılama giderlerinin HMK'nın 360. maddesi uyarınca, madde 323 uyarınca istinafi talep eden üzerinde bırakılmasına, dosyanın ilk derece mahkemesine iadesine, dair, dosya üzerinde yapılan inceleme sonrasında, 25/05/2023 tarihinde, oy birliğiyle ve kesin olarak karar verilmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1.HMK m.353/1-b-1 gereğince davacının istinaf başvurusunun esastan REDDİNE, 2.İstinaf incelemesinin duruşmasız olarak yapılması nedeniyle AAÜT 2/2 hükmü uyarınca ücreti vekalet takdirine yer olmadığına, 3.Alınması gerekli 179,90-TL harçtan, davacı vekilince yatırılan 59,30-TL harçın mahsubu ile bakiye 120,60-TL harçın davacidan tahsiline, İlk Derece Mahkemesi'nde işlem yapılmasına, 4.İstinaf başvurusu için yapılan yargılama giderlerinin HMK'nın 360 inci maddesi uyarınca, madde 323 uyarınca istinafi talep eden üzerinde bırakılmasına, 5.Dosyanın ilk derece mahkemesine iadesine, Dair, dosya üzerinde yapılan inceleme sonunda, 25/05/2023 tarihinde, oy birliğiyle ve kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İcra ve İflas Kanunu 257",
+            "İcra ve İflas Kanunu 258",
+            "Hukuk Usülü Muhakemeleri Kanunu 96.maddesi (HMK-87)",
+            "Hukuk Usülü Muhakemeleri Kanunu 355. maddesi",
+            "Hukuk Usülü Muhakemeleri Kanunu 353.1.b.1 maddesi",
+            "Hukuk Usülü Muhakemeleri Kanunu 360. maddesi",
+            "Hukuk Usülü Muhakemeleri Kanunu 323. maddesi",
+            "AAÜT 2/2 hükmü"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir kişinin borç alımını ve borcun ödenmemesini iddia ettiği bir ihtiyati haciz talebini konu alıyor. İlk derece mahkemesi, borcun varlığı, miktarı ve muacceliyeti konusunda yeterli kanıt bulamadığı için talebi reddetmiştir. Davacı, bu karara karşı istinaf başvurusu yapmıştır. İstinaf mahkemesi, ilk derece mahkemesinin kararının dayandığı delillerin yetersiz olduğunu ve talebin reddedilmesinin hukuki gerekçelendirildiğini düşünerek, istinaf başvurusunu da esastan reddetmiştir. Karar, borcun varlığı ve miktarı konusunda yeterli kanıt eksikliği ve taraflar arasındaki dostluk ilişkisinin borcun ödenmemesine neden olmadığı gibi hususlarda ilk derece mahkemesinin değerlendirmesini onaylamaktadır.",
+    "summary_for_model": "Dava, İcra ve İflas Kanunu 257 ve 258 maddeleri uyarınca ihtiyati haciz talebini konu alır. İlk derece mahkemesi, borcun varlığı, miktarı ve muacceliyeti konusunda yeterli kanıt bulamadığı için talebi reddetmiştir. İstinaf mahkemesi, HMK 353.1.b.1 maddesi uyarınca istinaf başvurusunu esastan reddetmiştir. Karar, borcun varlığı ve miktarı konusunda yeterli kanıt eksikliği ve taraflar arasındaki dostluk ilişkisinin borcun ödenmemesine neden olmadığı gibi hususlarda ilk derece mahkemesinin değerlendirmesini onaylamaktadır. HMK 355. maddesi ve AAÜT 2/2 hükmü uyarınca harç ve giderler belirlenmiştir."
+}

@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2018_27.pdf",
+        "court_name": "T.C. İSTANBUL 2.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2018/27",
+        "karar_no": "2018/262",
+        "case_subject": "Endüstriyel Tasarım Tecavüz ve Haksız Rekabet Davası",
+        "dava_tarihi": "17/01/2018",
+        "karar_tarihi": "13/12/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, Endüstriyel Tasarım Tecavüz (Maddi Tazminat İstemli) davası açtı. Müvekkilinin ticari markası altında faaliyet gösterdiğini, davalı tarafından tescilli tasarımın ihlali ve haksız rekabet iddialarını ileri sürdü. Davalı, tasarımın yenilik ve ayırt edicilik niteliğine sahip olmadığını iddia etti.",
+        "reasoning_text": "Mahkeme, 6769 sayılı Sınai Mülkiyet Kanunu'nun 56. maddesi çerçevesinde tasarımın yenilik ve ayırt edicilik niteliğini inceledi. Bilirkişi raporu ve deliller ışığında, tasarımın yenilik vasfını kaybettiği tespit edildi. Hükümsüzlük kararı verildi.",
+        "verdict_text": "1-Asıl Davanın reddine, karşı davanın kabulüne karar verildi. 2-5.1 Nolu Tasarımın Hükümsüzlüğüne karar verildi. 3-Karşı dava lehine maddi ve manevi tazminat kararı verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı Sınai Mülkiyet Kanunu",
+            "Hukuk Muhakemesi Kanunu (HMK) 266. madde",
+            "Avukatlık Asgari Ücret Tarifi",
+            "Harglar Tarifi",
+            "5070 sayılı Elektronik İmza Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacının tescilli tasarımının yenilik vasfını kaybettiğini tespit etti ve tasarımın hükümsüzlüğünü kararlaştırdı. Karşı davaya maddi ve manevi tazminat kararı verildi.",
+    "summary_for_model": "Dava, tasarım hak ihlali ve haksız rekabet iddialarını içeriyor. Mahkeme, tasarımın yenilik niteliğini kaybettiğini tespit etti ve hükümsüzlük kararı verdi. Karşı davaya maddi ve manevi tazminat kararı verildi."
+}

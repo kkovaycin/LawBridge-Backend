@@ -1,0 +1,32 @@
+{
+    "meta_data": {
+        "file_name": "2025_1110.pdf",
+        "court_name": "Sakarya Bölge Adliye Mahkemesi 5. Hukuk Dairesi",
+        "esas_no": "2025/1110",
+        "karar_no": "2025/1143",
+        "case_subject": "Tazminat davası - İşçi hakları ve hak ihlali",
+        "dava_tarihi": "23/06/2023",
+        "karar_tarihi": "14/07/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, işçi olarak çalıştığı şirkette 30/05/2022'den beri çalıştığını, ancak 09/05/2023'te işten çıkarıldığını iddia ediyor. Davacı, işten çıkarılma sürecinde hak ihlalleri yaşadığını ve hak kayıplarını tazmin etmesini talep ediyor.",
+        "reasoning_text": "Mahkeme, davacının hak ihlalleri iddialarını değerlendirdi ve yetkisizlik kararı verdi. Kocaeli 2. Asliye Ticaret Mahkemesi'nin yetkisizlik kararı, dava dosyasının yetkili mahkemeye gönderilmesini gerektiriyor.",
+        "verdict_text": "Kocaeli 2. Asliye Ticaret Mahkemesi'nin yetkisizlik kararı, dava dosyasının yetkili mahkemeye gönderilmesini gerektiriyor. Davacı, yetkisizlik kararına karşı itiraz etti. Mahkeme, yetkisizlik kararı ile dava dosyasını yetkili mahkemeye göndermektedir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Ticaret Kanunu (TTK)",
+            "Hukuk Muhakemeleri Kanunu (HMK)",
+            "6100 Sayılı HMK",
+            "444. madde",
+            "4/1-c madde",
+            "17. madde",
+            "114/1-c madde",
+            "115/2 madde",
+            "353/1-a.3 madde",
+            "362/1-c madde"
+        ]
+    },
+    "summary_for_human": "Davacı, işçi olarak çalıştığı şirkette hak ihlalleri iddia ediyor ve tazminat talep ediyor. Mahkeme, davacının iddialarını yetkisizlik kararı ile değerlendirdi ve dava dosyasını yetkili mahkemeye göndermektedir.",
+    "summary_for_model": "Dava, işçi hak ihlalleri ve tazminat talebini içerir. Mahkeme, yetkisizlik kararı verdi ve dava dosyasını yetkili mahkemeye göndermektedir. Davacı, yetkisizlik kararına karşı itiraz etti."
+}

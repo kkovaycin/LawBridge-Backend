@@ -1,0 +1,39 @@
+{
+    "meta_data": {
+        "file_name": "2018_240.pdf",
+        "court_name": "T.C. İSTANBUL 2.FİKRİ VE SINAI HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2018/240",
+        "karar_no": "2021/129",
+        "case_subject": "Marka Tecavüzünün Tesbiti, Durdurulması, Önlenmesi, Maddi ve Manevi Tazminat",
+        "dava_tarihi": "07/05/2018",
+        "karar_tarihi": "11/03/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, vekilinin markaları kullanmakla suçlandığını iddia etti. Davacı, markaların benzerliğini ve hak ihlali iddiasını savundu. Davalı, markaların farklı olduğunu ve hak ihlali olmadığını iddia etti.",
+        "reasoning_text": "Mahkeme, markaların benzerliğini ve hak ihlali iddiasını inceleyerek, markaların farklı olduğunu ve hak ihlali olmadığını tespit etti. Davacıya maddi ve manevi tazminat verilmesine karar verildi.",
+        "verdict_text": "Davacıya 5.000 TL maddi ve 5.000 TL manevi tazminat verilmesine karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı Kanun",
+            "6102 sayılı TTK",
+            "602 sayılı TTK",
+            "29. madde",
+            "7. madde",
+            "155. madde",
+            "26/6 maddesi",
+            "29/1 maddesi",
+            "7/2-c maddesi",
+            "150. madde",
+            "151. madde",
+            "54. madde",
+            "55. madde",
+            "58. madde",
+            "18/f2 maddesi",
+            "345/1 maddesi",
+            "5070 sayılı elektronik imza kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı markalarının benzerliğini ve hak ihlali iddiasıyla dava açtı. Mahkeme, markaların farklı olduğunu ve hak ihlali olmadığını tespit etti. Davacıya maddi ve manevi tazminat verilmesine karar verildi.",
+    "summary_for_model": "Dava, markaların benzerliği ve hak ihlali iddiasıyla açıldı. Mahkeme, markaların farklı olduğunu ve hak ihlali olmadığını tespit etti. Davacıya maddi ve manevi tazminat verilmesine karar verildi."
+}

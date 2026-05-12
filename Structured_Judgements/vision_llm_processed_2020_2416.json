@@ -1,0 +1,33 @@
+{
+    "meta_data": {
+        "file_name": "2020_2416.pdf",
+        "court_name": "T.C. İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2020/2416",
+        "karar_no": "2020/272",
+        "case_subject": "Tespit (D.İş)",
+        "dava_tarihi": "17/07/2020",
+        "karar_tarihi": "05/11/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, vekilin internet sitesinde ve Instagram'da markayı ihlal eden yayınların kullanılmasına dayanıyor. Müvekkillerin hak ihlali ve haksuz reklamcılık iddia edildi.",
+        "reasoning_text": "Hukuki gerekçeler, HMK 400 ve 355 maddeleri, FSEK 69 ve 77 maddeleri, SMK 159 ve 6769 maddeleri, TTK 61 ve 389 maddeleri ve HMK 353/1-b/1 maddesi ile desteklenmiştir.",
+        "verdict_text": "İstanbul 2. Fıkri ve Sınai Haklar Hukuk Mahkemesi'nin 17/07/2020 tarihli ve 2020/110 D.İş., 2020/111 K. sayılı kararının reddi kararı verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 400",
+            "HMK 355",
+            "FSEK 69",
+            "FSEK 77",
+            "SMK 159",
+            "SMK 6769",
+            "TTK 61",
+            "TTK 389",
+            "HMK 353/1-b/1",
+            "HMK 362/1-f",
+            "HMK 394/(5)"
+        ]
+    },
+    "summary_for_human": "Mahkeme, vekilin internet sitesinde ve Instagram'da markayı ihlal eden yayınların kullanılmasına karşı istinaf talebini reddetmiştir. Karar, HMK ve diğer kanun maddeleri temelinde verilmiştir.",
+    "summary_for_model": "İstanbul Bölge Adliyesi, vekilin markayı ihlal eden yayınların kullanılmasına karşı istinaf talebini reddetmiştir. Karar, HMK 400, 355, FSEK 69, 77, SMK 159, 6769, TTK 61, 389 ve HMK 353/1-b/1 gibi kanun maddeleri temelinde verilmiştir."
+}

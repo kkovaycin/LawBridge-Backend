@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2021_722.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 43. Hukuk Dairesi",
+        "esas_no": "2020/360",
+        "karar_no": "2021/605",
+        "case_subject": "Tazminat (Haksız Rekabetten Kaynaklanan)",
+        "dava_tarihi": "25/02/2021",
+        "karar_tarihi": "20/04/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacılar vekili dava dilekçesiyle, müvekkillerine ait ürünlerle ilgili sosyal medya hesaplarından yayınlanan asısız ve kötüleyici haberlerin TTK 55. ve devamı maddelerinde tanımlanan haksız rekabete sebep olması nedeniyle, haksız rekabetin tesbiti ve men'i ile 500.000,00 TL manevi ve 1.000,00 TL maddi tazminatın davadan tahsili ile dava dilekçesinde adlarını bildirildiği internet sitelerindeki haksız paylaşımların HMK 389 ve 390 maddeleri uyarınca tedbiren durdurulmasına ve erişimin engellenmesine ve davanın //...com, //.... // .../... alan adlı internet siteleri ve sosyal medya hesaplarının kapatılmasına karar verilmesini talep etmiştir.",
+        "reasoning_text": "Mahkeme, ön inceleme duruşmasında yazı cevapları geldikten sonra tedbir istemin değerlendirilmesine dair ara karar oluşturulduğunu ve yazı cevaplarının dosya içine sağlandığını belirterek 25/02/2021 tarihli ara kararıyla toplanan delillere ve dosya kapsamına göre ve davalı aleyhine İstanbul Anadolu 17. Asliye Ceza Mahkemesi'nin 2020/615 E. sayılı dava dosyasına konu iddianame içeriğine göre davacı vekilinin tedbir talebinin yaklaşık ispat kapsamında haklı görüldüğünü gerekçesiyle davanın kullanımında olan internet sitelerinde davacı şirketler aleyhine herhangi bir yorum ve görüş beyan etmemesi hususunda ihtiyati tedbir verilmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle: 1-Davalı vekilinin istinaf başvurusunun HMK 341/1-b, maddesi uyarınca USULDEN REDDİNE,2-İstinaf yoluna başvuran davalı tarafından yatırılan peşin istinaf karar harcının talep halinde ilk derece mahkemesince kendisine iadesine,3-İstinaf yoluna başvuran davalı tarafından yapılan masrafların kendi üzerinde bırakılmasına, Dosya üzerinde yapılan inceleme sonunda oy birliği ile, HMK.'nin 362(1)-g maddesi uyarınca KESİN olmak üzere karar verildi. 20/04/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 55",
+            "HMK 389",
+            "HMK 390",
+            "HMK 341",
+            "HMK 394",
+            "HMK 341/1-b",
+            "HMK 362(1)-g"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, haksız rekabet iddiasıyla sosyal medya ve internet sitelerinde yayınlanan asısız ve kötüleyici haberlerin durdurulmasını ve tazminat talep etmiştir. İlk derece mahkemesi, davacı vekilinin talebini kısmen kabul ederek internet sitelerinde davacı şirketler aleyhine yorum ve görüş beyan etmemesi hususunda ihtiyati tedbir vermiştir. Davalı vekili, bu karara karşı istinaf başvurusunda bulunmuştur.",
+    "summary_for_model": "Dava, haksız rekabet iddiasıyla sosyal medya ve internet sitelerinde yayınlanan asısız ve kötüleyici haberlerin durdurulmasını ve tazminat talep etmektedir. İlk derece mahkemesi, davacı vekilinin talebini kısmen kabul ederek internet sitelerinde davacı şirketler aleyhine yorum ve görüş beyan etmemesi hususunda ihtiyati tedbir vermiştir. Davalı vekili, bu karara karşı istinaf başvurusunda bulunmuştur. Karar, HMK 341/1-b, HMK 341, HMK 394 ve HMK 362(1)-g maddeleri uyarınca verilmiştir."
+}

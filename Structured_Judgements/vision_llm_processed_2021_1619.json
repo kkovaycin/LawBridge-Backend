@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2021_1619.pdf",
+        "court_name": "KONYA BÖLGE ADLIYE MAHKEMESİ",
+        "esas_no": "...",
+        "karar_no": "...",
+        "case_subject": "Tazminat davası",
+        "dava_tarihi": "01/07/2021",
+        "karar_tarihi": "24/02/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının internet üzerinden 'Şikayetsiz Un' sloganı ile ticaret yaparken, davalının müşterilerine ait olan 50 kg'lık un çavallarını tartarak kilogramların oynandığını iddia etmiştir. Davalı, bu iddiaları reddetmiştir.",
+        "reasoning_text": "Mahkeme, davalının eyleminin hakssız rekabet olarak değerlendirildiğini ve maddi ve manevi tazminat talebinin kabul edildiğini belirtmiştir. Davacıya maddi tazminat olarak 5.000 TL ve manevi tazminat olarak 1 TL verilmesi kararlaştırılmıştır.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere; Davacının istinaf başvurusu kabul ile; Konya ... Asliye Ticaret Mahkemesi'nin 01/07/2021 tarih ... Esas ... Karar sayılı KARARININ KALDIRILMASINA, 1-Istinaf başvurusunda bulunan davacı tarafından yatırılan 85,39 TL istinaf karar harcının talep halinde davacıya iadesine, 2-Istinaf incelemesi sırasında duruşma açılmadığından taraflara ücret-i vekalet taktirine yer olmadığına, 3-Istinaf başvurusunda bulunan davacı tarafından yatırılan 162,10 TL istinaf yoluna başvuru harcının davalıdan alınarak davacıya verilmesine, B) Hukuk Muhakemeleri Kanunu'nun 353/1-b.2 maddesi gereğince davacı talebi ile ilgili YENİDEN HÜKMÜ KURULMASINA, -Davanın KABULÜ İLE; 1-Davanın davacıya karşı gerçekleştirdiği eylemin hakssızlığının tesbitine, 2-Davalının maddi tazminat talebinin kabulü ile 5.000,00 TL maddi tazminatın dava tarihinden itibaren işleyecek faizliyle birlikte davalıdan alınarak davacıya verilmesine, 3-Davalının manevi tazminat talebinin kabulü ile 1,00 TL manevi tazminatın dava tarihinden itibaren işleyecek faizliyle birlikte davalıdan alınarak davacıya verilmesine, 4-Karar tarihinin itibarıyla alınması gereken 341,61 TL harçtan peşin alınan 85,41 TL harçın mahsubu ile bakiye 256,20 TL karar ve ilam harcının davalıdan tahsili he hazineye iad kaydına, 5-Davacı davada kendisini vekil ile temsil ettiğinden davalının davacıya karşı gerçekleştirdiği eylemin hakssızlığının tesbiti kararı yönünden karar tarihinde yürürlükte olan A.A.Ü.T gereğince 9.200,00 TL ücreti vekaletinin davalıdan alınarak davacıya verilmesine, 6-Maddi tazminat talebi yönünden karar tarihinde yürürlükte olan A.A.Ü.T gereğince 5.000,00 TL ücreti vekaletinin davalıdan alınarak davacıya verilmesine, 7-Manevi tazminat talebi yönünden karar tarihinde yürürlükte olan A.A.Ü.T gereğince 1,00 TL ücreti vekaletinin davalıdan alınarak davacıya verilmesine, 8-Davacı tarafından yapılan 85,41 TL peşin harç, 35,90 TL başvurma harcı, 1.000,00 TL bilirkişi ücreti, 198,00 TL posta ve tebligat gideri olmak üzere toplam 1.319,31 TL yargılama giderlerinin davalıdan alınarak davacıya verilmesine, 9-Hukuk Muhakemeleri Kanunu'nun 333 ve HMKGA'T'ın 5/1. maddeleri gereğince yatırılan gider avansının kullanılmaz kusmun gider avansını yatıran tarafa iadesine, C) Hukuk Muhakemeleri Kanunu'nun 359.4.maddesi gereğince kararın dairemiz tarafından tebliği çıkarılmasına, D) Kararın temyiz edilmeden kesinleşmesi halinde; dava dosyasının ilk derece mahkemesine gönderilmesine, Dair, dosya üzerinde yapılan inceleme sonucunda verilen kararın HMK'nın 361/1 maddesi gereğince; taraflara tebliginden itibaren iki hafta içerisinde dairemize, temyiz edenin bulunduğu yer Bölge Adliye Mahkemesi Hukuk Dairesi'ne veya ilk derece mahkemesine verilecek dilekçe ile temyiz kanun yoluyla başvurma talebinde bulunulabileceğine 24/02/2023 tarihinde oybirliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Ticaret Kanunu 59. Maddesi",
+            "Hukuk Muhakemeleri Kanunu 353/1-b.2",
+            "Hukuk Muhakemeleri Kanunu 359.4",
+            "Hukuk Muhakemeleri Kanunu 333",
+            "HMKGA'T 5/1",
+            "HMK 361/1"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının müşterilerine ait un çavallarını tartarak kilogramların oynandığını iddia etti. Mahkeme, davalının eyleminin hakssız rekabet olarak değerlendirerek maddi ve manevi tazminat talebini kabul etti.",
+    "summary_for_model": "Davacı, davalının müşterilerine ait un çavallarını tartarak kilogramların oynandığını iddia etti. Mahkeme, davalının eyleminin hakssız rekabet olarak değerlendirerek maddi ve manevi tazminat talebini kabul etti. Davacıya 5.000 TL maddi ve 1 TL manevi tazminat verildi."
+}

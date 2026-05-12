@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_114.pdf",
+        "court_name": "T.C. İSTANBUL 1.FİKRÎ VE SINAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2023/94",
+        "karar_no": "2024/1",
+        "case_subject": "Tasarım hakları ve ticari itibar ihlalleri",
+        "dava_tarihi": "28/03/2023",
+        "karar_tarihi": "02/01/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının internet sitelerinden ve sosyal medyadan tasarım ürünlerinin indirilmesini, ürünlerin toplatılmasını ve maddi tazminat taleplerini iddia etmiştir. Savunma, tasarımın meşru kullanımını savunmuştur.",
+        "reasoning_text": "Mahkeme, davaların birleşmesi gerektiğini kararlaştırmıştır. HMK 166/1 maddesine dayanarak, davaların birleşmesi kararı verilmiştir.",
+        "verdict_text": "Her iki dava dosyasının birleştirilmesine, davaların esasının kapatılarak yargılamaya devam edilmesine, ve dava vekillerinin yokluğunda gereçli kararın tebliğinden itibaren iki haftalık süre içinde esas hükmlü birlikte istinaf yasa yolu açık olmak üzere verilen karar açıkça okundu, usulen anlatıldı 02/01/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 107",
+            "HMK 392",
+            "HMK 166/1",
+            "İSTİNAF YASA"
+        ]
+    },
+    "summary_for_human": "Mahkeme, Endüstriyel Tasarım davasını ve ilgili başka bir davayı birleştirdi. Davacı, tasarım hakları ihlalleri ve maddi tazminat talepleriyle davayı açtı. Savunma, tasarımın meşru kullanımını savundu.",
+    "summary_for_model": "Mahkeme, HMK 166/1 maddesine dayanarak iki davayı birleştirdi. Davacı, tasarım hakları ihlalleri ve maddi tazminat talepleriyle davayı açtı. Savunma, tasarımın meşru kullanımını savundu. Karar, dava vekillerinin yokluğunda gereçli kararın tebliğinden itibaren iki haftalık süre içinde istinaf yasa yolu açık olarak açıklandı."
+}

@@ -1,0 +1,37 @@
+{
+    "meta_data": {
+        "file_name": "2021_560.pdf",
+        "court_name": "T.C. İSTANBUL 7. AŞLİYE TİCARET MAHKEMESİ",
+        "esas_no": "2021/560",
+        "karar_no": "2022/456",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "25/08/2021",
+        "karar_tarihi": "29/06/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar ve ifadelerle mükvelli şirketin kişilik haklarına saldırıda bulunulmuş, münakkat haberler ve iddialarla mükvelli şirketin kişilik haklarına ve ticari itibarına saldırıda bulunulmuş. Davalı, mükvelli şirketin haber kanallarında yayınlanan programda mükvelli şirket hakkında asılsız, haksız, mesnetsiz, basin gibi nitelikteki beyanlar ve iddialarla mükvelli şirketin kişilik haklarına saldırıda bulunulmuş.",
+        "reasoning_text": "Davacı, mükvelli şirketin haber yayın organı olarak işlev yapan televizyon kanallarında yayınlanan programda mükvelli şirket hakkında asılsız, haksız, mesnetsiz, basin gibi nitelikteki beyanlar ve iddialarla mükvelli şirketin kişilik haklarına saldırıda bulunulmuş. Davalı, mükvelli şirketin haber yayın organı olarak işlev yapan televizyon kanallarında yayınlanan programda mükvelli şirket hakkında asılsız, haksız, mesnetsiz, basin gibi nitelikteki beyanlar ve iddialarla mükvelli şirketin kişilik haklarına saldırıda bulunulmuş.",
+        "verdict_text": "1-Davanın REDDİ İLE;\n2-Karar tarihinde yürürlükte bulunan Harglar Tarifeşi gereğine hesaplanan 80,70-TL maktu karar harcının peşin alınan 1.707,75-TL harçtan mahsubu ile artan 1.627,05-TL harçin karar kesinleştiğinde ve talep halinde DAVACIYA İADESİNE,\n3-Karar tarihinde yürürlükte bulunan Avukatlık Öcret Tarifeşi gereğine hesap olan 5.100,00-TL vekalet ücretinin davacıdan alınarak, DAVALIYA VERİLMESİNE,\n4-Davacı tarafından yapılan yargılama giderlerinin kendisi üzerinde bırakılmasına,\n5-Kullanılmayan gider/değil avansının karar kesinleştiğinde iğlilişine iadesine,\nDair, taraf vekillerinin yüzüne karşı gerekçeli kararın tarafa tebliğinden itibaren 2 hafta içinde iştinaf kanun yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 29/06/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Anayasa 17. madde",
+            "Türk Medeni Kanunu",
+            "Türk Borçlar Kanunu",
+            "Avrupa İnsan Hakları Sözleşmesi 8. madde",
+            "Anayasa 25. madde",
+            "Anayasa 26. madde",
+            "Anayasa 90. madde",
+            "Avrupa İnsan Hakları Sözleşmesi 10. madde",
+            "Anayasa 28. madde",
+            "Basın Kanunu 1. ve 3. maddeler",
+            "Türk Borçlar Kanunu 58. madde",
+            "Türk Medeni Kanunu 24. madde",
+            "Yargıtay 4. Hukuk Dairesi yerleşik içtihatılarında belirtilmiş üzere",
+            "Anayasa Temel Hak ve Özgürlükler bölümü",
+            "Türk Medeni Kanunu 24. ve 25. maddeler"
+        ]
+    },
+    "summary_for_human": "Davacı, mükvelli şirketin haber yayın organı olarak işlev yapan televizyon kanallarında yayınlanan programda mükvelli şirket hakkında asılsız, haksız, mesnetsiz, basin gibi nitelikteki beyanlar ve iddialarla mükvelli şirketin kişilik haklarına saldırıda bulunulmuş. Mahkeme, dava konusu yayın için mükvelli şirketin haber yayın organı olarak işlev yapan televizyon kanallarında yayınlanan programda mükvelli şirket hakkında asılsız, haksız, mesnetsiz, basin gibi nitelikteki beyanlar ve iddialarla mükvelli şirketin kişilik haklarına saldırıda bulunulmuş.",
+    "summary_for_model": "Dava, mükvelli şirketin haber yayın organı olarak işlev yapan televizyon kanallarında yayınlanan programda mükvelli şirket hakkında asılsız, haksız, mesnetsiz, basin gibi nitelikteki beyanlar ve iddialarla mükvelli şirketin kişilik haklarına saldırıda bulunulmuş. Mahkeme, dava konusu yayın için mükvelli şirketin haber yayın organı olarak işlev yapan televizyon kanallarında yayınlanan programda mükvelli şirket hakkında asılsız, haksız, mesnetsiz, basin gibi nitelikteki beyanlar ve iddialarla mükvelli şirketin kişilik haklarına saldırıda bulunulmuş."
+}

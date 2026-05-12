@@ -1,0 +1,52 @@
+{
+    "meta_data": {
+        "file_name": "2021_805.pdf",
+        "court_name": "İzmir 6. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2021/791",
+        "karar_no": "2022/291",
+        "case_subject": "Haksız rekabet ve dolandırıcılık iddiaları",
+        "dava_tarihi": "17/11/2021",
+        "karar_tarihi": "30/03/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekilinin tek ortak olarak çalıştığı bir şirketin internet sitesinde haksız reklam yaparak müşterilerini dolandırmasını iddia ediyor. Şirketin web sitesi ve sosyal medya hesaplarında yanlış yönlendirme ve dolandırıcılık faaliyetleri tespit edildi.",
+        "reasoning_text": "Mahkeme, davacının iddialarını kabul etmedi. Şirketin internet sitesinde reklam yapması ve müşterileri dolandırması iddiası, haksız rekabet ve dolandırıcılık suçları kapsamında değerlendirildi. Ancak, davacının iddialarının kanıtlanmadığı ve davanın reddedildiği belirtildi.",
+        "verdict_text": "HÜKÜM: Yukarıda yazılı bulunan gerekçeye göre;\n1-Davanın HMK'nun 114/1-c.maddesi gereğince görevsizlik nedeniyle HMK'nun 115/2 maddesi gereğince dava şartı yokluğundan usulden REDDİNE,\nMahkememizin GÖREVSİZLİĞİNE,\n2-Kararın kanun yoluna başvurulmayarak kesinleşmesi halinde veya kanun yoluna başvurulmuş ise bu başvurunun reddi kararının tebliğinden itibaren 2 hafta içerisinde taraflarca mahkememize başvurulması halinde dosyanın görevli ve yetkili İzmir İş Mahkemesi'ne gönderilmesine, yasal süre içerisinde başvuru yapılmaması halinde davanın açılmamış sayılacağına,\n3-HMK 331/2 maddesi gereğince harç ve yargılama giderlerinin görevli mahkemeye hüküm altına alınmasına,\n4-Mahkememiz görevsizlik kararı sonrasında görevli ve yetkili mahkemede yargılama devam edilmemesi halinde bu husus belirtilerek mahkememize başvurulması halinde harç ve yargılama giderleri konusunda mahkememizce karar verilmesine,\nDaır; davacı vekilinin ve davallar vekilinin yüzüne karşı verilen karar, HMK 341 vd maddeleri gereğince tebliğ tarihinden itibaren iki hafta içerisinde mahkememize veya aynı nitelikteki başka yer mahkemeye verilecek dileçe ile İzmir Bölge Adliye Mahkemesi'ne istinaf yoluna başvurabileceği belirtilerek açıkça okunup usulden anlatıldı. 30/03/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 623.maddesi",
+            "TTK 50.maddesi",
+            "TMK 2.maddesi",
+            "TMK 50.maddesi",
+            "TMK 2/2.maddesi",
+            "TMK m.2/2",
+            "TMK m.215",
+            "İİK m.44",
+            "İİK m.337/a",
+            "TMK 4.maddesi",
+            "TMK 5.maddesi",
+            "TMK 4/1-c.maddesi",
+            "TMK 5/1.maddesi",
+            "7036 Sayılı İş Mahkemeleri Kanunu",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "6102 Sayılı Türk Ticaret Kanunu",
+            "6335 Sayılı Kanun",
+            "7036 Sayılı İş Mahkemeleri Kanunu",
+            "6098 Sayılı Türk Borçlar Kanunu",
+            "444/1.maddesi",
+            "444/2.maddesi",
+            "446.maddesi",
+            "447.maddesi",
+            "393 ve 469.maddeleri",
+            "444.madde",
+            "447.madde",
+            "341 vd maddeleri",
+            "331/2.maddesi",
+            "114/1-c.maddesi",
+            "115/2.maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, vekilinin tek ortak olarak çalıştığı bir şirketin internet sitesinde haksız reklam yaparak müşterilerini dolandırmasını iddia ediyor. Mahkeme, davacının iddialarını kabul etmedi ve davayı reddetti.",
+    "summary_for_model": "Davacı, vekilinin tek ortak olarak çalıştığı bir şirketin internet sitesinde haksız reklam yaparak müşterilerini dolandırmasını iddia ediyor. Mahkeme, davacının iddialarını kabul etmedi ve davayı reddetti. Haksız rekabet ve dolandırıcılık suçları kapsamında değerlendirildi."
+}

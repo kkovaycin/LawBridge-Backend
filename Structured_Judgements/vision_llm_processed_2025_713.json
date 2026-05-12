@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2025_713.pdf",
+        "court_name": "İSTANBUL BÖLGE ADLİYE MAHKEMESİ 16. HUKUK DAİRESİ",
+        "esas_no": "2025/713",
+        "karar_no": "2025/936",
+        "case_subject": "İnternet İçerğinin Yayınından Çıkarılması/Engellenmesi",
+        "dava_tarihi": "07/04/2025",
+        "karar_tarihi": "02/07/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili vekili ihtiyati tedbir talebiyle dava dilekçesinde özet; müvekkillerinin marka hakkına gerçekleştirildiği 16.03.2025 tarihli Bilirkişi Raporu ile de sübut bulan tecavüzün ve ... numaralı telefon hattı kullanıcılarının tesbitini, HMK m. 389 vd. maddeleri uyarınca, müvekkillerinin markası üzerindeki haklarına tecavüz niteliğindeki fillerin durdurulması amacıyla, ... numaralı WhatsApp hattına erişimi içeren tüm alt linklerin erişiminin ihtiyati tedbir yoluyla terminatsiz olarak tedbiren engellenmesini ve hukuka aykırı içerik barındıran ... numaralı WhatsApp kullanıcılarının tesbitini (bunun için öncelikle ... A.S.'ye yazılan 17.03.2025 tarihli müzekkerenin tekidini) talep etmiştir.",
+        "reasoning_text": "İhtiyati tedbir talebinin reddine karar verilmiştir. İlk derece mahkemesince 07/04/2025 tarihli ara karar ile; 16/03/2025 tarihli bilirkişi raporunda, karşı tarafın marka kullanımına ilişkin bir tesbitin bulunmadığı, dava dilekçesinde sunulan ekran görüntüsünün bilgi uzmanı tarafından teknik inceleme ile denetime açık şekilde tesbitinin yapılmadığı, davalının marka hakkına tecavüz niteliğinde eylemine yönelik davacı tarafından sunulan görsel dışında bir tesbitin dosya kapsamında mevcut olmadığı, bu aşamada tedbir talebine yönelik yaklaşık ispatın bulunmadığı, dava konusu telefon hattının sahiplik bilgisinin tesbitine yönelik talebin de HMK m.400 kapsamında \"vakıa tesbiti\" olarak değerlendirilmesinin mümkün olmadığı gerekçesiyle, ihtiyati tedbir talebinin reddine karar verilmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle; 1-İhtiyati tedbir talep eden davacı vekilinin istinaf talebinin HMK'nun 353/1-b-1 maddesi uyarınca ES ASTAN REDDİNE, 2-Harç peşin alındığından yeniden harç alınmasına yer olmadığına, 3-Davacı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, 4-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinden yapılan inceleme sonunda, oy birliğiyle kesin olarak karar verildi.02/07/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 389",
+            "HMK 400",
+            "HMK 353/1-b-1"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin telefon numarası ve WhatsApp hesabının engellenmesi talebini reddetmiştir. Bu karar, davacı tarafından sunulan teknik kanıtların yetersiz olduğu ve dava konusu telefon numarası sahiplerinin tesbitinin mümkün olmadığı gerekçeleriyle verilmiştir. Mahkeme ayrıca, ilk derece mahkemesinin kararının istinaf talebini de reddetmiştir.",
+    "summary_for_model": "Davacı vekili, telefon numarası ve WhatsApp hesabının engellenmesi talebini HMK 353 ve 389 maddeleri uyarınca sunmuştur. İlk derece mahkeme, teknik inceleme eksikliği ve tesbit eksikliği nedeniyle talebi reddetmiştir. İstinaf talebi de HMK 353/1-b-1 maddesi uyarınca reddedilmiştir. Karar, dava dosyasında mevcut olmayan teknik kanıtlar ve yasalara uygun olmayan prosedürler nedeniyle verilmiştir."
+}

@@ -1,0 +1,37 @@
+{
+    "meta_data": {
+        "file_name": "2020_2225.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 43. Hukuk Dairesi",
+        "esas_no": "2012/326",
+        "karar_no": "2024/2",
+        "case_subject": "Haksız rekabet ve ticari zarar davası",
+        "dava_tarihi": "10/10/2019",
+        "karar_tarihi": "18/01/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, dava dilekçesinde davalının müvekkili firmayı kötülemek, karalamak için sosyal medyada geniş bir kitleye yanlış, yanlıcı bilgiler vermek, müvekkilin ticari itibarı ve ürünlerini kötüleyen söz ve eylemler içinde olduğunu iddia etmiştir. Davalının bu suçlamaları kapsamında yasal işlem başlatmadığını, sosyal medyadan karalama çalışmaları yürüttüğünü, gerçek dışı beyanlarla müvekkili firmayı dolayısıyla hizmet ve ürünlerini kötüleme yolunu seçerek müvekkilin maddi ve manevi zarara uğrattıklarını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davalının müvekkili firmaya ait müşteriler ve fiyat listeleri, sözleşme tarihleri vb. ticari sır niteliğindeki bilgileri ele geçirerek bunları haksız rekabet etmede, fiyat düşürmede ve yıkıcı fiyat politikası uygulamada araç olarak kullandıklarını tespit etmiştir. Bu eylemlerin sonucunda davalının maddi ve manevi zarara uğradığını, davaların birleşmesinin gerekliliğini ve davaların her iki davalıya karşı mütessilen açılmasını zorunlu olduğunu değerlendirmiştir.",
+        "verdict_text": "İstanbul Bölge Adliye Mahkemesi 43. Hukuk Dairesi, davaların birleşmesinin gerekliliğini ve davaların her iki davalıya karşı mütessilen açılmasını zorunlu olduğunu kararlaştırmıştır. Davacı/Karşı davalı vekili ve davalı/Karşı davacı vekili ve davalı/Karşı davacı vekilleri arasında ayrı ayrı istinaf edilmesi üzerine düzenlenen rapor ve dosya kapsamı incelenip gereği görülüp düşünülmüştür."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Ticaret Kanunu (TTK) 54, 55/1-a, 56, 58",
+            "Türk Ticaret Kanunu (TTK) 61",
+            "Türk Ticaret Kanunu (TTK) 42",
+            "Türk Ticaret Kanunu (TTK) 50",
+            "Türk Ticaret Kanunu (TTK) 58/e",
+            "Türk Ticaret Kanunu (TTK) 55/1-c, d",
+            "Türk Ticaret Kanunu (TTK) 353(1)b-1",
+            "Türk Ticaret Kanunu (TTK) 362(1)a",
+            "Türk Ticaret Kanunu (TTK) 355",
+            "Türk Ticaret Kanunu (TTK) 125/1",
+            "Türk Ticaret Kanunu (TTK) 6",
+            "Türk Ticaret Kanunu (TTK) 190/1",
+            "Türk Ticaret Kanunu (TTK) 50",
+            "Türk Ticaret Kanunu (TTK) 58",
+            "Türk Ticaret Kanunu (TTK) 6102"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, davacı ve davalı vekillerinin istinaf başvurularını reddetmiştir. Davalının müvekkili firmaya ait ticari sır bilgileri ele geçirerek haksız rekabet ve ticari zarar oluşturduğunu tespit etmiştir.",
+    "summary_for_model": "Dava, davacı vekili tarafından davalının müvekkili firmaya haksız rekabet ve ticari zarar iddialarıyla açılmıştır. Mahkeme, davaların birleşmesinin gerekliliğini ve davaların her iki davalıya karşı mütessilen açılmasını zorunlu olduğunu kararlaştırmıştır. İstinaf başvuruları reddedilmiştir."
+}

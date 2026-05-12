@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2025_436.pdf",
+        "court_name": "İstanbul 4. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2025/436",
+        "karar_no": "2025/506",
+        "case_subject": "Marka (Marka Hakkına Tecavüzden Kaynaklanan)",
+        "dava_tarihi": "27/03/2025",
+        "karar_tarihi": "28/01/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, davalı tarafından markasının tanınmış bir marka olduğu ve tecavüzün müvekkilin onlarca marka tesciline karşı gerçekleşmiş olduğu dikkate alınarak 100.000 TL manevi tazminatın faizle birlikte davalıdan alınarak müvekkile verilmesini talep etmiştir.",
+        "reasoning_text": "Mahkeme, İstanbul 4. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 28/01/2025 tarihli 2024/214 E sayılı ara kararını inceleyerek, davacının ihyatati tedbir talebinin kısmen kabulüne, davalı vekilinin ihyatati tedbir talebinin reddine ve davacı vekilinin istinaf başvurusunun konussuz kaldığına karar vermiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacının istinaf başvurusunun konussuz kaldığı anlaşılmakla karar verilmesine YER OLMADIĞINA2-İstinaf yoluna başvuran davacı tarafından yatırılan peşin istinaf karar harcının talep halinde ilk derece mahkemesine kendisine iadesine,3-Davacı tarafından yapılan istinaf yargılama giderlerinin davalı üzerinde bırakılmasına, 4-İnceleme duruşmasız yapıldığından vekalet ücreti tayinine yer olmadığına,5-Peşin alınan ve harcanmayan gider avansının ilk Derece Mahkemesine iadesine,Dair, 6100 Sayılı HMK'nun 352/1-b. maddesi gereğince dosya üzerinde yapılan ön inceleme sonucunda, 6100 Sayılı HMK'nun 362/1-a. maddesi gereğince kesin olmak üzere oy birliğiyle karar verildi. 27/03/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 159/2-c",
+            "6100 Sayılı HMK 393/1",
+            "6100 Sayılı HMK 352/1-b",
+            "6100 Sayılı HMK 362/1-a"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı tarafından markasına tecavüz edildiğini iddia ederek 100.000 TL manevi tazminat talep etmiştir. Mahkeme, davacının istinaf başvurusunu reddetmiş ve davalı vekilinin talebini kabul etmiştir.",
+    "summary_for_model": "Davacı, davalı tarafından markasına tecavüz edildiğini iddia ederek 100.000 TL manevi tazminat talep etmiştir. Mahkeme, davacının istinaf başvurusunu reddetmiş ve davalı vekilinin talebini kabul etmiştir. Davacı vekilinin istinaf başvurusunun konussuz kaldığına karar verilmiştir."
+}

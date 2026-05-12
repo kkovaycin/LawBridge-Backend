@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2024_380.pdf",
+        "court_name": "T.C. İSTANBUL 19. ASLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2024/380",
+        "karar_no": "2025/114",
+        "case_subject": "Bilgi Alma ve İnceleme Hakki İhlali",
+        "dava_tarihi": "04/07/2024",
+        "karar_tarihi": "20/02/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı şirketin yönetim kurulu üyesi olarak bilgi alma ve inceleme hakkinin ihlal edildiğini iddia ediyor. Davalı şirketin 2023 faaliyet yılı için birçok defa bilgi talep ettiği belirtiliyor. Davacı, şirketin 24/06/2024 tarihli Olağan Genel Kurul Toplantısı öncesinde ve sonrasında bilgi talep ettiği noktalara ilişkin düzgün hesap verilmediğini iddia ediyor.",
+        "reasoning_text": "Davacı, TTK m.437/5'e göre bilgi alma ve inceleme hakkinin ihlal edildiğini iddia ediyor. Davalı şirketin 24/06/2024 tarihli Olağan Genel Kurul Toplantısı öncesinde ve sonrasında bilgi talep ettiği noktalara ilişkin düzgün hesap verilmediği için davanın reddine karar verildi.",
+        "verdict_text": "Davacının davasının reddine, dava giderleri ve vekalet ücretinin davacı tarafından ödenmesine, davacı aleyhine 5.000TL disiplin para cezasına hükmedilmesine karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK m.437/5",
+            "TTK m.329/1",
+            "TTK m.329/2",
+            "HMG m.119/1-Ğ",
+            "HMG m.26",
+            "HMG m.329/1",
+            "HMG m.329/2"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin yönetim kurulu üyesi olarak bilgi alma ve inceleme hakkinin ihlal edildiğini iddia ediyor. Davalı şirketin 2023 faaliyet yılı için birçok defa bilgi talep ettiği belirtiliyor. Davacı, şirketin 24/06/2024 tarihli Olağan Genel Kurul Toplantısı öncesinde ve sonrasında bilgi talep ettiği noktalara ilişkin düzgün hesap verilmediğini iddia ediyor. Davanın reddine karar verildi.",
+    "summary_for_model": "Davacı, davalı şirketin yönetim kurulu üyesi olarak bilgi alma ve inceleme hakkinin ihlal edildiğini iddia ediyor. Davalı şirketin 2023 faaliyet yılı için birçok defa bilgi talep ettiği belirtiliyor. Davacı, şirketin 24/06/2024 tarihli Olağan Genel Kurul Toplantısı öncesinde ve sonrasında bilgi talep ettiği noktalara ilişkin düzgün hesap verilmediğini iddia ediyor. Davanın reddine karar verildi. TTK m.437/5, TTK m.329/1, TTK m.329/2, HMG m.119/1-Ğ, HMG m.26, HMG m.329/1, HMG m.329/2 gibi kanun maddeleri bahsedildi."
+}

@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2018_820.pdf",
+        "court_name": "İstanbul 9. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2017/903",
+        "karar_no": "2019/354",
+        "case_subject": "İtirazın İptali (Ticari Satımdan Kaynaklanan)",
+        "dava_tarihi": "12/10/2017",
+        "karar_tarihi": "11/03/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; müvekkilin ...şirketin avize vb, aydınlatma ürünleri üretimi ile, merdiven korkulukları vb. metal ürünler üretimi ve bu ürünlerin montajı vb işleri yaptığını, davalı ...Şirketin müvekkilin showroomuna gelerek davalı şirkete ait binanın aydınlatma sistemlerini ve merdiven korkulukları gereksinimi olduğunu belirtmişti. Müvekkilin ve davalının anlaşması, iş bittiğinde çek ile ödeme yapılacağı konusunda sözlü olarak anlaşmıştı. İş bittikten sonra müvekkil şirket ortakı ...'in davalı şirket yetkilisi ...'i aramalarına rağmen cevap alamadığı, ulaştığında ise oyaladığını, müvekkil şirketin sorunu sulh yoluyla çözmek için noterlik aracılığı ile ihtarname gönderdiğini, davalı şirketin cevap vermediğini, bu defa icra takibi yapılmak zorunda kaldığını, Gaziosmanpaşa ... İcra Dairesi'nin... Esas sayılı dosyası ile ilamsız icra başlatıldığını, davalı şirketin takibe itiraz ettiğini, takibin durdurulduğunu, bu nedenlerle haksız itiraz nedeniyle %20 den az olmamak üzere icra inkâr tazminatina hükmedilmesini, davalı tarafından haksız itirazin iptali, yargılama giderleri ve vekalet ücretinin karşı tarafa yüklenmesine karar verilmesini talep ile dava ettiği anlaşıldı.",
+        "reasoning_text": "Davacı vekili cevap dilekçesinde özetle; davacı şirket ile davalı müvekkil şirketi arasında böyle bir ilişki kurulduğu varsayılarak her iki tarafın da tacir olması ve ticari işlemleri ilgilendiren hususlarda işlemler yapıldığını göz önünde bulundurulduğunda işlemin ticari iş niteliğinde sayıldığını, söz konusu alım-satım işlemi bir ticari iş olması nedeniyle iş bu davanın görevli mahkemesinin İstanbul Ticaret Mahkemesi olduğunu ve davanın görevsizlik nedeniyle reddini talep ettiğini, taraflar arasında geçerli bir sözleşmenin bulunmadığını, fatura ya konu malların teslim edildiği iddia edilen şahsın müvekkil çalışanı olmadığını, şirketi temsilci yetkili olmadığını, davacı tarafından basireetli iş yapma yükümlülüğüne aykırı iddialarda bulunduğunu, ticari ilişkinin varlığını ispatlayamadığını, taraflar arasında faturalara konu ticari alım satım ilişkisi bulunmamasına rağmen davacı tarafından haksız ve kötüniyetli takip başlatıldığını, bu nedenle davanın reddi ile davacının %20 den az olmamak üzere kötüniyet tazminatina mahkum edilmesini taleple cevap vermiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle;\n1-Davanın KABULÜ ile davalının Gaziosmanpaşa ... İcra Müdürlüğünün ... esas sayılı icra takibine vaki itirazin İPTALİ ile takibin devamına,\n2-Hüküm olunan alacak üzerinden hesaplanan %20 6.513,92 TL icra inkâr tazminatinin davalından tahsiline ile davacıya ödenmesine,\n3-492 sayılı yasa gereğince alınması gereken 2.224,83 TL harçtan , peşin alınan , 556,21 TL harcin mahsubu ile geriye kalan 1.668,62 TL harcin davalından alınarak hazineye irad kaydına ,\n4-Davacı lehine avukatlık asgari ücret tarife göre geçtik olan 3.908,36 TL maktu vekalet ücretinin davalından davacıya verilmesine ,\n5-Davacı tarafından yapılan 31,40 TL peşin harç + 556,21 TL başvurma harcı + 4,60 TL vekalet harcı +265,75 TL tebligat - müzekkere giderleri olmak üzere toplam 857,96 yargılama giderlerinin davalından alınarak davacıya verilmesine ,\nDair, taraflar vekillerinin yüzüne karşı, gerekçeli kararın teblig tarihinden itibaren iki hafta içerisinde mahkememize verilecek veya başka mahkeme aracılığı ile mahkememize gönderilecek bir dilekçe ile istinaf kanun yolu açık olmak üzere verilen karar açıkça okunup, usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "T.T.K. 5. maddesi",
+            "HMK 114 ve 115 maddeleri",
+            "HMK 20. maddesi",
+            "İİK 67. Maddesi",
+            "492 sayılı yasa",
+            "5070 sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı şirketin davalı şirkete ait bina aydınlatma ve merdiven korkulukları için yaptığı işler için ödemeyi talep ettiği davayı inceledi. Davacı, davalı şirketin yetkilisi ile sözlü anlaşma yaparak işi tamamladıktan sonra ödemeyi beklediğini ancak ödeme alınamadığını iddia etti. Davalı ise, davacı şirketin yetkili olmadığını ve ticari ilişkinin olmadığını savundu. Mahkeme, davacı tarafından yapılan haksız ve kötüniyetli takip nedeniyle davayı reddetti ve davacının %20'lik kötüniyet tazminatı ödemesine hükmederek davacıya karşı çeşitli gider ve ücretlerin ödenmesine karar verdi.",
+    "summary_for_model": "Davanın temeli, davacı şirketin davalı şirkete ait bina aydınlatma ve merdiven korkulukları için yaptığı işler için ödemeyi talep etmesidir. Davacı, davalı şirketin yetkilisi ile sözlü anlaşma yaparak işi tamamladıktan sonra ödemeyi beklediğini iddia ederken, davalı şirketin yetkilisi olmadığını ve ticari ilişkinin olmadığını savunmuştur. Mahkeme, davacı tarafından yapılan haksız ve kötüniyetli takip nedeniyle davayı reddetmiştir. Davacıya karşı %20'lik kötüniyet tazminatı, peşin harç, başvurma harcı, vekalet ücreti ve tebligat giderleri ödenmesine hükmedilmiştir. Davacı vekili tarafından yapılan itiraz iptali ve icra takibinin devamına karar verilmiştir. Davacı lehine avukatlık asgari ücret tarife göre geçtik olan vekalet ücreti ve davacı tarafından yapılan yargılama giderleri davalıdan alınarak davacıya verilmiştir."
+}

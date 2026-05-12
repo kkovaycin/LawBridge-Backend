@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2024_1293.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2024/1293 Esas",
+        "karar_no": "2024/1655 Karar",
+        "case_subject": "Marka (Maddi Tazminat İstemli) Marka (Manevi Tazminat İstemli)",
+        "dava_tarihi": "24/10/2024",
+        "karar_tarihi": "24/10/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davaların markaya tecavüz nedeniyle durdurulmasını talep etti. Davalar, İstanbul Teknik Üniversitesi ile bağışıklık iddiası nedeniyle durduruldu. Davacı vekili, markanın kötüye kullanıldığını iddia etti.",
+        "reasoning_text": "Mahkeme, 5072 sayılı Kanun'un 2-1 maddesi ve 6769 sayılı SMK'nın 159/2-c maddesi uyarınca, davaların durdurulmasına karar verdi. Davacı vekili, markanın kötüye kullanıldığını iddia etti ve dava sonuna kadar tecavüzün engellenmesini talep etti.",
+        "verdict_text": "Davaların durdurulmasına karar verildi. Davacı vekili, markanın kötüye kullanıldığını iddia etti ve dava sonuna kadar tecavüzün engellenmesini talep etti."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "5072 sayılı Dernekler ve Vakıfların Kamu Kurumları ile İlişkileri Daire Kanunu",
+            "6769 sayılı SMK'nın 159/2-c maddesi",
+            "6100 sayılı Hükümlü Maddeler Kanunu",
+            "353/1-a-6 maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, İstanbul Teknik Üniversitesi ile bağışıklık iddiası nedeniyle davaları durdurdu. Davacı vekili, markanın kötüye kullanıldığını iddia etti ve dava sonuna kadar tecavüzün engellenmesini talep etti.",
+    "summary_for_model": "Mahkeme, 5072 sayılı Kanun ve 6769 sayılı SMK'nın 159/2-c maddesi uyarınca davaları durdurdu. Davacı vekili, markanın kötüye kullanıldığını iddia etti ve dava sonuna kadar tecavüzün engellenmesini talep etti."
+}

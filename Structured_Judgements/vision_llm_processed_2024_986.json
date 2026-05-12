@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2024_986.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2024/986 Esas",
+        "karar_no": "2024/1408",
+        "case_subject": "Endüstriyel Tasarima Tecavüzden Kaynaklanan (Tazminat İstemi)",
+        "dava_tarihi": "11/2024",
+        "karar_tarihi": "26/09/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesi ile mahkemeye 2024/11 sayılı dosyası ile davalının mülkülüne ait sayısal tasarım benzer niteliğinde kullanımının olup olmadığını istendiğini, iki davalı adresine gidildiğini, ikinci adreste 600 adet yapım aşamasında 600 adet ise tescilli tasarım benzer ürün tespit edildiğini, davanın etkinliğini temin amacıyla ihtiyati tedbir talep etme zaruretiinin hasil olduğunu belirtmiştir.",
+        "reasoning_text": "İlk derece mahkemesi, davacı vekilinin istinaf istemini reddetmiştir. Davacı vekili, istinaf isteminde özetle; davalının tasarımın tescil edilme ihtimalinin yüksek olduğunu ve delil tespitinde benzerliğin biliriği raporu ile tespit edildiğini belirtmiştir.",
+        "verdict_text": "Gerekçesi ayrıntılı kararda açıklanmıştır. 1-6100 sayılı HMK'nın 353/1-b-1 maddesi gereğince, davacı vekilinin yerinde görülmeyen istinaf isteminin esastan reddine, 2-Harc peşin alındığından yeniden alınmasına yer olmadığına, 3-Davacı tarafından yapılan istinaf yargılamalarının kendi üzerinde bırakılmasına, 4-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, 5-Artan gider avanslarının, karar kesinleştiğinde ve talep halinde ilk derece mahkemesinde taraflara iadesine, Dair, dosya üzerinden yapılan inceleme sonunda, oy birliğiyle kesin olarak karar verildi.26/09/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "SMK 155"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının endüstriyel tasarımını kullanmakla suçluyor ve tazminat istiyor. İlk mahkeme davacı vekilinin istinaf istemini reddetti. Davacı, tasarımın tescil edilme ihtimalinin yüksek olduğunu iddia ediyor.",
+    "summary_for_model": "Davacı vekili, davalının sayısal tasarımını kullanmakla suçluyor ve tazminat istiyor. İlk derece mahkemesi istinaf istemini reddetmiştir. Davacı vekili, tasarımın tescil edilme ihtimalinin yüksek olduğunu ve delil tespitinde benzerliğin biliriği raporu ile tespit edildiğini belirtmiştir."
+}

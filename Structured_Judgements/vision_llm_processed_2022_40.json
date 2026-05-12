@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2022_40.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2022/40 Esas",
+        "karar_no": "2022/436",
+        "case_subject": "İhtiyati tedbir talebinin reddi ve istinaf başvurusu",
+        "dava_tarihi": "16/09/2021",
+        "karar_tarihi": "21/03/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, müvekkilininin tasarıma tecavüz ve haksız rekabet suçunu işlediğini iddia ediyor. Karşı taraf, istinaf başvurusunda bulunarak tedbir talebini reddetmeye çalıştı.",
+        "reasoning_text": "Mahkeme, istinaf başvurusunun esastan incelemediğini ve davalı tarafa iade edilmediğini belirledi. Tedbir talebinin reddi kararı, HMK'nın 352/1-b maddesine göre kesin olarak verildi.",
+        "verdict_text": "İstinaf başvurusu esastan incelemediğinden istinaf harcinin karar kesinleştiğinde ve talep halinde davalı tarafa iadesine, istinaf incelemesi durusmasız yapıldığından avukatlık ücreti takdirine yer olmadığına, istinaf yargılama giderlerinin davalı üzerinde bırakılmasına, Artan gider avanslarının karar kesinleştiğinde ve talep halinde ilk derece mahkemesince ilgili tarafa iadesine, Dair, dosya üzerinde yapılan inceleme sonucu HMK'nın 352/1-b maddesi gereğince, 21/03/2022 tarihinde oy birliğiyle kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı HMK 341/1 Maddesi",
+            "6100 Sayılı HMK 393/1 Maddesi",
+            "6769 Sayılı SMK",
+            "7251 Sayılı Yasa'nın 34. Maddesi",
+            "HMK 352/1-b Maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkilininin tasarıma tecavüz ve haksız rekabet suçunu iddia etti. Karşı taraf istinaf başvurusunda bulundu ancak mahkeme istinaf başvurusunu reddetti.",
+    "summary_for_model": "İstinaf başvurusu esastan incelemediğinden istinaf harcinin karar kesinleştiğinde ve talep halinde davalı tarafa iadesine, istinaf incelemesi durusmasız yapıldığından avukatlık ücreti takdirine yer olmadığına karar verildi."
+}

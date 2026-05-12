@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2025_314.pdf",
+        "court_name": "Tekirdağ Bölge Adliye Mahkemesi",
+        "esas_no": "2025/314",
+        "karar_no": "2025/259",
+        "case_subject": "Alacak (Ticari Satımdan Kaynaklanan)",
+        "dava_tarihi": "18/11/2022",
+        "karar_tarihi": "19/03/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının sulama hizmetleri için ödemelerde geciktiğini iddia etmiştir. Davalının 8.7.2022 tarihli genel kurul toplantısında sulama ücretlerinin belirlenmesi ve ödemelerinin 9610 TL hizmet bedeli olarak tahsil edilmesi kararı alındı. Davacı, davalının bu kararı ihmal ettiğini ve ödemelerinin haddinden fazla olduğunu iddia etmiştir. Davalının 2.10 TL/dakika sulama ücreti ile ödemelerinin yetersiz olduğunu ve bu durumun davacıya zarar verdiğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacı ve davalının iddialarını ve savunmalarını değerlendirerek, davalının sulama ücretlerini yetersiz ödemiş olduğunu ve bu durumun davacıya maddi zarar verdiğini tespit etmiştir. Mahkeme, davalının ödemelerinin haddinden fazla olduğunu ve bu durumun davacıya hak ihlali oluşturduğunu karar vermiştir.",
+        "verdict_text": "Aslıye Ticaret Mahkemesi'nin 19/03/2025 tarihli ve 2025/259 sayılı kararında, davacıya 1.627,73 TL alacak tahsil edilmesine hükmolunmuştur. Davalının bu tutarı ödemesi durumunda, 12/12/2024 tarihinden itibaren avans faizi uygulanacaktır. Davalının istinaf başvurusu reddedilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hukuk Muhakemeleri Kanunu",
+            "6100 sayılı Hukuk Muhakemeleri Kanunu 341-(2) maddesi",
+            "6100 sayılı Hukuk Muhakemeleri Kanunu 352/1-b maddesi",
+            "6100 sayılı Hukuk Muhakemeleri Kanunu 359-(4) maddesi",
+            "5070 sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir ticari alacak konusu olarak ele alınmıştır. Davacı, davalının sulama hizmetleri için ödemelerde geciktiğini ve bu ödemelerin haddinden fazla olduğunu iddia etmiştir. Mahkeme, davalının ödemelerinin yetersiz olduğunu ve bu durumun davacıya maddi zarar verdiğini tespit ederek, davacıya 1.627,73 TL alacak tahsil edilmesine hükmolmuştur. Davalının istinaf başvurusu reddedilmiştir.",
+    "summary_for_model": "Dava, ticari alacak konusu olarak ele alınmıştır. Davacı, davalının sulama hizmetleri için ödemelerde geciktiğini ve bu ödemelerin haddinden fazla olduğunu iddia etmiştir. Mahkeme, davalının ödemelerinin yetersiz olduğunu ve bu durumun davacıya maddi zarar verdiğini tespit ederek, davacıya 1.627,73 TL alacak tahsil edilmesine hükmolmuştur. Davalının istinaf başvurusu, HMK'nın 341-(2) ve 352/1-b maddeleri uyarınca reddedilmiştir. Davacı ve davalının vekalet ücretleri için hükmolunmuştur."
+}

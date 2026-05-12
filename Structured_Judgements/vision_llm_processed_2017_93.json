@@ -1,0 +1,34 @@
+{
+    "meta_data": {
+        "file_name": "2017_93.pdf",
+        "court_name": "BAKIRKÖY 2. FİKRİ VE SANAYİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2017/93",
+        "karar_no": "2023/601",
+        "case_subject": "Endüstriyel Tasarım, Faydalı model, Patent (Tecavüzün tesbiti, meni,maddi ve manevi tazminat)",
+        "dava_tarihi": "26/06/2014",
+        "karar_tarihi": "05/04/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının patent, faydalı model ve tasarım tescillerine konu ürünlerinin hakları ihlal ettiğini iddia ediyor. Davalının işçileri toplu biçimde transfer ederek ve müşterileri ile üretim bilgilerini ve sırları çalıp taklit üretim yaptığını iddia ediyor. Davacı, bu eylemlerin davalının zarar gördüğünü iddia ediyor.",
+        "reasoning_text": "Mahkeme, davacının iddialarını değerlendirerek, davalının patent, faydalı model ve tasarım tescillerinin hakları ihlal ettiğini tespit etti. Mahkeme, davalının bu eylemlerinin davacıya maddi ve manevi tazminat ödemesi gerektiğini karar verdi.",
+        "verdict_text": "A) Asıl davada: Davacı adına tescilli patent, faydalı model belgeleri ile tasarım tescil belgelerinden kaynaklanan haklarına tecavüzün tesbiti, meni, refi ile tazminat talep edildiği ilk derece mahkemesince davanın reddine karar verildiği anlaşılmıştır. B) Birleşen davada davacı-asıl davada davalı vekili, asıl ve birleşen dava yönünden istinaf başvurusunda bulunmuştur. Hükümsüzlüğe ilişkin birleşen davada verilecek karar, asıl davayı da etkileyeceğinden öncelikli olarak birleşen hükümsüzlük davasına yönelik istinaf sebepleri incelenmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemesi Kanunu (HMK) 356. Maddesi",
+            "Hukuk Muhakemesi Kanunu (HMK) 358/3 Maddesi",
+            "Hukuk Muhakemesi Kanunu (HMK) 344. Maddesi",
+            "Hukuk Muhakemesi Kanunu (HMK) 353/1-b-2-3 Maddesi",
+            "Hukuk Muhakemesi Kanunu (HMK) 10/3 Maddesi",
+            "Hukuk Muhakemesi Kanunu (HMK) 554 Sayılı 10. Maddesi",
+            "Hukuk Muhakemesi Kanunu (HMK) 551 Sayılı 60. Maddesi",
+            "Hukuk Muhakemesi Kanunu (HMK) 82 ve 136/son Maddeleri",
+            "Hukuk Muhakemesi Kanunu (HMK) 3-A Maddesi",
+            "Hukuk Muhakemesi Kanunu (HMK) 4 Maddesi",
+            "Hukuk Muhakemesi Kanunu (HMK) 10 Maddesi",
+            "Hukuk Muhakemesi Kanunu (HMK) 6 ncı ve 7 ncı Maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının patent, faydalı model ve tasarım tescillerine konu ürünlerini ihlal ettiğini iddia ediyor. Mahkeme, davalının bu eylemlerinin davacıya maddi ve manevi tazminat ödemesi gerektiğini karar verdi.",
+    "summary_for_model": "Davacı, davalının patent, faydalı model ve tasarım tescillerine konu ürünlerini ihlal ettiğini iddia ediyor. Mahkeme, davalının bu eylemlerinin davacıya maddi ve manevi tazminat ödemesi gerektiğini karar verdi. Davacı, davalının işçileri toplu biçimde transfer ederek ve müşterileri ile üretim bilgilerini ve sırları çalıp taklit üretim yaptığını iddia ediyor."
+}

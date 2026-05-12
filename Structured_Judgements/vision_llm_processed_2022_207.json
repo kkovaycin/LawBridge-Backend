@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2022_207.pdf",
+        "court_name": "20. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2022/130 Esas",
+        "karar_no": "2023/35",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "01/03/2022",
+        "karar_tarihi": "17/01/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davayı mahkemeye sunarken, davalı şirketin haber yayını hakları ve sosyal medya hesaplarına sahip olduğunu iddia etti. Davalı, muhabir olarak tanımlanan bir kişinin davacı tarafından taciz edildiğini iddia etti. Davacı, davalı şirketin taciz ve hak ihlali nedeniyle 50.000 TL tazminat talep etti.",
+        "reasoning_text": "Mahkeme, davalı vekilinin iddialarını reddeterek, davalı şirketin haber yayını hakları ve sosyal medya hesaplarına sahip olmadığını belirledi. Davacı vekilinin iddialarının temelsiz olduğunu ve davanın reddine karar verdi.",
+        "verdict_text": "1-Davacı tarafça davalı aleyhine açılan davanın REDDİNE, 2-Karar tarihinde yürürlükte bulunan harçlar tarifesine göre alınması gereken 179,90-TL harçtan mahsubu ile fazla yatırılan 673,98-TL'nin davacıya iadesine, 3-Davalı lehine karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi gereğince hesap olunan 9.200,00- TL nisbi vekalet ücretinin davacıdan alınarak davalya verilmesine, 4-Davacı tarafından yapılan yargılama giderlerinin davacı üzerinde bırakılmasına, 5-Taraflarca yatırılan artan gider avansının karar kesinleştiğinde bakiye kısmının yatıran tarafa re'sen iadesine, 6-Tarafların zorunlu arabuluculuk sürecinde anlaşamaları nedeniyle 6325 Sayılı Kanunun 18/A-13 maddesi uyarınca zorunlu arabuluculuk gideri olan 1.560,00-TL'nin davacıdan tahsil edilerek hazineye gelir kaydedilmesine, Dair, davacı vekilinin yüzüne karşı, davalı tarafın yokluğunda HMK'nın 345. maddesi gereğince gerekli kararın taraflara tebliğiinden itibaren iki hafta içerisinde ... Mahkemesi nezdinde istinaf kanun yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 17/01/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Anayasa'nın 28. maddesi",
+            "5187 Sayılı Basın Kanunu'nun 1. ve 3. maddeleri",
+            "6098 Sayılı Türk Borçlar Kanunu'nun 58. Maddesi",
+            "6325 Sayılı Kanunun 18/A-13 maddesi",
+            "Hukuk Muhakemesi Kanunu'nun 345. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin haber yayını hakları ve sosyal medya hesaplarına sahip olduğunu iddia etti. Davalı, muhabir olarak tanımlanan bir kişinin taciz edildiğini iddia etti. Mahkeme, davacı vekilinin iddialarını reddeterek, davalı şirketin haber yayını hakları ve sosyal medya hesaplarına sahip olmadığını belirledi.",
+    "summary_for_model": "Davacı, davalı şirketin haber yayını hakları ve sosyal medya hesaplarına sahip olduğunu iddia etti. Davalı, muhabir olarak tanımlanan bir kişinin taciz edildiğini iddia etti. Mahkeme, davacı vekilinin iddialarını reddeterek, davalı şirketin haber yayını hakları ve sosyal medya hesaplarına sahip olmadığını belirledi. Davacı vekilinin iddialarının temelsiz olduğunu ve davanın reddine karar verdi."
+}

@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2018_34.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2018/34 Esas",
+        "karar_no": "2018/252 Karar",
+        "case_subject": "Marka hakları ihlali ve haklı rekabet ihlali davası",
+        "dava_tarihi": "14/02/2018",
+        "karar_tarihi": "14/02/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının markasını kullanmakla suçladı ve davalının internetteki mağaza sitesinde, sosyal medya hesaplarında ve diğer materyallerde markayı kullanmasını engellemek istedi. Davalı vekili ise davalının markasını kullanmadığını iddia etti.",
+        "reasoning_text": "Mahkeme, ilk derece mahkemesinin ihlati tedbir talebini reddetmesini onayladı. Davacı vekili, davalının markasını kullanmakla suçladı ve davalının internetteki mağaza sitesinde, sosyal medya hesaplarında ve diğer materyallerde markayı kullanmasını engellemek istedi. Davalı vekili ise davalının markasını kullanmadığını iddia etti.",
+        "verdict_text": "1-İstinaf istemininin kabulü ile, ihlati tedbir istemininin reddine dair 04.10.2017 tarihli kararın HMK 353/1-b-2 maddesi gereğince KALDIRILMASINA, 2-6100 sayılı HMK'nun 389-390.maddeleri ile SMK'nun 159.maddesi gereğince ihlati tedbir talebinin, takdiren 100.000 TL nakdi teminat ya da aynı miktarda kesin ve süresiz banka teminat mektubu ibrazı şartıyla kabulü ile davalının ... markasını tek başına ya da ... by ... biçiminde kullanılmasının tedbiren önlenmesine, bu ibarenin broşür; ticari evrak, tanıtım malzemesi ve internet ortamında kullanımının da tedbiren önlenmesine, mevcut kullanımlardan çıkarılması, mümkün olmayanların toplanıp yedienine teslimine, Peşin harcin talebi halinde davacıya iaadesine, Davacı tarafından istinaf yargılaması için yapılan 85,70 TL istinaf yoluna başvurma harci ile 46,00 TL posta ve tebligat giderleri olmak üzere 131,70 TL'nin davaldan tahsili ile davacı tarafa verilmesine, Dair, dosya üzerinde yapılan inceleme sonucunda oy birliği ile ve kesin olarak karar verildi. 14/02/2018"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353/1-b-2",
+            "HMK 389-390",
+            "SMK 159"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markasını kullanmakla suçladı ve davalının internetteki mağaza sitesinde, sosyal medya hesaplarında ve diğer materyallerde markayı kullanmasını engellemek istedi. Davalı vekili ise davalının markasını kullanmadığını iddia etti. Mahkeme, ilk derece mahkemesinin ihlati tedbir talebini reddetmesini onayladı.",
+    "summary_for_model": "Davacı vekili, davalının markasını kullanmakla suçladı ve davalının internetteki mağaza sitesinde, sosyal medya hesaplarında ve diğer materyallerde markayı kullanmasını engellemek istedi. Davalı vekili ise davalının markasını kullanmadığını iddia etti. Mahkeme, ilk derece mahkemesinin ihlati tedbir talebini reddetmesini onayladı."
+}

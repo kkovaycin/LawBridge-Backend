@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2021_1645.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2021/1645",
+        "karar_no": "2024/477",
+        "case_subject": "İtirazın İptali (Ticari Satım Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "17/02/2021",
+        "karar_tarihi": "28/03/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilinin davacıya kumaş sattığını, bu kapsamda toplam 15.653,61-TL fatura ile cari hesap alacağını ödemediğini, bu alacağın tahsili için Büyükçekmece İcra Dairesi'nin E. sayılı dosyayla ilamsız takip başlattığını ve davalının hakksız olarak takibe itiraz ettiğini ileri sürerek, davalının davaya konu icra takip dosyasına vakı itirazının iptali ile icra inkâr tazminatina karar verilmesini talep etmiştir. Davalı vekili, müvekkilinin davacıdan satın aldığı kumaşları İran'daki bir firmaya sattığını, malların gönderilmesinden sonra kumaşlarda böcek çıktığını yani ayipli olduğunu bildirildiğini, bu hususun davacıya bildirildiğine dair WhatsApp kayıtlarının dosyaya sunulduğunu, davacı tarafından bu durumun kabul edilmemesi nedeniyle 14/05/2019 tarihli 15.653,55-TL bedelli iaşe faturası düzenlendiğini ve davalının bu faturaya itiraz ettiğini belirterek, davanın reddine ve kötniyet tazminatina karar verilmesini istemiştir.",
+        "reasoning_text": "Mahkeme, davalının davacıdan satın alıp İran'da bulunan müşterisine ihraç ettiği ürünlerle ilgili 25/02/2019, 26/04/2019 ve 30/04/2019 tarihli ambar takip fişlerini ibraz ettiğini ancak ürünlerin ayipli olduğuyla ilgili WhatsApp yazışmasının 26/12/2018 tarihinde yapıldığını dikkate alındığında, ürünlerin yazışmadan daha önceki bir tarihte gönderilmesi gerektiği, buna rağmen davalı tarafından 2018 yılındaki ayıba ilişkin görüşme öncesi İran'daki müşteriye ihraç edilen ürünlerle ilgili ihraç sürecine dair her hangi bir bilgi ve belge dosyaya ibraz edilmediği, davalı tarafından müşterisi tarafından kendisine ayipli olduğu belirtilen ürünlerin davacıdan alınan ürünler olduğu ve düzenlenen 15/04/2019 tarihli iaşe faturasının dayanağı ayıp iddiasını ispat edemediği, davacının davalından 15.653,61-TL cari hesaba dayalı hesap alacağının bulunduğu ve alacağın likit olduğu gerekçesiyle, davanın kabulü ile 15.653,61-TL asıl alacak yönünden davalının icra takibine itirazının iptaline, takibin asıl alacak yönünden devamına ve asıl alacağın %20'sü üzerinden hesap edilen icra inkâr tazminatının davalıdan tahsiline karar verilmiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle: Davalı vekilinin istinaf başvurusunun HMK 353(1)b-1 maddesi uyarınca ES ASTAN REDDİNE, Alınması gereken 1.069,29-TL istinaf karar harcından peşin yatırılan 267,40-TL harcin mahsubu ile kalan 801,89-TL harcin davalıdan alınarak Hazine'ye gelir kaydına, Davalı tarafından yapılan giderlerin üzerinde bırakılmasına, Dosya üzerinde yapılan inceleme sonunda HMK 362(1)-a maddesi uyarınca kesin olmak üzere oy birliği ile karar verildi. 28/03/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353(1)b-1",
+            "HMK 362(1)-a"
+        ]
+    },
+    "summary_for_human": "Bu davada, davacı ve davalı arasında ticari bir satış sözleşmesi çerçevesinde ihracat işlemiyle ilgili bir anlaşmazlık yaşanmıştır. Davacı, davalıdan aldığı kumaşların İran'da ayipli olarak çıktığını iddia etmiştir. Davalı ise, bu durumun davacıya bildirildiğini ve bu nedenle iaşe faturası düzenlendiğini savunmuştur. Mahkeme, davalının itirazının haklı olmadığını ve davacıya karşı icra takipinin devam etmesi gerektiğini karar vermiştir. Davalıya karşı 15.653,61-TL tutarında alacak tahsil edilmesi ve %20 oranında icra inkâr tazminatı ödenmesi kararı verilmiştir.",
+    "summary_for_model": "Dava, ticari satış sözleşmesi kapsamında davacının davalıdan aldığı kumaşların İran'da ayipli olarak çıktığını iddia ettiği ve bu nedenle 15.653,61-TL tutarında iaşe faturası düzenlendiği konularını içermektedir. Davalı, kumaşların ayipli olduğunu iddia eden WhatsApp kayıtlarının dosyaya sunulduğunu ve bu durumun davacıya bildirildiğini savunmuştur. Mahkeme, davalının itirazının haklı olmadığını ve davacıya karşı icra takipinin devam etmesi gerektiğini karar vermiştir. HMK 353(1)b-1 ve HMK 362(1)-a maddeleri uyarınca davalıdan 1.069,29-TL istinaf harci ve 801,89-TL ek harç tahsil edilmesi kararı verilmiştir."
+}

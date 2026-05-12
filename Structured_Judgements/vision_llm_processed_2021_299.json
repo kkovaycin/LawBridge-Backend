@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_299.pdf",
+        "court_name": "T.C. ANKARA 1. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/297",
+        "karar_no": "2022/319",
+        "case_subject": "Marka ile İlgili Kurum Kararının İptali, Marka Hükmüsüzlüğü",
+        "dava_tarihi": "11/08/2021",
+        "karar_tarihi": "25/10/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, uluslararası bir medya şirketi olan davacı vekilinin markalarının Türkiye'de tanınmış olduğunu, aynı tür benzer malları kapsadığını ve davacı markasının imajını zedeleyeceğini iddia etti. Davacı, TÜRKPATENT'ten iptal talepleriyle davaya girdi.",
+        "reasoning_text": "Mahkeme, davacı markalarının tanınmışlık derecesinin kanıtlanmadığını ve markaların farklı mallar/hizmetler kapsadığını belirledi. Ayrıca, davacı markalarının tanınmışlık iddiasının mahkemeye sunulan delillerle desteklenmediğini tespit etti.",
+        "verdict_text": "Gerekçesi açıklanarak: 1-Davanın kabulü ile TÜRKPATENT YİDK'nın 2021-M-4296 sayılı kararının iptaline, 2-Harçlar Yasasına göre hesaplanan 80,70-TL karar harcından peşin alınan 59,30-TL'nin mahsubu ile bakiye 21,40-TL'nin davallardan tahsili ile hazineye irat kaydına, 3-Avukatlık Asgari Ücret Tarifesine göre hesap olan takdiren 15.000,00-TL maktu ücreti vekâletin davallardan alınarak davacıya verilmesine, 4-Davacının yapmış olduğu ve aşağıda dökümü gösterilen 2.582,60-TL yargılama giderinin davallardan alınarak davacıya verilmesine, 5-Yatırılan ve kullanılmayan gider avansının, hükmün kesinleşmesini müteakip re'sen yatırana iadesine (HMK m.333) karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı Sinaî Mülkiyet Kanunu (SMK)",
+            "Paris Sözleşmesi",
+            "Yargıtay Hukuk Genel Kurulu'nun 08.06.2016 gün ve E.2014/11-696, K.2016/778 sayılı kararı"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı markalarının tanınmışlık iddiasını kanıtlayamadığını ve farklı mallar/hizmetler kapsadığını belirleyerek davayı kabul etti. Davacıya 2.582,60 TL yargılama gideri ve 15.000,00 TL avukatlık ücreti verildi.",
+    "summary_for_model": "Davacı, uluslararası bir medya şirketi olan davacı vekilinin markalarının Türkiye'de tanınmış olduğunu iddia etti. Mahkeme, davacı markalarının tanınmışlık iddiasını kanıtlayamadığını ve farklı mallar/hizmetler kapsadığını belirleyerek davayı kabul etti. Davacıya 2.582,60 TL yargılama gideri ve 15.000,00 TL avukatlık ücreti verildi."
+}

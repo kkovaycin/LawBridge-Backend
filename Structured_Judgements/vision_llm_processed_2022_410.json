@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2022_410.pdf",
+        "court_name": "İstanbul Anadolu 13. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2022/54 D.is - 2022/54 Karar",
+        "karar_no": "2022/246",
+        "case_subject": "İhtiyati haciz istemi ve istinaf davası",
+        "dava_tarihi": "19/01/2022",
+        "karar_tarihi": "03/03/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Talep eden alacaklı vekili, müvekkili şirketin ihracat-ithalat sektöründe faaliyet gösterdiğini, 1080 adet 18 LT'lik biryag satışını gerçekleştirdiğini ve borçlu şirketin ihracat-ithalat faaliyetinde alıcının çekini reddettiğini iddia etmiştir. İhtiyati haciz talebinin reddedilmesi için alacaklı vekili, borçlu şirketin herhangi bir malvarlığı bulunmadığını, iki şirketin aynı adreste faaliyet gösterdiğini ve organik bağ ilişkisi olduğunu savunmuştur.",
+        "reasoning_text": "İstinaf mahkemesi, ilk derece mahkemesinin ihityati haciz talebini reddetmesini haklı bulmuştur. Alacaklı vekili tarafından sunulan delillerin yetersiz olduğu ve borçlu şirketin herhangi bir malvarlığı bulunmadığı tespit edilmiştir. İstinaf mahkemesi, Hüküm Kanunu'nun 353/1.b.1 ve 362(1)-f maddeleri uyarınca, ilk derece mahkemesinin kararını onaylamıştır.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle: 1-İhtiyati haciz talep eden alacaklı vekilinin istinaf başvurusunun Hüküm Kanunu'nun 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE, 2-Davacı tarafından başvuru sırasında istinaf karar harcı peşin olarak yatırıldığından başkaca harç alınmasına yer olmadığına, 3-Davacı tarafından istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, Dair, dosya üzerinden yapılan inceleme sonucunda, Hüküm Kanunu'nun 362(1)-f maddesi uyarınca kesin olarak oy birliğiyle karar verildi. 03/03/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hüküm Kanunu (HMK)",
+            "İcra ve İflas Kanunu (İİK)",
+            "İcra ve İflas Kanunu'nun 257. maddesi",
+            "İcra ve İflas Kanunu'nun 258. maddesi",
+            "Hüküm Kanunu'nun 353. maddesi",
+            "Hüküm Kanunu'nun 362. maddesi"
+        ]
+    },
+    "summary_for_human": "İstanbul Anadolu 13. Aslıye Ticaret Mahkemesi, borçlu şirketin herhangi bir malvarlığı bulunmadığını ve iki şirketin organik bağ ilişkisi olduğunu tespit ederek, alacaklı vekilinin ihityati haciz talebini reddetmiştir. İstinaf mahkemesi bu kararı onaylamıştır.",
+    "summary_for_model": "İstanbul Anadolu 13. Aslıye Ticaret Mahkemesi, borçlu şirketin malvarlığı bulunmadığını ve iki şirketin organik bağ ilişkisi olduğunu tespit ederek ihityati haciz talebini reddetmiştir. İstinaf mahkemesi, Hüküm Kanunu'nun 353/1.b.1 ve 362(1)-f maddeleri uyarınca bu kararı onaylamıştır."
+}

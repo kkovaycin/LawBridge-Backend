@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2021_1675.pdf",
+        "court_name": "T.C. İZMİR BÖLGE ADLİYE MAHKEMESİ 14. HUKUK DAİRESİ",
+        "esas_no": "2021/1675",
+        "karar_no": "2024/609",
+        "case_subject": "İtirazın İptali (Eser Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "26/09/2019",
+        "karar_tarihi": "25/04/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; Müvekkili ile davalı arasında ticari ilişki olduğunu, davalının 11/06/2018 tarihli 128.980,00-TL faturadan kaynaklı borcu olduğunu, 119.120,00-TL ödeme yaptığını ancak bakiye 9.860,00-TL kaldığını, ödenmeyen bedel yönünden Muğla 2. İcra Dairesinin 2019/1301 Esas sayılı dosyası ile icra takibi başlatıldığını, davalının yetki yönünden itiraza bulunduğunu, itirazin kabul görerek dosyanın İzmir'e gönderildiğini ve İzmir 5. İcra Dairesinin 2019/4141 Esas sayısının alarak borçluya ödeme emri gönderildiğini ancak davalının itirazi üzerine takibin durduğunu belirterek haksız itirazin iptali ile %20 icra inkar tazminatina hükmedilmesini talep etmiştir.",
+        "reasoning_text": "İstinaf kanun yolu başvurusu, dava vekili tarafından İzmir 7. Asliye Ticaret Mahkemesi'nin 03.09.2021 tarih ve 2019/450 Esas, 2021/618 Karar sayılı kararının istinaf başvurusu yoluyla incelenmesinin davalı vekili tarafından istinilmesi üzerine, dosyanın gönderildiği, daireme gönderilen dosya incelendi, dosya içeriğine göre incelenmenin duruşmasız olarak yapılması uygun görüldüğü, gereği konuşulup düşünüldüğü açıklanmıştır. Davacı vekili dava dilekçesinde özetle; davalı vekili ile davalı arasında ticari ilişki olduğunu, davalının 11/06/2018 tarihli 128.980,00-TL faturadan kaynaklı borcu olduğunu, 119.120,00-TL ödeme yaptığını ancak bakiye 9.860,00-TL kaldığını, ödenmeyen bedel yönünden Muğla 2. İcra Dairesinin 2019/1301 Esas sayılı dosyası ile icra takibi başlatıldığını, davalının yetki yönünden itiraza bulunduğunu, itirazin kabul görerek dosyanın İzmir'e gönderildiğini ve İzmir 5. İcra Dairesinin 2019/4141 Esas sayısının alarak borçluya ödeme emri gönderildiğini ancak davalının itirazi üzerine takibin durduğunu belirterek haksız itirazin iptali ile %20 icra inkar tazminatina hükmedilmesini talep etmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle;\n1-İzmir 7. Asliye Ticaret Mahkemesi'nin 03.09.2021 tarih ve 2019/450 Esas, 2021/618 Karar sayılı kararı, usul ve esas yönünden hukuka uygun bulunduğundan, davalı vekilinin bu karara karşı yapmış olduğu istinaf kanun yolu başvurusunun, 6100 sayılı HMK'nın 353/(1)-b-1. maddesi gereğince ESAS TAN REDDİNE,\n2-Davalı vekilinin istinaf başvurusunun reddine karar verilmiş olması nedeniyle, alınması gerekli 715,89 TL harçtan peşin alınan 179,00 TL istinaf maktu karar harcının mahsubu ile kalan 536,89 TL harç bedelinin davalından alınarak Hazine'ye gelir kaydına,\n3-Davalı vekili tarafından yatırılan 162,10 TL istinaf kanun yolu başvurma harcı ile istinaf kanun yolu giderlerinin kendi üzerinde bırakılmasına,\n4-Kararın, ilk derece mahkemesince taraflara tebliğine,\nDair, dosya üzerinde yapılan inceleme sonucunda 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 362/(1)-a. maddesi gereğince kesin olmak üzere 25.04.2024 tarihinde oybirliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "6098 Sayılı Türk Borçlar Kanunu",
+            "Hukuk Muhakemeleri Kanunu'nun 353/(1)-b-1. maddesi",
+            "Hukuk Muhakemeleri Kanunu'nun 362/(1)-a. maddesi"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir şirketin ticari işlemlerden kaynaklanan borçları ve işin kötü yönetimi nedeniyle karşı tarafa ödemelerinin durdurulması ve cezalandırılması için açılmıştır. İlk mahkeme, davacı vekilinin itirazını kabul ederek borçların tahsil edilmesini durdurmuştur. Ancak, davacı vekili, bu kararı istinaf yoluyla itiraz etmiştir. İstinaf mahkemesi, ilk mahkemenin kararının usul ve esas yönünden doğru olduğunu tespit ederek itirazı reddetmiştir. Ayrıca, davacı vekilinin istinaf başvurusu için ödediği harçların geri alınmasına ve istinaf giderlerinin kendisinin üzerine kalmasına karar verilmiştir.",
+    "summary_for_model": "Dava, ticari sözleşme ve işin kötü yönetimi nedeniyle borç tahsilinin durdurulması ve cezalandırılması için açılmıştır. İlk mahkeme, davacı vekilinin itirazını kabul ederek borçların tahsil edilmesini durdurmuştur. İstinaf mahkemesi, ilk mahkemenin kararının usul ve esas yönünden doğru olduğunu tespit ederek itirazı reddetmiştir. Davacı vekilinin istinaf başvurusu için ödediği harçların geri alınmasına ve istinaf giderlerinin kendisinin üzerine kalmasına karar verilmiştir. 6100 Sayılı Hukuk Muhakemeleri Kanunu ve 6098 Sayılı Türk Borçlar Kanunu'na dayanılarak karar verilmiştir."
+}

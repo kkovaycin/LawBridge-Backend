@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_1071.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2021/1071 Esas",
+        "karar_no": "2021/1581 Karar",
+        "case_subject": "Marka (Marka Hakkına Tecavüzden Kaynaklanan)",
+        "dava_tarihi": "23/09/2021",
+        "karar_tarihi": "23/09/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalların TPMK nezdinde haksız tescil teşebbüslerini sürdürdüğünü iddia etti. Davalların davacı vekiline ait markaları kullanmaları, hak ihlali olarak değerlendirildi. Davalların davacı vekiline ait markaları kullanmaları, hak ihlali olarak değerlendirildi. Davalların davacı vekiline ait markaları kullanmaları, hak ihlali olarak değerlendirildi.",
+        "reasoning_text": "Mahkeme, davalların davacı vekiline ait markaları kullanmalarına karşı tedbir kararı verdi. Davalların davacı vekiline ait markaları kullanmaları, hak ihlali olarak değerlendirildi. Davalların davacı vekiline ait markaları kullanmaları, hak ihlali olarak değerlendirildi. Davalların davacı vekiline ait markaları kullanmaları, hak ihlali olarak değerlendirildi.",
+        "verdict_text": "Dava davacı vekili tarafından itiraz edildi. Davalların davacı vekiline ait markaları kullanmaları, hak ihlali olarak değerlendirildi. Davalların davacı vekiline ait markaları kullanmaları, hak ihlali olarak değerlendirildi. Davalların davacı vekiline ait markaları kullanmaları, hak ihlali olarak değerlendirildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemesi Kanunu (HMK) 353, 356, 389-390, 393/1, 395, 87 maddeleri",
+            "Sınai Mülkiyet Kanunu (SMK) 159, 25/6, 7/2-c, 29 maddeleri",
+            "Ticaret Kanunu (TTK) 55. madde"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davalların davacı vekiline ait markaları kullanmalarına karşı tedbir kararı istedi. Mahkeme, davalların davacı vekiline ait markaları kullanmalarına karşı tedbir kararı verdi.",
+    "summary_for_model": "Davacı vekili, davalların davacı vekiline ait markaları kullanmalarına karşı tedbir kararı istedi. Mahkeme, davalların davacı vekiline ait markaları kullanmalarına karşı tedbir kararı verdi. Davalların davacı vekiline ait markaları kullanmaları, hak ihlali olarak değerlendirildi."
+}

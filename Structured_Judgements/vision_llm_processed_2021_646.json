@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_646.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2021/646",
+        "karar_no": "2023/650",
+        "case_subject": "Markaya Tecavüzün Kaldırılması ve Önlenmesi",
+        "dava_tarihi": "25/12/2020",
+        "karar_tarihi": "16/06/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, müvekkili ile davalı şirket arasında 2019'da imzalanan distribütörlük sözleşmesi nedeniyle dava açtı. Davacı, davalı şirketin markasını kullanmak için lisans verdiğini ancak bu lisansı ihlal ettiğini iddia etti. Davalı şirket, davacıya ait markayı kullanmaya devam etti ve sosyal medya hesaplarında markayı kullanmaya devam etti. Davacı, bu durumun markaya tecavüz olarak değerlendirilmesini talep etti.",
+        "reasoning_text": "Mahkeme, davacı ile davalı şirket arasındaki sözleşmenin ihlal edildiğini ve davalı şirketin markayı kullanmanın davacıya ait olduğunu kabul etmediğini tespit etti. Davacı, davalı şirketin markasını kullanmak için lisans verdiğini ancak bu lisansı ihlal ettiğini iddia etti. Mahkeme, davacıya ait markanın kullanılmasına ilişkin lisansın ihlal edildiğini ve davalı şirketin bu markayı kullanmanın davacıya ait olduğunu kabul etmediğini tespit etti.",
+        "verdict_text": "Davalar vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ES ASTAN REDDİNE, Davallardan alınması gereken 179,90-TL maktu istinaf karar ve ilam harcından, davalar tarafından istinaf başvurusunda yatırılan 59,30-TL istinaf karar ve ilam harcının mahsubu ile bakiye 120,60-TL'nin davallardan tahsili ile Hazineye irat kaydına, İstinaf aşamasında davalar tarafından yapılan yargılama giderlerinin davalar uhdesinde bırakılmasına, İstinaf aşamasında duruşma açılmadığından taraflara vekalet ücreti takdirine yer olmadığına, Dair; dosya üzerinde yapılan inceleme sonucunda oy birliği ile 18/05/2023 tarihinde HMK 361. maddesi uyarınca kararın tebliğinden itibaren iki hafta içerisinde Yargıtay temyiz yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK'nın 355. maddesi",
+            "HMK'nın 353/1-b.1 maddesi",
+            "HMK 361. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin markasını kullanmak için lisans verdiğini ancak bu lisansı ihlal ettiğini iddia etti. Mahkeme, davacıya ait markanın kullanılmasına ilişkin lisansın ihlal edildiğini ve davalı şirketin bu markayı kullanmanın davacıya ait olduğunu kabul etmediğini tespit etti. Davalar vekilinin istinaf başvurusunun reddedildi.",
+    "summary_for_model": "Davacı, davalı şirketin markasını kullanmak için lisans verdiğini ancak bu lisansı ihlal ettiğini iddia etti. Mahkeme, davacıya ait markanın kullanılmasına ilişkin lisansın ihlal edildiğini ve davalı şirketin bu markayı kullanmanın davacıya ait olduğunu kabul etmediğini tespit etti. Davalar vekilinin istinaf başvurusunun reddedildi."
+}

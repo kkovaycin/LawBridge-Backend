@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2024_125.pdf",
+        "court_name": "İstanbul 2. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2024/125 Esas",
+        "karar_no": "2024/569",
+        "case_subject": "Haksız Rekabet Davası",
+        "dava_tarihi": "21/02/2024",
+        "karar_tarihi": "10/09/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; davanın müvekkiline ait işletme ve davranışları, davacıya zarar verdiği iddia edildi. Davacı, müvekkilin davayı reddetmesi ve vekalet ücretinin karşı taraf tarafından ödenmesi talep etti.",
+        "reasoning_text": "Mahkeme, davanın gereksizlik ve usulsüzlük nedeniyle reddedildiğini, davacı vekilinin davayı gereksiz olarak açtığını ve davayı reddetme kararı verdiğini belirledi. Davacı vekilinin davayı gereksiz olarak açtığı için dava reddedildi.",
+        "verdict_text": "Gerekçesi kararda bilahare açıklanacağı üzere, 1-Davanın Mahkememizin görevsizliği sebebiyle dava şarti yokluğundan ve usulden reddine, 2-Mahkememizce görevsizlik kararı verilmesi karşısında kararın tarafılara süresi içinde kanun yoluna başvurması nedeniyle karar kesinleşmiş ise kararın kesinleştiği tarihten; kanun yoluna başvurulmuş ise bu başvurunun reddi kararının tebliği tarihinden itibaren iki hafta içinde kararın verene mahkememize başvurulmak, dava dosyasının görevli İstanbul Nöbetçi Aslıye Hukuk Mahkemesine gönderilmesi, 3-Belirtilen sürede talep olmadığı takdirde mahkememizce HMK.m.20 hükmü uyarınca davanın açılmamış sayılmasına dair karar verileceğinin taraf vekillerine bildirilmesine, 4-Yargılama, harç ve giderlerinin görevli mahkemede değerlendirilmesine, Dair, tarafların yüzüne karşı gerekçeli kararın taraflara tebliğiinden itibaren 2 (iki) hafta içinde mahkememize veya mahkememize gönderilmek üzere bulunan yer ya da başka bir yer Aslıye Ticaret Mahkemesine verilecek bir dilekçe ile başvurmak ve istinaf harç ve masraflarını karşılamak koşulu ile İstanbul Bölge Adlıye Mahkemesine istinaf yasa yolunun açık olduğu, istinaf dilekçesinde istinaf yoluna başvuru konusu edilen hususlar ile nedenlerinin belirtilmesinin gerektiği, süresi içerisinde karara karşı istinaf yoluna başvurulmaması halinde hükmün kesinleşeceği ve infaz edilebileceği açıklanmak suretiyle verilen karar açıkça okunup usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TBK 626.madde",
+            "TTK 54 ve 55.maddeler",
+            "Hukuk Daireleri 3.Hüküm Dairesi 2017/1700 Esas 2018/215 Karar",
+            "Hukuk Mahkemesi m.20 hükmü"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davayı gereksizlik ve usulsüzlük nedeniyle reddetti. Davacı vekilinin davayı gereksiz olarak açtığı için dava reddedildi. Taraflara karşı gerekçeli kararın tebliği ve istinaf süreci açıklandı.",
+    "summary_for_model": "Mahkeme, davayı gereksizlik ve usulsüzlük nedeniyle reddetti. Davacı vekilinin davayı gereksiz olarak açtığı için dava reddedildi. Taraflara karşı gerekçeli kararın tebliği ve istinaf süreci açıklandı. TBK 626.madde, TTK 54 ve 55.maddeler ve Hukuk Daireleri 3.Hüküm Dairesi 2017/1700 Esas 2018/215 Karar ve Hukuk Mahkemesi m.20 hükmü bahsedildi."
+}

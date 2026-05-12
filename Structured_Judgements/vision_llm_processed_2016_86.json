@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2016_86.pdf",
+        "court_name": "T.C. ANKARA 2. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2022/192",
+        "karar_no": "2023/9",
+        "case_subject": "Tasarım Hakkindaki Tecavüz ve Haksız Rekabetin Tesbiti, Durdurulması ile Maddi ve Manevi Tazminat",
+        "dava_tarihi": "20/05/2022",
+        "karar_tarihi": "12/01/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davayı 2010'dan beri mobil ve ilgili sektörlerde faaliyet gösteren bir şirketin ticari markası ile üretim ve satış faaliyetlerini sürdüğünü, tasarım tescilinin alındığını ve markanın ticari markası olarak kullanıldığını iddia etmiştir. Davacı, tasarımın e-ticaret web sitesi ve Instagram gibi sosyal medya hesaplarında kullanıldığını ve bu kullanımların ticari amaçla kullanıldığını belirtmiştir.",
+        "reasoning_text": "Mahkeme, tasarımın yeni ve ayırt edici niteliğe sahip olup olmadığını, bilginmiş kullanıcı üzerinde bıraktığı genel izlenimin ayırt edici olup olmadığını ve tasarımcı tarafından tasarımın geliştrilme açısından ne kadar seçenek özgürlüğü sahip olduğunu değerlendirmiştir. Mahkeme, tasarımın yeni ve ayırt edici niteliğe sahip olmadığını ve davacının iddialarını reddetmiştir.",
+        "verdict_text": "HÜKÜM:\n1-Asıl Davanın Reddine,\nAlınması gereken 179,90-TL harçtan peşin alınan 59,30-TL'nin mahsubu ile eksik kalan 120,60-TL maktu ilâm harcının davacidan alınarak hazineye irat kaydına,\nDavalı kendisini vekil ile temsil ettirdiğinden Avukatlık Asgari Ücret Tarifesine göre reddedilen maddi tazminat için hesap olan takdiren 1.000,00-TL nispi, reddedilen manevi tazminat için hesap olan 15.000,00-TL maktu ile reddedilen diğer maddi istemler için hesap olan 15.000,00-TL maktu olmak üzere üç ayrı ücreti vekaletin davacidan alınarak davalya verilmesine,\nDavacının yapmış olduğu giderlerin kendi üzerinde bırakılmasına,\nDavanın işbu dava bakımından yapmış olduğu bir gider olmadığından bu hususta bir karar verilmesine yer olmadığına,\n2-Karşı Davanın Kısmen Kabulüne,\n... sıra numaralı tasarımın hükümssüzlüğü ile sicilden terkine,\n.../1 sıra numaralı tasarımın hükümssüzlüğüne ilişkin açılan davanın reddine,\n6769 sayılı Sınai Mülkiyet Kanununun 51/4.maddesi uyarınca kararın kesinleşmesine müteakip resen Türk Patent'e gönderilmesine,\nAlınması gereken 179,90-TL harçtan peşin alınan 80,70-TL harcin mahsubu ile eksik kalan 99,20-TL maktu ilâm harcının davaldan alınarak hazineye irat kaydına,\nDavalı kendisini vekil ile temsil ettirdiğinden Avukatlık Asgari Ücret Tarifesi gereğince hesap olan takdiren 15.000,00-TL maktu ücreti vekaletin davaldan alınarak davacıya verilmesine,\nDavanın kısmen reddolunması ve davalının kendisini vekil ile temsil ettirmesi sebebiyle Avukatlık Asgari Ücret Tarifesi gereğince hesap olan takdiren 15.000,00-TL ücreti vekaletin davacıdan alınarak davalya verilmesine,\nDavanın kabul ret oranının takdiren %50 olarak kabulüne,\nHarcın davanın yalnızca kabul edilen kesimi üzerinden alınması sebebi ile davacının peşin yatırdığı 80,70-TL ilâm harcının tamamının davaldan alınarak davacıya verilmesine,\nDavacının bunun dışında yapmış olduğu ilk masraf/80,70-TL ile 3.000,00-TL olmak üzere toplam 3.080,70-TL yargılama giderinin %50'sinin davaldan alınarak davacıya verilmesine,\nDavalı şirketin işbu dosya bakımından yapmış olduğu bir gider olmadığından bu konuda karar verilmesine yer olmadığına,\nYatırılan ve kullanlmayan gider avansının, hükümün kesinleşmesine müteakip re'sen davacıya iadesine (HMK m.333),\nDağr, davacı vekili ve davalı şirket vekilinin yüzüne karşı, tebliğ tarihinden itibaren iki hafta içinde Ankara Bölge Adliye Mahkemeleri'nde istinaf yolu açık olmak üzere verilen karar, açıkça okunup usulen anlatıldı.12.01.2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 Sayılı Sınai Mülkiyet Kanunu",
+            "Hukuk Muhakemeleri Kanunu",
+            "Avukatlık Asgari Ücret Tarifesi"
+        ]
+    },
+    "summary_for_human": "Davacı, bir şirketin ticari markası ile üretim ve satış faaliyetlerini sürdüğünü iddia ediyor. Mahkeme, tasarımın yeni ve ayırt edici niteliğe sahip olmadığını ve davacının iddialarını reddetmiştir.",
+    "summary_for_model": "Davacı, bir şirketin ticari markası ile üretim ve satış faaliyetlerini sürdüğünü iddia ediyor. Mahkeme, tasarımın yeni ve ayırt edici niteliğe sahip olmadığını ve davacının iddialarını reddetmiştir. Davacı, tasarımın e-ticaret web sitesi ve Instagram gibi sosyal medya hesaplarında kullanıldığını iddia ediyor."
+}

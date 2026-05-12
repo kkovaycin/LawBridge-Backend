@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2020_328.pdf",
+        "court_name": "İstanbul Anadolu 8. Asliye Ticaret Mahkemesi",
+        "esas_no": "2018/1189",
+        "karar_no": "2023/49",
+        "case_subject": "Tazminat davası - Sosyal medyada hak ihlali ve hakaret",
+        "dava_tarihi": "17/10/2019",
+        "karar_tarihi": "19/01/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davacı şirketin sosyal medyada yayımladığı tweetin, çocuklara karşı cinsel saldırı niteliğinde olduğu ve davacı şirketin bu vakfa sponsorluğunun bulunduğu iddiasını savundu. Davacı vekili, tweetin hak ihlali ve hakaret olarak değerlendirilmesinin gerektiğini iddia etti.",
+        "reasoning_text": "İlk derece mahkemesi, tweetin ifade özgürlüğü kapsamında değerlendirilmesinin gerektiğini ancak bu tweetin hak ihlali ve hakaret olarak kabul edilmesinin gerektiğini karar verdi. Davacı vekili tarafından yapılan istinaf başvurusu kabul edilmedi.",
+        "verdict_text": "Davacı vekilinin istinaf isteminin kabul edilmediği için ilk derece mahkemesinin istinaf konu kararının kaldırılmasına ve davanın reddine dair hüküm verildi. Davacı vekilinin davayı yeniden incelemeye tabi tutulması için dava yeniden açılması kararı verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TMK 25, BK 49 ve 58",
+            "TTK 55-56",
+            "TTK 56/1.e",
+            "HMK'nin 353/1.b.2 maddesi",
+            "HMK'nin 362/1.a maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davacı şirketin sosyal medyada yayımladığı tweetin çocuklara karşı cinsel saldırı niteliğinde olduğunu iddia etti. İlk derece mahkemesi, tweetin hak ihlali ve hakaret olarak değerlendirilmesinin gerektiğini karar verdi. Davacı vekilinin istinaf başvurusu kabul edilmedi.",
+    "summary_for_model": "Davacı vekili, davacı şirketin sosyal medyada yayımladığı tweetin çocuklara karşı cinsel saldırı niteliğinde olduğunu iddia etti. İlk derece mahkemesi, tweetin hak ihlali ve hakaret olarak değerlendirilmesinin gerektiğini karar verdi. Davacı vekilinin istinaf başvurusu kabul edilmedi."
+}

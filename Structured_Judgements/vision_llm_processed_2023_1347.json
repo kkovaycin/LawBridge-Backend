@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_1347.pdf",
+        "court_name": "İstanbul Anadolu 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2023/1647",
+        "karar_no": "2023/1644",
+        "case_subject": "Marka (Marka Hakkına Tecavüzden Kaynaklanan)",
+        "dava_tarihi": "06/06/2023",
+        "karar_tarihi": "06/11/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının internet sitesinde ve sosyal medya hesaplarında davacının markasını kullanmasını iddia etmiştir. Mahkeme, davalının markayı kullanmasının davacının markalarına tecavüz oluşturduğunu tespit etmiştir.",
+        "reasoning_text": "Mahkeme, davalının markayı kullanmasının davacının markalarına tecavüz oluşturduğunu ve bu durumun davacının haklarını ihlal ettiğini değerlendirmiştir. Ayrıca, davalının markayı kullanmasının davacının markalarına benzemekle ilgili bir ihtimalinin bulunduğunu da belirtmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davalılar vekilinin istinaf talebinin KISMEN KABULÜNE, 2-İstanbul Anadolu 1.Fıkri ve Sınai Haklar Hukuk Mahkemesi'nin 06/06/2023 tarih ve 2022/252 Esas sayılı tedbir kararının KALDIRILMASINA, 3-İhtiyati tedbir talebinin kısmen kabulüne, kısmen reddine, -SMK'nun 159/2-c maddesi gereğince davah tarafa 50.000,00 TL nakdi ya da gayri nakdi terminatın kararın tebliğ tarihinden itibaren 1 hafta içerisinde mahkemeye depo edilmesine, aksi takdirde mahkemeye daha önce verilmiş olan ihtiyati tedbirin ağırlaştırılacağına itharına, 4-İstinaf peşin harcının talebe halinde davallara iadesine, 5-İstinaf aşamasında davallar tarafından yapılan yargılama gideri olan 738,00 TL istinaf yoluna başvurma harcı, 500,00 TL dosya fotokopi masrafı ve 170,00 TL posta masrafı olmak üzere toplam 1.408,00 TL'nin davacıdan alınarak davallara verilmesine, 6-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dosya üzerinden yapılan inceleme sonucu oy birliği ile HMK'nun 362/1-f maddesi uyarınca kesin olarak karar verildi 06/11/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK)",
+            "Ticari Markalar Kanunu (TMK)",
+            "Tüketicinin Hakları Kanunu (THK)",
+            "Sınai ve Ticari Markalar Kanunu (SMK)"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının internet sitesinde ve sosyal medya hesaplarında davacının markasını kullanmasını iddia etti. Mahkeme, bu kullanımların davacının markalarına tecavüz oluşturduğunu tespit etti ve davalının markayı kullanmasının davacının haklarını ihlal ettiğini karar verdi.",
+    "summary_for_model": "Davacı, davalının internet sitesinde ve sosyal medya hesaplarında davacının markasını kullanmasını iddia etti. Mahkeme, bu kullanımların davacının markalarına tecavüz oluşturduğunu tespit etti ve davalının markayı kullanmasının davacının haklarını ihlal ettiğini karar verdi. Davalının istinaf talebi kısmen kabul edildi ve davalılara 1.408,00 TL'lik harçlar verildi."
+}

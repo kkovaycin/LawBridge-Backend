@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2019_519.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2019/519",
+        "karar_no": "2019/572",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "08/05/2018",
+        "karar_tarihi": "22/03/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı şirket, davanın Twitter hesabından yaptığı paylaşımlar nedeniyle haksız rekabet iddiasıyla dava açmıştır. Davacı, Türk Ticaret Kanunu'na göre kurulmuş özel kişiliğe sahip olarak tacir sıfatını taşımaktadır.",
+        "reasoning_text": "Davacı tarafının haksız rekabet iddiasına yönelik açıklamaları, Türk Ticaret Kanunu'nun 54. ve 55. maddeleri kapsamında değerlendirilmiştir. Davanın TTK'nin 55. maddesi uyarınca haksız rekabete ilişkin ticari dava niteliğinde olduğu tespit edilmiştir.",
+        "verdict_text": "GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ: Dava; davacının twitter hesabından davacı şirket aleyhine yaptığı paylaşımlar nedeniyle haksız rekabet hükümlerine dayalı manevi tazminat isteme ile ilgilidir. Davacı şirket Türk Ticaret Kanunu hükümlerine göre kurulmuş özel kişiliğe sahip olarak tacir sıfatını taşımaktadır."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Ticaret Kanunu 54. Maddesi",
+            "Türk Ticaret Kanunu 55. Maddesi",
+            "Hâkimler ve Savcılar Kurulu Birinci Daire 13/02/2018 tarihli ve 08 sayılı karar",
+            "Yargıtay 11. Hukuk Dairesi 13/02/2017 tarihli ve 2017/339 Esas, 2017/757 Karar sayılı karar"
+        ]
+    },
+    "summary_for_human": "Davacı şirket, davanın Twitter'da yaptığı paylaşımlar nedeniyle haksız rekabet iddiasıyla dava açmıştır. Mahkeme, davanın TTK'nin 55. maddesi uyarınca haksız rekabete ilişkin ticari dava niteliğinde olduğunu tespit etmiştir.",
+    "summary_for_model": "Dava, davanın Twitter hesabından yapılan paylaşımlar nedeniyle haksız rekabet iddiasıyla açılmıştır. Mahkeme, davanın TTK'nin 55. maddesi uyarınca ticari dava niteliğinde olduğunu tespit etmiştir. Davacı şirket, Türk Ticaret Kanunu'na göre kurulmuş özel kişiliğe sahiptir."
+}

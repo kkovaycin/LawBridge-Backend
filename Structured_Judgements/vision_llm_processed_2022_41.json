@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_41.pdf",
+        "court_name": "İzmir Aslıye Ticaret Mahkemesi",
+        "esas_no": "2022/41",
+        "karar_no": "2022/44",
+        "case_subject": "Haksız rekabet ve ticari hak ihlalleri",
+        "dava_tarihi": "08/04/2021",
+        "karar_tarihi": "13/01/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın 24/01/2018 ve 20/06/2019 tarihli ticari faaliyetlerini iddia etmiştir. Davanın eski eşine ait iş yerinde çalışmaya başladığı ve 31/10/2020'de iş sözleşmesini fes ettiği belirtilmiştir. Davanın eski eşinin eski işçi olduğu ve 30/10/2018'de evlendiği, Çeşme Aslıye Hukuk Mahkemesi'nin 16/10/2020 tarihli kararıyla anlaşmalı olarak boşandığı, vekilin iş yerinde hem ev yemekleri satışı hem de döner satışı yaptığı, alıcı ve çeşme'de bulunan iş yerleri ile inşaat santiyeleri gibi iş yerlerine anlaşmalı olarak satış yaptığı, aynı zamanda yemeksepti uygulamasında da faaliyet gösterdiği ancak davalı yanın haksız rekabet teşkil eden birçok eylemiyle vekiline maddi ve manevi zarar verdiği iddia edilmiştir.",
+        "reasoning_text": "Mahkeme, davanın Çeşme Aslıye Hukuk Mahkemesi'nde görüldüğünü ve İzmir Aslıye Ticaret Mahkemesi'ne gönderildiğini açıklamıştır. Davanın ticari dava olduğu belirtilmiş ve Hakimler ve Savcılar Genel Kurulu'nun 07/07/2021 tarihli ve 608 numaralı kararının uygulanması için İzmir Aslıye Ticaret Mahkemeleri'nin yargı çevresinin belirlendiği kararı kabul edilmiştir. Mahkeme, davanın Çeşme Aslıye Hukuk Mahkemesi'ne ait olduğu için İzmir Bölge Adliye Mahkemesi 6. Hukuk Dairesi'ne gönderildiğini kararlaştırmıştır.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere;\n1-Gönderme kararına konu, dava dosyasına ilişkin uyumsuzluğu çözme görevinin davanın açıldığı Çeşme Aslıye Hukuk Mahkemesi (Aslıye Ticaret Mahkemesi Sıfatıyla) ait olması sebebiyle, dosyanın Çeşme Aslıye Hukuk Mahkemesi (Aslıye Ticaret Mahkemesi Sıfatıyla) GÖNDERİLMESİNE,\n2-Mahkememiz esasının, gönderme kararı sebebiyle kapatılmasına,\n3-Kararın niteliği itibarıyla harç alınmasına yer olmadığına,\n4-Mahkememizce verilen kesin mahiyetteki iş bu karşı gönderme kararı kapsamında 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 21/1-c. maddesi atfıyla aynı Kanun'un 22. maddesinin kyasen gözetilmesi suretiyle, dosyanın görevli mahkemeye belirlenmesi amacıyla İzmir Bölge Adliye Mahkemesi 6. Hukuk Dairesi'ne gönderilmesine,\n5-Yapılacak yargılama giderlerinin görevli mahkemeye dikkate alınmasına,\n6-Gerekli kararın taraflara tebliği,\nDair, tarafların yokluklarında, dosya üzerinden yapılan inceleme sonucunda kesin olmak üzere karar verildi. 13/01/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hakimler ve Savcılar Genel Kurulu Kararı (07/07/2021, 608)",
+            "Yargıtay Hukuk Genel Kurulu Kararı (04/04/2019, 2017/11-10 Esas ve 2019/401 Karar)",
+            "Türkiye Cumhuriyeti Anayasası",
+            "6100 sayılı Hukuk Muhakemeleri Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, eski eşinin ticari faaliyetlerini haksız rekabet olarak iddia etmiştir. Mahkeme, davanın Çeşme Aslıye Hukuk Mahkemesi'nde görüldüğünü ve İzmir Aslıye Ticaret Mahkemesi'ne gönderildiğini kararlaştırmıştır.",
+    "summary_for_model": "Dava, haksız rekabet ve ticari hak ihlalleri iddialarıyla açılmıştır. Mahkeme, davanın Çeşme Aslıye Hukuk Mahkemesi'nde görüldüğünü ve İzmir Aslıye Ticaret Mahkemesi'ne gönderildiğini kararlaştırmıştır. Karar, 6100 sayılı Hukuk Muhakemeleri Kanunu'na dayanarak verilmiştir."
+}

@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2022_248.pdf",
+        "court_name": "T.C. ANKARA 4. FİKRİ VE SANATİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2022/248",
+        "karar_no": "2022/300",
+        "case_subject": "Marka Tecavüzü, Haksız Rekabet Tesbiti, Men'i, Önlenmesi, Tazminat",
+        "dava_tarihi": "09/10/2015",
+        "karar_tarihi": "14/11/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, davacıların markalarının 13.11.2012 tarihinden itibaren bahse konu (1) ve (2) numaralı davalar adına hizmet ve ticaret markası olarak tescil edildiğini, davalı şirketin bu markaları kullanmakta olduğunu iddia etmiştir. Davalı şirketin markaları kullanması, davacıların markaları ile aynı veya benzer olduğu için haksız rekabet ve marka tecavüzüne yol açtığı, davalı şirketin bu markaları kullanmasının davacıların ticari faaliyetlerini olumsuz etkilediği ve davacıların zarar gördüğü iddia edilmiştir.",
+        "reasoning_text": "Mahkeme, davacıların markalarının davalı şirketin işletmeciliği ile aynı yerde olduğu algısını yaratacağı, davalı şirketin bu markaları kullanmasının davacıların ticari faaliyetlerini olumsuz etkilediği ve davacıların zarar gördüğü tespit etmiştir. Davalı şirketin bu markaları kullanmasının haksız rekabet ve marka tecavüzüne yol açtığı, davacıların zarar gördüğü ve davacıların maddi ve manevi tazminat taleplerinin kabul edildiği kararla sonuçlanmıştır.",
+        "verdict_text": "Davacı tarafa 2.129,57 TL maddi tazminat ve 10.000 TL manevi tazminat hükmü verilmiştir. Davalı tarafa 12.129,57 TL vekalet ücreti hükmü verilmiştir. Davacı tarafa 750,00 TL masraf hükmü verilmiştir. Davalı tarafa 30,75 TL masraf hükmü verilmiştir. Davacı vekili ve davalı vekiliye karşı 2 haftalık süre içinde mahkemeye istinaf kanunu yoluyla dilekçe ile başvurabileceğine yönelik karar okunup açıklanmıştır."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "556 sayılı KHK",
+            "TTK",
+            "6100 sayılı HMK",
+            "6102 sayılı Türk Ticaret Kanunu",
+            "6098 sayılı Türk Borçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacıların markalarının davalı şirketin işletmeciliği ile aynı yerde olduğu algısını yaratacağı ve davacıların zarar gördüğü tespit ederek, davacıların maddi ve manevi tazminat taleplerini kabul etmiştir. Davalı şirketin bu markaları kullanmasının haksız rekabet ve marka tecavüzüne yol açtığı kararla sonuçlanmıştır.",
+    "summary_for_model": "Mahkeme, davacıların markalarının davalı şirketin işletmeciliği ile aynı yerde olduğu algısını yaratacağı ve davacıların zarar gördüğü tespit ederek, davacıların maddi ve manevi tazminat taleplerini kabul etmiştir. Davalı şirketin bu markaları kullanmasının haksız rekabet ve marka tecavüzüne yol açtığı kararla sonuçlanmıştır. Davacı tarafa 2.129,57 TL maddi tazminat ve 10.000 TL manevi tazminat hükmü verilmiştir."
+}

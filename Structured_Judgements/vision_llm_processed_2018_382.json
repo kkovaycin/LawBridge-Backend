@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2018_382.pdf",
+        "court_name": "T.C. İSTANBUL 1.FİKRÎ VE SINAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2018/382",
+        "karar_no": "2018/350",
+        "case_subject": "Endüstriyel Tasarım Hakkindan Tecavüzden Kaynaklanan",
+        "dava_tarihi": "05/09/2018",
+        "karar_tarihi": "25/09/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, müvekkilin tescilli kod sıra numaralı tasarımının taklitlerini satışa sunan davalı yanın tecavüzü havi kullanımlarının yoğun olarak gerçekleştirdiği \"...\" isimli instagram hesaplarına erişimin engellenmesi, müvekkilin firmanın tescilli tasarımlarından kaynaklanan haklarına tecavüz teşkil eden eylemleri tecavüzün tesbiti, meni, durdurulması ve önlenmesi, haksız rekabet teşkil eden eylemlerin tesbiti, meni, durdurulması, önlenmesi, yargılama gideri ve vekalet ücretinin davalıya yüklenmesini talep ve dava etmiştir. Davalıya dava dilekçesi tebliğe çıkartılmış, tebligat 11/09/2018 tarihinde davalıya yapılmış, davalının cevap süresi henüz dolmamıştır.",
+        "reasoning_text": "Davacı vekili 25/09/2018 havale tarihli dilekçesi ile Mahkememizde görülmekte olan bu dava ile ilgili tüm taleplerinden müvekkilin talebi üzerine tüm sonuçları ile beraber feragat ettiklerini, ayrıca karşı tarattan herhangi bir vekâlet ücreti ve yargılama gideri talebimizde bulunmadığını, davadan feragat beyanlarının kabulü karar verilmesini talep etmiş olup, davacı vekâletnamesi incelenmesinde davacı vekilinin davadan feragat ve sulh olmaya yetkisin bulunduğu anlaşılığından, davanın feragat nedeniyle reddine karar verilerek aşağıdaki hükmü kurulmuştur.",
+        "verdict_text": "1-Davacı davasından feragat ettiğinden, HMK 307.maddesi gözetilerek DAVANIN FERAGAT NEDENİYLE REDDİNE, 2-35,90 TL ilam harcının peşin harçtan mahsubu ile yeniden harç alınmasına yer olmadığına, 3-Davacı vekili yargılama gideri ve vekâlet ücreti talep etmediğinden, bu konuda hükmün kurulmasına yer olmadığına, 4-Davacı tarafın yapmış olduğu yargılama giderlerinin üzerinde bırakılmasına, 5-Artan gider avansının karar kesinleştiğinde davacıya iadesine, Dair karar taraf vekillerinin yokluğunda, gerekli kararın taraflara tebliginden itibaren 2 haftalık süre içinde İSTANF YASA yolu açık olmak üzere karar verildi.25/09/2018"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 307.maddesi",
+            "İSTANF YASA"
+        ]
+    },
+    "summary_for_human": "Davacı, davasını feragat ettiği için dava reddedildi. Davacı vekili yargılama gideri ve vekâlet ücreti talep etmediği için bu konuda hükmün kurulmasına yer olmadı.",
+    "summary_for_model": "Davacı vekili tarafından yapılan dilekçe ile dava feragat talebi reddedildi. Davacı vekâletnamesi incelenerek davacı vekilinin yetkisi teyit edildi. Davacı vekili yargılama gideri ve vekâlet ücreti talep etmediği için bu konuda hükmün kurulmasına yer olmadı."
+}

@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2021_1053.pdf",
+        "court_name": "BAKIRKÖY 2. FİKRİ VE SNAYİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/1053",
+        "karar_no": "2021/1580",
+        "case_subject": "Marka Tecavüzü ve Haksız Rekabet",
+        "dava_tarihi": "23/09/2021",
+        "karar_tarihi": "23/09/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının müvekkiline ait tescilli markayı izinsiz kullanarak haksız rekabet ve telif hakkını ihlal ettiğini iddia etmiştir. Davalının internet siteleri ve sosyal medya hesaplarında markayı kullanması, dava konusu olarak ele alınmıştır.",
+        "reasoning_text": "Mahkeme, davalının markayı izinsiz kullandığını ve haksız rekabet oluşturduğunu tespit etmiştir. Davalının itirazı reddedilmiş ve dava sonucunda hüküm verilmiştir.",
+        "verdict_text": "Dava konusu olarak belirlenen markanın izinsiz kullanımı ve haksız rekabet iddiaları doğrulanmıştır. Davacı vekiliye 30.000,00 TL teminat karşılığında itibar tedbiri kararı verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 356",
+            "SMK 159",
+            "HMK 389",
+            "HMK 352/1-c",
+            "HMK 345",
+            "HMK 346",
+            "1-600 sayılı 352/1-c, 345 ve 346. maddeler"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının izinsiz olarak markasını kullanarak haksız rekabet ve telif hakkını ihlal ettiğini iddia etmiştir. Mahkeme, davalının suçlamaların kabul ederek itibar tedbiri kararı vermiştir.",
+    "summary_for_model": "Marka tecavüzü ve haksız rekabet davasında, davacı vekili davalının izinsiz markayı kullandığını iddia etmiştir. Mahkeme, davalının suçlamaları doğrulanarak itibar tedbiri kararı vermiştir."
+}

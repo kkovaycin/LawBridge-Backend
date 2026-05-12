@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2021_1145.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLIYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": null,
+        "karar_no": null,
+        "case_subject": "İhtiyati Tedbire İtiraz",
+        "dava_tarihi": null,
+        "karar_tarihi": "02/06/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "İhtiyati tedbir isteyen vekil, müvekkili şirketin 2011 yılında kurulduğunu, kritik altyapılara sahip olduğunu ve dijital dönüşüm süreçleriyle başarılı bir şekilde ilerlediğini iddia etmiştir. Şirketin markası, internet alan adı, sosyal medya hesapları ve reklam araçlarında uzun yıllardır kullanıldığı belirtilmiştir. Karşı tarafın bu markayı kullanmasının, müvekkili şirketin marka hakkını ihlal ettiğini ve haklı bir rekabeti oluşturduğunu iddia edilmiştir.",
+        "reasoning_text": "Mahkeme, ihityati tedbir talebinin kabulüne yönelik kararın, SMK 159. maddesine göre uygun olduğunu ancak HMK 392. maddesine göre resmi belgesi olmadığı için reddedildiğini açıklamıştır. İstinaf başvurusu reddedildiğinde, mahkemenin kararı kesin hale gelmiştir.",
+        "verdict_text": "İhtiyati tedbir itirazı reddedildi. Karar, 16/07/2021 tarihinde kesin hale geldi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 159",
+            "HMK 392",
+            "HMK 353/1-b.1",
+            "HMK 362/1-f"
+        ]
+    },
+    "summary_for_human": "Mahkeme, ihityati tedbir talebini reddetmiştir. İstinaf başvurusu da reddedildi ve karar kesin hale geldi.",
+    "summary_for_model": "İhtiyati tedbir talebi reddedildi. İstinaf başvurusu reddedildi. Karar, HMK 392. maddesi nedeniyle resmi belgesi olmadığı için reddedildi."
+}

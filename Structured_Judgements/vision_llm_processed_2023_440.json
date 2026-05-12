@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2023_440.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2022/306 E.",
+        "karar_no": "2023/265",
+        "case_subject": "Marka (Maddi Tazminat İstemli)",
+        "dava_tarihi": "16/03/2023",
+        "karar_tarihi": "30/12/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın teminatlı olarak sayın mahkeme akisi kanaatte uygun bir teminat bedeli karşılığı itibar taleplerini reddetmiştir. İlk Derece Mahkemesi, dava dilekçesi ve ekli belgelere göre, HMK'nın 389 ve devam maddeleri ile SMK'nın 159. maddesi uyarınca, markanın davanın devamı sırasında üçüncü kişilere devrinin önlenmesi, tabelaların kaldırılması ve sosyal medya hesaplarına erişimin engellenmesi kararının verilmesini talep etmiştir.",
+        "reasoning_text": "İhtiyati tedbir talebinin kabulüne karar verilmiştir çünkü dava devamı sırasında markanın üçüncü kişilere devrini önlemek, tabelaların kaldırılması ve sosyal medya hesaplarına erişimin engellenmesi gibi önlemler alındığında davanın kotü niyetinin ve markanın iltisabının ispatlandığı düşünülmektedir. Ayrıca, dava dilekçesinde taleplerin reddedilmesi durumunda davanın kotü niyetinin ve markanın iltisabının ispatlandığı varsayılmaktadır.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Usul ve yasaya uygun Bakırköy 2. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 30/12/2022 tarih ve 2022/306 E. sayılı ara kararına karşı davacı vekili tarafından yapılan istinaf başvurusunun 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gereken 179,90-TL istinaf karar harcı davacı tarafından peşin yatırıldığından yeniden harç alınmasına yer olmadığına, 3-Davacı tarafça istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, 4-İncelemenin durusmaz olarak yapılması sebebiyle taraflarca vekalet ücreti tayinine yer olmadığına, 5-Taraflarca yatırılan gider avansından harçnamayan kısmın karar kesinleştiğinde iadesine, 6-Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin ilk derece Mahkemesince yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/(1)-f. ve 394/(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "6769 Sayılı Sınai Mülkiyet Kanunu",
+            "2-492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, davacı vekilinin istinaf başvurusunu reddetmiştir. İlk Derece Mahkemesi'nin kararına karşı istinaf başvurusu, 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b/1. maddesi gereğince esastan reddedilmiştir. Davacı tarafından istinaf kararı harcı peşin yatırılmıştır.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, davacı vekilinin istinaf başvurusunu reddetmiştir. İlk Derece Mahkemesi'nin kararına karşı istinaf başvurusu, 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b/1. maddesi gereğince esastan reddedilmiştir. Davacı tarafından istinaf kararı harcı peşin yatırılmıştır. Karar, 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 362/(1)-f. ve 394/(5). maddeleri gereğince kesin olarak verilmiştir."
+}

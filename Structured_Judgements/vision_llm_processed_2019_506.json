@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2019_506.pdf",
+        "court_name": "T.C. BURSA 3. AŞLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2019/506",
+        "karar_no": "2022/674",
+        "case_subject": "Alacak davası - Peugeot Boxer karavan teslim eksiklikleri",
+        "dava_tarihi": "11/11/2019",
+        "karar_tarihi": "02/06/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, Peugeot Boxer karavanın tesliminde eksiklikler nedeniyle dava açtı. Sözleşme gereği teslim tarihinin 15.04.2019 olmasına rağmen, davalı tarafından teslim edilmedi. Davacı, teslim gecikmesi nedeniyle ceza şart bedeli talep etti.",
+        "reasoning_text": "Mahkeme, davacı tarafından yapılan eksikliklerin sözleşmeye uygunluğunu ve teslim gecikmesinin ceza şart bedeline yol açtığını tespit etti. Davacı vekilinin talebini kabul ederek davayı açılmamış sayılmasına karar verdi.",
+        "verdict_text": "1-Cezai şart'a isteme yönelik davanın AÇILMAMIŞ SAYILMASI NA, 2-Karavandaki eksikliklere yönelik davanın KABULÜ ile, 51.200-TL'nin 13.04.2022 tarihinden itibaren işleyecek yasal faizle birlikte davalıdan tahsili ile davacıya verilmesine, 3-Harçlar yasası gereğince alınması gereken 3.497,48-TL karar ve ilam harçından peşin alınan 875,39-TL harçın mahsubu ile bakiye 2.622,09-TL harçın davalıdan alınarak hazinede İRAT KAYDINA, 4-Davacı kendisini vekil ile temsil ettiğinden, karar tarihinde yürürlükte bulunan AAÜT 13/1-2 uyarınca belirlenen 7.456,00-TL vekalet ücretinin davalıdan alınarak davacıya VERİLMESİNE, 5-Davalı kendisini vekil ile temsil ettiğinden, açılmamış sayılmasına karar verilen dava yönünden karar tarihinde yürürlükte bulunan AAÜT uyarınca belirlenen 5.100,00-TL vekalet ücretinin davacıdan alınarak davalına VERİLMESİNE, 6-Davacı tarafından yapılan 926,19-TL harç, 2.300,00-TL bilirkişi ücreti, 200,00-TL keşif aracı ücreti ve 216,00-TL tebligat giderinden oluşan toplam 3.642,19-TL yargılama giderinin davalıdan alınarak davacıya VERİLMESİNE, 7-Davalı tarafından yatırılan gider avansından kullanılan 99,40-TL tebligata masrafına ilişkin yargılama ücretinin davalı taraf üzerinde BIRAKILMASINA, 8-7155 Sayılı Kanunun 23.maddesi ile 6155 Sayılı Kanun 18/A-12-13 maddeleri uyarınca 1.320,00 TL zorunlu arabulculuk hizmeti giderinin davalıdan alınarak HAZİNEYE İRAT KAYDINA, 9-Kesinleşme süreci tamamlanana kadar masraf avanslarının kullanılabileceği nazara alınarak kararın kesinleşmesinden sonra yazı işlerince yapılacak hesaba göre artan avansların yatıran tarafa İADESİNE"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TBK 474",
+            "TBK 477",
+            "İstinaf Kanunu",
+            "7155 Sayılı Kanun",
+            "6155 Sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "Davacı, Peugeot Boxer karavanın tesliminde eksiklikler nedeniyle dava açtı. Mahkeme, davacı tarafından yapılan eksikliklerin sözleşmeye uygunluğunu ve teslim gecikmesinin ceza şart bedeline yol açtığını tespit etti. Davacı vekilinin talebini kabul ederek davayı açılmamış sayılmasına karar verdi.",
+    "summary_for_model": "Dava, Peugeot Boxer karavanın tesliminde eksiklikler nedeniyle açıldı. Mahkeme, davacı tarafından yapılan eksikliklerin sözleşmeye uygunluğunu ve teslim gecikmesinin ceza şart bedeline yol açtığını tespit etti. Davacı vekilinin talebini kabul ederek davayı açılmamış sayılmasına karar verdi. TBK 474 ve 477, İstinaf Kanunu, 7155 Sayılı Kanun ve 6155 Sayılı Kanun gibi kanunlar bahsedildi."
+}

@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2018_37.pdf",
+        "court_name": "Antalya 4. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2018/37",
+        "karar_no": "2018/692",
+        "case_subject": "Menfi Tespit (Kymetli Evraktan Kaynaklanan)",
+        "dava_tarihi": "18/01/2018",
+        "karar_tarihi": "15/11/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili mahkemeye verdiği dava dilekçesinde, müvekkilin dava dilekçesinde sunulan protokol uyarınca \"in ruhsat sahibi olduğu işletmeciliği... Ltd. olan... nolu maden sahasının iş takibini yapmak yani ruhsat uzatım işlerinin takibi için 3 adet 70.000,00 TL bedelli kesideci...\" gibi iddialarını öne sürmüştür. Davalı vekili ise davayı reddetmiştir.",
+        "reasoning_text": "Mahkeme, dava konusu bonoların davacı tarafından ihmal edildiğini ve davalı tarafından borcun ödenmediğini tespit etmiştir. Davacı davayı kaybetmiştir.",
+        "verdict_text": "Ayırtısi gerekçeli kararda anlaşılacağı üzere;\n1-Davacının davasının REDDINE,\n2-Yasal şartları oluşmayan davalı tarafın icra inkar tazminatı talebinin REDDINE,\n3-Harçlar Yasası uyarınca alınması gereken 35,90 TL.ret harçının peşin alınan 1.195,43 TL harçtan mahsub ile fazla yatırılan 1.159,53 TL.harçın karar kesinleştikten sonra davacıya İADESINE,\n4-Davalı kendisini vekil temsil ettirdiğinden karar tarihindeki Avukatlık Asgarı Ücret Tarifeşine göre 8.050,00 TL vekalet ücretinin davacıdan alınarak davalya VERİLMESİNE,\n5-Davacı tarafından yapılan giderlerin kendi üzerinde BİRAKILMASININA,\n6-Artan ve kullanılmayan gider avansının karar kesinleştikten sonra davacıya İADESİNE,\nDair, davacı vekili ve davalı vekilinin yüzüne karşı kararın tebliginden itibaren 6100 Sayılı Kanunun 345.maddesi gereğince 2 hafta içerisinde ilgili istinaf Dairesi Başkanlığına sunulmak üzere Mahkememize verilecek dilekçe ile istinaf yasa yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 15/11/2018"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 687/1 maddesi",
+            "6102 Sayılı Kanun 345.maddesi",
+            "Harçlar Yasası"
+        ]
+    },
+    "summary_for_human": "Davacı, davalıya karşı menfi tespit davası açtı. Mahkeme, davacı davayı kaybetti ve davalıya vekalet ücreti ödemesi kararı verdi.",
+    "summary_for_model": "Davacı, davalıya karşı menfi tespit davası açtı. Mahkeme, davacı davayı kaybetti ve davalıya vekalet ücreti ödemesi kararı verdi. Davacı davayı kaybetmiştir."
+}

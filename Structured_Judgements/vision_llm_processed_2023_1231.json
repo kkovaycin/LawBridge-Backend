@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2023_1231.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2023/1231",
+        "karar_no": "2023/1530",
+        "case_subject": "Fikir Ve Sanat Eseri (Maddi Tazminat İstemi)",
+        "dava_tarihi": "20/10/2023",
+        "karar_tarihi": "31/05/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının 30 yıllık otomotiv sektöründe yayın ve medya kuruluşunda çalışan, program formatı oluşturan ve çocukların yarışta yer almasını sağlayan kişinin, davacı vekilinin fikri mülkiyeti ihlal ettiğini iddia etmiştir. Davalının programın yayınlanmasını durdurması için ihtiyatı tedbir talebiyle dava açılmıştır.",
+        "reasoning_text": "Mahkeme, davacı vekilinin iddialarını reddetmiştir. Davalının programın yayınlanmasına devam etmesi, FSEN 77. maddesi uyarınca ihlal olarak değerlendirilmemiştir. Davacı vekilinin istinaf başvurusu da reddedilmiştir.",
+        "verdict_text": "İstanbul 4. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 31/05/2023 tarihli 2023/105 E. sayılı ara kararın reddine karar verilmiştir. Davacı vekilinin istinaf başvurusu da reddedilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK) 353, 356, 355, 77, 6100, 389/1, 390/son",
+            "Fikri ve Sınai Haklar Kanunu (FSEN) 48, 77"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin iddiasını reddetmiştir. Davalının programın yayınlanmasına devam etmesi, fikri mülkiyeti ihlali olarak değerlendirilmemiştir. Davacı vekilinin istinaf başvurusu da reddedilmiştir. Mahkeme, davalının programı durdurma talebini kabul etmemiştir.",
+    "summary_for_model": "Dava, FSEN kapsamında eser olduğu iddia edilen televizyon yarışma programı formatı ile ilgili taraflar arasındaki anlaşma nedeniyle açılmıştır. Mahkeme, FSEN 77. maddesi uyarınca ihlal olarak değerlendirilen davalının programı durdurma talebini reddetmiştir. Davacı vekilinin istinaf başvurusu da reddedilmiştir. HMK 353, 356, 355, 77, 6100, 389/1, 390/son maddeleri ve FSEN 48, 77 maddeleri esas olarak kullanılmıştır."
+}

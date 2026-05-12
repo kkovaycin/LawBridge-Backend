@@ -1,0 +1,36 @@
+{
+    "meta_data": {
+        "file_name": "2018_2011.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2018/2011 Esas",
+        "karar_no": "2021/705 Karar",
+        "case_subject": "Tazminat (FSEK Sahipliğinden Kaynaklanan)",
+        "dava_tarihi": "27/11/2017",
+        "karar_tarihi": "02/04/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde; müvekkilinin \"...\" isimli televizyon programının sunucusu olduğunu, davalının müvekkiline ait fotoğrafın Çorum'da \"...\" isimli restoranın reklamlarında kullanıldığını, bu nedenle FSEK 68 çerçevesinde şimdilik 100.000 TL'nin davadan alınarak müvekkiline verilmesini talep ve dava etmiştir. Davalı vekili cevap dilekçesinde; davacının müvekkiline restoranda \"...\" isimli yemek programı için çekimler için geldiğini, reyting elde ettiğini, gelir elde etmesine rağmen bu davayı açmasının kötünüyetli olduğunu, kullanımının FSEK 86/2 çerçevesinde hukuka uygun olduğunu, davanın reddi gerektiğini savunmuştur.",
+        "reasoning_text": "Mahkeme, davacının fotoğrafının davalı tarafından reklam amaçlı kullanıldığını, FSEK 86 ve BK genel hükümleri uyarınca davacının kişilik haklarının ihlal edildiğini ve 20.000,00 TL maddi tazminatın verilmesini kararlaştırmıştır. Davacının fotoğrafının reklamda kullanılması, FSEK 68 ve BK 49 maddeleri çerçevesinde tazminat talep edilebilirliği kabul edilmiştir.",
+        "verdict_text": "İstanbul 2.Fıkırı ve Sınai Haklar Hukuk Mahkemesi 27.11.2017 tarihli 2016/28 E. - 2017/371 K. sayılı kararıyla; \"...Toplanan deliller hükmü kurmaya elverişli ve yeterli alınan son bilkisi heyet raporu kapsamında davacıya ait fotoğrafın davalı ... reklamında ve internet alanında izinsiz kullanıldığı ve kullanımın durdurulması gerektiği, söz konusu kullanımın FSEK 86. Maddesi ve Borçlar Kanunu hükümleri kapsamında davacı yanın kişilik haklarının ihlal edilmesi nedeni ile bilirkişi tarafından belirlenen 20.000,00 TL maddi tazminatın tespit tarihinden itibaren yürütülecek faizi ile birlikte davaldan alınarak davacıya verilmesine, fazlaya dair talebin reddine karar verilmesi gerektiği\" gerekçesiyle; \"Davacı ... tarafından davalı (...) aleyhine açılan davanın kısmen kabulüne; -Davacı fotoğrafının davalı ... reklamında ve internet alanında kullanıldığının tesbiti ile davalı kullanımının durdurulmasına, -FSEK 86 ve BK genel hükümleri uyarınca davacının kişilik haklarının ihlali nedeni ile 20.000,00 TL maddi tazminatın 17.02.2016 tarihinden itibaren yürütülecek değişen oranlardaki reeskont faizi ile birlikte davallardan alınarak davacıya verilmesine, -Fazlaya dair maddi tazminat talebinin reddine\" karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "FSEK 68",
+            "FSEK 86",
+            "FSEK 86/2",
+            "FSEK 86/3",
+            "FSEK 4",
+            "FSEK 2/B",
+            "FSEK 80",
+            "FSEK 86/1",
+            "FSEK.m86/1",
+            "BK 24",
+            "BK 49",
+            "HMK 353",
+            "HMK 356",
+            "HMK 353/1-b-1"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının müvekkiline ait fotoğrafının reklamda izinsiz kullanıldığını iddia ederek FSEK 68 çerçevesinde 100.000 TL tazminat talep etmiştir. Mahkeme, davacının kişilik haklarının ihlal edildiğini kabul ederek 20.000 TL maddi tazminat kararı vermiştir.",
+    "summary_for_model": "Davacı, davalının müvekkiline ait fotoğrafının reklamda izinsiz kullanıldığını iddia ederek FSEK 68 çerçevesinde tazminat talep etmiştir. Mahkeme, davacının kişilik haklarının ihlal edildiğini kabul ederek 20.000 TL maddi tazminat kararı vermiştir. FSEK 86 ve BK 49 maddeleri çerçevesinde tazminat talep edilebilirliği kabul edilmiştir."
+}

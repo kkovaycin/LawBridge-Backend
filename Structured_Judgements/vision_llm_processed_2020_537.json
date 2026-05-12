@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2020_537.pdf",
+        "court_name": "Antalya Bölge Adliye Mahkemesi 7. Hukuk Dairesi",
+        "esas_no": "İstinaf Kararı",
+        "karar_no": "17/02/2020",
+        "case_subject": "Menfi Tespit (Eser Sözleşmesi)",
+        "dava_tarihi": "17/02/2020",
+        "karar_tarihi": "03/03/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davayı açtı ve davalı yükleniciye ait markanın konsept ve proje çalışması, mekanın mimari ve iç mimari projelerinin davacının isteğine uygun olarak gerçekleştirilmesi hususunda sözleşme imzalandığını iddia etti. Davalı, sözleşme gereği davacıya 30.000,00 TL bedelli çek verdiğini, ancak işlerin eksiksiz tamamlanmadığını ve davalıya borçlu olmadığını iddia etti.",
+        "reasoning_text": "İlk derece mahkemesi, davacı vekilinin iddialarını reddeterek davayı reddetme kararı verdi. Mahkeme, davacı vekilinin istinaf başvurusunu kabul ederek davayı yeniden görüşmek için dosyanın kararı veren mahkemeye göndermeye karar verdi.",
+        "verdict_text": "Yerel Mahkeme kararının esası incelenmeksizin ORTADAN KALDIRILMASININA ve davanın yeniden görülmesi için dosyanın kararı veren mahkemeye GÖNDERİLMESİNE, peşin alınan istinaf kararı harcının isteği halinde ilk derece mahkemesince istinaf yoluna başvuran davacı tarafa iaadesine, dosya üzerinde yapılan inceleme neticesinde 03/03/2022 tarihinde kesin olarak oybirliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemesi Kanunu (HMK) 355. madde",
+            "Hukuk Muhakemesi Kanunu (HMK) 353/1-a/6 madde"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı yükleniciye ait markanın konsept ve proje çalışmalarının eksiksiz tamamlanmadığını iddia etti. İlk derece mahkemesi davayı reddetti, ancak davacı vekilinin istinaf başvurusu kabul edildi ve dava yeniden görüşmek için dosyanın kararı veren mahkemeye gönderildi.",
+    "summary_for_model": "Davacı vekili, davalı yükleniciye ait markanın konsept ve proje çalışmalarının eksiksiz tamamlanmadığını iddia etti. İlk derece mahkemesi davayı reddetti, ancak davacı vekilinin istinaf başvurusu kabul edildi ve dava yeniden görüşmek için dosyanın kararı veren mahkemeye gönderildi. HMK 355. madde ve HMK 353/1-a/6 madde referans edildi."
+}

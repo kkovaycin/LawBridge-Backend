@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2018_12.pdf",
+        "court_name": "T.C. İSTANBUL 2.FİKRİ VE SANATİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2018/5 Esas",
+        "karar_no": "2019/560",
+        "case_subject": "Marka hakları ihlali ve tecavüz davası",
+        "dava_tarihi": "05/01/2018",
+        "karar_tarihi": "24/12/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının davacı şirkete ait markaları izinsiz kullandığını iddia etti. Davalının internet siteleri, Facebook ve YouTube hesaplarında davacı markalarını kullandığı ve ticari avantaj elde ettiği belirtildi. Davacı vekili, davalının bu markaları kullanmasının davacı markasına tecavüz oluşturduğunu iddia etti.",
+        "reasoning_text": "Mahkeme, davalının davacı markalarını izinsiz kullandığını ve bu kullanımların davacı markasına tecavüz oluşturduğunu tespit etti. Davalının bu markaları kullanmasının davacı şirketiyle ticari ilişki kurduğunu ve davacı markasına hak ihlali oluşturduğunu değerlendirdi.",
+        "verdict_text": "Davanın kabulüne, davalı tarafın \"...\" ibaresini kullanarak davacı tarafından marka haklarına tecavüz ettiğinin ve haksız rekabetin tespitine, tecavüzün men'ine ve ref'ine, 1-Karar tarihinde yürürlükte bulunan Harçlar Tarifeşi uyarınca hesap olan 44,40 TL karar harcından peşin yatırılan 35,90 TL'nin mahsubu ile kalan 8,50 TL bakiye karar harcının davaldan tahsiliyle Hazineye irak kaydına, 3-Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifeşi uyarınca davacı vekili yararına hesap olan 3.931,00 TL vekalet ücretinin davaldan alınarak kendisini vekille temsil ettiren davacıya verilmesine, 4-Davacı tarafından yapılan, bilirkişi ücreti ve posta gideri olmak üzere toplam 3.008,75TL ve 71,80 TL harç (peşin+başvuru) olmak üzere toplam 3.080,55 TL yargılama giderinin davaldan alınarak davacıya verilmesine, 5-Davalı tarafından yapılan yargılama giderlerinin kendi üzerinde birakılmasına, 6-Yatırılan gider avanslarından kullanılmayan kısmının talep halinde ve karar kesinleştiğinde yatıran tarafa iadesine, Dair dosya üzerinde yapılan inceleme sonucunda (HMK 345/1 md. gereğince) gerekeli kararın tebliğinden itibaren 2 hafta içerisinde Mahkememize veya başka bir yer mahkemesine dilekçe ile başvurmak ve istinaf harci ile gerekli giderlerin tamamı ödenmek suretiyle, İstanbul Bölge Adliye Mahkemesine istinaf yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 Sayılı Sanayi Mülkiyet Kanunu",
+            "TTK m.55/1-a-4",
+            "TTK m.54 vd.",
+            "HMK 345/1 md."
+        ]
+    },
+    "summary_for_human": "Davacı, davalının izinsiz olarak davacı şirkete ait markaları kullandığını iddia etti. Mahkeme, davalının bu markaları kullanmasının davacı markasına tecavüz oluşturduğunu tespit etti ve davalıya karşı kararı kabul etti.",
+    "summary_for_model": "Davacı, davalının izinsiz olarak davacı şirkete ait markaları kullandığını iddia etti. Mahkeme, bu kullanımların davacı markasına tecavüz oluşturduğunu tespit etti ve davalıya karşı kararı kabul etti. Davalıya karşı haksız rekabet ve marka ihlali iddiaları kabul edildi."
+}

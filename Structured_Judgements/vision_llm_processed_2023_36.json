@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2023_36.pdf",
+        "court_name": "T.C. BAKIRKÖY 2. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2023/36 Esas",
+        "karar_no": "2023/89",
+        "case_subject": "Endüstriyel Tasarım Hükmüsüzlüğü",
+        "dava_tarihi": "06/02/2023",
+        "karar_tarihi": "20/03/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesiyle, müvekkili tarafından davalı tarafa tescilli tasarımlardan doğan haklara ihlal edildiğini, davalı tasarımlarının yeni ve ayırt edici olmadığını iddia etmiştir. Davalı vekili ise, tasarımların farklı ve ayırt edici olduğunu savunmuştur.",
+        "reasoning_text": "Mahkeme, davanın feragat nedeniyle reddedildiğini, harç peşin alındığından başka harç alınmayacağını ve vekalet ücretinin davacıdan alınarak davalya verildiğini kararlaştırmıştır.",
+        "verdict_text": "Davacının davasının feragat nedeniyle REDDİNE, Harç peşin alındığından başka harç alınmasına yer olmadığına, Davalı kendisini vekille temsil ettirmekle Avukatlık Asgari Ücret Tarifi 6.maddesine göre 15.000,00 TL vekalet ücretinin davacıdan alınarak davalya verilmesine, Harcanmayan avansın karar kesinleştiğinde yatırına iadesine, Kararın taraflara tebligine karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Avukatlık Asgari Ücret Tarifi 6.maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davayı feragat nedeniyle reddetmiştir. Davacıya vekalet ücreti ve harçlar için belirli kararlar verilmiştir.",
+    "summary_for_model": "Dava feragat nedeniyle reddedildi. Vekalet ücreti ve harçlar için belirli maddeler uygulanmıştır. Avukatlık Asgari Ücret Tarifi 6.maddesi kullanılmıştır."
+}

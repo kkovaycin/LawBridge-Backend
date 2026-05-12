@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2022_515.pdf",
+        "court_name": "Antalya 4. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2022/515",
+        "karar_no": "2022/825",
+        "case_subject": "Menfi Tespit davası",
+        "dava_tarihi": "15/07/2022",
+        "karar_tarihi": "07/11/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, takip alacaklı olarak davayı açtı. Davacı şirkete 04.03.2022 tarihli haciz ihbarnamesi gönderildi ve itiraz edilmediği için takip alacaklı olarak kabul edildi. Davacı, dava dışı takip borçları ve herhangi bir borcu olmadığını iddia etti.",
+        "reasoning_text": "Davayı İK 89/3 ve 89/4 maddeleri uyarınca açıldı. Mahkeme, dava konusu şeyin yüzde yirmisinden aşağı olmamak üzere tazminata mahkum edildi. Mahkeme, dava konusu şeyin yüzde yirmisi oranında tazminata mahkum edildi.",
+        "verdict_text": "HÜKÜM: Ayrıntısı yukarıda açıklandığı üzere; 1-Mahkememizin 6100 sayılı Kanunun 114 ve 115. maddeleri gereğince GÖREVŞİZLİĞİNE, 2-6100 Sayılı kanunun 20/1.maddesi gereğince kararın kesinleştiği tarihten, kanun yoluna gidilip de başvurunun reddi kararının tebliğinden itibaren 2 hafta içinde başvurulması halinde dosyanın görevli ve yetkili ANTALYA NÖBETÇİ ASLİYE HUKUK MAHKEMESİNE GÖNDERMESİNE, 3-Dava dosyasının süresi içinde görevli mahkemeye aktarılması durumunda harç ve yargılama giderlerinin HMK'nun 331/2 maddesi uyarınca görevli mahkemeye nazara alınmasına, 4-Dosyanın gönderilmesi için süresi içinde başvuru yapılmadığı takdirde, HMK'nun 20/2-son ve 331/2 maddeleri gereğince yapılacak işlemin mahkememizce dosya ele alınarak değerlendirilmesine, Dair; Tarafların yokluğunda dosya üzerinde yapılan inceleme sonucunda gerekli kararın tebliğinden itibaren 6100 Sayılı Kanunun 345.maddesi gereğince 2 hafta içerisinde ilgili İstinaf Dairesi Başkanlığına sunulmak üzere Mahkememize verilecek dilekçe ile İstinaf yasa yolu açık olmak üzere karar verildi.07/11/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İK 89/3",
+            "İK 89/4",
+            "6100 Sayılı Kanun 114",
+            "6100 Sayılı Kanun 115",
+            "6100 Sayılı Kanun 20/1",
+            "6100 Sayılı Kanun 345",
+            "HMK'nun 331/2",
+            "HMK'nun 20/2-son"
+        ]
+    },
+    "summary_for_human": "Davacı, takip alacaklı olarak davayı açtı ve dava dışı takip borçları olmadığını iddia etti. Mahkeme, dava konusu şeyin yüzde yirmisi oranında tazminata mahkum etti.",
+    "summary_for_model": "Davacı, takip alacaklı olarak davayı açtı. Davacı şirkete haciz ihbarnamesi gönderildi ve itiraz edilmediği için takip alacaklı olarak kabul edildi. Davacı, dava dışı takip borçları ve herhangi bir borcu olmadığını iddia etti. Mahkeme, dava konusu şeyin yüzde yirmisi oranında tazminata mahkum etti."
+}

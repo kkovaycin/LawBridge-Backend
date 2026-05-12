@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2020_1746.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 14. Hukuk Dairesi",
+        "esas_no": "2020/90",
+        "karar_no": "2020/1397",
+        "case_subject": "Haksız reklam ve ticari taciz davası",
+        "dava_tarihi": "14/02/2020",
+        "karar_tarihi": "09/09/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın Instagram ve internet sitelerinde haksız reklam ve ticari taciz iddiaları ile ilgili itibar tedbir talebini savundu. İlk derece mahkemesi, davacı vekilinin taleplerini reddetmiştir. İstinaf başvurusu sonucunda ilk derece kararın gereksiz olduğu tespit edilmiştir.",
+        "reasoning_text": "İstinaf mahkemesi, davanın mevcut durumu itibarıyla haksız reklam iddialarının kanıtlanmadığını ve dava sürecinde yeni kanıtların ortaya çıkması ihtimalinin yüksek olduğunu değerlendirmiştir. Ayrıca, davacı vekilinin talebinin gereksiz olduğu ve dava sürecinin devam etmesi gerektiği kararlaştırılmıştır.",
+        "verdict_text": "Gerekçesi yukarıda açıklanan nedenlerle; 1-HMK'nın 353/1.b.1.maddesi uyarınca davacı vekilinin istinaf başvurusunun esastan reddine, 2-Davacı tarafından yatırılan istinaf başvuru harçlarının Hazineye iad kaydına, 3-Davacı tarafından istinaf kanun yoluyla başvuru için yapılan masrafların kendi üzerlerinde bırakılmasına, 4-Gerekli kararın ilk derece mahkemesine taraf vekillerine tebliğine, 5-Dosyanın kararı veren ilk derece mahkemesine gönderilmesine dair; HMK'nın 353/1.b.1. ve 394/5. maddeleri uyarınca dosya üzerinde yapılan inceleme sonucunda, oybirliğiyle ve kesin olarak karar verildi. 10/12/2020"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 61",
+            "HMK 389",
+            "HMK 355",
+            "TBK 57-58",
+            "TTK 54",
+            "HMK 390/3",
+            "HMK 353/1.b.1",
+            "HMK 394/5",
+            "HMK 362/1.f"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, haksız reklam ve ticari taciz davasında ilk derece kararın gereksiz olduğunu tespit ederek istinaf başvurusunu reddetmiştir. Davacı vekilinin taleplerinin kabul edilmediği ve dava sürecinin devam etmesi gerektiği kararlaştırılmıştır.",
+    "summary_for_model": "İstinaf mahkemesi, davanın mevcut durumu ve kanıt eksikliği nedeniyle ilk derece kararın gereksiz olduğunu tespit etmiştir. Davacı vekilinin taleplerinin reddedilmesi ve dava sürecinin devam etmesi kararlaştırılmıştır. HMK ve TTK maddeleri çerçevesinde karar verilmiştir."
+}

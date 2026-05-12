@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2022_1565.pdf",
+        "court_name": "Ankara Bölge Adliye Mahkemesi 20. Hukuk Dairesi",
+        "esas_no": "2022/1565",
+        "karar_no": "2024/1712",
+        "case_subject": "Endüstriyel Tasarım Hakkına Tecavüz",
+        "dava_tarihi": "12/05/2022",
+        "karar_tarihi": "13/11/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, 2019/00464-22 numaralı kanepe tasarımının aynısını karşı tarafa üretilerek satıldığını iddia ediyor. Davacı vekili, tasarımın sosyal medyada yayınlandığını ve ticari faizle maddi ve manevi tazminat talep ettiğini belirtiyor. Davalı vekili ise tasarımın benzersiz olmadığını ve davacının hak sahibi olmadığını savunuyor.",
+        "reasoning_text": "Mahkeme, teknik bilirkişi raporu ve görsellerin incelenmesi sonucunda tasarımın benzersiz olduğu ve davacının hak sahibi olduğu sonucuna varmıştır. Borçlar Kanunu 50/2 ve 51/1 maddeleri çerçevesinde maddi tazminat miktarı 4.000,00 TL olarak belirlendi.",
+        "verdict_text": "Davacı vekilinin istinaf başvurusunun HMK'nın 353/1-a-6 maddesi gereğince KABULÜYLE Ankara 3. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 12/05/2022 gün ve 2021/116 E. - 2022/150 K. sayılı kararının KALDIRILMASINA; Dosyanın, davanın yeniden görülmesi için mahkemesine İADESİNE; Davacı vekilinin tüm ve davalı vekilinin diğer istinaf itirazlarının bu aşamada incelenmesine yer olmadığına, Davacı tarafından istinaf başvurusunda peşin olarak yatırılan 80,70-TL maktu istinaf kararı ve ilam harcının istek halinde davacıya iadesine, Davalı tarafından istinaf başvurusunda peşin olarak yatırılan 137,00-TL nispi istinaf kararı ve ilam harcının istek halinde davalıya iadesine, İstinaf aşamasında duruşma açılmadığından taraflara vekalet ücreti takdirine yer olmadığına, İstinaf aşamasında yapılan yargılama giderlerinin ilk derece mahkemesinde yeniden yapılacak yargılama için değerlendirilmesine, Kararın tebliğ ve harç işlemlerinin yerel mahkeme tarafından yapılmasına, Dair, dosya üzerinde yapılan inceleme sonucunda oy birliği ile 25/10/2024 tarihinde HMK 353/1-a-6 maddesi uyarınca KESİN olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Borçlar Kanunu 50/2 ve 51/1 maddeleri",
+            "Hukuk Muhakemesi Kanunu 353/1-a-6 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, bir kanepe tasarımının aynısını karşı tarafa üretilerek satıldığını iddia ediyor. Mahkeme, tasarımın benzersiz olduğunu ve davacının hak sahibi olduğunu tespit etti. Maddi tazminat 4.000,00 TL olarak belirlendi.",
+    "summary_for_model": "Endüstriyel tasarım hakkına tecavüz davasında mahkeme, teknik bilirkişi raporu ve görsellerin incelenmesi sonucunda davacının hak sahibi olduğunu tespit etti. Borçlar Kanunu 50/2 ve 51/1 maddeleri çerçevesinde maddi tazminat miktarı 4.000,00 TL olarak belirlendi."
+}

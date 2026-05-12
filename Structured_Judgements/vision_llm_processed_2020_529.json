@@ -1,0 +1,32 @@
+{
+    "meta_data": {
+        "file_name": "2020_529.pdf",
+        "court_name": "İZMİR TİCARET MAHKEMESİ",
+        "esas_no": "2020/529",
+        "karar_no": "2023/312",
+        "case_subject": "Tazminat davası",
+        "dava_tarihi": "03/05/2016",
+        "karar_tarihi": "02/05/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının faaliyet alanı aynı olan başka iş yerinde çalışmaması gerektiğini iddia etti. Davacı şirketi, davalının eski iş yerinde çalışmadığı ve yeni iş yerinde de aynı faaliyet alanında çalışmadığı gibi iddiaları ile dava açtı. Davacı vekili, davalının Google eğitimi almış olduğunu ve davacı şirkete ait eğitim sertifikalarını kullanmış olduğunu iddia etti.",
+        "reasoning_text": "Mahkeme, davalının davacı şirketin zararına yol açacak şekilde rekabet yasasına aykırı faaliyetinde bulunduğunu tespit etti. Davalının davacı şirketin müşterileri için kampanya bilgilerini kullanmış ve bu bilgilerin kullanılması, davacı şirketin ekonomik geleceğini tehlikeye düşürdüğünü tespit edildi.",
+        "verdict_text": "Davanın REDDİNE, Karar tarihinde yürürlükte bulunan Harçlar Tarifesi gereğince alınması gereken 179,90 TL maktu karar ve ilam harcının başlangıçta mahkemeye yatırılan 512,33 TL peşin harctan mahsubu ile bakiye 332,43 TL harcin karar kesinleştiğinde davacıya iadesine, Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi gereğince hesaplanan 9.200,00 TL vekalet ücretinin davacıdan tahsiliyle davalya verilmesine, Davacı tarafça yapılan yargılama giderlerinin kendi üzerinde bırakılmasına, Dair, taraf vekillerinin yüzüne karşı, gerekeli kararın tebliğiğinden itibaren iki hafta içerisinde İzmir Bölge Adliye Mahkemesi nezdiinde istinaf kanun yolu açık olmak üzere karar verildi. 02/05/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TBK'nın 444. ve 445. maddeleri",
+            "TBK'nın 445/1. fikrası",
+            "TBK'nın 445/2. maddesi",
+            "TBK'nın 355. maddesi",
+            "TBK'nın Rekabet Yasası 444. maddesi",
+            "TBK'nın Rekabet Yasası 445. maddesi",
+            "TBK'nın Rekabet Yasası 7. maddesi",
+            "TBK'nın Rekabet Yasası 3. maddesi",
+            "TBK'nın Rekabet Yasası 10/b maddesi",
+            "TBK'nın Rekabet Yasası 10/g maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının eski iş yerinde çalışmadığı ve yeni iş yerinde de aynı faaliyet alanında çalışmadığı gibi iddiaları ile dava açtı. Mahkeme, davalının davacı şirketin zararına yol açacak şekilde rekabet yasasına aykırı faaliyetinde bulunduğunu tespit etti ve davayı reddetti.",
+    "summary_for_model": "Davacı vekili, davalının faaliyet alanı aynı olan başka iş yerinde çalışmaması gerektiğini iddia etti. Mahkeme, davalının davacı şirketin zararına yol açacak şekilde rekabet yasasına aykırı faaliyetinde bulunduğunu tespit etti ve davayı reddetti. Davacı vekili, davalının Google eğitimi almış olduğunu ve davacı şirkete ait eğitim sertifikalarını kullanmış olduğunu iddia etti."
+}

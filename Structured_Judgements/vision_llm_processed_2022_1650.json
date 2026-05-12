@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2022_1650.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2022/1650 Esas",
+        "karar_no": "2025/459",
+        "case_subject": "Marka (Maddi Tazminat İstemi)",
+        "dava_tarihi": "27/01/2022",
+        "karar_tarihi": "13/03/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının ticari faaliyetinin 20 yıl öncesinde başladığını, markanın Türk Patent ve Marka Kurumu'nda tescil edildiğini ve ticari faaliyetlerinin ev tekstil alanında gerçekleştirildiğini iddia etmiştir. Davacı, davalının markasını kullanmak için internet siteleri ve sosyal medya hesaplarında hak ihlal ettiğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davalının markasını kullanmak için internet siteleri ve sosyal medya hesaplarında hak ihlal ettiğini tespit etmiştir. Davacıya maddi ve manevi tazminat talep edilmiştir. Mahkeme, davalının ticari faaliyetinin markaya tecavüz ve haksız rekabet oluşturduğunu tespit etmiştir.",
+        "verdict_text": "İLK DERECE MAHKEMESİ KARARI: İlk Derece Mahkemesi'nin kararıyla; Tüm dosya kapsamı, tankk beyanları, tespit dosyasına sunulan bilirkişi raporu ve sunulu tüm deliller bir arada değerlendirildiğinde; davalının (Tescil hariç \"...\"iabaresini ön plana çıkarır şekildeki) markaya tecavüz ve haksız rekabet teşkil ettiğini, men'i, sonuçlarının ortadan kaldırılmasına karar vermek gerektiği anlaşılarak markaya tecavüz ve haksız rekabetin tespitine, men'e, sonuçlarının ortadan kaldırılmasına karar vermek gerektiği anlaşılarak tazminat taleplerinin yönünden, davalının ticari defterlerini sunmadığı, sunsa dahi emsal uyumazlıklarda net bir zarar tespiti mümkün olmadığı dikkate alındığında davacının lisans dayalı SMK 151/2-c kapsamında zararı tespit mümkün olmadığı anlaşılarak tazminat miktarlarının TBK 50. maddesi gereği belirleneceği anlaşılarak davalının kullanım durumu, sunulan deliller hak ve nesafet izahı yapılan değerlendirmeler kapsamında ayrıntıları yukarıda belirtildiği hali ile takdiren 5.000,00 TL maddi ve 5.000,00 TL manevi tazminatının yerinde olduğu kanaat getirilmekle bu miktarlar üzerinden tazminat taleplerinin kabulüne karar vermek gerekmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 151/2-c",
+            "TBK 50. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 355. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-a-6. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 362/1-g. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markasını kullanmak için internet siteleri ve sosyal medya hesaplarında hak ihlal ettiğini iddia etmiştir. Mahkeme, davalının markasını kullanmak için hak ihlal ettiğini tespit etmiştir ve davacıya maddi ve manevi tazminat talep edilmiştir.",
+    "summary_for_model": "Davacı, davalının markasını kullanmak için internet siteleri ve sosyal medya hesaplarında hak ihlal ettiğini iddia etmiştir. Mahkeme, davalının markasını kullanmak için hak ihlal ettiğini tespit etmiştir ve davacıya maddi ve manevi tazminat talep edilmiştir. Davacıya maddi ve manevi tazminat miktarları TBK 50. maddesi gereği belirleneceği anlaşılarak tazminat taleplerinin kabulüne karar verilmiştir."
+}

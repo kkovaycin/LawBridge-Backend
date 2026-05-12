@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2020_912.pdf",
+        "court_name": "T.C. BAKIRKÖY 3. ASLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2020/912 Esas",
+        "karar_no": "2022/36",
+        "case_subject": "İtirazin İptali (Hizmet Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "10/12/2020",
+        "karar_tarihi": "17/01/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde müvekkilin asılsız iftira ve şikayetlerde bulunduğunu iddia ederek müvekkilinden 4.000,00 TL manevi tazminat talep etti. Müvekkilin davanın iş akdini feshettiğini, davanın mesnetsiz iddialarla işbu akdini geçersizli/haklı nedene dayanmadığını ve müvekkilin davayı ikame ettiğini iddia etti.",
+        "reasoning_text": "Davacı vekili dava dilekçesinde müvekkilin asılsız iftira ve şikayetlerde bulunduğunu iddia ederek müvekkilinden 4.000,00 TL manevi tazminat talep etti. Mahkemenin görevsiz olduğu kabul edildi ve dava Bakırköy Nöbetçi İş Mahkemelerine gönderilmesine karar verildi.",
+        "verdict_text": "Davanın yokluğunda karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İK 67 md",
+            "6102 sayılı Türk Ticaret Kanunu",
+            "6100 sayılı Hukuk Muhakemeleri Kanunu",
+            "5235 sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, müvekkilin asılsız iftira ve şikayetlerde bulunduğunu iddia ederek 4.000,00 TL manevi tazminat talep etti. Mahkeme, davanın görevsiz olduğu kabul edilerek Bakırköy Nöbetçi İş Mahkemelerine gönderildi.",
+    "summary_for_model": "Davacı vekili, müvekkilin asılsız iftira ve şikayetlerde bulunduğunu iddia ederek 4.000,00 TL manevi tazminat talep etti. Mahkeme, davanın görevsiz olduğu kabul edilerek Bakırköy Nöbetçi İş Mahkemelerine gönderildi. İK 67 md ve 6102 sayılı Türk Ticaret Kanunu'na dayanılarak karar verildi."
+}

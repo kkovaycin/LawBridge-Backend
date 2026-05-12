@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2020_1112.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2015/247 E. - 2018/165 K.",
+        "karar_no": "2022/1600",
+        "case_subject": "Marka (Tecavüzün Tesbiti İstemi)|Marka (Tecavüzün Giderilmesi İstemi)",
+        "dava_tarihi": "12/06/2018",
+        "karar_tarihi": "22/11/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davalılar, davacı vekili tarafından 2010 yılında tescili edilen markanın 2015 yılında ihal edildiğini iddia etmiştir. Davacı, markanın ihalinin devam ettiğini ve davalların ihaleye devam ettiklerini iddia ederken, davalların e-posta ve ihtarname ile uyarıldıklarını belirtmiştir. Davacı, markanın ihalinin devam ettiğini iddia ederken, davalların ihaleye devam ettiklerini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacı vekili tarafından yapılan istinaf talebini kabul etmiştir. Mahkeme, davacı vekili tarafından yapılan istinaf talebini kabul etmiştir. Mahkeme, davacı vekili tarafından yapılan istinaf talebini kabul etmiştir. Mahkeme, davacı vekili tarafından yapılan istinaf talebini kabul etmiştir.",
+        "verdict_text": "GEREĞİ DÜŞÜNÜLDÜ: Davaların kabulüne, davalların TPE nezinde davacı adına tescilli ... ibareli marka hakkına tecavüzünün tesbiti ve durdurulmasına, davalların Türkiye sınırları içerisinde tecavüz oluşturan ... adı altındaki her türlü reklam ve tanıtım faaliyetlerinin durdurulmasına, ... ibaresini, tanıtım sayfalarında içerikte adres bağlantılarında kullanımlarının durdurulmasına, mümkün olmadığı takdirde, davalların mobil ... uygulaması @... isimli twitter hesabını ve www...tv isimli internet sitesine Türkiyeden erişimin engellenmesine karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "492 Sayılı Harçlar Kanunu",
+            "7035 Sayılı Kanun",
+            "556 Sayılı Kanun",
+            "5651 Sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, davacı vekili tarafından yapılan istinaf talebini kabul ederek davaların durdurulmasına karar vermiştir. Davalların markaya tecavüz faaliyetlerinin durdurulmasına ve ihalinin devam etmesine karar verilmiştir.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, davacı vekili tarafından yapılan istinaf talebini kabul ederek davaların durdurulmasına karar vermiştir. Davalların markaya tecavüz faaliyetlerinin durdurulmasına ve ihalinin devam etmesine karar verilmiştir. Davaların kabulüne, davalların TPE nezinde davacı adına tescilli marka hakkına tecavüzünün tesbiti ve durdurulmasına, davalların Türkiye sınırları içerisinde tecavüz oluşturan reklam ve tanıtım faaliyetlerinin durdurulmasına, davalların mobil uygulaması ve internet sitesine Türkiyeden erişimin engellenmesine karar verilmiştir."
+}

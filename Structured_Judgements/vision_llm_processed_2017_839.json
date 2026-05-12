@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2017_839.pdf",
+        "court_name": "BÖLGE ADLIYE MAHKEMESİ 15.HUKUK DAİRESİ",
+        "esas_no": "2015/995",
+        "karar_no": "2017/160",
+        "case_subject": "Tazminat",
+        "dava_tarihi": "01/03/2017",
+        "karar_tarihi": "15/05/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, taraflar arasındaki sözleşme gereğine iş bedelinin 420.000,00 TL olduğunu, mürekkilininin toplamda 452.590,70 TL ödeme yaptığını, davalın makinesinin genel kurulunu yapmakla birlikte işler vaziyette getirilecek tesis ve ekipmanların kurulmaması nedeniyle atıl vaziyette bulunduğunu, bu nedenle sistemin çalışmadığını, davalın mürekkilinin bir yıldır oyaladığını, ihtar rağmen iş bedelinin ödenmediğini, davalın tarafından yaptırılan tespite tesisin çalışır vaziyette teslim edilmediğini, 4 yıl aşın sürede kompresör sayacının 25 saatlik çalışma gösterdiğini, tesisin davalıya iadesi gerektiği üzerine, ödenen iş bedelinden şimdilik 10.000,00 TL'nin davalıdan tahsiline karar verilmesini talep ve dava etmiştir.",
+        "reasoning_text": "Mahkemecesi, dava dilekçesinde ve ihtarnamede belirtilen şekilde kurulumun yapıldığı mart 2010 tarihinden itibaren hiçbir şekilde çalışmayan makine için süre boyunca ayıp ihbarının yapılmadığını, makinenin teslim tarihi itibarıyla yürürlükte bulunan 818 sayılı BK kanunu itibarıyla Kural olarak BK'nın 359. maddesi uyarınca imal olan şeyin tesliminden sonra iş sahibinin makul bir sürede derhal ayıpları yükleniciye bildirmeye mecbur olduğu, aksi halde eseri olduğu gibi kabul etmis sayılacakı, ayıp ihbarının şekil koşuluna bağlıolmayıp her türlü delil ile ispatlanabileceği, davacı tarafından yasal süre içerisinde ayıp ihbarının yapılmadığı gereğiyle davanın reddine karar verilmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi açıklandığı üzerine;\n1-Davacı vekilin istinaf başvurusunun esasa ilişkin sebepler incelenmeksizin usul yönünden KABULÖNE,\n2-Bakırköy 6. Aslüye Ticaret Mahkemesi'nin 01/03/2017 tarih ve 2015/995 esas, 2017/160 karar sayılı kararının KALDIRILMASIİNA,\n3-Dosyanın Dairemiz kararına uygun şekilde inceleme yapılarak yeniden bir karar verilmek üzere yerel mahkemesine GÖNDERILMESINE,\n4-Davacı tarafından yatırılan istinaf karar harcının isteği halinde kendisine iadesine,\n5-Davacı tarafça yapılan istinaf yargılaması giderinin ilk derece mahkemesince yeniden verilecek kararda dikkate alınmasına,\n6-Istinaf yargılaması sırasında duruşma açılmadığından davacı yararına vekâlet ücreti takdirine yer olmadığına,\nDair, dosya üzerinden yapılan inceleme sonucunda, 6100 sayılı HMK'nın 353/1-a-6 maddesi gereğiçe KESİN olmak üzere 15/05/2018 tarihinde oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "818 sayılı BK kanunu",
+            "BK 359. maddesi",
+            "BK 106/1, TBK 123 md",
+            "BK 113 (TBK 131) madde",
+            "Borçlar Kanunu'nun 360. maddesi",
+            "6100 sayılı HMK'nın 353/1-a-6 maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin istinaf başvurusunu usul yönünden kabul etmiştir. Yerel mahkemenin kararı kaldırılmış ve dava yeniden yerel mahkemeye gönderilmiştir. Davacı tarafından yatırılan istinaf karar harcının iadesi talep edilmiştir. Mahkeme, davacı tarafından yasal süre içerisinde ayıp ihbarının yapılmadığı gerekçesiyle davanın reddine karar vermiştir.",
+    "summary_for_model": "Davacı vekili, taraflar arasındaki sözleşme gereğine iş bedelinin 420.000,00 TL olduğunu, mürekkilininin toplamda 452.590,70 TL ödeme yaptığını, davalın makinesinin genel kurulunu yapmakla birlikte işler vaziyette getirilecek tesis ve ekipmanların kurulmaması nedeniyle atıl vaziyette bulunduğunu, bu nedenle sistemin çalışmadığını, davalın mürekkilinin bir yıldır oyaladığını, ihtar rağmen iş bedelinin ödenmediğini, davalın tarafından yaptırılan tespite tesisin çalışır vaziyette teslim edilmediğini, 4 yıl aşın sürede kompresör sayacının 25 saatlik çalışma gösterdiğini, tesisin davalıya iadesi gerektiği üzerine, ödenen iş bedelinden şimdilik 10.000,00 TL'nin davalıdan tahsiline karar verilmesini talep ve dava etmiştir. Mahkemecesi, dava dilekçesinde ve ihtarnamede belirtilen şekilde kurulumun yapıldığı mart 2010 tarihinden itibaren hiçbir şekilde çalışmayan makine için süre boyunca ayıp ihbarının yapılmadığını, makinenin teslim tarihi itibarıyla yürürlükte bulunan 818 sayılı BK kanunu itibarıyla Kural olarak BK'nın 359. maddesi uyarınca imal olan şeyin tesliminden sonra iş sahibinin makul bir sürede derhal ayıpları yükleniciye bildirmeye mecbur olduğu, aksi halde eseri olduğu gibi kabul etmis sayılacakı, ayıp ihbarının şekil koşuluna bağlıolmayıp her türlü delil ile ispatlanabileceği, davacı tarafından yasal süre içerisinde ayıp ihbarının yapılmadığı gereğiyle davanın reddine karar verilmiştir."
+}

@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2021_74.pdf",
+        "court_name": "T.C. İSTANBUL 4.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/74",
+        "karar_no": "2021/6",
+        "case_subject": "Tasarım Hakkına Tecavüzün Tesbiti, Önlenmesi, Durdurulması, Maddi ve Manevi Tazminat",
+        "dava_tarihi": "05/10/2018",
+        "karar_tarihi": "16/11/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davacının 50 yılı aşkın süredir faal bir şirket olduğu, ürünlerinin TPMK tarafından tescilli olduğu ve Instagram üzerinden satıldığı iddia edildi. Davacı, davalının ticari defter ve kayıtlarında ürün gruplarına göre alt hesapların kullanılmadığını, ayırt edici bir kod veya ifade kullanılmadığını ve satış hasilatının tespit edilemediğini iddia etti.",
+        "reasoning_text": "Mahkeme, davalının ticari defter ve kayıtlarında ürün gruplarına göre alt hesapların kullanılmadığını ve ayırt edici bir kod veya ifade kullanılmadığını tespit etti. Davalının maddi tazminat talebinin TBK 50 ve 51. Maddeleri uyarınca değerlendirildi. Manevi tazminat talebi, davalının davacı tasarımına tecavüz ettiği tespitiyle kabul edildi.",
+        "verdict_text": "1-Davanın kısmen kabulü ile, davalının davacıya ait tasarım tescili ile yer alan ürünlere tecavüz ettiği tespiti ile, bu tecavüzün önlenmesi, durdurulması ve sonuçlarının ortadan kaldırılmasına, bu bağlamda davalının ticari avans faizi ile birlikte davacıya verilen maddi tazminat ve manevi tazminat karar verildi. 2-Madde tazminat ve vekalet ücretleri davalından alındı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 266",
+            "SMK 6769",
+            "TBK 50 ve 51",
+            "Türk Medeni Kanunu 4. madde",
+            "HMK 345/1 md."
+        ]
+    },
+    "summary_for_human": "Mahkeme, davalının davacıya ait tasarım tescili ile yer alan ürünlere tecavüz ettiğini tespit etti. Maddi ve manevi tazminat talepleri kabul edildi. Davalının ticari defter ve kayıtlarında ürün gruplarına göre alt hesapların kullanılmadığı ve ayırt edici bir kod veya ifade kullanılmadığı tespit edildi.",
+    "summary_for_model": "Dava, tasarım haklarına tecavüz iddiası üzerine açıldı. Mahkeme, davalının ticari defter ve kayıtlarında ürün gruplarına göre alt hesapların kullanılmadığını ve ayırt edici bir kod veya ifade kullanılmadığını tespit etti. Maddi ve manevi tazminat talepleri TBK 50 ve 51. Maddeleri uyarınca değerlendirildi. Manevi tazminat talebi kabul edildi."
+}

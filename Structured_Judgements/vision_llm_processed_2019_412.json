@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2019_412.pdf",
+        "court_name": "T.C. İSTANBUL 2.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2019/412",
+        "karar_no": "2021/79",
+        "case_subject": "Endüstriyel Tasarım Tecavüzünün Tesbiti, Önlenmesi, Durdurulması, Maddi ve Manevi Tazminat",
+        "dava_tarihi": "30/12/2019",
+        "karar_tarihi": "18/02/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı şirketin müvekkili tarafından üretilen ve Türkiye'de ilk kez kamuya sunulan kadın tunik (elbise) tasarımlarının, davalı ... Ltd. Şti tarafından haksız olarak üretildiklerini iddia etmiştir. Davalı, bu iddiaları reddetmiştir.",
+        "reasoning_text": "Mahkeme, davacı tarafından sunulan kanıtların yetersiz olduğunu ve davalı tarafından sunulan savunmaların haklı olduğunu değerlendirmiştir. Tasarım haklarının ihlali ve haklı rekabet ihlali iddiaları reddedilmiştir.",
+        "verdict_text": "Davacının açmış olduğu tasarım tecavüzünün tesbiti, durdurulması, önlenmesi, ortadan kaldırılması, maddi ve manevi tazminat davalarının REDDİNE, Karar tarihinde yürürlükte bulunan Harçlar Tarifesi uyarınca peşin yatırılan 358,63 TL'den karar harcı olan 59,30 TL'nin düşülmesine, kalan 299,33 TL'nin karar kesinleştikten sonra talep halinde davacıya iadesine, Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca ret edilen tecavüz talebine ilişkin 5.900,00 TL vekalet ücretinin davacıdan alınarak kendisini vekille temsil ettiren davalıya verilmesine, Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca ret edilen maddi tazminat talebi üzerinden hesaplanan 1.000,00 TL vekalet ücretinin davacıdan alınarak kendisini vekille temsil ettiren davalıya verilmesine, Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca ret edilen manevi tazminat talebine ilişkin 5.900,00 TL vekalet ücretinin davacıdan alınarak kendisini vekille temsil ettiren davalıya verilmesine, Davacı tarafından yapılan yargılama giderlerinin kendi üzerinde bırakılmasına, Davalı tarafından yapılan herhangi bir yargılama gideri bulunmadığından bu konuda hüküm kurulmasına yer olmadığına, Yatırılan gider avanslarından kullanılmayan kısmının talep halinde ve karar kesinleştikte yatıran tarafa iadesine, Dair taraf vekillerinin yüzüne karşı, (HMK 345/1 md. gereğince) gerekli kararın tebliğinden itibaren 2 hafta içerisinde Mahkememize veya başka bir yer mahkemesine dilekçe ile başvurmak ve istinaf harci ile gerekli giderlerin tamamı ödünmek suretiyle, İstanbul Bölge Adliye Mahkemesine istinaf yolu açık olmak üzere verilen karara, açıkça okunup usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı SMK",
+            "5846 sayılı FSEK",
+            "6769 sayılı SMK maddeleri: 55-56-57-58-59-81-149-150-151",
+            "5070 sayılı elektronik imza kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı tarafından iddia edilen tasarım ihlali ve haklı rekabet ihlali iddialarını reddetmiştir. Davacı tarafından sunulan kanıtların yetersiz olduğu ve davalı tarafından sunulan savunmaların haklı olduğu değerlendirilmiştir.",
+    "summary_for_model": "Mahkeme, tasarım ihlali ve haklı rekabet ihlali iddialarını reddetmiştir. Davacı tarafından sunulan kanıtların yetersiz olduğu ve davalı tarafından sunulan savunmaların haklı olduğu değerlendirilmiştir. 6769 sayılı SMK ve diğer ilgili kanun maddeleri dikkate alınmıştır."
+}

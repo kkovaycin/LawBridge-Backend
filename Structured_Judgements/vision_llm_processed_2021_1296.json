@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2021_1296.pdf",
+        "court_name": "T.C. İSTANBUL BÖLGE ADLİYE MAHKEMESİ 44. HUKUK DAİRESİ",
+        "esas_no": "2021/1296",
+        "karar_no": "2024/1054",
+        "case_subject": "Fikir Ve Sanat Sanat Eseri Sahipliğinden Kaynaklanan Haklara Tecavüzün Ref'i, Önlenmesi Ve Tazmini",
+        "dava_tarihi": "16/06/2021",
+        "karar_tarihi": "30/05/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının web sitesi ve Instagram sayfasında hak sahiplerine ait görselleri izinsiz kullanarak hak ihlali ve haksız kazanç elde ettiğini iddia etmiştir. Davalı, bu görselleri toplancı firmalardan temin ettiğini ve kendine ait bir izlenim oluşturmadığını savunmuştur.",
+        "reasoning_text": "Mahkeme, davalının hak ihlali ve haksız kazanç iddialarını reddetmiştir. Davalının görselleri izinsiz kullanmadığını ve hak sahiplerine ait olmadığını tespit etmiştir. Ayrıca, davalının toplancı firmalardan temin ettiği görsellerin kendine ait olduğunu iddia etmesi de kabul edilmemiştir.",
+        "verdict_text": "DAVALLAR VEKİLİNİN İSTİNAF İSTEMİNİN KABULÜ İLE; BAKIRKÖY 2. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ'NİN 16/06/2021 TARİH, 2021/120 E. 2021/108 K. SAYILI KARARININ 6100 SAYILI HMK'NİN 353/1-a-6. MADDESİ GERECENCE KALDIRILMASINA, DOSYANIN İNCELENMESİNE, İSTİNAF YASA YOLUNA BAŞVURAN DAVALI TARAFINDAN İSTİNAF KARARI VE İLAM HARÇININ TALEBİ HALİNDE KENDİSİNE İADESİNE, DOSYA ÜZERİNDE İNCELEME YAPILMASI SEBEBİYLE VEKALET ÜCRETİNE YER OLMADIĞINA, İSTİNAF YASA YOLUNA BAŞVURAN TARAFINDAN İSTİNAF AŞAMASINDA YAPILAN GİDERLERİN İLK DERECE MAHKEMESİNCE VERİLECEK NİHAİ KARARDA DİKKATE ALINMASINA, 6100 SAYILI HMK'NİN 353/1-a-6. VE 362/1-g. MADDELERİ GERECENCE DOSYA ÜZERİNDE YAPILAN İNCELEME SONUCUNDA VE KESİN OLMAK ÜZERİNE, O BİRLİĞİYLE KARAR VERİLDİ."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK) 114/1-d, 115 maddeleri",
+            "Hukuk Muhakemeleri Kanunu (HMK) 355. maddesi",
+            "Hukuk Muhakemeleri Kanunu (HMK) 353/1-a-6. maddesi",
+            "Hukuk Muhakemeleri Kanunu (HMK) 362/1-g. maddesi",
+            "Fikri ve Sanat Eserleri Kanunu (FSEK) 84. maddesi",
+            "Ticaret Kanunu (TTK) 54. vd. maddeleri",
+            "Ticaret Kanunu (TTK) 55/1-c-3 bendi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının web sitesi ve Instagram sayfasında hak sahiplerine ait görselleri izinsiz kullanarak hak ihlali ve haksız kazanç elde ettiğini iddia etmiştir. Mahkeme, bu iddiaları reddetmiştir. Davalının görselleri izinsiz kullanmadığını ve hak sahiplerine ait olmadığını tespit etmiştir.",
+    "summary_for_model": "Dava, davalının web sitesi ve Instagram sayfasında hak sahiplerine ait görselleri izinsiz kullanarak hak ihlali ve haksız kazanç elde ettiği iddiasına karşı açılmıştır. Mahkeme, davalının görselleri izinsiz kullanmadığını ve hak sahiplerine ait olmadığını tespit ederek iddiaları reddetmiştir. Davalının toplancı firmalardan temin ettiği görsellerin kendine ait olduğunu iddia etmesi de kabul edilmemiştir."
+}

@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2020_239.pdf",
+        "court_name": "T.C. İSTANBUL 19. AŞLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2020/239",
+        "karar_no": "2021/489",
+        "case_subject": "Dijital reklam hizmetleri ve vergi kesintisi",
+        "dava_tarihi": "17/06/2020",
+        "karar_tarihi": "17/06/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekili aracılığıyla dijital reklam hizmetleri için dava açtı. Müvekkili şirket, davacı şirkete reklam hizmeti sunmuştu. Davacı, müvekkili şirketin vergi kesintisi yapmadığını iddia etti. Mahkeme, davacı şirketin sorumlu olduğunu tespit etti.",
+        "reasoning_text": "Mahkeme, davacı şirketin vergi kesintisi yapmadığını ve sorumlu olduğunu tespit etti. Davacı şirketin reklam hizmetleri için ödemelerinin vergi kesintisi yapılması gerektiğini belirledi. Davacı şirketin ödemelerinin vergi kesintisi yapılmasına karar verildi.",
+        "verdict_text": "1-Davacının davasının REDDİNE,\n2-Karar tarihinde yürürlükte bulunan Harçlar Kanunu gereğince alınması gereken 59,30 TL karar ve ilam harcının peşin yatırılan 4.477,99 TL'nin mahsubu fazla yatırılan 4.418,69 TL harcin, karar kesinleştiğinde davacıya iadesine,\n3-Davalı taraf vekil ile temsil olunduğundan, Avukatlık Asgari Ücret Tarifi gereğince tayin olunan 34.403,90 TL vekalet ücretinin davacıdan alınarak davalya verilmesine,\n4-Zorunlu arabulculuk başvurusu nedeniyle devletçe karşılanan 1.320,00 TL. arabulculuk ücretinin davalından tahsili ile hazneye gelir kaydına,\n5-Davacı tarafından yapılan yargılama giderlerinin davacı üzerinde bırakılmasına.\n6-Davalı tarafından yapılan 7,80 TL vekalet harci giderinin davacıdan alınarak davalya ödenmesine,\n7-Taraf vekillerince yatırılan gider avansından kullanılmayan kısmın, avansı yatıran tarafa karar kesinleştiğinde ve talep halinde iadesine,\nDair, taraf vekillerinin yüzlerine karşı, kararın tebliginden itibaren 2 haftalık süre içerisinde istinaf yolu (İstanbul Bölge Adliye Mahkemesine başvuru yolu) açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 17/06/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Vergi Usul Kanunu",
+            "Gelir Vergisi ve Kurumlar Vergisi Kanunu",
+            "Harçlar Kanunu",
+            "Kurumlar Vergisi Genel Tebliği",
+            "KVM Md 15",
+            "GVK Md 94"
+        ]
+    },
+    "summary_for_human": "Davacı, dijital reklam hizmetleri için ödemelerinin vergi kesintisi yapılmadığını iddia etti. Mahkeme, davacı şirketin sorumlu olduğunu tespit etti ve vergi kesintisi yapılmasına karar verdi.",
+    "summary_for_model": "Davacı, dijital reklam hizmetleri için ödemelerinin vergi kesintisi yapılmadığını iddia etti. Mahkeme, davacı şirketin sorumlu olduğunu tespit etti ve vergi kesintisi yapılmasına karar verdi. Davacı şirketin ödemelerinin vergi kesintisi yapılması gerektiği tespit edildi."
+}

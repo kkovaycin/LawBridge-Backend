@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_1228.pdf",
+        "court_name": "İstanbul Anadolu 2. Fikri Ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2019/56 E. 2021/110 K.",
+        "karar_no": "2021/1406",
+        "case_subject": "Faydali Model Belgesi'nin Hukumsuzlugu",
+        "dava_tarihi": "17/06/2021",
+        "karar_tarihi": "18/11/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; Davalı şirketin müvekkili adına tescilli olan nolu faydalı model belgesinin hukümsüzlüğü için açılmış olduğu davanın haksız ve mesnetsiz olduğunu, davacı şirketin yetkililerinden olan ...'in müvekkilli şirketteki çalışmaları sırasında edinmiş olduğu bilgiler ile davacı şirket bünyesinde çalıştığını, tüm bu sürecin hukuka ve dürüstlük kurallarına aykırı olduğunu iddia etti.",
+        "reasoning_text": "İlk Derece Mahkemesine; 'Toplanan delillere göre davanın kabulüne,' karar verilmiştir. Davalı vekili istinaf dilekçesinde özetle; Cevap dilekçesinde yapmış olduğu açıklamalarla benzer açıklamalar bulundurarak Mahkemeye verilen kararın kaldırılmasına karar verilmesini talep etti.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1- Davalı vekilinin istinaf isteminin, davacının davasını geri alması sebebiyle İNCELENMESİNE YER OLMADIĞINA 2- Davacı vekili karar kesinleşmeden davadan feragat ettiğini bildirdiğinden İstanbul Anadolu 2. Fikri Ve Sınai Haklar Hukuk Mahkemesi'nin 17/06/2021 tarih ve 2019-56 Esas-2021/110 K Sayılı kararının, 6100 Sayılı HMK'nın 353/1-b/2. maddesi gereğince KALDIRILMASINA, 3- Davanın 6100 Sayılı HMK'nın 307. maddesi gereğince feragat sebebiyle REDDİNE 4- İlk derece mahkemesinde yapılan yargılama giderleri ve harca ilişkin; 4a- 492 Sayılı Harçlar Kanunu gereğince 59,30 TL maktu karar harcının peşin alınan 44,40 TL'den mahsubu ile bakiye 14,90 TL harcin davacından tahsilile Hazineye GELİR KAYDININA, 4-b- Davacı tarafından ilk derece mahkemesinde yapılan giderlerin ÜZERİNDE BİRAKILMASININA, 4/c- Davalı taraf yargılama gideri talep etmediğinden yapmış olduğu yargılama giderinin ÜZERİNDE BİRAKILMASININA, 4/d- Talep olmadığından davalı lehine vekalet ücreti takdirine yer olmadığına, 5- İstinaf aşamasında yapılan yargılama giderleri ve harca ilişkin; 5/a- İstinaf talebi davacının davasını geri alması sebebiyle incelenmediğinden davalı tarafça yatırılan istinaf karar ve ilam harci ile istinaf yoluna başvurma harcının karar kesinleştiğinde ve talep halinde İADESİNE, 5/b- İstinaf yargılaması için davalı tarafından yapılan masraf olmadığından karar verilmesine YER OLMADIĞINA, 5/c- İstinaf incelemesi duruşmasız yapıldığından vekalet ücreti tayinine YER OLMADIĞINA, 6- 6100 Sayılı HMK'nın 333. maddesi gereğince var ise bakiye gider avansının karar kesinleştiğinde taraflara İADESİNE, Dosya üzerinde yapılan inceleme sonucunda, 20/07/2017 tarih ve 7035 Sayılı Kanunun 31. maddesiyle değişik 6100 Sayılı HMK'nın 361/1. maddesi gereğince, kararın tebliğiyle itibaren 2 hafta içerisinde Yargıtay'a temyiz başvurusunda bulunma yolu açık olmak üzere, oy birliğiyle karar verildi. 18/11/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "492 Sayılı Harçlar Kanunu",
+            "7035 Sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin müvekkilli adına tescilli olan faydalı model belgesinin hukümsüz olduğunu iddia etti. İlk derece mahkemesi davayı kabul etti ancak davalı vekili istinaf talebinde bulundu. Mahkeme, davacı vekilinin istinaf isteminin davacının davasını geri alması sebebiyle incelenmediğini ve davacı vekilinin davadan feragat ettiğini bildirdiği için kararın kaldırılmasına, davanın feragat sebebiyle reddine ve diğer harç ve giderlerin belirlenmesine karar verdi.",
+    "summary_for_model": "Davacı vekili, davalı şirketin müvekkilli adına tescilli olan faydalı model belgesinin hukümsüz olduğunu iddia etti. İlk derece mahkemesi davayı kabul etti. Davalı vekili istinaf talebinde bulundu. Mahkeme, davacı vekilinin istinaf isteminin davacının davasını geri alması sebebiyle incelenmediğini ve davacı vekilinin davadan feragat ettiğini bildirdiği için kararın kaldırılmasına, davanın feragat sebebiyle reddine ve diğer harç ve giderlerin belirlenmesine karar verdi."
+}

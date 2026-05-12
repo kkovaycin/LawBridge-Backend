@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2020_753.pdf",
+        "court_name": "İzmir Aslıye Ticaret Mahkemesi",
+        "esas_no": "2020/753",
+        "karar_no": "2022/162",
+        "case_subject": "Davacı şirketin dijital pazarlama ve web tabanlı yazılım geliştirme projeleri için çalışan davalının hak ihlalleri ve ceza talebi",
+        "dava_tarihi": "16/12/2020",
+        "karar_tarihi": "24/02/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davalı, davacı şirkette 2018'den beri çalıştı ve çeşitli pozisyonlarda görev aldı. Davacı şirketin müşteri verilerine erişim hakkı vardı ancak davalının bu verileri kullanması yasaklandı. Davalı, davacı şirketten ayrıldıktan sonra yeni bir şirkette çalışmaya başladı ve davacı şirketin müşterilerine erişim hakkı olmadığını iddia etti.",
+        "reasoning_text": "Mahkeme, davacı şirketin davalının iş sözleşmesi ihlali ve ceza talebini reddetti. Davalı, davacı şirketin müşterilerine erişim hakkı olmadığını iddia etti ancak bu iddianın kanıtlanmadığını tespit etti. Mahkeme ayrıca, davacı şirketin davalının iş sözleşmesi ihlali iddiasının kanunlara uygun olmadığını ve davalının hak ihlalleri iddiasının kanıtlanmadığını belirledi.",
+        "verdict_text": "Davacı taraf vekili duruşmada tekrar ettiği dava dilekçesi ile özet; davacı şirketin dijital pazarlama çözümleri ve web tabanlı yazılım geliştirme projeleri alanında faaliyet bulduğunu, müşterilerin ticari faaliyetlerinin sosyal medyada etkinliğinin artması için algoritmalar geliştirmiş olduğunu, yönetim/raporlama/optimizasyon veri analizi ve hata ayıklama gibi çok sayıda işlemin bu yazılımlar tarafından gerçekleştirilebildiğini, davalının davacı şirkette 07.05.2018 tarihinde öncelikle LCE:Satış Uzmanı olarak çalışmaya başladığını, 28.06.2018 tarihinde LCE:Satış Temsilcisi görevine terfi ettiğini, 21.09.2018 tarihinde ise CR:Portfö Yöneticisi pozisyonuna yükseldiğini, kendisine davacı tarafından verilen kullanıcı adı ve şifre ile davacının veritabanına çevrimci olarak erişebildiğini, bu veritabanında tüm stratejik ve informatif dokümanlara, maliyetlere, fiyatlandırmalara, tekliflere ve şirket sıralarının bulunduğunu, sipariş verme potansiyeli, kredi limitleri, fiyat yönetimi, bugün kadar ki en yüksek ve en düşük sipariş miktarları ile bitçeleme alışkanlıkları, harcamaların, hangi konularda reklam verdikleri, müvekkili ile olan çalışma süresi, yaptığı ödemelerin dokümanları, müşteri memnuniyeti/memnuniyetsizliği gibi her türlü ticari ve stratejik verilerin bulunduğunu, davalının davacı şirkette 13.11.2018 tarihinde iş akdını istifa ederek bitirdiğini, davalının davacı şirketten ayrıldıktan sonra eşine ait ... Design-... isimli şirkette, sonrasında da ... Reklam Tasarım ve Yazılım Anonim Şirketinde ve ... Reklam Tasarım ve Yazılım Limited Şirketinde çalıştığını, bu iki şirketin aynı adresi paylaşığını, tüm şirketlerin ana sözleşmelerindeki faaliyet konusu tanımlarının davacı şirket ile aynı olduğunu bu durumun davalının kabul ettiği davacı ile imzaladığı sözleşmeye aykırı olduğunu, fazlaya ilişkin her türlü hakları saklı kalmak kaydıyla kanunun amir hükümleri ve Yargıtay'ın yerleşik hal almış içtihatları doğrultusunda ve yargılama sırasında saptanacak sebepler dahilinde; haklı davaların kabulüne, davalının hizmet sözleşmesine dayalı rekabet yasağı ihlali sebebiyle sindirlik 15.000,-TL tutarında cezai şart dava tarihinden itibaren yasal faizle birlikte davalından tahsiline, yargılama gideri ve vekâlet ücretinin karşı tarafa yükletilmesine karar verilmesini talep ve dava etmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Ticaret Kanunu",
+            "Türk Borçlar Kanunu",
+            "İş Mahkemeleri Kanunu",
+            "Fikri ve Sanat Eserleri Kanunu",
+            "İş Mahkemeleri Kanunu 5.maddesi",
+            "İş Mahkemeleri Kanunu 331/2.maddesi",
+            "Hukuk Muhakemeleri Kanunu 115/2.maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı şirketin davalının iş sözleşmesi ihlali ve ceza talebini reddetti. Davalı, davacı şirketin müşterilerine erişim hakkı olmadığını iddia etti ancak bu iddianın kanıtlanmadığını tespit etti. Mahkeme ayrıca, davacı şirketin davalının iş sözleşmesi ihlali iddiasının kanunlara uygun olmadığını ve davalının hak ihlalleri iddiasının kanıtlanmadığını belirledi.",
+    "summary_for_model": "Mahkeme, davacı şirketin davalının iş sözleşmesi ihlali ve ceza talebini reddetti. Davalı, davacı şirketin müşterilerine erişim hakkı olmadığını iddia etti ancak bu iddianın kanıtlanmadığını tespit etti. Mahkeme ayrıca, davacı şirketin davalının iş sözleşmesi ihlali iddiasının kanunlara uygun olmadığını ve davalının hak ihlalleri iddiasının kanıtlanmadığını belirledi. Mahkeme, davacı şirketin davalının iş sözleşmesi ihlali iddiasının kanunlara uygun olmadığını ve davalının hak ihlalleri iddiasının kanıtlanmadığını tespit etti."
+}

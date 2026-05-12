@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2024_1511.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2024/73",
+        "karar_no": "2024/476",
+        "case_subject": "Menfi Tespit (Eser Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "08/07/2024",
+        "karar_tarihi": "05/11/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın reddine dair verilen karara karşı istinaf talebinde bulundu. Taraflar arasında davacı iş sahibine ait tekne içerisindeki elektrik ve diğer tesisatların davalı yana yapılması konulu anlaşma yapıldı. Davacı, davalıya 300.000,00 TL ödedi. Davalı, işin tamamlanması için anlaşma yaptı ancak işin tamamlanmaması nedeniyle davacıya zarar verdi. Davalı, iş bedelinin ödenmesini talep etti. Davacı, davalıya ait fatura üzerinde itiraz etti. Davalı, fatura bedelinin ödenmediğini iddia etti. Davacı vekili, davanın eksiksiz incelenmediğini ve istinaf talebini kabul etmediğini iddia etti.",
+        "reasoning_text": "Mahkeme, davanın reddine dair verilen karara karşı istinaf talebini kabul etmedi. Davacı vekili, davanın eksiksiz incelenmediğini ve istinaf talebini kabul etmediğini iddia etti. Davacı, davalıya ait fatura üzerinde itiraz etti. Davalı, fatura bedelinin ödenmediğini iddia etti. Mahkeme, davanın eksiksiz incelenmediğini ve istinaf talebini kabul etmediğini iddia etti. Davacı vekili, davanın eksiksiz incelenmediğini ve istinaf talebini kabul etmediğini iddia etti.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin istinaf başvurusu KABULÜNE, 2-İstanbul 18. Aslıye Ticaret Mahkemesi'nin 08/07/2024 tarih, 2024/73 Esas, 2024/476 Karar sayılı kararının KALDIRILMASINA, 3-Dosyanın Dairemiz kararına uygun şekilde incelenerek yeniden bir karar verilmek üzere yerel mahkemesine GÖNDERİLMESİNE, 4-Davacı tarafından yatırılan istinaf karar harcının istek halinde kendisine İADESİNE, 5-Davacı tarafa yapılan istinaf yargılama giderinin ilk derece mahkemesince yeniden verilecek kararda DİKKATE ALINMASINA, 6-İstinaf yargılama sırasında duruşma açılmadığından vekâlet ücreti takdirine YER OLMADIĞINA, Dair, dosya üzerinde yapılan inceleme sonucunda, 6100 sayılı HMK'nın 353/1-a-6 maddesi gereğince KESİN olmak üzere 05/11/2024 tarihinde oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hüküm Kanunu",
+            "353/1-a-6 maddesi",
+            "Türk Borçlar Kanunu",
+            "6098 sayılı Türk Borçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin istinaf talebini kabul etmedi. Taraflar arasında davacı iş sahibine ait tekne içerisindeki elektrik ve diğer tesisatların davalı yana yapılması konulu anlaşma yapıldı. Davacı, davalıya 300.000,00 TL ödedi. Davalı, işin tamamlanması için anlaşma yaptı ancak işin tamamlanmaması nedeniyle davacıya zarar verdi. Davacı, davalıya ait fatura üzerinde itiraz etti. Davalı, fatura bedelinin ödenmediğini iddia etti. Mahkeme, davanın eksiksiz incelenmediğini ve istinaf talebini kabul etmediğini iddia etti.",
+    "summary_for_model": "Davacı vekili, davanın reddine dair verilen karara karşı istinaf talebinde bulundu. Taraflar arasında davacı iş sahibine ait tekne içerisindeki elektrik ve diğer tesisatların davalı yana yapılması konulu anlaşma yapıldı. Davacı, davalıya 300.000,00 TL ödedi. Davalı, işin tamamlanması için anlaşma yaptı ancak işin tamamlanmaması nedeniyle davacıya zarar verdi. Davacı, davalıya ait fatura üzerinde itiraz etti. Davalı, fatura bedelinin ödenmediğini iddia etti. Mahkeme, davanın eksiksiz incelenmediğini ve istinaf talebini kabul etmediğini iddia etti. Davacı vekili, davanın eksiksiz incelenmediğini ve istinaf talebini kabul etmediğini iddia etti. Davacı, davalıya ait fatura üzerinde itiraz etti. Davalı, fatura bedelinin ödenmediğini iddia etti. Mahkeme, davanın eksiksiz incelenmediğini ve istinaf talebini kabul etmediğini iddia etti."
+}

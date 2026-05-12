@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2025_740.pdf",
+        "court_name": "2. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2025/740",
+        "karar_no": "2025/696",
+        "case_subject": "Kripto varlık ve borsa faaliyetinden doğan alacağın tahsili ile uğranılan zararın tazmini",
+        "dava_tarihi": "15/10/2025",
+        "karar_tarihi": "20/10/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, müvekkilin kripto varlık ve borsa faaliyetinden kaynaklanan alacağının tahsiline ilişkin hak iddia etmiştir. Müvekkilin 35.863,71 USD tutarındaki alacağı engellenmiş ve kavuşamamıştır. Davacı, iki ticari şirketin organik bağ ve tüzel kişilik perdesinin aralanması ile sorumlu tutulmasını talep etmiştir.",
+        "reasoning_text": "Mahkeme, iki şirketin organik bağ ve tüzel kişilik perdesinin aralanması ile sorumlu tutulabileceğini kabul etmiştir. Müvekkilin alacağı için hak kazanma tarihinden itibaren işleyecek olan en yüksek mevduat avansı faizle tahsiline ve vekalet ücretinin davalıya yükletilmesine karar verilmiştir.",
+        "verdict_text": "Dosyann, İstanbul (Nöbetçi) Aslıye Hukuk Mahkemesine tevzi edilmek üzere İstanbul Hukuk Mahkemeleri Tevzi Bürosuna iadesine, Mahkememizin esasının bu şekilde kapatılmasına karar verildi. Dair, dosya üzerinde yapılan inceleme sonucunda kararın niteliği gereği kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK m. 4",
+            "5718 sayılı Sermaye Piyasası Kanunu",
+            "2024 yılında 6362 sayılı Sermaye Piyasası Kanunu değişiklikleri"
+        ]
+    },
+    "summary_for_human": "Mahkeme, iki ticari şirketin organik bağ ve tüzel kişilik perdesinin aralanması ile sorumlu tutulabileceğini kabul etmiştir. Müvekkilin 35.863,71 USD tutarındaki alacağı için hak kazanma tarihinden itibaren işleyecek olan en yüksek mevduat avansı faizle tahsiline ve vekalet ücretinin davalıya yükletilmesine karar verilmiştir.",
+    "summary_for_model": "Dava, kripto varlık ve borsa faaliyetinden doğan alacağın tahsili ile uğranılan zararın tazmini için açılmıştır. Mahkeme, iki ticari şirketin organik bağ ve tüzel kişilik perdesinin aralanması ile sorumlu tutulabileceğini kabul etmiştir. Müvekkilin alacağı için hak kazanma tarihinden itibaren işleyecek olan en yüksek mevduat avansı faizle tahsiline ve vekalet ücretinin davalıya yükletilmesine karar verilmiştir."
+}

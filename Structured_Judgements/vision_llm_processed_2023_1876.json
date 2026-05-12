@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2023_1876.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2023/1876",
+        "karar_no": "2024/84",
+        "case_subject": "Menfi Tespit (Kambiyo Senetlerinden Kaynaklanan)",
+        "dava_tarihi": "27/10/2023",
+        "karar_tarihi": "18/01/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının piyasaya yükü miktarda olan borçlarını ödeyebilmek amacıyla 9 adet çek aldığını iddia etmiştir. Bu çeklerin taraflar arasında düzenlenen anlaşma gereği tahsil edilmeyeceği, çeklerin bedelsiz olduğu ve bu durumun whatsapp yazışmaları ve çek fotokopileri üzerinden kanıtlandığı belirtilmiştir. Davacı, davalının bu çekleri alma için vekilini hilediği ve aralarında bu çekin düzenlenmesine sebep olacak ticari ilişki olmadığı halde kendisinin bu çek bedellerinin talep edilmeyeceğini tanıklar önünde kabul ettiğini iddia etmiştir.",
+        "reasoning_text": "İstanbul Anadolu 2. Asliye Ticaret Mahkemesi'nin 27.10.2023 tarihli kararı, çek üzerinde hatır senedi olarak verildiğine dair bir kaydın bulunmadığı ve hatır çek olarak verildiğine dair el yazılı evrakın fotokopi olup bu halde denetime elverişli olmadığı gerekçesiyle talebin haklılık tetkikinin yargılamayı gerektirdiğini, şartları oluşmayan tedbir talebinin reddine karar verdiğini açıklamıştır. İstinaf sebepleri olarak, taraflar arasında gerçek bir alacak ilişkisi bulunmadığı, çeklerin bedelsiz olduğu ve bu durumun whatsapp yazışmaları ve çek fotokopileri üzerinden kanıtlandığı belirtilmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1- Usûl ve yasaya uygun İstanbul Anadolu 2. Asliye Ticaret Mahkemesi'nin 27.10.2023 tarih ve 2023/754 E. sayılı ara kararına karşı tedbir talep eden davacı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gereken 427,60 TL maktu istinaf kararı ve ilam harçından peşin yatırılan 269,85 TL harçın mahsubu ile bakiye 157,75 TL harçın tedbir talep eden davacıdan tahsiliyle Hazineye gelir kaydedilmesine, 3- Tedbir talep eden davacı tarafa istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, 4- İncelemenin duruşmasız olarak yapılması sebebiyle taraflarca yatırılan gider avansından harçnamayan kısmın karar kesinleştiğinde iadesine, 5- Taraflarca yatırılan gider avansından harçnamayan kısmın karar kesinleştiğinde iadesine, 6- Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin ilk derece Mahkemesinde yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/(1)-f. ve 394/(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi 18/01/2024."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hukuk Muhakemeleri Kanunu (HMK)",
+            "6769 sayılı Sınai Mülkiyet Kanunu",
+            "2-492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir ticari alacak durumunda, davacı vekili tarafından istinaf yoluyla talep edilen tedbir kararı ile ilgilidir. Davacı, davalının piyasaya yükü miktarda olan borçlarını ödeyebilmek amacıyla aldığı çeklerin bedelsiz olduğunu ve bu durumun whatsapp yazışmaları ve çek fotokopileri üzerinden kanıtlandığını iddia etmiştir. İlk derece mahkemesi, talebin haklılık tetkikinin yargılamayı gerektirdiğini ve şartları oluşmayan tedbir talebinin reddine karar vermiştir. İstinaf mahkemesi, ilk derece mahkemesi kararının usûl ve yasaya uygun olduğunu ve talebin reddine karar verdiğini açıklamıştır.",
+    "summary_for_model": "Dava, ticari alacak durumunda istinaf yoluyla talep edilen tedbir kararı ile ilgilidir. Davacı vekili, davalının piyasaya yükü miktarda olan borçlarını ödeyebilmek amacıyla aldığı çeklerin bedelsiz olduğunu iddia etmiştir. İlk derece mahkemesi, talebin haklılık tetkikinin yargılamayı gerektirdiğini ve şartları oluşmayan tedbir talebinin reddine karar vermiştir. İstinaf mahkemesi, ilk derece mahkemesi kararının usûl ve yasaya uygun olduğunu ve talebin reddine karar verdiğini açıklamıştır. Hukuki dayanaklar arasında 6100 sayılı Hukuk Muhakemeleri Kanunu (HMK) ve 2-492 Sayılı Harçlar Kanunu yer alır."
+}

@@ -1,0 +1,32 @@
+{
+    "meta_data": {
+        "file_name": "2024_1495.pdf",
+        "court_name": "Bakırköy 2. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2024/1495",
+        "karar_no": "2024/1821",
+        "case_subject": "Marka (Marka Hakkına Tecavüzden Kaynaklanan)",
+        "dava_tarihi": "19/07/2024",
+        "karar_tarihi": "21/11/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının markalarını kullanmak için yetkili olmadığını iddia etti. Davalının markalarını Türk Patent'te tescilli olarak kullandığı ve davacı vekili tarafından kullanıldığı iddia edildi. Davacı vekili, davalının fiziksel ve çevrimiçi adreslerinde bulunan ürün, katalog, broşür, tanıtım materyali, etiket, ambalaj vb. emtialara el konulmasını talep etti.",
+        "reasoning_text": "Mahkeme, davacı vekilinin iddiasını kabul etti ve davalının markalarını kullanmak için yetkili olmadığını tespit etti. Davalının markalarını kullanmak için yetkili olmadığı için davacı vekilinin talebini kabul edildi. Davalının markalarını kullanmak için yetkili olmadığı için davacı vekilinin talebini kabul edildi.",
+        "verdict_text": "İstanbul 3. Fıkri ve Sınai Haklar Hukuk Mahkemesi'nin 2024/132 esas sayılı dosyası ile dava açıldı. Davacı vekilinin talebine göre davalının markalarını kullanmak için yetkili olmadığı için davacı vekilinin talebini kabul edildi. Davalının markalarını kullanmak için yetkili olmadığı için davacı vekilinin talebini kabul edildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 29. madde",
+            "SMK 159. madde",
+            "HMK 353. madde",
+            "HMK 356. madde",
+            "HMK 389. madde",
+            "SMK 159/2-c madde",
+            "HMK 396/1. madde",
+            "HMK 396/2. madde",
+            "HMK 341/1. madde",
+            "HMK 353/1-b-1. madde"
+        ]
+    },
+    "summary_for_human": "Bakırköy 2. Fıkri ve Sınai Haklar Hukuk Mahkemesi, davacı vekilinin davalının markalarını kullanmak için yetkili olmadığını iddia ettiği davada, davacı vekilinin talebini kabul etti. Davalının markalarını kullanmak için yetkili olmadığı için davacı vekilinin talebini kabul edildi.",
+    "summary_for_model": "Mahkeme, davacı vekilinin davalının markalarını kullanmak için yetkili olmadığını iddia ettiği davada, davacı vekilinin talebini kabul etti. Davalının markalarını kullanmak için yetkili olmadığı için davacı vekilinin talebini kabul edildi. Davacı vekilinin talebine göre davalının markalarını kullanmak için yetkili olmadığı için davacı vekilinin talebini kabul edildi."
+}

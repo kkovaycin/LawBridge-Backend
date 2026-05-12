@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2025_967.pdf",
+        "court_name": "İzmir Bölge Adliye Mahkemesi 11. Hukuk Dairesi",
+        "esas_no": "2025/967",
+        "karar_no": "2025/1090",
+        "case_subject": "İhtiyati Tedbire İtiraz",
+        "dava_tarihi": "09/05/2025",
+        "karar_tarihi": "11/07/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "İzmir 3. Aslıye Ticaret Mahkemesi'nin 09.05.2025 tarihli 2025/228 E. sayılı kararının dairemizce incelenmesi ihtiyati tedbire itiraz eden davalı ... ile kayyım tayini istenilen ... Limited Şirketi vekili tarafından istanaf dilekçesinin süresi içinde verildiği anlaşılmış olmakla, üye ... tarafından düzenlenen rapor dinlenip ve yine dosya içerisindeki dilekçe, layihalar, duruşma tutanakları ve tüm belgeler okunup, incelendi.",
+        "reasoning_text": "Mahkeme, davalı şirket temsilcisinin şirketteki yetkisi kaldırılmaksızın işlemlerinin ayrıca onay kayyımının onayına tabi tutulmasına karar vererek buna ilişkin giderlerin davacılar üzerinde bırakıldığı göz önüne alarak 21.03.2025 tarihli ara kararla ihtiyati tedbir talebinin kısmen kabulü ile davalı şirket temsilcisinin şirketteki yetkisi kaldırılmaksızın işlemlerinin ayrıca onay kayyımının onayına tabi tutulmasına karar verilmiştir. İtirazlarda belirtilen hususların tedbirin kaldırılmasına veya yahut değiştirilmesine sebep verecek nitelikte olmadığı gibi şirketin devamına yönelik dosya taraflarının menfaatlerini tehlikeye düşürecek nitelikte olmadığı bu sebeple yerinde görülmeyen ihtiyati tedbire itirazin 09.05.2025 tarihli ara kararla reddine karar verilmiştir.",
+        "verdict_text": "HÜKÜM : Yukarıda açıklanan nedenlerle; 1-İhtiyati tedbire itiraz eden davalı ... ile kayyım tayini istenilen ... Limited Şirketi vekilinin istinaf başvurusunun Hukuk Muhakemeleri Kanununun 353/1-b-1 maddesi uyarınca ES ASTAN REDDİNE, 2-İhtiyati tedbire itiraz eden davalı ... ile kayyım tayini istenilen ... Limited Şirketi yönünden istinaf karar harcı olan 1.013,90 TL'den peşin alınan 615,40 TL'nin mahsubu ile bakiye 398,50 TL harcin ihtiyati tedbire itiraz eden davalı ... ile kayyım tayini istenilen ... Ticaret Limited Şirketinden alınarak hazineye gelir kaydına, 3-İstinaf başvurusu nedeniyle ihtiyati tedbire itiraz eden davalı ... ile kayyım tayini istenilen ... Ticaret Limited Şirketi tarafından yapılan giderlerin kendi üzerinde bırakılmasına, Dosya üzerinden yapılan inceleme neticesinde, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 362/1-f maddesi gereğince kesin olmak üzere 11.07.2025 tarihinde oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 630/2 maddesi",
+            "TTK m. 616, md. 26 ve 627. Maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu 389/1. maddesi",
+            "Hukuk Muhakemeleri Kanunu 353/1-b-1 maddesi",
+            "6100 sayılı Hukuk Muhakemeleri Kanunu'nun 362/1-f maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davalı şirketin temsilcisinin yetkilerinin kaldırılması ve onay kayyımının atanması talebini reddetmiştir. Mahkeme, bu kararın davalı şirketin devamını tehlikeye düşürmeyeceğini ve davacıların haklarını koruduğunu düşünmüştür. İtiraz edilen kararın esas ve usul yönünden hukuka uygun olduğu tespit edilmiştir.",
+    "summary_for_model": "Davacı vekili, davalı şirketin temsilcisinin yetkilerinin kaldırılması ve onay kayyımının atanması talebinde bulundu. Mahkeme, bu talebin şirketin devamını tehlikeye düşürmeyeceği ve davacıların haklarını koruduğu için reddetmiştir. İtiraz edilen kararın esas ve usul yönünden hukuka uygun olduğu tespit edilmiştir. TTK 630/2 maddesi, TTK m. 616, md. 26 ve 627. Maddesi, 6100 Sayılı Hukuk Muhakemeleri Kanunu 389/1. maddesi, Hukuk Muhakemeleri Kanunu 353/1-b-1 maddesi ve 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 362/1-f maddesi başvuruldu."
+}

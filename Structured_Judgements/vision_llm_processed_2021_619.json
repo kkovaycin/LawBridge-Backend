@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2021_619.pdf",
+        "court_name": "T.C. BURSA 3. AŞLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2021/619",
+        "karar_no": "2022/889",
+        "case_subject": "Tazminat (Haksız Rekabetten Kaynaklanan)",
+        "dava_tarihi": "01/09/2021",
+        "karar_tarihi": "12/09/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; müvekkilinin Vetorin markasıyla probiyotik teknolojisine dayalı ürünler üretilen bir firma olduğunu, davalı firmanın ise piyasada davacı müvekkili firmanın rakibi konumunda bulunan bir firma olduğunu, Köy TV'de yayınlanan '...le Köyde Arıcılık programının uzun senelerdir hukuk dışı olarak veteriner ilacı, kimyasal ve takviye ürün reklamı yaptığını belirtmiştir. Türkiye'de kimyasal kullanımını azaltmak için ruhsatlı da olsa ilac, hatta takviye ürün reklamları yapmanın yasak olduğunu, Davalı '...in Köy TV'yi de kullanarak hem reklam yasağına deldiğini, davalı şirketin yetkilisi olan '...in, müvekkili şirketin müşterilerini arayarak, whatsapp isimli mesajlaşma programından mesaj göndererek müvekkili şirketin ürününü kötülediğini, yapılan olumsuz propaganda sonucunda müvekkilinin siparişlerinde iptaller yaşanmaya başladığını iddia etmiştir.",
+        "reasoning_text": "Mahkememizin 2021/451 esas sayılı dosyası ile eldeki 2021/619 esas sayılı dosyaları inceleyerek her iki dosya arasında fiili ve hukuki ilişki olduğu anlaşıldığından birleştirme hususu incelenmiş ve mahkememizin iş bu dava dosyası ile yine mahkememizin 2021/451 esas sayılı dosyaları arasında tarafları ve konuları bakımından hukuki ve fiili bağlantı bulunduğu, davanın aynı hukuki ilişkiden kaynaklandığı ve dava dosyalarının birlikte görülmesinde usul ekonomisi yönünden de yarar görülmekle HMK.'nun 166 maddesi uyarınca mahkememizin 2021/451 esas sayılı dosyası ile eldeki dava dosyasının birleştirilmesine karar verilmesi gerektiği sonuç ve kanaatine varılmıştır.",
+        "verdict_text": "Yukarıdaki açıklanan sebep ve gerekçelerle; Eldeki dosyanın yine mahkememizin 2021/451 esas sayılı dosyasının birleştirilmesine, Yargılamanın Mahkememizin 2021/451 esas sayılı dosyası üzerinden yürütülmesine, dair esas hükmle birlikte istinafi kabul olmak üzere dosya üzerinde yapılan inceleme sonucunda karar verildi. 12/09/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK.'nun 166 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı firmanın Vetorin markasıyla rekabet ettiğini ve Köy TV'de yasadışı reklamlar yaparak ürününü kötülediğini iddia ediyor. Mahkeme, davayı 2021/451 dosyasıyla birleştirdi.",
+    "summary_for_model": "Davacı, davalı firmanın Vetorin markasıyla rekabet ettiğini ve Köy TV'de yasadışı reklamlar yaparak ürününü kötülediğini iddia ediyor. Mahkeme, davayı 2021/451 dosyasıyla birleştirdi ve HMK.'nun 166. maddesine dayanarak karar verdi."
+}

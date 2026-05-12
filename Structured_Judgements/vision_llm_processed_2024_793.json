@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2024_793.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2024/793",
+        "karar_no": "2024/1296",
+        "case_subject": "Tespit (D.İş)",
+        "dava_tarihi": "26/12/2023",
+        "karar_tarihi": "12/07/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının markalarını izinsiz kullanarak internet siteleri, sosyal medya hesapları ve online satış platformlarında ürünleri sattığını iddia etmiştir. Davalının bu markaları kullanması, davacının haklarını ihlal ettiği ve ticari zarara yol açtığı iddia edilmiştir.",
+        "reasoning_text": "Mahkeme, davacının iddialarını kabul ederek davalının markalarını izinsiz kullanmasının ticari zarara yol açtığını ve davacının haklarını ihlal ettiğini tespit etmiştir. Mahkeme ayrıca davalının internet sitelerine, sosyal medya hesaplarına ve online satış platformlarına erişimin engellenmesi ve ticari zarara yol açan ürünlerin toplatılması için ihtiyatı tedbir kararı vermiştir.",
+        "verdict_text": "İstanbul 2.Fikri ve Sınai Haklar Hukuk Mahkemesi 12.12.2023 tarihli 2023/154 D.İş sayılı ara kararıyla; \"...Tüm dosya kapsamı yaklaşık ispat şartı dikkate alınarak talep konu tedbir yönünden yasal şartların oluştuğu\"gereğince; \"6100 sayılı HMK'nın 400 vd. maddeleri gereğince, istek belli bir fili durumun tespiti olup, talep edenin hukuksal yararı olduğu kanaatine varılmakla, tespit talebi yasaca uygun ve hukuken hemen korunması zorunlu görülüğünden, şimdilik tebligat yapılmaksızın tedbiren el koyma talebinin, 6100 sayılı HMK'nın 389-390 maddeleri ile 6769 sayılı Sınai Mülkiyet Kanunu'nun 159. maddesi gereğince 50.000,00 TL (ellibütünlükleri) nakdi teminat veya aynı miktarda kesin ve süreşiz banka teminat mektubu ibrazı şartıyla KABULÜ ile (teminat el koyma tedbir yönünden geçerli olmak üzere) talep edene ait \"...\"tescil nolu markalarıyla iltisab yaratacak derecede benzer ve taklit olan karşı yana ait \"...\"markalı taklit ürünlere, ürün kutularına, ürün etiketlerine, tabela, kartvizit, afiş, broşür vb. tanıtım vasitalarına (tecavüz konu ürünler dışındaki diğer ürünlerin üretimin ve satışını engellemeyecek şekilde) EL KONULMASINA, el konulan ürünlerin bu aşamada masrafi talep edene ait olmak üzere yeddi emine TEVDİNE.2\"...\"@\"...\"ismi \"...\"adı internet sitesi ve hesaplarına ve ... vd. online satış platformlarındaki karşı tarafa ait satışı yapılan ürünlerin bulunduğu linklere ERİŞİMİN ENGELLENMESİNE,Bu hususta tedbirin infazı için ilgili İcra Müdürlüğü Tarafından Erişim Sağlayıcına Bildirilmesi gereğince mahkemeye başvurulmasına,4)6100 sayılı HMK'nun 393/1 maddesi gereğince tedbir tedbiren 1 hafta içinde teminat yatırılmadığı takdirde ya da teminat yatırılısa bile aynı süre içinde kararın infazı için ilgili icra dairesine başvurulmadığı takdirde işbu tedbirlerin kendiliğinden kalkmış sayılacağına,5)El koyma ile erişimin engellenmesine yönelik tedbir kararlarının infaz yönünden 6100 sayılı HMK'nun 393/2 maddesi gereğince işbu tedbirin İstanbul İcra Dairesi aracı kulınarak İNFAZINA,6)HMK 398 md uyarınca ihtiyati tedbir kararının uygulanmasına ilişkin emre uymayan veya tedbir kararına aykırı davranan kişinin bir aydan altı aya kadar disiplin hapsi ile cezalandırılacağı hususunun ihbarına.\"karar verildiği, karara karşı taraf vekilince itiraz edildiği anlaşılmıştır."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK",
+            "6769 sayılı Sınai Mülkiyet Kanunu",
+            "HMK 398 md",
+            "HMK 355. madde",
+            "HMK 353/1-a-6 maddesi",
+            "HMK 394/2. madde",
+            "Hükümler Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markalarını izinsiz kullanarak ticari zarara yol açtığını iddia etmiştir. Mahkeme, davacının iddialarını kabul ederek davalının markalarını izinsiz kullanmasının ticari zarara yol açtığını tespit etmiştir. Mahkeme ayrıca davalının internet sitelerine, sosyal medya hesaplarına ve online satış platformlarına erişimin engellenmesi ve ticari zarara yol açan ürünlerin toplatılması için ihtiyatı tedbir kararı vermiştir.",
+    "summary_for_model": "Davacı, davalının markalarını izinsiz kullanarak ticari zarara yol açtığını iddia etmiştir. Mahkeme, davacının iddialarını kabul ederek davalının markalarını izinsiz kullanmasının ticari zarara yol açtığını tespit etmiştir. Mahkeme ayrıca davalının internet sitelerine, sosyal medya hesaplarına ve online satış platformlarına erişimin engellenmesi ve ticari zarara yol açan ürünlerin toplatılması için ihtiyatı tedbir kararı vermiştir. Karar, HMK 6100 ve 6769 sayılı kanunlara dayanarak verilmiştir."
+}

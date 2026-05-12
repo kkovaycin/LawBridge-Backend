@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2018_2758.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2018/2758 Esas",
+        "karar_no": "2021/1664 Karar",
+        "case_subject": "Marka (Marka Hakkına Tecavüzden Kaynaklanan)",
+        "dava_tarihi": "24/05/2018",
+        "karar_tarihi": "03/06/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde davaların müvekkil adına tescilli ve tanınmış marka haklarına tecavüz ve haksız rekabetin teşkili, men-i refi, söz konusu füllerin tedbiren durdurulması ve web sitelerine erişimin engellenmesi taleplerini ileri sürmüştür. Davalılar davacı markasının görsellerinde kullanıldığı ve davacı tarafından tanınmış olduğu iddia edilmiştir.",
+        "reasoning_text": "Mahkeme, davacı vekilinin istinaf dilekçesinde yer alan iddiaların yetersiz olduğunu, davanın konusu internet siteleri yönünden eksik inceleme yapıldığını ve davacı vekilinin istinaf taleplerinin reddedildiğini belirtmiştir. Mahkeme ayrıca, davacı vekilinin istinaf taleplerinin kabul edilmediğini ve davanın esasında karar verildiğini açıklamıştır.",
+        "verdict_text": "İstanbul 1.Fıkri ve Sınai Haklar Hukuk Mahkemesi 24.05.2018 tarihli 2017/450 E. - 2018231 K. sayılı kararıyla; davacı vekilinin istinaf dilekçesinde yer alan iddiaların yetersiz olduğunu, davanın konusu internet siteleri yönünden eksik inceleme yapıldığını ve davacı vekilinin istinaf taleplerinin reddedildiğini belirtmiştir. Mahkeme ayrıca, davacı vekilinin istinaf taleplerinin kabul edilmediğini ve davanın esasında karar verildiğini açıklamıştır."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemesi Kanunu (HMK) 353, 356, 389 maddeleri",
+            "Ticaret Kanunu (TK) 54 vd. maddeleri",
+            "Ticari Markalar Kanunu (TMK) 2. Maddesi",
+            "Ticari Markalar Kanunu (TMK) 12. Maddesi",
+            "Ticari Markalar Kanunu (TMK) 9/2-e Maddesi",
+            "Hukuk Muhakemesi Kanunu (HMK) 114 Maddesi",
+            "Hukuk Muhakemesi Kanunu (HMK) 353/1-a-6 Maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin istinaf dilekçesinde yer alan iddiaların yetersiz olduğunu ve davanın konusu internet siteleri yönünden eksik inceleme yapıldığını belirtmiştir. Davacı vekilinin istinaf taleplerinin reddedildiğini ve davanın esasında karar verildiğini açıklamıştır.",
+    "summary_for_model": "Mahkeme, davacı vekilinin istinaf dilekçesinde yer alan iddiaların yetersiz olduğunu ve davanın konusu internet siteleri yönünden eksik inceleme yapıldığını belirtmiştir. Davacı vekilinin istinaf taleplerinin reddedildiğini ve davanın esasında karar verildiğini açıklamıştır. Mahkeme ayrıca, davacı vekilinin istinaf taleplerinin kabul edilmediğini ve davanın esasında karar verildiğini açıklamıştır."
+}

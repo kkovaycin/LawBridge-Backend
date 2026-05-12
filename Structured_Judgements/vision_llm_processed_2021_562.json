@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2021_562.pdf",
+        "court_name": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/562 Esas",
+        "karar_no": "2023/156",
+        "case_subject": "Fikri ve Sanat Eseri (Maddi Tazminat İstemi)",
+        "dava_tarihi": "22/12/2020",
+        "karar_tarihi": "02/02/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı tarafından hazırlanan bir televizyon programı formatının hak ihlali iddiasıyla dava açtı. Davacı, programın formatının diğer davalı tarafından da kullanıldığını ve bu durumun hak ihlali oluşturduğunu iddia etti. Davalı ise programın formatının eser niteliğinde olmadığını savundu.",
+        "reasoning_text": "Mahkeme, davacının iddialarını reddetti. Programın formatının eser niteliğinde olmadığı ve davacının hak ihlali iddiasının temelsiz olduğu tespit edildi. Davacı ve davalı vekillerinin istinaf taleplerinin ayrı ayrı reddedildi.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle;1-Davacı ve Davalı Türkiye Radyo Televizyon Kurumu vekillerinin istinaf taleplerinin HMK'nun 353/1-b-1 maddesi uyarınca AYRI AYRI ESASTAN REDDİNE,2-Davacının istinafi yönünden alınması gereken 179,90 TL harçtan, peşin alınan 59,30 TL harcin mahsubu ile bakiye 120,60 TL harcin davacından alınarak hazineye irat kaydına,3-Davalı ...'nin istinafi yönünden alınması gereken 5.128,38 TL harçtan, peşin alınan 1.282,30 TL harcin mahsubu ile bakiye 3.846,08 TL harcin davalı Türkiye Radyo Televizyon Kurumu'ndan alınarak hazineye irat kaydına,4-Davacı ve Davalı Türkiye Radyo Televizyon Kurumu tarafından yapılan istinaf yargılama giderlerinin kendi üzerlerinde birakılmasına,5-Istinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda, HMK'nun 361.maddesi uyarınca tebliğden itibaren iki haftalık süre içerisinde Yargıtay ilgili hukuk dairesinde temyiz yolu açık olmak üzere oy birliği ile karar verildi.02/02/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353/1-b-1",
+            "HMK 361",
+            "FSEK 68",
+            "FSEK 84",
+            "TTK 55/1-c",
+            "5846 sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı tarafından hazırlanan bir televizyon programı formatının hak ihlali iddiasıyla dava açtı. Mahkeme, davacının iddialarını reddetti ve davacı ile davalı vekillerinin istinaf taleplerini de ayrı ayrı reddetti.",
+    "summary_for_model": "Davacı, davalı tarafından hazırlanan bir televizyon programı formatının hak ihlali iddiasıyla dava açtı. Mahkeme, programın formatının eser niteliğinde olmadığını tespit etti ve davacının iddialarını reddetti. Davacı ve davalı vekillerinin istinaf taleplerinin ayrı ayrı reddedildi."
+}

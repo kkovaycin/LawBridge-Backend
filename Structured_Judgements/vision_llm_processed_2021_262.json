@@ -1,0 +1,33 @@
+{
+  "meta_data": {
+    "file_name": "2021_262.pdf",
+    "court_name": "BURSA 3. ASLİYE TİCARET MAHKEMESİ",
+    "esas_no": "2021/262",
+    "karar_no": "2024/85",
+    "case_subject": "Alacak (Ticari Satımdan Kaynaklanan) ve Yöneticinin Sorumluluğu",
+    "dava_tarihi": "05/04/2021",
+    "karar_tarihi": "17/01/2024"
+  },
+  "rrl_segments": {
+    "facts_text": "ÖZET: Davacı, şirketin %50 ortağı olan kardeşinin (davalı), yönetim kurulu üyesi olduğu dönemde şirketi zarara uğrattığını, eşine ait başka bir şirkete haksız menfaat sağladığını, şirket kaynaklarını ve know-how'ını bedelsiz kullandırdığını iddia ederek tazminat talep etmiştir. Davalı, şirketin ekonomik krizde olduğunu, yaptığı işlemlerle şirketi ayakta tuttuğunu, tüm işlemlerin kayıtlı ve denetimden geçmiş olduğunu savunmuştur.",
+    "reasoning_text": "ÖZET: Alınan bilirkişi ve heyet raporlarına göre; davalı yöneticinin eşine ait şirketle yaptığı ticari işlemlerin (fason üretim, kira vb.) davacı şirketi zarara uğratmadığı, aksine finansal darboğazda şirketin faaliyetini sürdürmesine katkı sağladığı tespit edilmiştir. TTK 395 ve 553. maddelerindeki sorumluluk şartlarının (kusur, zarar, illiyet bağı) oluşmadığı ve şirketin zararının davalının eylemlerinden kaynaklanmadığı anlaşılmıştır.",
+    "verdict_text": "İspatlanamayan davanın REDDİNE karar verilmiştir."
+  },
+  "structural_features": {
+    "mentioned_laws": [
+      "TTK Madde 69",
+      "VUK Madde 213",
+      "VUK Madde 220",
+      "VUK Madde 222",
+      "TTK Madde 393",
+      "TTK Madde 395",
+      "TTK Madde 396",
+      "TTK Madde 390/1",
+      "TTK Madde 553",
+      "TTK Madde 369/1",
+      "HMK Madde 333"
+    ]
+  },
+  "summary_for_human": "İki kardeş ortak arasındaki davada, biri diğerini şirketi yönetirken kendi eşinin firmasına para aktarmakla suçlamış. Mahkeme hesapları inceletmiş; davalı kardeşin yaptıkları şirketi zarara sokmamış, aksine kriz döneminde işlerin dönmesini sağlamış. Zarar kanıtlanamadığı için dava reddedilmiş.",
+  "summary_for_model": "Davacı, davalı yöneticinin TTK 395 ve 396'ya aykırı işlemlerle (ilişkili taraf işlemleri) şirketi zarara uğrattığını iddia etmiştir. Bilirkişi raporlarında, yansıtma faturaları ve ticari ilişkilerin örtülü kazanç aktarımı niteliğinde olmadığı, TTK 553 kapsamında yöneticinin hukuki sorumluluğunu doğuracak 'zarar' ve 'illiyet bağı' unsurlarının gerçekleşmediği tespit edilerek dava reddedilmiştir."
+}

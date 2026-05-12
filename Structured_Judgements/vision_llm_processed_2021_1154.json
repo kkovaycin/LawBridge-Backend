@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2021_1154.pdf",
+        "court_name": "İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2019/282 E. - 2021/112 K.",
+        "karar_no": "2024/894",
+        "case_subject": "Endüstriyel Tasarım (Maddi Tazminat İstemli)",
+        "dava_tarihi": "17/06/2021",
+        "karar_tarihi": "13/05/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, 4 adet ürünün tescil belgesini almak için 18.12.2018'de TÜRK PATENT KURUMU'NA (TPK) başvurdu. Başvuru 09.01.2019'da kabul edildi ve 3 ay itiraz süresinin sonrasında tasarımın tescili kesinleşti. Davacı, farklı Instagram hesaplarında dava konusu ürünlerin reklamını yaparak yüksek kazançlar elde ettiğini iddia etti. Davacı, bu durum karşısında dava dilekçesiyle dava açtı ve davalının üretiminin ve satışının haklı rekabeti ihlal ettiğini, ayrıca davalının bu eyleminin davacıya zarar verdiğini iddia etti.",
+        "reasoning_text": "Mahkeme, davacının tescil başvurusunun 18.12.2018'de yapıldığını ve tescilin 09.01.2019'da kabul edildiğini doğruladı. Ancak, davacının bu ürünleri tescilden önce kullanmaya başladığını ve satışını yaptığını iddia etti. Mahkeme, bu durumun davacının tescil taleplerini geçersiz kılmak için yeterli olmadığını ve davacının haklı rekabeti ihlal ettiğini iddia etmesinin yetersiz olduğunu tespit etti. Ayrıca, davacının davalının tescil taleplerini reddetmek için yeterli bir itiraz yapmadığını ve davalının tescil taleplerini kabul etmesinin usulsüz olduğunu belirledi.",
+        "verdict_text": "İSTİNAF: Davacı-karşı davalı vekili tarafından yapılan istinaf talebinin 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b/1. maddesi gereğince ESAS TAN REDDİNE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gereken 427,60 TL maktu istinaf kararı ve ilam harcından peşin yatırılan 118,60 TL harcin mahsubu ile bakiye 309,00 TL harcin davacı-karşı davalından tahsil ile Hazineye kaydedilmesine, 3-Davacı-karşı davalı tarafından istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, 4-İncelemenin duruşsuz olarak yapılması sebebiyle taraflara vekalet ücreti tayinine yer olmadığına, 5-Taraflarca yatırılan gider avansından harçnmayan kısmın karar kesinleştiğinde iadesine, Dosya üzerinde yapılan inceleme sonucunda, 20/07/2017 tarih ve 7035 Sayılı Kanunun 31. maddesiyle değişik 6100 Sayılı HMK'nın 361/1. maddesi gereğince, kararın tebliğinden itibaren 2 hafta içerisinde Yargıtaya temyiz başvurusunda bulunma yolu açık olmak üzere, oy birliğiyle karar verildi. 13/05/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK m. 67",
+            "TPMK",
+            "KHK m.7/1",
+            "Topluluk Yönergeleri m.5/1",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "2-492 Sayılı Harçlar Kanunu",
+            "7035 Sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının tescil taleplerini reddetmek için istinaf başvurusu yaptı. Mahkeme, davacının tescil taleplerini geçersiz kılmak için yeterli bir itiraz yapmadığını ve davalının taleplerini kabul etmesinin usulsüz olduğunu tespit etti. İstinaf talebi reddedildi ve davacı-karşı davalıya 427,60 TL istinaf kararı ve 118,60 TL harç ödemesi kararı verildi.",
+    "summary_for_model": "Davacı, davalının tescil taleplerini reddetmek için istinaf başvurusu yaptı. Mahkeme, davacının tescil taleplerini geçersiz kılmak için yeterli bir itiraz yapmadığını ve davalının taleplerini kabul etmesinin usulsüz olduğunu tespit etti. İstinaf talebi reddedildi ve davacı-karşı davalıya 427,60 TL istinaf kararı ve 118,60 TL harç ödemesi kararı verildi. Davacı-karşı davalı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESAS TAN REDDİNE alındığı ve 2-492 Sayılı Harçlar Kanunu gereğince harçların tahsil edildiği belirtildi."
+}

@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2017_5.pdf",
+        "court_name": "T.C. İSTANBUL 1. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2017/5 Esas",
+        "karar_no": "2019/303",
+        "case_subject": "Endüstriyel tasarım tescil belgesinin hükümsüzlüğü ve davacı adına tescil talepleri",
+        "dava_tarihi": "05/01/2017",
+        "karar_tarihi": "26/06/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, endüstriyel tasarım tescil belgesinin hükümsüz olduğunu iddia etti. Dava, davacı adına tescil taleplerinin reddedilmesini talep ediyor. Dava konusu, davacı adına tescil taleplerinin reddedilmesiyle ilgili. Türk Patent ve Marka Kurumu'ndan endüstriyel tasarım tescil belgesi çelpedildi. Bilirkişilerin raporları, davacı tarafından tescil edilen tasarımın gerçek hak sahibinin davacı olduğunu iddia ediyor.",
+        "reasoning_text": "Mahkeme, davacı adına tescil taleplerinin reddedilmesini talep etti. Dava konusu, davacı adına tescil taleplerinin reddedilmesiyle ilgili. Mahkeme, davacı adına tescil taleplerinin reddedilmesini talep etti. Dava konusu, davacı adına tescil taleplerinin reddedilmesiyle ilgili.",
+        "verdict_text": "HÜKÜM; Yukarda açıklanan gerekçe kapsamına göre,\n1-Davacı adına TPMK nezdinde tescilli ... nolu endüstriyel tasarım tescilinin hükümsüzlüğüne, karar kesinleştiğinde kesinleşen kararın TPMK'ya bildirilmesine,\n2-Davacı davasını 05/01/2017 tarihinde açtığı, SMK'nın 10/01/2017 tarihinde yürürlüğe girdiği dolayısıyla hükümsüz kılınacak tasarımın davacı adına tescil talebi eski KHK'da bulunmadığından kararımız kesinleştiğinde kesinleşmiş karar ile birlikte davacının tescil kendi adına yapıtrabileceğine, bu aşamada mahkememize bir karar verilmesine ayrıca yer olmadığına,\n3-44,40 TL İlam harcının peşin harctan mahsubu ile ekşi kalan 13,00 TL harcin davalidan tahsiline,\n4-Davanın kabulü nedeni ile Avukatlık ücreti tarife uyarinca 3.931,00 TL vekalet ücretinin davaldan alınarak davacıya verilmesine,\n5-Davacı tarafın yargılama giderlerinden olan 31,40 TL başvuru harcı 31,40 peşin harç 231 TL tebligat ve müzekkere masrafı, 2.250 TL bilirkişi ücreti olmak üzere toplam 2.543,80 TL yargılama giderinin davaldan alınarak davacıya verilmesine,\n6-Tarafarca fazla yatırılan gider avansının hüküme kesinleştiğinde ve talep halinde iaadesine,\nDair karar davacı vekilinin yüzüne karşı davalı vekilinin yokluğunda gerekli kararın tebliğinden itibaren iki haftalık süre içinde İSTİNAF YASA YOLU AÇIK olmak üzere verilen karar açıkça okundu, usulen anlatıldı. 26/06/2019"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 266. madde",
+            "İSTİNAF YASA"
+        ]
+    },
+    "summary_for_human": "Davacı, endüstriyel tasarım tescil belgesinin hükümsüz olduğunu iddia etti ve davacı adına tescil taleplerinin reddedilmesini talep etti. Mahkeme, davacı adına tescil taleplerinin reddedilmesini talep etti ve davacı adına tescil taleplerinin reddedilmesini talep etti.",
+    "summary_for_model": "Davacı, endüstriyel tasarım tescil belgesinin hükümsüz olduğunu iddia etti ve davacı adına tescil taleplerinin reddedilmesini talep etti. Mahkeme, davacı adına tescil taleplerinin reddedilmesini talep etti ve davacı adına tescil taleplerinin reddedilmesini talep etti."
+}

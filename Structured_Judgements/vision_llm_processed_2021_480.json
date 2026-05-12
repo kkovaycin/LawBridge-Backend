@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2021_480.pdf",
+        "court_name": "SAMSUN AŞLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2021/480 Esas",
+        "karar_no": "2021/643",
+        "case_subject": "Alacak (Ticari Satıma Konu Malın İadesi)",
+        "dava_tarihi": "...",
+        "karar_tarihi": "..."
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili tarafından davaya konu fatura suretini, Watzapp yazışmalarını, fatura itirazını ve arabulculuk son tutanağını dosaya ibraz etmiştir. Davalı vekili cevabında davacıya kesilen fatura suretlerini, watzapp ve instagram ekran görüntülerini, arabulculuk avukatı şikayet dilekçesi örneğini dosaya ibraz etmiştir.",
+        "reasoning_text": "Davacı ve davalının işletme hesabı esasında defter tuttuğu anlaşılmaktadır. Taraflar tacir değildir ve dava nispi ticari dava olarak nitelendirilemeyecektir. Bu sebeplerle, uyumazlığın asliye hukuk mahkemesinin görevi alanında kaldığı değerlendirilmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere: 1-Davanın görev dava şartı yokluğundan USULDEN REDDİNE, 2-HMK'nın 20.maddesi gereği karar kesinleştiğinde ve iki haftalık yasal sürede talep halinde dosyanın görevli Samsun Nöbetçi Asliye Hukuk Mahkemesine gönderilmesine, aksi takdirde davanın açılmamış sayılabileceğının ihtarına,(İhtarat yapıldı) 3-Yargılama gideri ve harç açısından HMK'nın 20 ve 331. maddeleri nazarında alınarak süresinde başvurulması halinde görevli mahkemeye nazara alınmasına, süresinde başvurulmaz ise, talep halinde mahkememizce karara bağlanmasına."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK'nin 4/1. maddesi",
+            "TTK'nin 19/2. maddesi",
+            "TTK'nin 5/1. maddesi",
+            "6335 sayılı Türk Ticaret Kanunu",
+            "6102 sayılı TTK'nin 5/4. maddesi",
+            "6098 sayılı TBK'nin 207 vd. maddeleri",
+            "HMK'nın 20. maddesi",
+            "HMK'nın 331. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı ve davalının ticari niteliği olmadığı için dava reddedildi. Taraflar tacir değildir ve dava nispi ticari dava olarak nitelendirilemez.",
+    "summary_for_model": "Davacı ve davalının işletme hesabı esasında defter tuttuğu anlaşılmaktadır. Taraflar tacir değildir ve dava nispi ticari dava olarak nitelendirilemez. Uyumazlığın asliye hukuk mahkemesinin görevi alanında kaldığı değerlendirilmiştir."
+}

@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2018_5.pdf",
+        "court_name": "T.C. İSTANBUL 2.FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2018/5 Esas",
+        "karar_no": "2019/560",
+        "case_subject": "Marka hakları ihlali ve haksız rekabet davası",
+        "dava_tarihi": "05/01/2018",
+        "karar_tarihi": "24/12/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının davacı şirketine ait markaları internet siteleri, Facebook ve YouTube hesaplarında kullanmasının, markaların tescil edilmiş olduğu tarih ve sayılarla belirtilerek, davalının markaları izinsiz ve hakka aykırı kullandığını iddia etmiştir. Davalının ticaret unvanı olarak kullanılan markaların iptaline ve davalının ticaret unvanının kaldırılmasına karar verilmiştir.",
+        "reasoning_text": "Mahkeme, davalının markaları izinsiz kullandığını ve bu kullanımların 6769 sayılı Sınai Mülkiyet Kanunu'nun 29/1-a maddesi kapsamında markaya tecavüz oluşturduğunu tespit etmiştir. Davalının ticaret unvanının kaldırılmasına karar verilmiştir.",
+        "verdict_text": "Yukarıda gerekçesi açıklanmış üzere, 1-Davanın kabulüne, davalı tarafın \"...\" ibaresini kullanarak davacı tarafın marka haklarına tecavüz ettiğinin ve haksız rekabetin tespitine, tecavüzün men'ine ve ref'ine, 2-\"...\" ibaresinin ticaret unvanı olarak kullanırken markasal kullanım yaptığı anlaşılmakla, davalının \"...\" ibareli ticaret unvanının iptaline ve sicilden terkine, 3-Karar tarihinde yürürlükte bulunan Harçlar Tarifeşi uyarınca hesap olan 44,40 TL karar harcından peşin yatırılan 35,90 TL'nin mahsubu ile kalan 8,50 TL bakiye karar harcının davaldan tahsiliyle Hazineye irat kaydına, 3-Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifeşi uyarınca davacı vekili yararına hesap olan 3.931,00 TL vekalet ücretinin davaldan alınarak kendisini vekille temsil ettiren davacıya verilmesine, 4-Davacı tarafından yapılan, bilirkişi ücreti ve posta gideri olmak üzere toplam 3.008,75TL ve 71,80 TL harç (peşin+başvuru) olmak üzere toplam 3.080,55 TL yargılama giderinin davaldan alınarak davacıya verilmesine, 5-Davalı tarafından yapılan yargılama giderlerinin kendi üzerinde birakılmasına, 6-Yatırılan gider avanslarından kullanılmayan kısmının talep halinde ve karar kesinleştiğinde yatıran tarafa iadesine, Dair dosya üzerinde yapılan inceleme sonucunda (HMK 345/1 md. gereğince) gerekeli kararın tebliğinden itibaren 2 hafta içerisinde Mahkememize veya başka bir yer mahkemesine dilekçe ile başvurmak ve istinaf harci ile gerekli giderlerin tamamı ödenmek suretiyle, İstanbul Bölge Adliye Mahkemesine istinaf yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı Sınai Mülkiyet Kanunu",
+            "TTK m.55/1-a-4",
+            "TTK m.54 vd.",
+            "HMK 345/1 md."
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markalarını izinsiz kullandığını iddia etti. Mahkeme, davalının markaları izinsiz kullandığını ve bu kullanımların markaya tecavüz oluşturduğunu tespit etti. Davalının ticaret unvanının kaldırılmasına karar verildi.",
+    "summary_for_model": "Davacı, davalının markalarını izinsiz kullandığını iddia etti. Mahkeme, davalının markaları izinsiz kullandığını ve bu kullanımların 6769 sayılı Sınai Mülkiyet Kanunu'nun 29/1-a maddesi kapsamında markaya tecavüz oluşturduğunu tespit etti. Davalının ticaret unvanının kaldırılmasına karar verildi."
+}

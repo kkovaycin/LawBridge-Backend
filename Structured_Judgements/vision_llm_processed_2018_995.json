@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2018_995.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2018/995",
+        "karar_no": "2018/713",
+        "case_subject": "Marka (Maddi Tazminat İstemli)",
+        "dava_tarihi": "01/12/2017",
+        "karar_tarihi": "16/03/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilin Trabzonspor ve Galatasaray gibi futbol takımlarında ve millî takımda kaptanlık yaptığını, yıllardır oynadığı takımlarda numaralı formayı giydiğini, isminin baş harfi olan harfi ve forma numarasından dolayı bilindiğini, instagramdaki hesap adının bile olduğunu iddia etti. Marka tescili için 2013 yılında başvuru yaparak 2013/36194 no'lu markasını 35,38 ve 41.sınıflarda, no'lu markasını ise 3 ve 9.sınıflarda tescil ettiğini, ancak davalının markasını müvekkilin marka tescil kapsamında kalan haberleşme cihazlarında kullanarak markaya tecavüz ve haksız rekabet oluşturduğunu iddia etti.",
+        "reasoning_text": "Mahkeme, HMK 353. ve 356. maddeleri gereğince dosya içeriğine göre duruşma yapılmasına gerek görülmeyen dosya üzerinde yapılan inceleme sonucuna dayanarak, davacı vekilinin yerinde görülmeyen istinaf isteminin ESAS TAN REDDİNE karar verdi. Alınması gereken 35,90 TL harcin, peşin alınan 31,40 TL harçtan mahsubu ile bakiye 4,50 TL eksik harcin davacidan alınarak hazineye irat kaydına, istinaf yargılama giderlerinin davacı üzerinde bırakılmasına, istinaf incelemesi duruşmasız yapıldığından avukatlık ücreti takdirine yer olmadığına karar verdi.",
+        "verdict_text": "Dair, dosya üzerinde yapılan inceleme sonucu 16/03/2018 tarihinde oy birliği ile kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353/1-b-1",
+            "SMK 159",
+            "HMK 389-390",
+            "HMK 353",
+            "HMK 356"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin istinaf istemini reddetti ve davacıdan 4,50 TL eksik harç aldı. İstinaf incelemesi duruşmasız yapıldı ve avukatlık ücreti takdirine yer verilmedi.",
+    "summary_for_model": "Karar, HMK 353/1-b-1 maddesine dayanarak istinaf isteminin reddedilmesine, 4,50 TL eksik harçın alınmasına ve istinaf giderlerinin davacı üzerinde bırakılmasına karar verdi. Avukatlık ücreti takdirine yer verilmedi."
+}

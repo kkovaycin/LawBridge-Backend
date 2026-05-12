@@ -1,0 +1,34 @@
+{
+    "meta_data": {
+        "file_name": "2019_623.pdf",
+        "court_name": "T.C. İSTANBUL BÖLGE ADLİYE MAHKEMESİ 14. HUKUK DAİRESİ",
+        "esas_no": "2018/411 Esas - 2018/504 Karar",
+        "karar_no": "2021/290",
+        "case_subject": "Tazminat davası",
+        "dava_tarihi": "08/05/2018",
+        "karar_tarihi": "04/03/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialarda davacı, davalının mobil elektronik haberleme hizmeti sunduğunu, markası tanınmış olduğunu ve hak ihlali nedeniyle sorumlu olduğunu iddia etmiştir. Davacı, davalının ticari itibarı zedelediğini ve hak ihlali nedeniyle sorumlu olduğunu iddia etmiştir.",
+        "reasoning_text": "Davacı, davalının sosyal sorumluluk projesine yönelik faaliyetlerinin ticari faaliyete ilgisiz olduğunu ve hak ihlali nedeniyle sorumlu olduğunu iddia etmiştir. İlk derece mahkemesi, davanın reddine karar vermiştir. Davacı, bu karara karşı istinaf başvurusu yapmıştır.",
+        "verdict_text": "Davanın reddine, alınması gereken 59,30 TL harçın peşin olarak yatırılması, davacı tarafından yapılan yargılama giderlerinin kendi üzerinde bırakılması, avukatlık asgari ücret tarifesine göre belirlenen vekalet ücretinin davacıdan alınarak davalına verilmesi, bakiye gider avanslarının taraflara iadesi, istinaf aşamasındaki yargılama giderlerinin davacıdan alınarak davalına verilmesi ve davanın ilk derece mahkemesine gönderilmesi kararı verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TMK 25",
+            "TBK 49",
+            "TBK 58",
+            "TTK 55",
+            "TTK 56",
+            "TTK 58",
+            "Anayasa 25",
+            "Anayasa 26",
+            "HMK 355",
+            "HMK 326/1",
+            "HMK 353/1.b.2",
+            "HMK 362/1.a"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının ticari itibarı zedelediğini ve hak ihlali nedeniyle sorumlu olduğunu iddia etmiştir. İlk derece mahkemesi, davanın reddine karar vermiştir. Davacı, bu karara karşı istinaf başvurusu yapmıştır.",
+    "summary_for_model": "Davacı, davalının ticari itibarı zedelediğini ve hak ihlali nedeniyle sorumlu olduğunu iddia etmiştir. İlk derece mahkemesi, davanın reddine karar vermiştir. Davacı, bu karara karşı istinaf başvurusu yapmıştır. Davanın reddine, alınması gereken harç ve vekalet ücretinin davacıdan alınarak davalına verilmesi kararı verilmiştir."
+}

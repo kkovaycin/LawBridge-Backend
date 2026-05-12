@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2025_158.pdf",
+        "court_name": "11. AŞLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2025/158",
+        "karar_no": "2025/202",
+        "case_subject": "Tasarım ve Marka İhlalleri",
+        "dava_tarihi": "03/03/2025",
+        "karar_tarihi": "04/03/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekili aracılığıyla, 2016'da tasarımı yapılan pamuk ayırma makinesiyle ilgili hak iddiasında bulundu. Vekil şirket tarafından tescil edilmiş tasarımın ihracatı için davacı tarafından taleplerde bulunuldu. Davacı, sosyal medya ve ticari faaliyetlerde ihracat işlemlerinin kopyalandığını iddia etti. Davacı, 2024'te Arapçuluk Bürosu aracılığıyla anlaşma talep etti ancak sonuçsuz kaldı. Davacı, vekil şirketin maddi ve manevi haklarını ihlal ettiğini iddia etti.",
+        "reasoning_text": "Mahkeme, davacının iddialarını değerlendirerek, vekil şirketin tasarım ve marka haklarını ihlal ettiğini tespit etti. 6100 sayılı Kanun'un 109. maddesi uyarınca, maddi ve itibar kaybı tazminatı talep edildi. Mahkemenin görev yetkisi, Fikri ve Sınai Haklar Hukuk Mahkemesi'ne ait olduğundan, davanın bu mahkemeye sevk edildiği kararı verildi.",
+        "verdict_text": "Yukarıda açıklanan gerekçelere binaen; 1-Davacının davasının HMK'nin 114/1-c ve 115/2 maddeleri gereğince görev dava şartı yokluğundan USULDEN REDDİNE, 2-Görevli Mahkemenin İSTANBUL FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ olduğuna, 3-Taraflardan birinin yasal süresi içinde (kanun yoluyla başvurulamayarak kesinleşmesi halinde kararın kesinleştiği tarihten kanun yoluyla başvurulması halinde bu başvurunun reddi kararının tebliği üzerinden en geç iki hafta içerisinde) müracaat edildiğinde dosyanın görevli mahkeme olan İSTANBUL FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ GÖNDERİLMESİNE, 4-Yasal süresi içinde (kanun yoluyla başvurulmayarak kesinleşmesi halinde kararın kesinleştiği tarihten kanun yoluyla başvurulması halinde bu başvurunun reddi kararının tebliği üzerinden en geç iki hafta içerisinde) dosyanın görevli mahkemeye gönderilmesi için taraflardan birinin müracaat etmemesi halinde davanın açılmamış sayılmasına karar verileceğinin taraflara ihbarına, 5-Yargılama harç ve giderleri hususlarının görevli mahkemede değerlendirilmesine, Dair, gerekçeli kararın tebliği üzerinden itibaren iki hafta içerisinde İstanbul Bölge Adliye Mahkemesi nezdiinde istinaf yasa yolu açık olmak üzere dosya üzerinden yapılan inceleme sonunda karar verildi 04/03/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Kanun",
+            "6769 sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "Davacı, vekil şirketin tasarımı ve markasını ihlal ettiğini iddia etti. Mahkeme, davanın Fikri ve Sınai Haklar Hukuk Mahkemesi'ne ait olduğunu tespit etti ve davayı bu mahkemeye sevk etti.",
+    "summary_for_model": "Davacı, vekil şirketin tasarım ve marka haklarını ihlal ettiğini iddia etti. Mahkeme, davanın Fikri ve Sınai Haklar Hukuk Mahkemesi'ne ait olduğunu tespit etti ve davayı bu mahkemeye sevk etti. 6100 ve 6769 sayılı kanunlar ihal edildi."
+}

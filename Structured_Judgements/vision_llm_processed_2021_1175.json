@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2021_1175.pdf",
+        "court_name": "İstanbul Anadolu 3. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2014/1763",
+        "karar_no": "2025/143",
+        "case_subject": "İtirazin İptali (Hizmet Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "02/03/2021",
+        "karar_tarihi": "30/01/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; davalının Hollanda'da düzenlenecek festival için ana sponsor olarak anlaşma yapması, ancak ödemeyi yapmaması nedeniyle davacıya 50.000 Euro borçlu olduğunu iddia etmiştir. Davacı, davalının sponsorluk ücretini ödemediği için davayı açmıştır.",
+        "reasoning_text": "Mahkeme, davalının davacıya borçlu olduğu 50.000 Euro'nun tamını ödemediği için dava konusu olarak kabul etmiştir. Davacı vekili tarafından yapılan itirazın iptali talebini reddetmiştir. Davalının davacıya borçlu olduğu tutar için kütüneyet tazminatı talebini kabul etmiştir.",
+        "verdict_text": "Davacı vekili tarafından yapılan itirazın iptali talebini reddetmiştir. Davalının davacıya borçlu olduğu 50.000 Euro'nun tamını ödemediği için dava konusu olarak kabul etmiştir. Davalının davacıya borçlu olduğu tutar için kütüneyet tazminatı talebini kabul etmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "3095 Sayılı Kanun",
+            "492 Sayılı Harçlar Kanunu",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının Hollanda'da düzenlenecek festival için ana sponsor olarak anlaşma yapmasına rağmen ödemeyi yapmadığı için davayı açmıştır. Mahkeme, davalının davacıya borçlu olduğu 50.000 Euro'nun tamını ödemediği için dava konusu olarak kabul etmiştir.",
+    "summary_for_model": "Davacı, davalının Hollanda'da düzenlenecek festival için ana sponsor olarak anlaşma yapmasına rağmen ödemeyi yapmadığı için davayı açmıştır. Mahkeme, davalının davacıya borçlu olduğu 50.000 Euro'nun tamını ödemediği için dava konusu olarak kabul etmiştir. Davacı vekili tarafından yapılan itirazın iptali talebini reddetmiştir."
+}

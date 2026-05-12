@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2020_2441.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2018/31 E. - 2019/517 K.",
+        "karar_no": "2024/158",
+        "case_subject": "Endüstriyel Tasarım Tecavüzünün Tespiti, Önlenmesi, Durdurulması, Kaldırılması, Maddi ve Manevi Tazminat",
+        "dava_tarihi": "05/12/2019",
+        "karar_tarihi": "05/02/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı vekilinin ticari faaliyetlerinde, davacı tarafından tescil edilen tasarıma benzeyen ürünler sattığını iddia ediyor. Davalı vekili, bu iddialara karşı savunma yapmış ve davacı tarafından sunulan kanıtların yetersiz olduğunu belirtmiştir.",
+        "reasoning_text": "Mahkeme, davacı tarafından sunulan kanıtların yetersiz olduğunu ve davalı vekilinin ticari faaliyetlerinin davacı tarafından iddia edilen tasarıma benzeyen ürünler sattığını kanıtlayamadığını tespit etmiştir. Bu nedenle, davacı tarafından yapılan iddiaların reddedildiğini ve davanın reddine karar verildiğini belirtmiştir.",
+        "verdict_text": "İstanbul 2. Fıkri ve Sınai Haklar Hukuk Mahkemesi'nin 05/12/2019 tarihli ve 2018/31 E., 2019/517 K. sayılı kararının istinaf talebinin reddedildiği, davacı-karşı davalı vekilinin istinaf başvurusunun 6100 Sayılı Hukuk Mahkemeleri Kanunu'nun 353/1-b/1. maddesi gereğince esastan reddine karar verildiği ve davanın reddine karar verildiği belirtilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Mahkemeleri Kanunu",
+            "492 Sayılı Harçlar Kanunu",
+            "7035 Sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı tarafından iddia edilen ticari faaliyetlerde davalı vekilinin davacı tarafından tescil edilen tasarıma benzeyen ürünler sattığını kanıtlayamadığını tespit etmiştir. Bu nedenle, davanın reddine karar verilmiştir.",
+    "summary_for_model": "Mahkeme, davacı tarafından sunulan kanıtların yetersiz olduğunu ve davalı vekilinin ticari faaliyetlerinin davacı tarafından iddia edilen tasarıma benzeyen ürünler sattığını kanıtlayamadığını tespit etmiştir. Bu nedenle, davanın reddine karar verilmiştir. Davacı-karşı davalı vekilinin istinaf başvurusunun 6100 Sayılı Hukuk Mahkemeleri Kanunu'nun 353/1-b/1. maddesi gereğince esastan reddine karar verilmiştir."
+}

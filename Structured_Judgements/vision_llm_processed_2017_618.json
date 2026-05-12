@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2017_618.pdf",
+        "court_name": "T.C. BAKIRKÖY 1. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2017/618",
+        "karar_no": "2019/139",
+        "case_subject": "Haksız rekabet davası",
+        "dava_tarihi": "07/11/2017",
+        "karar_tarihi": "16/04/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının davacı tarafından kullanılan reklam filmlerinin kısmen montajlanarak kendileri tarafından kullanılan reklam filmlerinde kullanılmasına karşı dava açtı. Davalının reklam filmlerinde davacı tarafından kullanılan görsellerin montajı ve yeni bir metin eklenmesi, davacı tarafından hak ihlali olarak değerlendirildi.",
+        "reasoning_text": "Mahkeme, davacı tarafından yapılan reklam filmlerinin kısmen montajlanarak davalının reklam filmlerinde kullanılmasına karşı hak ihlali olarak karar verdi. Davacı tarafından yapılan reklam filmlerinin davalının reklam filmlerinde kullanılması, hak ihlali olarak değerlendirildi.",
+        "verdict_text": "HÜKÜM: Gereğecesine yukarıda açıklanmış üzere; 1-Davacının davasının KISMEN KABULÜNE, davalların davacı tarafa ait reklam filminin kısmen montajlamak suretiyle kendi reklamlarında kullanmalarına karşı hak ihlali olarak karar verildi. 2-Karar kesinleştiğinde, masrafı davallardan alınarak hüküm özetinin ülke çapında yayınlanan bir gazete ile ilanına, fazlayla dair taleplerin reddine, 3-Karar tarihinde yürürlükte bulunan harçlar tarifesi gereğince hesaplanan 44,40 TL ilam harçından, 31,40 TL peşin harç mahsubu ile, 13,00 TL bakiye karar harcının davallardan tahsili ile hazinede irat kaydına, 4-Karar tarihinde yürürlükte bulunan avukatlık asgari ücret tarifesi gereğince hesaplanan 3.931,00 TL vekalet ücretinin, davallardan alınarak davacıya verilmesine, 5-Davanın kısmen reddi sebebiyle, karar tarihinde yürürlükte bulunan avukatlık asgari ücret tarifesi gereğince hesaplanan 3.931,00 TL vekalet ücretinin, davacıdan alınarak davallara verilmesine, 6-Davacı tarafından yapılan 62,80 TL başvuru ve peşin harç giderinin, davallardan alınarak davacıya verilmesine, 7-Davacı tarafından yapılan 434,00 TL tebligat-tezkere ve 2.250,00 TL bilirkişi ücreti olmak üzere toplam 2.684,00 TL yargılama giderinin, davanın kısmen kabulü nedeniyle takdiren 1.342,00 TL'sinin, davallardan alınarak davacıya verilmesine, bakiyesinin üzerinde bırakılmasına, 8-Talep halinde kararın taraf vekillerine tebliğiğine, 9-Karar kesinleştiğinde kullanılmayacak gider avansının ilgisine iaadesine, Davacı vekilinin yüzüne karşı, davalların yokluğunda verilen karar, kararın tebliğiğinden itibaren 2 hafta süre içerisinde İstanbul Bölge Adliye Mahkemesi Hukuk Dairesi nezdiinde İstinaf kanun yolu açık olmak üzere, açıkça okunup anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İstinaf Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının reklam filmlerinde kendisinin reklam filmlerinin kısmen montajı ve yeni bir metin eklenmesini hak ihlali olarak değerlendirdi. Mahkeme, davacı tarafından yapılan reklam filmlerinin kısmen montajlanarak davalının reklam filmlerinde kullanılmasına karşı hak ihlali olarak karar verdi.",
+    "summary_for_model": "Davacı, davalının reklam filmlerinde kendisinin reklam filmlerinin kısmen montajı ve yeni bir metin eklenmesini hak ihlali olarak değerlendirdi. Mahkeme, davacı tarafından yapılan reklam filmlerinin kısmen montajlanarak davalının reklam filmlerinde kullanılmasına karşı hak ihlali olarak karar verdi."
+}

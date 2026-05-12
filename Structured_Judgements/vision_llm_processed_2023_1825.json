@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2023_1825.pdf",
+        "court_name": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2025/911",
+        "karar_no": "2023/178",
+        "case_subject": "Markanın Hükümsuzluğu, Markaya ve Tasarıma Tecavüz, Haksız Rekabetin Teşhiti, Meni, Refi, Ticaret Unvanının Terkini",
+        "dava_tarihi": "26/09/2023",
+        "karar_tarihi": "02/07/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde; müvekkili şirketin 1970'li yıllarda kurulduğunu, markasının tanınmış marka olduğunu ve bunun TÜRKPATENT ve yabancı mahkeme kararları ile davalı tescilinin başuru tarihi olan 18.11.2016 tarihinden çok önce sabit olduğunu iddia etmiştir. Müvekkilinin markalı ürünlerini kullanum amaçlarına göre kategorilere ayırdığını ve bu kategorilerin her biri için ayrı alt markalar yarattığını, bu markaların tüm dünyada uzun yıllardır tescilli olduğunu, markasının TÜRKPATENT nezdiinde ilk kez 1997 yılında belirli numarayla tescil edildiğini, diğer markaların da 3. sınıfta tescil edildiğini, müvekkilin markasını dünya çapında uzun yıllardır pek çok alan adının kılavuz unsuru olarak aktif bir şekilde kullandığını, Türkiye'de de belirli alan adını 2007 yılında önceki unvanıyla tescil ettirerek halen hazırda müvekkiline ait olduğunu iddia etmiştir.",
+        "reasoning_text": "İlk derece mahkemesinde davanın kısmen kabulüne karar verilmiştir. İstinaf incelemesi, HMK'nın 355. maddesi gereğince, ileri sürülen istinaf başvuru nedenleri ve kamu düzeyi yönüyle sınırlı olarak yapılmıştır. Davacı vekilinin öncelikli istinaf istemini; tasarım tecavüz iddiasının karara bağlanmamasının HMK 297 maddesine aykırılık oluşturduğunu yönünden desteklemiştir. 6100 sayılı HMK'nun \"Hüküm Kapsamı\" başlıklı 297. Maddesinin 2. fikrasında; hükmün sonuç kısmında, gerekçeye ait herhangi bir söz tekrar edilmeksizin, taleplerden her biri hakkında verilen hükmü, taraflara yüklenen borç ve tanınan hakların sıra numarası altında; açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gerektiği düzenleme altına alınmıştır.",
+        "verdict_text": "Gerekçesi ayrıntılı kararda açıklandığı üzere: 1-Davalı vekilinin istinaf isteminin KISMEN KABULÜNE, 2-İstanbul Anadolu 1. Fikri Ve Sınai Haklar Hukuk Mahkemesinin 26/09/2023 gün ve 2021/198 Esas, 2023/178 Karar sayılı kararının 6100 sayılı HMK'nun 353/1-a-6 maddesi gereğince KALDIRILMASINA, 3-İstinaf talebi kabul edildiğinden, istinaf peşin harcının talebi halinde davalı tarafa iaadesine, 4-İstinaf aşamasında davalı tarafından yapılan yargılama gideri olan 738TL istinaf yoluna başvurma harci ile 360TL posta masrafı olmak üzere toplam 1.098TL'nin davacıdan alınarak davalya verilmesine, 5-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinden yapılan inceleme sonunda, HMK'nun 353/1-a-6 maddesi uyarınca oy birliğiyle kesin olarak karar verildi. 02/07/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK m.6/3",
+            "SMK m.6",
+            "SMK m.6/1",
+            "SMK m.6/5",
+            "SMK m.6/9",
+            "HMK 297 Maddesi",
+            "HMK 353 Maddesi",
+            "6100 sayılı HMK"
+        ]
+    },
+    "summary_for_human": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi, davacı vekilinin istinaf istemini kısmen kabul ederek ilk derece mahkemesinin kararını kaldırmıştır. Davacı vekilinin tasarım tecavüz iddiası ve haksız rekabet iddiaları reddedilmiştir. Davacı vekilinin istinaf isteminin kabulüne karar verilmiştir.",
+    "summary_for_model": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi, davacı vekilinin istinaf istemini kısmen kabul ederek ilk derece mahkemesinin kararını kaldırmıştır. Davacı vekilinin tasarım tecavüz iddiası ve haksız rekabet iddiaları reddedilmiştir. Davacı vekilinin istinaf isteminin kabulüne karar verilmiştir. HMK 297 ve 353 maddeleri ve 6100 sayılı HMK'nun 353/1-a-6 maddesi esas alınmıştır."
+}

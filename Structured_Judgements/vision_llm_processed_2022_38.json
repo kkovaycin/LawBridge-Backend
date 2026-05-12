@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2022_38.pdf",
+        "court_name": "Bakırköy 2. Fikri Ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/142 E. - 2021/143 K.",
+        "karar_no": "2022/54",
+        "case_subject": "Tespit (D.İş)",
+        "dava_tarihi": "13/07/2021",
+        "karar_tarihi": "11/01/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkili şirketin Ankara'da mobilya alanında faaliyetinde, tescil nülu mobilya tasarımlarının hak sahibi olduğunu iddia ediyor. Karşı taraf firma tarafından izinsiz üretildi ve satıldı. Davacı, internet adreslerinde ve Instagram sayfasında tanıtım ve satış yapıldığını iddia ediyor. İlk derece mahkemesi, SMK'nin 159. ve HMK'nin 389. maddeleri çerçevesinde, 20.000,00 TL teminat ile aleyhine tespit kararı verdi.",
+        "reasoning_text": "İkinci derece mahkemesi, ilk derece kararının usul ve yasaya uygun olmadığını tespit etti. Karşı taraf vekili, istinaf dilekçesinde, dava konusu tasarımların benzersizliğini ve hak ihlali iddialarının yetersiz olduğunu savundu. Mahkeme, HMK'nin 355. maddesi ve 6100 sayılı Hukuk Muhakemeleri Kanunu'na dayanarak, istinaf dilekçesinin reddedildiğini ve ilk derece kararının kaldırıldığını kararlaştırdı.",
+        "verdict_text": "HÜKÜM: Gereğcesi yukarıda açıklandığı üzere; 1- Usul ve yasaya uygun Bakırköy 2. Fikri Ve Sınai Haklar Hukuk Mahkemesi'nin 13/07/2021 tarih ve 2021/142 E., 2021/143 K. sayılı kararına karşı taraf vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2- 492 Sayılı Harçlar Kanunu gereğince alınması gereken 80,70 TL maktu istinaf kararı ve ilam harcından peşin yatırılan 59,30 TL harcin mahsubu ile bakiye 21,40 TL harcin karşı (davalı) tarafından tahsiliyle Hazineye gelir kaydedilmesine, 3- Karşı tarafa istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, 4- İncelemenin durusmasız olarak yapılması sebebiyle taraflara vekalet ücreti takdirine yer olmadığına, 5- Karşı taraflarca yatırılan gider avansından harçanmayan kısmın karar kesinleştiğinde iadesine, 6- Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin ilk derece Mahkemesine yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/(1)-f. ve 394/(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi. 11/01/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK'nin 159. maddesi",
+            "HMK'nin 389. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "492 Sayılı Harçlar Kanunu",
+            "6100 Sayılı HMK'nın 353/1-b/1. maddesi",
+            "6100 Sayılı HMK'nın 362/(1)-f. ve 394/(5). maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkili şirketin tasarımlarını izinsiz kullanıldığını iddia ediyor. İlk derece mahkemesi aleyhine tespit kararı verdi. İkinci derece mahkemesi, ilk derece kararının usul ve yasaya uygun olmadığını tespit etti ve istinaf dilekçesini reddetti. Karar, HMK ve diğer kanunlara dayanarak verildi.",
+    "summary_for_model": "Dava, tasarım hakları ihlali iddiasını içerir. İlk derece mahkemesi, SMK ve HMK maddeleri çerçevesinde tespit kararı verdi. İkinci derece mahkemesi, ilk derece kararının usul ve yasaya uygun olmadığını tespit etti ve istinaf dilekçesini reddetti. Karar, HMK ve diğer kanunlara dayanarak verildi."
+}

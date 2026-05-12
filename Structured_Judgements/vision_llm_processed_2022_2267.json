@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2022_2267.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 14. Hukuk Dairesi",
+        "esas_no": "2022/693",
+        "karar_no": "2022/1774",
+        "case_subject": "Haksız rekabet davası",
+        "dava_tarihi": "27/09/2022",
+        "karar_tarihi": "22/12/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın ilk derece mahkemesinde ihityati tedbir talebinin reddine dair verilen ara karara karşı istinaf başvurusu yapmıştır. Davacı vekili, davanın twitter hesabındaki haklı olmayan içerikler nedeniyle hak ihlali iddia etmiştir.",
+        "reasoning_text": "İlki derece mahkemesi, ihityati tedbir talebinin reddine karar vermiştir. Bu karar, davacının talebini reddetmiştir. İstinaf incelemesi, HMK'nın 355. maddesi uyarınca yapılmıştır.",
+        "verdict_text": "Yukarıda açıklanan gerekçelerle; 1-HMK'nın 353/1.a.6. maddesi uyarınca, ilk derece mahkemesinin ihityati tedbir talebinin reddine dair verdiği 27.09.2022 tarihli ara kararın kaldırılmasına, 2-Yukarıdaki açıklamalar ışığında ihityati tedbir talebinin yeniden karara bağlanması için dosyanın, karar veren ilk derece mahkemesine gönderilmesine, 3-Davacı tarafından yatırılan istinaf peşin karar harcının, talep halinde, ilk derece mahkemesince iadesine, 4-Davacı tarafından yapılan kanun yolu giderlerinin, ilk derece mahkemesince, esas hükmü birlikte yargılama giderleri içinde değerlendirilmesine dair; HMK'nın 353/1.a maddesi uyarınca dosya üzerinde yapılan inceleme sonunda, oy birliğiyle ve kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 61",
+            "TTK 56",
+            "TTK 355",
+            "HMK 353/1.a.6",
+            "HMK 389",
+            "Yargıtay 11. HD. 25.02.2013",
+            "Yargıtay 2013/1854 E. 2013/3274 K."
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, davacının ihityati tedbir talebini reddetmiştir. Davacı vekili, bu karara karşı istinaf başvurusu yapmıştır. Mahkeme, HMK'nın 355. maddesi uyarınca, ilk derece mahkemesinin kararını kaldırmıştır.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, davacının ihityati tedbir talebini reddetmiştir. Davacı vekili, bu karara karşı istinaf başvurusu yapmıştır. Mahkeme, HMK'nın 355. maddesi uyarınca, ilk derece mahkemesinin kararını kaldırmıştır. Davacı tarafından yatırılan istinaf peşin karar harcı, talep halinde iade edilmiştir."
+}

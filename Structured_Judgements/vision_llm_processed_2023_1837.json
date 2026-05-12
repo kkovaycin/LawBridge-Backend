@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_1837.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2023/1837",
+        "karar_no": "2024/119",
+        "case_subject": "Endüstriyel Tasarım (Maddi Tazminat İstemli)",
+        "dava_tarihi": "28/09/2023",
+        "karar_tarihi": "19/01/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Dava, davacı vekili tarafından müvekkilin eser ve tasarım tescillerinden doğan haklarına tecavüz ve haksız rekabet oluşturulan davalı eylemlerinin tespiti ve önlenmesi için açılmıştır. Davacı, davalı tarafından kullanılan ürünlerin tasarım tescillerine benzer olduğunu iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacı vekilinin talebini reddetmiştir. İhtiyati tedbir talebinin, tasarım tescillerine ilişkin benzerlik ve ihlal konularında bilerek tespit yapılmadan, dava dilekçesinde herhangi bir tespit talebi olmadan yapıldığı için kabul edilmemiştir. Ayrıca, davacı vekilinin istinaf isteminin kabulüyle ilk derece mahkemesi kararının kaldırılmasına karar verilmiştir.",
+        "verdict_text": "Dava, davacı vekilinin istinaf isteminin kabulüyle ilk derece mahkemesi kararının kaldırılmasına karar verilmiştir. Davacı vekilinin talebine göre, davalı tarafından kullanılan ürünlerin tasarım tescillerine benzer olduğu iddiası, mahkeme tarafından reddedilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK)",
+            "Sınai Mülkiyet Kanunu",
+            "Türk Patent Kanunu",
+            "Türkiye Ticaret Kanunu (TTK)"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin istinaf istemini kabul ederek ilk derece mahkemesi kararını kaldırmıştır. Davacı vekilinin tasarım tescillerine benzerlik iddiası reddedilmiştir.",
+    "summary_for_model": "Dava, tasarım tescillerine benzerlik iddiası üzerinde odaklanmıştır. Mahkeme, davacı vekilinin istinaf istemini kabul ederek ilk derece mahkemesi kararını kaldırmıştır. Tasarım tescillerine ilişkin benzerlik ve ihlal konularında bilerek tespit yapılmadan talep edilen ihtiyati tedbir reddedilmiştir."
+}

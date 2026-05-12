@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2025_1168.pdf",
+        "court_name": "DENİZLİ BÖLGE ADLİYE MAHKEMESİ 4. HUKUK DAİRESİ",
+        "esas_no": "...",
+        "karar_no": "...",
+        "case_subject": "Tazminat (Sözleşmeden Kaynaklanan)",
+        "dava_tarihi": "26/12/2024",
+        "karar_tarihi": "25/09/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı firmanın ... Mahallesinde bulunan işletmelerdeki elektrik tüketiminin ulusal tarife üzerinden ücretlendirilmesini talep etmiştir. Davalı firma, sözleşme fesih taleplerini kabul etmemiş ve davacıya maddi zarar vermiş olarak iddia edilmiştir.",
+        "reasoning_text": "İlk derece mahkemesi, davacı vekilinin istinaf başvurusunu reddetmiştir. Davacı vekili, davalı firmanın sözleşme fesih taleplerini usulüne uygun şekilde karşılamadığını ve davacıya maddi zarar verdiğini iddia etmiştir.",
+        "verdict_text": "İstinaf mahkemesi, davacı vekilinin istinaf başvurusunu kabul etmiştir. Davalı firmanın davacıya maddi zarar verdiği kabul edilmiş ve davacıya 100,00 TL zarar tazminatı ödenmesi kararı verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hukuk Muhakemeleri Kanunu'nun 353. maddesi",
+            "Hukuk Muhakemeleri Kanunu'nun 355. maddesi",
+            "Asliye Ticaret Mahkemesi'nin 26/12/2024 tarihli kararı"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davalı firmanın elektrik tüketimini ulusal tarife üzerinden ücretlendirmediğini iddia ederek dava açmıştır. İlk derece mahkemesi davacı vekilinin istinaf başvurusunu reddetse de, istinaf mahkemesi davacıya 100,00 TL zarar tazminatı ödenmesini kararlaştırmıştır. Davalı firmanın davacıya maddi zarar verdiği kabul edilmiştir.",
+    "summary_for_model": "Davacı vekili, davalı firmanın elektrik tüketimini ulusal tarife üzerinden ücretlendirmediğini iddia ederek dava açmıştır. İlk derece mahkemesi davacı vekilinin istinaf başvurusunu reddetse de, istinaf mahkemesi davacıya 100,00 TL zarar tazminatı ödenmesini kararlaştırmıştır. Davalı firmanın davacıya maddi zarar verdiği kabul edilmiştir. Davacı vekilinin istinaf başvurusu, Hukuk Muhakemeleri Kanunu'nun 353/1-b.1 maddesi uyarınca esastan reddine karar verilmiştir."
+}

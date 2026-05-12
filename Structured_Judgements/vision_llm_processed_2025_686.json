@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2025_686.pdf",
+        "court_name": "T.C. İSTANBUL BÖLGE ADLİYE MAHKEMESİ 44. HUKUK DAİRESİ TÜRK MÜLLETİADINA İSTİNAF MAHKEMESİ KARARI",
+        "esas_no": "2023/539 E.",
+        "karar_no": "2025/895",
+        "case_subject": "Menfi Tespit (Alim Satim)Alacak (Ödünç Verme Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "25/03/2025",
+        "karar_tarihi": "19/06/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekilince sunulan dava dilekçesinde; mürevkkilinin mal tedariki ve satışlarını fatura karşılığı yaptığını, keştigi çeklerin tacir çeki olarak işleme alındığını, mürevkkiline ait banka hesapları ve nakit alışverişi incelendiğinde, davalı ile aralarında herhangi bir emtia alışverişi ve faturalama olmamasına karşılık taraflar arasındaki alacak borç farkının fahis olduğunu görüleceğini, davalının 4.504.403 TL gönderdiğini, 10.822.326 TL ödeme aldığını, davalının nakit akışında 6.317.923 TL borçlu olduğunun bilirkı raporu ile sabit olduğunu, beyanla dava konusu 31/07/2023 vadeli 504.000 TL bedelli ... nolu ... Bankası Ümraniye Sanayi şubesi çeki, 31.08.2023 vadeli 504.000 tl bedelli ... nolu ... Bankası Ümraniye Sanayi şubesi çeki, 31.09.2023 vadeli 504.000 tl bedelli ... nolu ... Bankası Ümraniye Sanayi şubesi çeki, 31.10.2023 vadeli 720.000 tl bedelli ... nolu ... Bankası Ümraniye Sanayi şubesi çeki, nedenle davalı ...'a borçlu olmadığının tesbiti, dava konusu çeklerin ödenmemesine karar verilmesi, dava sonuna kadar çeklerin ödenmesinin tedbiren durdurulmasına karar verilmesini talep etmiştir.",
+        "reasoning_text": "Davacının mürevkkilinden borç istediğini, mürevkkilinin banka kanalıyla açıklamasına da \"borç\" olduğu yazılarak borç gönderdiğini, bu sebeple de kendisine kambiyo senedi verildiğini, ispat yükünün davacıda olduğunu beyanla davanın reddine, %20 kötüniyet tazminatina hükmedilmesini talep etmiştir. İstanbul 6. Asliye Ticaret Mahkemesi'nin 2023/539 esas 25/03/2025 tarihli kararı ile: \"dosağın deli durumu itibariyle mevcut durumda meydana gelebilecek değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacakı, gecikme sebebiyle ciddi bir zararın doğabileceğine ilişkin kanaat ve koşullarının oluşmadığı\" gereğiyle; tedbir istemin reddine karar verilmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarda açıklandığı üzer; 1-Üsül ve yasaya uygun İstanbul Anadolu 6. Asliye Ticaret Mahkemesi'nin 25.03.2025 tarih ve 2023/539 E. Sayılı ara kararına karşı davacı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gereken 615,40-TL istinaf karar harçı davacı tarafından peşin yatırıldığından yeniden harç alınmasına yer olmadığına,3-Davacı tarafça istinaf aşamasında yapılan yargılama giderlerinin üzerinde birakılmasına,4-İncelemenin duruşmasız olarak yapılması sebebiyle taraflar yarına vekalet ücreti tayinine yer olmadığına,5-Taraflarça yatırılan gider avansından harçanmayan kısmin karar kesinleştiğinde iaadesine,6-Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iaadesi işlemlerinin ilk derece Mahkemesince yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/(1)-f. ve 394/(5). maddeleri gereğiçe, kesin olmak üzerine oy birliğiyle karar verildi. 19/06/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu (HMK)",
+            "492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir mürevkkilinin davalı üzerinden aldığı para için borç talep etmesiyle ilgili. Mahkeme, davalıın banka hesaplarından aldığı para miktarını ve çeklerı incelerken, davalıın borçlu olmadığını saptadı. Ancak, dava sonuna kadar çeklerin ödenmemesi nedeniyle, mahkeme tedbir talebini reddetti. Son olarak, istinaf talebinin de reddedilmesiyle dava sona erdi.",
+    "summary_for_model": "Dava, mürevkkilinin davalı üzerinden aldığı para için borç talep etmesiyle ilgili. HMK 355. madde ve 353/1-b/1. maddeye göre, davalıın borçlu olmadığını saptayan mahkeme karını reddetti. HMK 362/(1)-f. ve 394/(5). maddeleri uyarınca, istinaf talebinin de reddedilmesiyle dava sona erdi."
+}

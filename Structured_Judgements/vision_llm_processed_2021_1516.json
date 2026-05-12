@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_1516.pdf",
+        "court_name": "İzmir Bölge Adliye Mahkemesi",
+        "esas_no": "2020/91",
+        "karar_no": "2021/142",
+        "case_subject": "Tasarima Tecavüzün Durdurulması, Ölenmesi",
+        "dava_tarihi": "26/01/2021",
+        "karar_tarihi": "27/03/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın asıl ve birleşen dosyalarda tasarım hakkına tecavüz iddiasını savundu. Müvekkilinin davacıya ait tasarımları kullanmadığını, ancak davacı tarafından imal edilen ürünlerin tasarım hakkını ihlal ettiğini iddia etti. Davacı vekili, davanın tecavüzünün devam ettiğini ve davanın maddi ve manevi tazminat talep ettiğini belirtti.",
+        "reasoning_text": "Mahkeme, davacı vekilinin iddialarının tam olarak gerçek dışı olduğunu, davacı tarafından imal edilen ürünlerin tasarım hakkını ihlal etmediğini ve davanın tecavüzünün devam etmediğini tespit etti. Davacı vekilinin davaya konu tasarımların veya kopyalarının üretimini ve satışını yapmadığını ve davacı tarafından imal edilen ürünlerin tasarım hakkını ihlal etmediğini belirtti.",
+        "verdict_text": "Asıl ve birleşen dava davacı vekili tarafından reddedildi. Davacı vekilinin istinaf itirazlarının kabulüne, yerel mahkeme kararının HMK 353/1-a-6. maddesi uyarınca kaldırılmasına, davanın yeniden görülmesi için dosyanın ilk derece mahkemesine gönderilmesine, istinaf aşamasında davacı tarafından yapılan yargılama giderlerinin ilk derece mahkemesince yeniden verilecek kararda ele alınmasına, istinaf incelemesi duruşmasız yapıldığından vekalet ücretine hükmedilmesine yer olmadığına, kararın taraflara tebliği, kesinleştirme, harç ve gider avans işlemlerinin ilk derece mahkemesine yerine getirilmesine karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemesi Kanunu (HMK) 353. madde",
+            "Hukuk Muhakemesi Kanunu (HMK) 356. madde",
+            "Hukuk Muhakemesi Kanunu (HMK) 353/1-a-6. madde"
+        ]
+    },
+    "summary_for_human": "İzmir Bölge Adliye Mahkemesi, tasarım hakkına tecavüz iddiasıyla açılan davayı reddetmiştir. Mahkeme, davacı vekilinin iddialarının gerçek dışı olduğunu ve davacı tarafından imal edilen ürünlerin tasarım hakkını ihlal etmediğini tespit etmiştir.",
+    "summary_for_model": "Mahkeme, tasarım hakkına tecavüz iddiasıyla açılan davayı reddetmiştir. Davacı vekilinin iddialarının gerçek dışı olduğunu ve davacı tarafından imal edilen ürünlerin tasarım hakkını ihlal etmediğini tespit etmiştir. Davacı vekilinin istinaf itirazlarının kabulüne ve davanın yeniden görülmesine karar verilmiştir."
+}

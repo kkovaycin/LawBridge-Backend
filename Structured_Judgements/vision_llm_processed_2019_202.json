@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2019_202.pdf",
+        "court_name": "T.C. İstanbul Anadolu 2. Fıkri Ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2019/202 Esas",
+        "karar_no": "2019/72",
+        "case_subject": "Marka hakları ihlali ve maddi/manevi tazminat davası",
+        "dava_tarihi": "18/06/2019",
+        "karar_tarihi": "23/09/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekilinin müvekkili şirketin markasını kullanmakla suçladığı ve sosyal medyada markayı kullanmaya devam ettiğini iddia ediyor. Davacı, markanın kullanılmasına karşı büyük maddi ve manevi zarar aldığını iddia ediyor.",
+        "reasoning_text": "Davacı, arabuluculuk faaliyetine rağmen anlaşma sağlanamadığı için son tutanağı davaya eklemek zorunda kaldı. Davacı vekili, son tutanağın bir haftalık süre içinde mahkemeye sunulmadığı için davanın usulden reddedileceği ihbar edildi.",
+        "verdict_text": "Davanın USULDEN REDDİNE, Harç peşin alınmıştı, Yapılan yargılama giderleri davacı üzerinde bırakıldı, Davacı tarafından yapılan yargılama gideri bulunmadığı için karar verildi, Gider avansından kullanılmayan kısmın karar kesildiği için davacıya İADESİNE."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 149",
+            "6102 sayılı TTK.5.maddesi",
+            "Maddesi 5/A (1')",
+            "Yasanın 18/A-(2) maddesi",
+            "HMK 114/2",
+            "HMK 115/2"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkili şirketin markasını kullanmakla suçladı ve maddi/manevi zarar talep etti. Arabuluculuk sonrası anlaşma sağlanamadığı için dava usulden reddedildi.",
+    "summary_for_model": "Marka hakları ihlali davası, arabuluculuk sonrası anlaşma sağlanamadığı için usulden reddedildi. Davacı vekili son tutanağı eklemediği için dava reddedildi."
+}

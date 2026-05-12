@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2022_577.pdf",
+        "court_name": "İSTANBUL BOLGE ADLİYE MAHKEMESİ 16. HUKUK DAİRESİ TÜRKİLİTADINA İSTİNAFKARARI",
+        "esas_no": "2022/577 Esas",
+        "karar_no": "2022/998 Karar",
+        "case_subject": "Fikri Ve Sanat Eseri (Maddi Tazminat İsteği)",
+        "dava_tarihi": "02/06/2022",
+        "karar_tarihi": "02/06/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, dava dilekçesinde müvekkilin telafisi mümkün olmayan zarara uğraması ve tecavüz füllerinin durdurulması için taleplerde bulundu. Davalı tarafından sosyal medya hesaplarında yayınlanan videoların engellenmesi ve davaların durdurulması istendi. Davacı, davanın konusu olan müzikalin hak sahibinin davacı olduğunu iddia etti.",
+        "reasoning_text": "Mahkeme, davanın konusu olan müzikalin hak sahibinin davacı olduğunu tespit etti. Davalı tarafından sahnelenen müzikalin hak sahibinin davacı olduğunu ve bu nedenle davanın reddedilmesi gerektiğini karar verdi. Davacı vekili istinaf başvurusunda bulundu.",
+        "verdict_text": "İstanbul Anadolu 2. Fikri ve Sanai Haklar Hukuk Mahkemesi'nin 30/12/2021 tarihli 2021/198 Esas sayılı kararını; Mahkeme dosyası ile birleştirilmesine karar verilen ve İstanbul Anadolu 1. Fikri ve Sanai Haklar Hukuk Mahkemesi'nin 2021/210 esas sayılı dosyası ve Mahkeme dosyası içerisine gönderilen İstanbul 1. Fikri ve Sanai Haklar Hukuk Mahkemesi'nin 2020/15 d.iş sayılı dosyasından alınan bilirkişi raporu, tüm dosya kapsamı, birlikte değerlendirildiğinde, davacının davaya konu ... isimli müzikalin hak sahibinin dava dışı ... olduğunu, bu şirket tarafından davacının bu eser üzerindeki mali ve diğer hakları kullanmak için yetki verildiğini, davalı tarafından sahnelenen ... müzikalin hak sahibinin davacı olduğunu, bu nedenle davanın tarafından gerçekleştirilen müzikli sahnelemesinin engellenmesi, buna ilişkin bilet satışlarının yasaklanması, İstanbul 1. Fikri ve Sanai Haklar Hukuk Mahkemesi'nin 2020/15 D iş sayılı dosyasından yapılan tespitlerin yeterli görülmediği takdirde, davalı tarafından sahnelenen ... isimli gösterinin bilirkişilerle izlenmesine ve gerekli tespitlerin yapılması, dava tarihinden itibaren yargılama bitinceye kadar davalıların ... isimli gösteriyi sahnelemesinin tedbiren durdurulmasına, bu doğrultuda verilecek olan ihtiyati tedbir kararı tarihinden sonra kendilerince bildirilecek eserin sahnelemeyeceği adreslere yazılı bildirimlerin yapılmasına, davalılar nzdinde, üzerinde ... ibaresi bulunan her türlü basılı ve yazılı evrak ve tantum materyallerinin, tabla, pano, oyuncak, promosyon malzemelerinin tedbiren el konulmasına, toplatılmasına ve yeddiemine teslimine, karar verilmesini talep etmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 356"
+        ]
+    },
+    "summary_for_human": "Davacı, davanın konusu olan müzikalin hak sahibi olduğunu iddia ederek davayı açtı. Mahkeme, davanın reddedilmesi gerektiğini karar verdi. Davacı vekili istinaf başvurusunda bulundu.",
+    "summary_for_model": "Davacı, davanın konusu olan müzikalin hak sahibi olduğunu iddia etti. Mahkeme, davanın reddedilmesi gerektiğini karar verdi. Davacı vekili istinaf başvurusunda bulundu. Davanın konusu olan müzikalin hak sahibinin davacı olduğunu tespit edildi."
+}

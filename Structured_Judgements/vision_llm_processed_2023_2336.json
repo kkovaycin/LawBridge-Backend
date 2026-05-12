@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_2336.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2023/424",
+        "karar_no": "2023/1935",
+        "case_subject": "İhtiyati Tedbir",
+        "dava_tarihi": "02/10/2023",
+        "karar_tarihi": "13/12/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacılar vekili tarafından sunulan cevaba cevap dilekçesi ile; sermayesinin gerçekte %52,68'lik kısmı ...'ya; %36,87'lik kısmı ise ...'ya ait olduğu, bu payların bir inanç ilişkisi uyarınca emaneten ... AŞ'ye devredildiği, davalı ... TV'nin elinde bulunan ... AŞ paylarının toplam %89,55'inin hisseleri oranında ...'ya ve ...'ya ait olduğu, ...'nin de tamami ...'ya ait olup ve bu şirketin emaneten davalı ... üzerine yapıldığı, halka arz saikiyle, ... AŞ'nin hisselerinin ... AŞ'ye devredildiği, halka arz için bu şirketlerin kendisi üzerinde gözükmesi gerektiğine inandırarak hisseleri devraldığı, halka arz gerçekleştiremediği gibi emaneten elinde tuttuğu hisseleri de davacılara iade etmediği; davalı ...'un ... hisselerini, ... TV'nin ise ... hisselerini üçüncü kişilere devretmesinin ve bu hisseler üzerinde herhangi bir aynı takyıdat kurallarının HMK.m. 389 uyarınca yasaklanmasını talep etmiştir.",
+        "reasoning_text": "Mahkemecesi; davacıların taraflar arasındaki inançlı işlem dayanması, yargılamanın bulunduğu aşama itibarıyla inançlı işleme ilişkin delil vs sağlayacak yaklaşıklık ispat koşullarının sağlanmadığı, daha önce aynı hususta verilen tedbir talebinin reddine yönelik karara karşı istinaf yasa yoluna gidilmediği ve dosyanın bulunduğu aşama itibarıyla de değişen delil durumu bulunmadığı anlaşıldığından HMK 390/3 maddesi gereğince yaklaşıklık ispat şartı gerçekleşmediğinden ihtiyati tedbir talebinin reddine karar verilmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle: Davacılar/İhtiyati tedbir isteyenlerin vekilinin istinaf başvurusunun HMK'nun 353(1)b-1 maddesi uyarınca ES ASTAN REDDİNE, Peşin harcin karara harcına mahsubuna başkaca harç alınmasına yer olmadığına, Dosya üzerinde yapılan inceleme sonunda HMK 362(1)-f maddesi uyarınca kesin olmak üzere oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK.m. 389",
+            "HMK 390/3",
+            "HMK'nun 353(1)b-1 maddesi",
+            "HMK 362(1)-f maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacıların talep ettiği ihtiyati tedbirin reddine karar verdi. Davacıların iddia ettiği inançlı işlem ve hisse devir iddiaları, mahkemenin değerlendirmesine göre yeterli delil sunmamıştır. Ayrıca, daha önce aynı konuda verilen tedbir talebinin reddine karşı istinaf yasa yoluna gidilmediği ve dosyanın mevcut aşamasında değişen delil durumu bulunmadığı için mahkeme, Hüküm Kanunu'nun 390/3 maddesine dayanarak talebi reddetmiştir.",
+    "summary_for_model": "Davacıların vekili tarafından sunulan cevaba cevap dilekçesi ile, sermaye ve hisse devir iddiaları ile HMK.m. 389 uyarınca yasaklanma talebi. Mahkeme, inançlı işlem ve hisse devir iddialarının yeterli delil sunulmadığını, daha önceki tedbir talebinin reddine karşı istinaf yasa yoluna gidilmediğini ve dosyanın mevcut aşamasında değişen delil durumu bulunmadığını belirleyerek HMK 390/3 maddesi uyarınca talebi reddetmiştir. Hüküm, HMK'nun 353(1)b-1 ve 362(1)-f maddeleri uyarınca ES ASTAN REDDİNE ve Peşin harcin karara harcına mahsubuna karar vermiştir."
+}

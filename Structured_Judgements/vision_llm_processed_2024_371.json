@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2024_371.pdf",
+        "court_name": "İstanbul Anadolu 7. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2023/963 Esas",
+        "karar_no": "2024/442",
+        "case_subject": "İhtiyati haciz talebinin reddi ve istinaf",
+        "dava_tarihi": "02/01/2024",
+        "karar_tarihi": "07/03/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı şirketin borçlu şirkete ait cari hesap alacağını iddia ediyor. Davalı şirketin kapandığı ve yetkililerinin kaybolduğu belirtiliyor. Davacı, borçlu şirketin borç durumunu kanıtlamak için istinaf talebinde bulundu.",
+        "reasoning_text": "İstanbul Anadolu 7. Aslıye Ticaret Mahkemesi, davacı vekilinin istinaf talebini reddetti. Borçlu şirketin kapandığı ve yetkililerinin kaybolduğu durumlarda, borçlu şirketin borç durumunu kanıtlamak için istinaf talebinin reddedilmesi gerektiği belirtildi.",
+        "verdict_text": "İstanbul Anadolu 7. Aslıye Ticaret Mahkemesi, davacı vekilinin istinaf talebini reddetti. Davacı vekilinin istinaf talebinin 6100 sayılı Hükümlü Kanunun 353/1-b1 maddesi uyarınca esastan reddine karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İcra ve İflas Kanunu",
+            "İcra ve İflas Kanunu'nun 257/1 ve 257/2 maddeleri",
+            "İcra ve İflas Kanunu'nun 258 maddesi",
+            "6100 sayılı Hükümlü Kanunun 353/1-b1 maddesi",
+            "Harçlar Kanunu",
+            "Hükümlü Kanunun 362/1-f maddesi"
+        ]
+    },
+    "summary_for_human": "İstanbul Anadolu 7. Aslıye Ticaret Mahkemesi, davacı vekilinin borçlu şirketin borç durumunu kanıtlamak için yaptığı istinaf talebini reddetti. Borçlu şirketin kapandığı ve yetkililerinin kaybolduğu durumlarda, borçlu şirketin borç durumunu kanıtlamak için istinaf talebinin reddedilmesi gerektiği belirtildi.",
+    "summary_for_model": "İstanbul Anadolu 7. Aslıye Ticaret Mahkemesi, davacı vekilinin borçlu şirketin borç durumunu kanıtlamak için yaptığı istinaf talebini reddetti. Borçlu şirketin kapandığı ve yetkililerinin kaybolduğu durumlarda, borçlu şirketin borç durumunu kanıtlamak için istinaf talebinin reddedilmesi gerektiği belirtildi. İcra ve İflas Kanunu ve Hükümlü Kanunu'na dayanılarak karar verildi."
+}

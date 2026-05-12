@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2021_330.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2021/330",
+        "karar_no": "2023/72",
+        "case_subject": "Marka (Marka Hakkına Tecavüzden Kaynaklanan)",
+        "dava_tarihi": "10/03/2020",
+        "karar_tarihi": "19/01/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, davacı şirketin 20 dünya markası ile ortaklık kurduğunu, Türkiye'nin tek satıcı firması durumuna geldiğini ve TPMK nezdiinde tescillerini gerçekleştirerek markaları Türkiye'de çok markalı mağazalara tanıtırak satışlarını başlattığını, ardından Türkiye'nin çeşitli coğrafi bölgelerinde marka olmuş iç giyim firmalarını kendi bünyesine kattığını, bu mağazaları ve yeni açılacak olan mağazaları belirli markalar altında toplayıp zincir mağaza olma bilincini geliştirdiğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacı vekilinin iddialarını değerlendirerek, davacı ve davalı markalarının aynı sınıflarda tescilli olduğunu, markaların görsel, işitsel ve kavramsal olarak aynıyet bulduğunu ve mal ve hizmet sınıfı bakımından aynı sınıflarda tescilli ve aynı sektörde hizmet veren davalı markasının karışıklık ve haklı rekabete neden olduğunu tespit etmiştir.",
+        "verdict_text": "İstanbul 2.Fıkrî ve Sınai Haklar Hukuk Mahkemesi'nin 10/03/2020 tarihli 2018/218 E. - 2020/183 K. sayılı kararın reddine karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 Sayılı Sınai Mülkiyet Kanunu",
+            "Türk Ticaret Kanunu",
+            "Türk Patent Enstitüsü",
+            "Türk Ticaret Kanunu 7/5 maddesi",
+            "Türk Ticaret Kanunu 54. Maddesi",
+            "Hukuk Muhakemeleri Kanunu 353/1-b-1 maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı ve davalı markalarının aynı sınıflarda tescilli olduğunu ve haklı rekabeti ihlal ettiğini tespit ederek davacı vekilinin istinaf başvurusunu reddetmiştir.",
+    "summary_for_model": "Mahkeme, davacı ve davalı markalarının aynı sınıflarda tescilli olduğunu, görsel, işitsel ve kavramsal olarak aynıyet bulduğunu ve haklı rekabete neden olduğunu tespit ederek davacı vekilinin istinaf başvurusunu reddetmiştir."
+}

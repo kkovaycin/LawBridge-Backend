@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_180.pdf",
+        "court_name": "T.C. İSTANBUL 4.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2022/180 Esas",
+        "karar_no": "2024/49",
+        "case_subject": "Marka (Tecavüzün Tesbiti İstemli)",
+        "dava_tarihi": "19/10/2022",
+        "karar_tarihi": "07/03/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; müvekkili şirketin ... adı ile dünya çapında faaliyet gösteren bir şirket olduğunu, ... markasının şirketin baş harflerinden türetilen orijinal ve ayırt edici bir ibareden oluştuğunu, ... markasının tanınmış marka statüsünde olduğunu ve tanınmış marka olması ve özel korumadan yararlanması nedeniyle ... markasının aynısının veya benzerinin başka hiçbir ürün ve hizmet için marka, ticaret ünvanı, alan adı veya başka herhangi bir ticari tanıtım amacıyla kullanılması'nın mümkün olmadığını iddia etmiştir.",
+        "reasoning_text": "Davacı vekili, davaların müvekkili şirketin itibarından ve tanınmışlığından faydalanmak amacıyla tescilli ve tanınmış ... markalarını ve logosunu taklit etmek suretiyle bilinçli ve kötü niyetli bir şekilde \"marka tecavüzü\" ve tüketiciler nezdiğinde müvekkili şirket ile işbirliği halinde olduğu izlenimi de yaratmak suretiyle müvekkili şirket ve ürünleri aleyhine \"haksız rekabet\" sebebiyle verdiklerini açık olarak iddia etmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda gerekçesi açıklanmış üzere, 1-Davanın KABULÜ İLE, Davalların dava konu tespit edilen \"...\" ibareli kullanımlarının davacıya ait marka hakkına tecavüz ve haksız rekabet oluşturduğunun tespitine, önlenmesine, sonuçlarının ortadan kaldırılmasına 2-Davacı adına tescilli markada bulunan \"...\" ibaresinin ve tecavüz oluşturduğu tespit edilen \"...\" ibaresinin davalları tarafından kullanıldığı ürünlerin üretiminin, satış ve dağıtımının, ithal ve ihracının, yurt içinde veya yurt dışında satışa sunulmasının, her türlü mal, ürün, hizmet, tabela, ambalaj, ilan, reklam, yayın, broşür, afiş ve sair her türlü tanıtım malzemesi, basılı kâğıt, internet siteleri tüm sosyal medya hesapları, fatura ve sair her türlü ticari evrak üzerinde kullanımı da dahil olmak üzere tüm kullanımlarının önlenmesine, bu ibareleri içeren ürün, ilan, tabela, reklam, broşür, afiş, kartvizit ve sair her türlü tanıtım malzemesine; basılı kâğıt, fatura ve sair her türlü ticari evrak ve bu şekilde bastrılmış olan malzemelere el konulmasına, el konulan ürün ve malzemelerin hükmün kesinleşikten sonra imhasına 3-www..., www... ve ... alan adlı internet siteleri ile ...linki altında yer alan \"...\" isimli sosyal medya hesabına erişimin engellenmesine, 4-Karar kesinleştiğinde hükmün Türkiye çapında yayın yapan tiraji en yüksek üç gazetedden birinde bir kez ilanına, 5-Karar tarihinde yürürlükte bulunan Harglar Tarifeşi uyarınca hesap olan 427,60 TL karar harcından peşin yatırılan 80,70 TL'nin mahsubu ile kalan 346,90 TL bakiye karar harcının davallardan tahsili ile hazineye irat kaydına, 6-Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifeşi uyarınca kabul edilen davacı vekili yararına hesap olan 25.500,00 TL vekalet ücretinin davallardan alınarak kendisini vekille temsil ettiren davacıya verilmesine, 7-Davacı tarafından yapılan:7.500,00 TL bilirkişi ücreti, 423,50 TL posta gideri olmak üzere toplam 7.923,50 TL ve 161,40 TL harç (peşin+başvuru) olmak üzere toplam 8.084,90 TL ile ... 3.FSHHM ...D. İş sayılı dosyasında yapılan 3.000,00 TL bilirkişi ücreti, 495,30 TL posta gideri toplam 3.495,30 TL ve 89,60 TL Peşin Harç, 54,40 TL başvuru harci olmak üzere toplam 144,00 TL olmak üzere toplam 3.639,30 TL'nin toplamı 11.724,20 TL yargılama giderinin davallardan alınarak davacıya verilmesine, 8-Yatırılan gider avanslarından kullanılmayan kısmının karar kesinleştiğinde yatıran tarafa iadesine, Dair taraf vekillerinin yüzüne karşı, (HMK 345/1 md. gereğince) gerekçeli kararın tebliğinden itibaren 2 hafta içerisinde Mahkememize veya başka bir yer mahkemesine dilekçe ile başvurmak ve istinaf harci ile gerekli giderlerin tamamı ödünmek suretiyle, İstanbul Bölge Adliye Mahkemesine istinaf yolu açık olmak üzere verilen karar, açıkça okunup usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı Kanun",
+            "6102 sayılı TTK",
+            "Hukuk Mahkemeleri Kanunu (HMK)"
+        ]
+    },
+    "summary_for_human": "Davacı, davalların müvekkili şirketin tanınmış markalarını ve logosunu kötü niyetle taklit ederek haksız rekabet ve marka tecavüzü oluşturduğunu iddia etmiştir. Mahkeme, davalların bu iddiaları doğrulanmış olarak değerlendirmiş ve davacıya karşı kararı vermiştir.",
+    "summary_for_model": "Dava, davacı vekili tarafından davalların müvekkili şirketin tanınmış markalarını kötü niyetle taklit ederek haksız rekabet ve marka tecavüzü oluşturduğunu iddia eden bir dava olarak açılmıştır. Mahkeme, davalların bu iddiaları doğrulanmış olarak değerlendirmiş ve davacıya karşı kararı vermiştir. Davada 6769 sayılı Kanun ve 6102 sayılı TTK gibi kanunlar ve hukuki ilkeler dikkate alınmıştır."
+}

@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2022_293.pdf",
+        "court_name": "İstanbul 15. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2022/293",
+        "karar_no": "2022/669",
+        "case_subject": "İtirazın İptali (Ticari Satımdan Kaynaklanan)",
+        "dava_tarihi": "20/04/2022",
+        "karar_tarihi": "20/09/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekilinin dava dilekçesi özetle; Davalı / borçlunun takibe itirazı neticesi takip durduğundan, icra dosyasina yapılan davalı / borçlu itirazlarının iptali ile ödeme emrini tebliğinden itibaren işleyecek ticari temerrüt faiziyle birlikte TAKİBİN DEVAMINA, %20'dan aşağı olmamak üzere davalı aleyhine icra inkar tazminatina hükmedilmesini talep ve dava etmiştir. Davalı taraf, davaya cevap vermemiştir. Mahkememizce ba/bs formları ile takip dosyası dosya arasına alınmış, davacı yanca sunulan deliller birlikte tetkik edilerek değerlendirilmiştir. Dava, ürün satışından kaynaklı fatura ya istinaden başlatılan takibe yapılan itirazın iptali isteme ile ilgilidir.",
+        "reasoning_text": "Mahkememizce yapılan tetkik ve incelemede; davacı yanın, davalya 4 adet ürün teşhir standı sattığı, iş bu ticaretin dosyaya sunulu olan e-mail ve whatsapp yazışmaları ile sabit olduğu, davalı yanın yarı oranda ödeme yaptığı ancak bakiye kalan 2.360,00 TL yönünden ödeme yapmadığı, takibin de iş bu alacak kalemine ilişkin olduğu, anılan sebeplerle takibe yapılan itirazin haksız olduğu sabit olup, davanın kabulüne karar verilmiştir ve yine alacağı likit ve belirli olması hasebiyle asıl alacak miktarı olan 2.360-TL'nin %20'si oranında icra inkar tazminatının davalından tahsili ile davacıya ödenmesine dair aşağıdaki hali ile hüküm tesis edilmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle;\n1-Açılan davanın kabulü ile ... İcra Müdürlüğü'nün 2022/...E sayılı takip dosyasina davalı tarafça yapılan itirazin iptali ile takibin koşulları ile aynı devamına,\n2-Asıl alacak miktarı olan 2.360-TL'nin %20'si oranında icra inkar tazminatının davalidan tahsili ile davacıya ödenmesine,\n3-Davacı kendisini vekil ile temsil ettiğinden, 2.360,00 TL vekalet ücretinin davalidan tahsili ile davacıya ödenmesine,\n4-Davacı tarafça yapılan başvurma harcı, peşin harç ve posta masraflarından teşekkül eden; 209,90 TL yargılama giderinin davalidan tahsili ile davacıya ödenmesine,\n5-Alınması gereken 161,21 TL harçın, peşin alınan 80,70 TL harçtan mahsubu ile bakiye kalan 80,51 TL karar ve ilam harçının davalidan tahsili ile hazinede irat kaydına,\n6-Zorunlu arabulculuk gideri olarak Adalet Bakanlığı bütçesinden ödenen 1.560-TL'nin davalidan alınarak Hazinede irat kaydına,\n7-Arta kalan gider avansının kararın kesin olması sebebiyle davacı yana resen iadesine,\nDair, davacı vekilinin yüzüne karşı, davalı tarafın yokluğunda miktar itibarıyla kesin olarak verilen karar açıkça okunup, usulen anlatıldı. 20/09/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "5070 Sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "Bu davada, davacı ticari bir satış işlemi sonrası alıcının ödemesini takip etmeye çalışırken, alıcının itirazı nedeniyle takip durdurulmuştu. Mahkeme, alıcının ödemesi gereken tutarın %20'sini ödemediğini ve bu durumun takibin haksız olduğunu tespit etti. Sonuç olarak, mahkeme alıcının ödemesi gereken tutarın %20'sini davacıya ödemesini ve diğer masrafları da ödemesini kararlaştırdı.",
+    "summary_for_model": "Dava, ticari satıştan kaynaklanan alacak takibi konusuyla açılmıştır. Davacı, alıcının %20'lik ödemesini yapmadığını iddia etmiştir. Mahkeme, alıcının ödemesi gereken tutarın %20'sini ödemediğini ve bu durumun takibin haksız olduğunu tespit ederek, alıcının bu tutarı davacıya ödemesini ve diğer masrafları da ödemesini kararlaştırmıştır. Karar, 5070 Sayılı Kanun'a uygun olarak elektronik imza ile imzalanmıştır."
+}

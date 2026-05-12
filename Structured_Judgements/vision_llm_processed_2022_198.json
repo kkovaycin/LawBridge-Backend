@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_198.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": null,
+        "karar_no": null,
+        "case_subject": "İhtiyati Tedbir",
+        "dava_tarihi": "22/12/2021",
+        "karar_tarihi": "17/02/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacılar vekili, müvekkilleri adına 2018/22639, 2017/87138, 2017/87138, 2018/1089896 ve 2019/54094 sayılı ibareli markaların tescilli bulunduğunu iddia etmiştir. Müvekkilleri davallardan ve ... arasında 24.04.2018 tarihli bayilik sözleşmesinin akdedildiğini, bu sözleşme ile ... ve ... ibareli markaların ... adresinde kullanılmasına izin verildiğini, bir süre sonra davalların markaya karşı zarar verici hareketlerinin arttığını, müvekkiline ait markanın tanınmışlığından ve güçünden yararlanarak ... ibareli kendi markasını yarattığını, müvekkiline ait müşteri potansiyelini kendi markalarına yönlendirmeye başladığını, davalların tarafından kendi markaları olan ... ibaresinin müvekkil markasına eklenerek ... şeklinde kullanıldığını, bayilik sözleşmesi devam ederken marka sahibi olan müvekkilli ...'nun sosyal medya hesabından engellendiğini, bu nedendenle 16.02.2021 tarihinde noterden keside edilen itharname ile bayilik sözleşmesinin tek taraflı olarak feshedildiğini, davalların 19.02.2021 tarihli cevap noter itharname ile, müvekkillerine ait markanın sosyal medyadaki gücünün kendileri tarafından yaratıldığını, bayinin ana merkez sadakat yükümlülüğünün bulunmadığını, fesih itharnameinin kabul edildiğini, markaya ait hiçbir afiş, tabela, reklam vs kullanılmayacağını ve tüm tanıtıcı tabela ve benzeri malzemelerin kaldırılacağını bildirdiğini, buna rağmen davalların tarafından bayinin bulunduğu ... adresinde hala ... ibareli markaların kullanıldığını ve sosyal medya hesaplarında ... ... ... olarak faaliyetlerine devam edildiğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davalların paylaşımlarının tarafların bayilik sözleşmesinin yürürlükte olduğu döneme ilişkin bulunduğunu, davalı paylaşımlarının daha sonra kaldırıldığını ve halen aktif olmadığını, davalının iş yerinde yapılan incelemelerde, izinsiz herhangi bir kullanımına rastlanmadığının da sabit olduğunu gerekçe olarak göstermiştir. Davacı vekilinin ihtiyatı tedbir talebinin reddine karar verilmiştir.",
+        "verdict_text": "ESASTAN REDDİNE, KESİN OLMAK ÜZERE KARAR VERİLDİ."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK'nin 355. maddesi",
+            "HMK'nin 353/1-b.1 maddesi",
+            "HMK 362/1-f maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davalların sosyal medya hesaplarında markaların izinsiz kullanıldığını iddia etmesine rağmen, bu paylaşımların bayilik sözleşmesinin yürürlükte olduğu döneme ait olduğunu ve daha sonra kaldırıldığını belirleyerek davacı vekilinin ihtiyatı tedbir talebini reddetmiştir.",
+    "summary_for_model": "Mahkeme, davalların izinsiz marka kullanım iddialarını reddetmiştir. Davalı paylaşımların bayilik sözleşmesinin yürürlükte olduğu döneme ait olduğunu ve daha sonra kaldırıldığını, ayrıca izinsiz herhangi bir kullanımın rastlanmadığını gerekçe olarak göstermiştir."
+}

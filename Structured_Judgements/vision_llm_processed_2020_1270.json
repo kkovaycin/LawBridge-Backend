@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2020_1270.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2017/555 E. - 2018/392 K.",
+        "karar_no": "2022/1065",
+        "case_subject": "Fikir ve Sanat Sanat Eseri Sahipliğinden Kaynaklanan Haklara Tecavüzün Ref'i, Önlmesi ve Tazmini",
+        "dava_tarihi": "06/12/2018",
+        "karar_tarihi": "23/06/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davacı şirketin TPMK nezdiinde 07.09.2018 tarih ve ... başvuru numarası ile koruma altına alınan mont yelek isimli ürünün tescilli sahibi olduğunu iddia etti. Müvekkilin mont yelek tasarımından doğan hakların, hakısız ve izinsiz olarak davallar tarafından hem mağazalarında hem de Instagram hesabından ticarete konulduğunu iddia etti.",
+        "reasoning_text": "Mahkeme, davacı vekilinin istinaf dilekçesinde öne sürülen iddiaları ve kanıtları değerlendirerek, davacı vekilinin davayı başarıyla savunduğunu ve davacı tarafın hak ihlallerini tespit ettiğini tespit etti. Davacı vekilinin davayı başarıyla savunduğunu ve davacı tarafın hak ihlallerini tespit ettiğini tespit etti.",
+        "verdict_text": "HÜKÜM: Gereğcesi yukarıda açıklandığı üzere; 1- Usul ve yasaya uygun Bakırköy 1. Fikri ve Sınaî Haklar Hukuk Mahkemesi'nin 06/12/2018 tarih ve 2017/555 E., 2018/392 K. sayılı kararına karşı davacı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2- 492 Sayılı Harçlar Kanunu gereğince alınması gereken 80,70 TL maktu istinaf karar ve ilam harcından peşin yatırılan 44,40 TL harcin mahsubu ile bakiye 36,30 TL harcin davacıdan tahsiliyle Hazineye gelir kaydedilmesine, 3- Davacı tarafça istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, 4- İncelemenin duruşmasız olarak yapılması sebebiyle taraflarca yatırılan gider avansının harcamayan kısminın kesilmesine, 5- Taraflarca yatırılan gider avansından harcamayan kısminın kararlaştırıldığına, Dosya üzerinde yapılan inceleme sonucunda, 20/07/2017 tarih ve 7035 Sayılı Kanunun 31. maddesiyle değişik 6100 Sayılı HMK'nın 361/1. maddesi gereğince, kararın tebliğinden itibaren 2 hafta içerisinde Yargıtaya temyiz başvurusunda bulunma yolu açık olmak üzere, oy birliğiyle karar verildi. 23/06/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu (HMK)",
+            "492 Sayılı Harçlar Kanunu",
+            "7035 Sayılı Kanun",
+            "Avukatlık Asgari Ücret Tarifesi",
+            "Sayılı Sınai Mülkiyet Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davacı şirketin TPMK nezdiinde korunan bir ürünün hak ihlallerini iddia etti. Mahkeme, davacı vekilinin iddialarını destekleyen kanıtları değerlendirerek davacı vekilinin haklı olduğunu tespit etti. Davacı vekilinin davayı başarıyla savunduğunu ve davacı tarafın hak ihlallerini tespit ettiğini tespit etti.",
+    "summary_for_model": "Davacı vekili, davacı şirketin TPMK nezdiinde korunan bir ürünün hak ihlallerini iddia etti. Mahkeme, davacı vekilinin iddialarını destekleyen kanıtları değerlendirerek davacı vekilinin haklı olduğunu tespit etti. Davacı vekilinin davayı başarıyla savunduğunu ve davacı tarafın hak ihlallerini tespit ettiğini tespit etti. Davacı vekilinin istinaf dilekçesi reddedildi."
+}

@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_1742.pdf",
+        "court_name": "Sakarya Bölge Adliye Mahkemesi, 7. Hukuk Dairesi",
+        "esas_no": "2021/560",
+        "karar_no": "2021/770",
+        "case_subject": "Davacı ile davalı arasındaki iş akitinin ihlali ve reket yasası ihlali",
+        "dava_tarihi": "19/11/2018",
+        "karar_tarihi": "26/10/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı ile 25.09.2013'ten itibaren iş akitı içinde çalıştı. 08.12.2017 tarihli ikale sözleşmesi ile davalı, davacı şirketine karşı gizlilik ve reket etmeme yükümlülüklerini ihlal etti. Davalı, davacı şirketi ile iş akitı sona erdiğinde, davacı şirketi ile reket yasası ihlali nedeniyle cezai şart bedeli taleplerini reddetmiştir.",
+        "reasoning_text": "Davacı, davalı'nın reket yasası ihlali nedeniyle cezai şart bedeli talep etmiştir. İlk derece mahkemesi, davalı'nın reket yasası ihlali nedeniyle cezai şart bedeli taleplerini reddetmiştir. İstinaf mahkemesi, davalı'nın reket yasası ihlali nedeniyle cezai şart bedeli taleplerini reddetmiştir.",
+        "verdict_text": "Davacı'nın reket yasası ihlali nedeniyle cezai şart bedeli taleplerinin reddedildiği karara karşı istinaf başvurusu reddedilmiştir. Davalı'nın reket yasası ihlali nedeniyle cezai şart bedeli taleplerinin reddedildiği karara karşı istinaf başvurusu reddedilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK)",
+            "Türk Borçlar Kanunu",
+            "Türk Ticaret Kanunu",
+            "Anayasa"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı'nın reket yasası ihlali nedeniyle cezai şart bedeli talep etmiştir. İlk derece ve istinaf mahkemeleri, davalı'nın reket yasası ihlali nedeniyle cezai şart bedeli taleplerini reddetmiştir.",
+    "summary_for_model": "Davacı, davalı'nın reket yasası ihlali nedeniyle cezai şart bedeli talep etmiştir. İlk derece ve istinaf mahkemeleri, davalı'nın reket yasası ihlali nedeniyle cezai şart bedeli taleplerini reddetmiştir. Davalı'nın reket yasası ihlali nedeniyle cezai şart bedeli taleplerinin reddedildiği karara karşı istinaf başvurusu reddedilmiştir."
+}

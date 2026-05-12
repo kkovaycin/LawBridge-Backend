@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2021_1417.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2021/1417",
+        "karar_no": "2023/903",
+        "case_subject": "Marka (Tecavüzün Tesbiti İstemi)",
+        "dava_tarihi": "09/12/2020",
+        "karar_tarihi": "09/06/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Dava, davacı şirketin Kore kökenli bir şirketin markasını kullanmak için müvekkili şirketi suçlamaktadır. Müvekkili şirket, davacı şirketin markasına benzer bir isim ve ürünleri kullanarak hak ihlali yapmıştır. Davacı, davalı şirketin internet siteleri ve Instagram hesaplarında markaya benzer isimler kullanmasını engellemek istemektedir.",
+        "reasoning_text": "Mahkeme, davacı şirketin markasını kullanmak için müvekkili şirketi suçladı. Davacı, davalı şirketin markasını kullanmak için müvekkili şirketi suçladı. Davacı, davalı şirketin markasını kullanmak için müvekkili şirketi suçladı. Davacı, davalı şirketin markasını kullanmak için müvekkili şirketi suçladı.",
+        "verdict_text": "Davanın KABULÜ İLE, davanın kullanımlarının, davacının ... numaralı \"...\" ibareli tescilli markasına tecavüz teşkil ettiğinin tesbitine, davacının tescilli markası ile iltisaba yol açan her türlü kullanımın durdurulmasına, önlenmesine, \"...\" şeklinde karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 355",
+            "5718 Sayılı MÖHUK'un 48/1. maddesi",
+            "6100 Sayılı HMK'un 88/1. maddesi",
+            "Aynı Kanun'un 114/1-ğ bendi"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adlıye Mahkemesi, davacı şirketin markasını kullanmak için müvekkili şirketi suçladı. Davacı, davalı şirketin markasını kullanmak için müvekkili şirketi suçladı. Mahkeme, davacı şirketin markasını kullanmak için müvekkili şirketi suçladı.",
+    "summary_for_model": "Dava, davacı şirketin markasını kullanmak için müvekkili şirketi suçlamaktadır. Müvekkili şirket, davacı şirketin markasına benzer bir isim ve ürünleri kullanarak hak ihlali yapmıştır. Mahkeme, davacı şirketin markasını kullanmak için müvekkili şirketi suçladı."
+}

@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2025_313.pdf",
+        "court_name": "İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2025/500",
+        "karar_no": "2025/313",
+        "case_subject": "Marka (Maddi Tazminat İstemi)",
+        "dava_tarihi": "27/03/2025",
+        "karar_tarihi": "24/12/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, müvekkili firmanın markasını kullanan davalının markalarıyla benzerlik iddia etti. Davalı, markalarının farklı olduğunu savundu. Mahkeme, davacı vekilinin itirazını reddetti.",
+        "reasoning_text": "Mahkeme, davacı vekilinin itirazının usul ve yasaya uygun olmadığını tespit etti. Davacı vekilinin itirazı reddedildi ve dava sonlandırıldı.",
+        "verdict_text": "GEREÇE: Marka hükmüsüzlüğü, markaya tecavüzün tespiti, meni, tazminat ve tedbir istemi davada ilk derece mahkemesinde ihtiyati tedbir talebinin teminat karşılığında kabulüne karar verildiği, davalı vekilinin tedbire itiraz ettiği, itirazın reddine karar verildiği anlaşılmıştır.\n\nHÜKÜM: Gereçesi yukarıda açıklandığı üzere; 1- Üsül ve yasaya uygun İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 24/12/2024 tarih ve 2024/91 Esas sayılı ara kararına karşı davalı vekili tarafından yapılan istinaf talebinin 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b. maddesi gereğince ESASTAN REDDİNE, 2- 492 Sayılı Harçlar Kanunu gereğince alınması gereken 615,40 TL istinaf karar harcı davalı tarafından peşin yatırıldığından yeniden harç alınmasına yer olmadığına,3- Davalı taraflıca istinaf aşamasında yapılan yargılama giderlerinin üzerinde brakılmasına,4-Incelemenin duruşmasız olarak yapılması sebebiyle taraflara vekalet ücreti tayinine yer olmadığına,5- Taraflarca yatırılan gider avansından harçnmayan kısımın karar kesinleştiğinde iadesine, 6- Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin İlk derece Mahkemesinde yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/(1)f. ve 394/(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 6/1 ve 6/3 maddeleri",
+            "SMK 155/1. Maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu (HMK) 355. maddesi",
+            "6100 Sayılı HMK'nın 353/1-b/1. maddesi",
+            "492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markalarını kullanmakla suçladı. Mahkeme, davacı vekilinin itirazını reddetti ve dava sonlandırıldı.",
+    "summary_for_model": "Davacı vekili, davalının markalarını kullanmakla suçladı. Mahkeme, davacı vekilinin itirazını reddetti ve dava sonlandırıldı. SMK 6/1 ve 6/3 maddeleri ve HMK 355. maddesi esas olarak kullanıldı."
+}

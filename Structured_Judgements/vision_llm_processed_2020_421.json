@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2020_421.pdf",
+        "court_name": "1. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2020/421",
+        "karar_no": "2021/355",
+        "case_subject": "Manevi Tazminat Davası",
+        "dava_tarihi": "28/12/2020",
+        "karar_tarihi": "24/09/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekilinin İngilizce öğretmenliği mesleğini icra ettiğini iddia ediyor. 25.06.2017'de medyada yayınlanan haberlerde, davacının fotoğrafının sosyal medyada kullanıldığı ve bu durumdan dolayı elem yaşadığı belirtiliyor. Davacı, fotoğrafının Facebook profilinde kullanıldığını ve bu durumdan dolayı manevi tazminat talep ediyor.",
+        "reasoning_text": "Mahkeme, davacının fotoğrafının eser niteliğinde olmadığını ve bu nedenle manevi tazminat talebinin kabul edilmeyeceğini kararlaştırdı. Ayrıca, davacının iddiasının genel hükümlere aykırı olduğunu ve mahkemenin görevini ihmal ettiğini belirledi.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere\n1-MAHKEMEMİZİN GÖREVŞİZLİĞİNE, DAVANIN USULDEN REDDİNE,\n2-HMK 20.madde uyarınca, süresi içinde kanun yoluna başvurulmayarak kesinleşmesi halinde kararın kesinleşme tarihinden, kanun yoluna başvurulmuş ise bu başvurunun reddi kararının tebliği tarihinden itibaren iki haftalık süre içinde mahkememize müracaat edilmiş halinde dosyanın yetkili ve görevli İSTANBUL NÖBETÇİ ASLİYE HUKUK MAHKEMESİNE GÖNDERİLMESİNE,\n3-Harg, yargılama gideri ve vekalet ücretinin görevli Mahkemeye değerlendirilmesine,\nDair tarafların/vekillerinin yokluğunda, gerekçeli kararın tebliği tarihinden itibaren 2 HAFTA içerisinde İSTANBUL BÖLGE ADLİYE MAHKEMELERİ nezdiinde İSTANAF YASA yolu açık olmak üzere dosya üzerinde yapılan inceleme sonucunda karar verildi. 24/09/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "5846 sayılı FSEK",
+            "5846 sayılı Yasa'nın 76. maddesi",
+            "HMK 20.madde",
+            "6769 sayılı SMK"
+        ]
+    },
+    "summary_for_human": "Davacı, fotoğrafının sosyal medyada kullanıldığını iddia ederek manevi tazminat talep ediyor. Mahkeme, fotoğrafın eser niteliğinde olmadığını ve bu nedenle talebin kabul edilmeyeceğini kararlaştırdı.",
+    "summary_for_model": "Davacı, fotoğrafının sosyal medyada kullanıldığını iddia ederek manevi tazminat talep ediyor. Mahkeme, fotoğrafın eser niteliğinde olmadığını ve bu nedenle talebin kabul edilmeyeceğini kararlaştırdı. Davanın usulden reddi kararı verildi."
+}

@@ -1,0 +1,33 @@
+{
+    "meta_data": {
+        "file_name": "2021_616.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2021/616",
+        "karar_no": "2023/631",
+        "case_subject": "Haksız Rekabetin Tesbiti, Önlenmesi, Durdurulması",
+        "dava_tarihi": "05/11/2020",
+        "karar_tarihi": "11/06/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı şirketin merkezi İstanbul'da bulunan ve şubesi aracılığı ile faaliyetlerini sürdüren bir danışmanlık şirketi olduğunu, davalı şirketin hasar danışmanlığı adı altında hukuki danışmanlık ve diğer hukuki girişimlerde bulunduğunu iddia etmiştir. Davalı tarafından sürdürülen faaliyetlerin büyük bir kısmının, münhasıran avukatların yapabileceği iş ve işlemler kapsamında olduğunu, bu durumun hukuka aykırı olduğunu, avukatlara karşı da haksız rekabet ortamı yarattığını iddia etmiştir.",
+        "reasoning_text": "İlk derece mahkemesi, Avukatlık Kanunu'nun 35. maddesi ve Avukatlık Kanunu Yönetmeliği'nin 14. maddesi gereğince, davalı şirketin Avukatlık Kanunu maddesi 35'te belirtilen tekel hakkına aykırı faaliyetlerde bulunduğunu ve bu faaliyetlerin haksız rekabete yol açtığını tespit etmiştir. Davalı şirketin avukatlık tekeline aykırı olan reklam ve yayınlarının yasaklanarak facebook hesaplarına ve internet sitesine olan erişimin engellenmesine, eğer bu mümkün olmayacaksa yayın ve paylaşımların tekel hakkını ihlal etmeyecek ve haksız rekabete yol açmayacak şekilde düzeltilmesine, hükmün ilanına karar verilmesini talep ve dava etmiştir.",
+        "verdict_text": "1-Davalı vekilinin istinaf başvurusunun HMK'nın 353/1-a-6 maddesi gereğince KABULÜ ile ... Aslıye Ticaret Mahkemesinin 05/11/2020 gün ve 2019/157 Esas - 2020/625 Karar sayılı kararının KALDIRILMASINA, 2-Dosyanın, davanın yeniden görülmesi için mahkemesine İADESİNE, 3-Davalı vekilinin diğer istinaf itirazlarının bu aşamada incelenmesine yer olmadığına, 4-Davalı tarafından istinaf başvurusunda peşin olarak yatırılan 59,30 TL maktu istinaf harçının istek halinde anılan tarafa iadesine, 5-İstinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına, 6-İstinaf aşamasında yapılan yargılama giderlerinin ilk derece mahkemesince yapılacak yargılama da değerlendirilmesine, 7-Kararın tebliği ve harç işlemlerinin yerel mahkeme tarafından yaptırılmasına, Dair, dosya üzerinde yapılan inceleme sonucunda oybirliği ile 11/05/2023 tarihinde HMK 353/1-a-6 maddesi uyarınca KESİN olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Avukatlık Kanunu 35. madde",
+            "Avukatlık Kanunu Yönetmeliği 14. madde",
+            "TTK 56. madde",
+            "TTK 59. madde",
+            "Hukuk Muhakemeleri Kanunu ile Bazı Kanunlarda Değişiklik Yapılması Hakkında 7251 sayılı Kanun 57. madde",
+            "5684 sayılı Kanun ek madde 6",
+            "HMK 355. madde",
+            "HMK 353/1-a-6 madde",
+            "6102 sayılı TTK 56/3 madde",
+            "6100 sayılı HMK 355. madde",
+            "HMK 297/2. madde"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin avukatlık tekeline aykırı faaliyetlerde bulunduğunu iddia ederek dava açmıştır. İlk derece mahkemesi, davalı şirketin Avukatlık Kanunu maddesi 35'te belirtilen tekel hakkına aykırı faaliyetlerde bulunduğunu ve bu faaliyetlerin haksız rekabete yol açtığını tespit etmiştir. İstinaf başvurusu reddedilmiş ve davanın yeniden görülmesi için mahkemeye iade edilmiştir.",
+    "summary_for_model": "Dava, davalı şirketin Avukatlık Kanunu maddesi 35'te belirtilen tekel hakkına aykırı faaliyetlerde bulunduğunu iddia eden davacı tarafından açılmıştır. İlk derece mahkemesi, davalı şirketin bu faaliyetlerde bulunduğunu ve haksız rekabete yol açtığını tespit etmiştir. İstinaf başvurusu reddedilmiş ve davanın yeniden görülmesi için mahkemeye iade edilmiştir. Davalı vekilinin istinaf başvurusu HMK'nın 353/1-a-6 maddesi gereğince kabul edilmiş ve ilk derece mahkemesi kararının kaldırılmasına, dosyanın iadesine ve diğer istinaf itirazlarının incelenmemesine karar verilmiştir."
+}

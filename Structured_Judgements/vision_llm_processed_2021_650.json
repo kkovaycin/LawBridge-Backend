@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2021_650.pdf",
+        "court_name": "T.C. SAMSUN AŞLİYE TİCARET MAHKEMESİ",
+        "esas_no": "2021/650",
+        "karar_no": "2021/611",
+        "case_subject": "Menfi Tespit (Hizmet Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "...",
+        "karar_tarihi": "..."
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davayı feragat sebebiyle reddetmek talep etti. Davacı vekilinin vekaletnamesinde feragat yetkisi olduğu tespit edildi.",
+        "reasoning_text": "Mahkeme, davanın HMK'nun 307-312. maddeleri uyarınca feragat nedeniyle reddedildiğini karar verdi.",
+        "verdict_text": "1-Davanın HMK'nun 307-312. maddeleri uyarınca FERAGAT NEDENİYLE REDDİNE\n2-Alınması gerekli 59,30 TL harcin peşin alınan 43.897,72 TL ve tamamlama sonucu alınan 358.786,31 TL harç olmak üzere toplam 402.684,03 TL harçtan mahsubu ile bakiye 402.624,73 TL harcin karar kesinleştiğinde talep halinde davacı tarafa iadesine,\n3-Davacı tarafın sarf ettiği yargılama giderlerinin üzerinde bırakılmasına,\n4-Kararın talep halinde Yazı İşleri Müdürü tarafından taraflara tebliğine,\n5-Kullanılmayan gider avansının karar kesinleştiğinde ilgili tarafa iadesine,\nDair, dosya üzerinde yapılan inceleme sonunda gerekçeli kararın taraflara tebliği tarihinden itibaren iki hafta içinde İstinaf yolu açık olmak üzere oybirliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nun 307-312. maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, davayı feragat sebebiyle reddetmek istedi. Mahkeme, davayı feragat nedeniyle reddetti ve harç kesinleştiğinde iade talebini kabul etti.",
+    "summary_for_model": "Davacı vekili feragat talebinde bulundu. Mahkeme, HMK'nun 307-312. maddeleri uyarınca davayı feragat nedeniyle reddetti. Harç kesinleştiğinde iade talebini kabul etti."
+}

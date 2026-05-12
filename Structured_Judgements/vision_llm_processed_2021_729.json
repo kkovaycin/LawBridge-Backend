@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_729.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2021/729",
+        "karar_no": "2021/641",
+        "case_subject": "İhtiyati Tedbir talebi ve hak ihlali iddiası",
+        "dava_tarihi": "17/02/2021",
+        "karar_tarihi": "17/05/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "İhtiyati tedbir talebinde bulunan vekil, müvekkilin Avrupa Komisyonu tarafından yürütülen programın müzakere ve yönetme süreçlerindeki tecrübesinden yararlanmak ve faaliyetlerini devam ettirmek için sorumlu kuruluş olarak belirlenmesini talep etmiştir. Karşı taraf, müvekkilin internet sitesinde ve sosyal medya hesaplarında hak ihlali yaptığını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, Avrupa Birliği 7. Çerçeve Programı'nın devam niteliğindeki programın, Avrupa Birliği'nin yeni dönem Araştırma ve İnovasyon Çerçeve Programı olduğu ve Ulusal İrtibat Kurulu'nun Görevlendirilmesi bağlamında sorumlu kuruluş olarak belirlendiğini tespit etmiştir. Mahkeme, karşı tarafın iddialarının haklı olmadığını ve ihityati tedbirin kaldırılması gerektiğini karar vermiştir.",
+        "verdict_text": "Dair, dosya üzerinde yapılan inceleme sonucunda oybirliği ile 29/04/2021 tarihinde HMK'nın 362/1-f maddesi gereğince KESİN olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nın 355. maddesi",
+            "HMK'nın 353/1-b.1 maddesi",
+            "HMK'nın 362/1-f maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, Avrupa Birliği programı bağlamında ihityati tedbir talebini reddetmiştir. Karşı tarafın iddiaları haklı bulunmamıştır ve ihityati tedbir kaldırılmıştır.",
+    "summary_for_model": "Karar, Avrupa Birliği programı bağlamında ihityati tedbir talebini reddetmiştir. Karşı tarafın iddiaları haklı bulunmamıştır ve ihityati tedbir kaldırılmıştır. HMK'nın 355, 353/1-b.1 ve 362/1-f maddeleri uygulanmıştır."
+}

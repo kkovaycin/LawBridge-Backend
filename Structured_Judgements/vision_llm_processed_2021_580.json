@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2021_580.pdf",
+        "court_name": "Bakırköy 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/580 Esas",
+        "karar_no": "2023/203 Karar",
+        "case_subject": "Endüstriyel Tasarım (Hükümsüzlükten Kaynaklanan)",
+        "dava_tarihi": "08/12/2020",
+        "karar_tarihi": "03/02/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde; vekilin uzun yıllardır deniz ayakkabıları, deniz terlikleri, erkek, bayan, çocuk terlikleri gibi alanda faaliyet gösteren köklü firmalardan biri olduğunu, davalı tarafından yapılan tasarım tescil başvurusunun yeterli inceleme yapılmadan TPMK tarafından kabul edildiğini, ancak davalıya ait 13.06.2018 tarih ve ... sayılı endüstriyel tasarım tescil belgesinin 1 sıra numarası tasarımının yenilik ve ayırt edicilik niteliğine sahip olmadığını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacının iddialarını değerlendirerek, tasarımın yenilik ve ayırt edicilik niteliğine sahip olmadığını, davacı tarafından sunulan faturalar ve görsellerin eksik olduğunu ve bu eksikliklerin giderilmediğini tespit etmiştir. Ayrıca, davacı tarafından sunulan görsellerin dava konusu tasarımın yenilik ve ayırt edicilik niteliğini ortadan kaldıracağı kanaatine varılmıştır.",
+        "verdict_text": "Bakırköy 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi'nin 08/12/2020 tarihli 2020/24 E. - 2020/328 K. sayılı kararıyla; \"...dava konusu tasarımın tescil başvuru tarihi itibarıyla yeni ve ayırt edici niteliğe sahip olmadığı, aynı tasarımın daha önce tescil için davacı tarafından kuruma başvurulduğu, bütlende ilan edildiği ancak şekli noktanlıklar nedeniyle tescilinin yapılmadığı\" gerekçesiyle; \"Davacının davasının KABULÜNE, davalı adına tescilli 2018/03916 (1) nülu tasarım tescilinin hükümsüzlüğüne ve sicilden terkine\" karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 356",
+            "6769 Sayılı SMK 56/4a ve b",
+            "6769 Sayılı SMK 56/5",
+            "HMK 353/1-b-2"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı tarafından yapılan tasarımın hükümsüz olduğunu iddia ediyor. Mahkeme, tasarımın yenilik ve ayırt edicilik niteliğine sahip olmadığını ve davacı tarafından sunulan faturalar ve görsellerin eksik olduğunu tespit etti. Sonuç olarak, davanın kabulüne karar verildi.",
+    "summary_for_model": "Davacı, davalı tarafından yapılan tasarımın hükümsüz olduğunu iddia ediyor. Mahkeme, tasarımın yenilik ve ayırt edicilik niteliğine sahip olmadığını ve davacı tarafından sunulan faturalar ve görsellerin eksik olduğunu tespit etti. Sonuç olarak, davanın kabulüne karar verildi. İlgili kanun maddeleri: HMK 353, HMK 356, 6769 Sayılı SMK 56/4a ve b, 6769 Sayılı SMK 56/5, HMK 353/1-b-2."
+}

@@ -1,0 +1,38 @@
+{
+    "meta_data": {
+        "file_name": "2017_90.pdf",
+        "court_name": "İstanbul 1. Asliye Hukuk Mahkemesi",
+        "esas_no": "2017/90",
+        "karar_no": "2020/30",
+        "case_subject": "Haysiyet Kurulu'nun üyelikten ihracı ile ilgili iptal davası",
+        "dava_tarihi": "29/07/2016",
+        "karar_tarihi": "21/01/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; müvekkilin kurucusu olduğunu, sonrasında özür dileğini ancak müvekkilin ihrac edildiğini iddia etti. Davalı vekili Asliye Hukuk Mahkemesine sunduğu cevap dilekçesinde özetle; görevli mahkemenin Fikri ve Sınai Haklar Hukuk Mahkemeleri olduğu görevsizlik kararı verilmesini, Yönetim Kurulu tarafından alınmış bir üyelikten ihrac kararı bulunmadığını, dava şartı yokluğu nedeniyle davanın reddini talep etti.",
+        "reasoning_text": "Mahkeme, dava konusu olan Haysiyet Kurulu'nun üyelikten ihracı ile ilgili kararın iptali isteme ile ilgili iddia ve savunmaları kapsayan bir tutarlılıkta olduğunu tespit etti. Taraflar sulh ve arabulucuğa sevkedilmişlerdir. Davacı bilirkişi incelemesi talep etmiştir. Bilirkişi raporlarında Haysiyet Kurulu'nun disiplin yargılamasının Haysiyet Kurulu Yönergelerinin 8. maddesine uygun ifa edildiğini, Davacı'nın üyelikten ihracı dair Haysiyet Kurulu kararının Tüzüğü'nün 17. ücu maddesine, 19.uncu maddesine uygun olduğunu, üyelikten çıkarılma kararına gerekçe gösterilen filin, sosyal medya paylaşımları ile bir üye hakkında eleştiri veya ağır eleştiri ya da eleştiri sınırlarını aşan bir ifade olduğu ve bu filin de meri mevzuata göre olsa olsa Üye Disiplin Yönergelerinin 6'ncı maddesinde düzenlenen küname cezasını müstezim olabileceğini bildirdiğini anladı.",
+        "verdict_text": "Yukarıda açıklanan gerekçe kapsamına göre;\n1-DAVANIN KABÜLÜNE, ... meslek birliği tarafından davacının üyelikten çıkarma tasarrufu ile ilgili dava konusu kararın iptaline,( ... Haysiyet Kurulu'nun ... tarih ve ... sayılı kararı ile davacının ... üyelikten ihracına ilişkin kararı)\n2-54,40 TL İlam harcının peşin harçtan mahsubu ile 25,20 TL, eksik harcin davaldan tahsiline,\n3-Avukatlık asgari ücret tarifesi gereğince; 4.910 TL vekalet ücretinin davaldan alınarak davacıya verilmesine,\n4-Davacı tarafın yapmış olduğu yargılama giderlerinden olan 29,20 TL başvuru harcı, 29,20 TL peşin harç, 1.000 TL bilirkişi ücreti ve 168 TL tebligat-müzekkere masrafı olmak üzere toplam 1.226,40 TL'nin davaldan alınarak davacıya verilmesine,\n5-Artan gider avansının karar kesinleştiğinde ve talebi halinde taraflara iadesine,\nDair verilen karar davacı vekili ile davalının yüzüne karşı, gerekçeli kararın taraflara tebliginden itibaren 2 haftalık süre içinde İSTANAF YASA yolu açık olmak üzere karar verilip tefhim kılındı.21/01/2020"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 266",
+            "Tüzüğü'nün 17.ücu maddesi",
+            "Tüzüğü'nün 19.uncu maddesi",
+            "Haysiyet Kurulu Yönergelerinin 8.maddesi",
+            "Haysiyet Kurulu Yönergelerinin 6'ncı maddesi",
+            "Üye Disiplin Yönergelerinin 8/a maddesi",
+            "Üye Disiplin Yönergelerinin 8/b maddesi",
+            "Üye Disiplin Yönergelerinin 8/d maddesi",
+            "Üye Disiplin Yönergelerinin 6'ncı maddesi",
+            "Türk Ceza Kanunu",
+            "14. Olağan Genel Kurul",
+            "5846 sayılı Fikri ve Sanat Eserleri Kanunu",
+            "42. madde",
+            "42/B madde",
+            "T.C. Kültür ve Turizm Bakanlığı",
+            "İSTANAF YASA"
+        ]
+    },
+    "summary_for_human": "Davacı, meslek birliği tarafından üyelikten ihrac edildiğini iddia ederek iptal davası açtı. Mahkeme, dava konusu kararın iptaline karar verdi ve davacıya 1.226,40 TL tutarında harç ve ücret ödemesi kararı verdi.",
+    "summary_for_model": "Davacı, meslek birliği tarafından üyelikten ihrac edildiğini iddia ederek iptal davası açtı. Mahkeme, dava konusu kararın iptaline karar verdi ve davacıya 1.226,40 TL tutarında harç ve ücret ödemesi kararı verdi. Davacı bilirkişi incelemesi talep etti. Taraflar sulh ve arabulucuğa sevkedildi."
+}

@@ -1,0 +1,32 @@
+{
+    "meta_data": {
+        "file_name": "2022_1858.pdf",
+        "court_name": "İSTANBUL BÖLGE ADLİYE MAHKEMESİ 16. HUKUK DAİRESİ",
+        "esas_no": "2022/1858",
+        "karar_no": "2024/1033",
+        "case_subject": "Alacak (Ticari Satımdan Kaynaklanan)",
+        "dava_tarihi": "06/06/2022",
+        "karar_tarihi": "30/05/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı ile 2006'da imzalanan Ticari Şartlar ve Franchise Sözleşmesi ve 2015'te imzalanan Yetkili Satıcılık Sözleşmesi ile ticari ilişki kurmuştur. Davacı, davalı tarafından tek taraflı olarak haklı nedensiz şekilde sözleşmeye aykırı davranıldığını, TCMB döviz kurunun belirlediği oran üzerinde döviz kurunun belirlendiğini, davalı tarafından sipariş zorunlu ürünlerin toplam sipariş içindeki oranının artırıldığını, davalı tarafından bayinin ürünlerini seçmesinin engellendiğini, davalı tarafından alacakların (CCO alacakları) haklı bir şekilde silindiğini, davalı tarafından TTK ve TBK hükümlerine açıkça aykırılık teşkil ettiğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davalı tarafından haklı ticari uygulamalar, haklı rekabet, sözleşmenin ihlali ve sözleşmenin haklı bir şekilde feshedilmesi nedeniyle şimlik 100.000,00 TL maddi zarar ve 100.000,00 TL manevi zarar talep sonucu olarak itharname tarihinden işleyecek ticari avans faizi ile birlikte tazmini etmiştir.",
+        "verdict_text": "İstanbul 15. Aslıye Ticaret Mahkemesi'nin 06/06/2022 tarihli, 2017/977 Esas, 2022/471 Karar sayılı kararı ile; Davacının CCO alacakı 16.209,09 TL'nin dava tarihi 07/17/2017 den itibaren ticari avans faizi ile davalıdan alınıp davacıya verilmesine, Davacının 21.350,00 USD mağaza kirası zararının dava tarihi 07/17/2017 den itibaren 3095 sayılı Kanunun 4/a maddesi uyarınca devlet bankalarının USD için uyguladığı en yüksek faizi ile birlikte davalıdan alınarak davacıya verilmesine, Davacının 100.000,00 TL manevi tazminat alacağı, 13.945,90 TL fatura alacağı, 1.234.158,53 TL devir işleri alacağı, 2.773.575,00 TL eksik devir bedeli alacağı taleplerinin ve bakiye alacak taleplerinin sabit olmadığından reddine, dava dilekçesi ile istenen çekler yargılamanın devam sırasında davacıya iaade edildiğinden konusu kalan talep hakkında karar verilmemesine yer olmadığına karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Mahkemesi Kanunu (HMK) 353. ve 356. maddeleri",
+            "Ticaret Kanunu (TTK) m. 23",
+            "Ticaret Kanunu (TTK) m. 60",
+            "Ticaret Kanunu (TTK) m. 18",
+            "Ticaret Kanunu (TTK) m. 194(1)",
+            "Ticaret Kanunu (TTK) m. 114/TI",
+            "Ticaret Kanunu (TTK) m. 58/1",
+            "Ticaret Kanunu (TTK) m. 2",
+            "Hukuk Mahkemesi Kanunu (HMK) 334 ve devamı maddeleri",
+            "Hukuk Mahkemesi Kanunu (HMK) 353/1-a-6 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı ile imzalanan ticari sözleşmeler ve franchise sözleşmesi nedeniyle haklı ticari uygulamalar, haklı rekabet, sözleşmenin ihlali ve sözleşmenin haklı bir şekilde feshedilmesi nedeniyle maddi ve manevi zarar taleplerinde bulunmuştur. Mahkeme, davacı tarafından iddia edilen zararları kabul ederek maddi ve manevi zarar tazminat taleplerini kabul etmiştir.",
+    "summary_for_model": "Davacı, davalı ile imzalanan ticari sözleşmeler ve franchise sözleşmesi nedeniyle haklı ticari uygulamalar, haklı rekabet, sözleşmenin ihlali ve sözleşmenin haklı bir şekilde feshedilmesi nedeniyle maddi ve manevi zarar taleplerinde bulunmuştur. Mahkeme, davacı tarafından iddia edilen zararları kabul ederek maddi ve manevi zarar tazminat taleplerini kabul etmiştir. Davacı tarafından iddia edilen zararların haklılık ve meşruiyetinin değerlendirilmesi için ek rapor ve inceleme talepleri reddedilmiştir."
+}

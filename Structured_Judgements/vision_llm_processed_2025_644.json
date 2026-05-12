@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2025_644.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 12. Hukuk Dairesi",
+        "esas_no": "2025/26",
+        "karar_no": "2025/725",
+        "case_subject": "İhtiyati tedbir talebi ve dava dilekçesi",
+        "dava_tarihi": "03/03/2022",
+        "karar_tarihi": "05/05/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, şirketin müvekkili olarak 500.000 TL sermaye ile kurulduğunu, şirketin iki ortaklı olarak faaliyet gösterdiğini ve davalının eski eşinin Instagram hesabını ve klinikteki dijital kapı anahtarını değiştirdiğini iddia etmiştir. Şirketin faaliyetleri, özel sağlık kurumları tarafından poliklinik ve yatılı olmayan tıbbi merkezlerde sağlanan uzman hekimlik ile ilgili uygulamalar olarak tanımlanmıştır. Davacı, şirketin müşterilerden elde ettiği kazançları kendi lehine kullandığını ve şirketin internet sayfasını kendi adıyla kullanmayı ihmal ettiğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacının iddialarının haklılıkta kusur taşıdığını ve ihtiyati tedbir taleplerinin reddedildiğini kararlaştırmıştır. Davacı vekilinin istinaf başvurusu, Hüküm Kanunu'nun 353(1)b-1 ve 362(1)-f maddeleri uyarınca reddedilmiştir. Davanın esas bakımından haklılığının saptanmaması nedeniyle, ihtiyati tedbir taleplerinin reddine karar verilmiştir.",
+        "verdict_text": "İhtiyati tedbir taleplerinin reddine karar verilmiştir. Davacı vekilinin istinaf başvurusu reddedilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hüküm Kanunu 353(1)b-1",
+            "Hüküm Kanunu 362(1)-f"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacının iddialarını reddetmiş ve ihtiyati tedbir taleplerini kabul etmemiştir. Davacı vekilinin istinaf başvurusu da reddedilmiştir.",
+    "summary_for_model": "Dava, şirketin faaliyetleri ve iddiaları konusunda haklılıkta kusur olduğu için reddedildi. İhtiyati tedbir talepleri ve istinaf başvurusu reddedildi."
+}

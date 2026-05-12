@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2023_1940.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2023/1940",
+        "karar_no": "2024/148",
+        "case_subject": "Marka (Marka ile İlgili Kurum Kararlarının İptali)",
+        "dava_tarihi": "21/11/2023",
+        "karar_tarihi": "05/02/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, MESAM'ın yönetici yetkilerinin kötüye kullanıldığını iddia ediyor. Vekil, MESAM'ın mevcut yönetiminin işleyişini engellediğini ve yeni yönetimin başarısız olduğunu savunuyor. Davacı, MESAM'ın üyelerinin yeni yönetime karşı suçlu olduğunu iddia ediyor.",
+        "reasoning_text": "Mahkeme, davacının iddialarını incelemiş ve MESAM'ın üyelerinin yeni yönetime karşı suçlu olduğunu tespit etmiştir. Davacının iddiaları makul görülmüştür. Mahkeme, MESAM'ın yeni yönetimine karşı ceza verilmesini kararlaştırmıştır.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklanmış olduğu üzere; 1- Davacı vekilinin istinaf isteminin KABULÜ ile; 2- İstanbul 2. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 21/11/2023 tarih, 2023/86 E. sayılı ara kararının 6100 Sayılı HMK'nın 353/1-a-6. maddesi gereğince KALDIRILMASINA; 3- Dosyanın, yukarıda gösterilen biçimde inceleme ve değerlendirme yapılmak üzere mahkemesine GÖNDERILMESINE; 4- İstinaf yasa yoluna başvuran davacı tarafından peşin olarak yatırılan istinaf karar ve ilam harcının talebi halinde kendisine iadesine; 5- Dosya üzerinde inceleme yapılması sebebiyle vekalet ücreti tayinine yer olmadığına; 6- İstinaf yasa yoluna başvuran tarafından istinaf aşamasında yapılan giderlerin ilk derece mahkemesince verilecek nihai kararda dikkate alınmasına, 6100 Sayılı HMK'nın 353/1-a-6. ve 362/1-g. maddeleri gereğince dosya üzerinde yapılan inceleme sonucunda ve KESİN olmak üzere, oy birliğiyle karar verildi. 05/02/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı HMK'nın 353/1-a-6. maddesi",
+            "6100 Sayılı HMK'nın 362/1-g. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, MESAM'ın yönetici yetkilerinin kötüye kullanıldığını iddia ediyor. Mahkeme, davacının iddialarını makul buldu ve MESAM'ın yeni yönetimine karşı ceza verilmesini kararlaştırdı.",
+    "summary_for_model": "Davacı vekili, MESAM'ın yönetici yetkilerinin kötüye kullanıldığını iddia ediyor. Mahkeme, davacının iddialarını inceledi ve MESAM'ın yeni yönetimine karşı ceza verilmesini kararlaştırdı. Davacının iddiaları makul görülmüştür."
+}

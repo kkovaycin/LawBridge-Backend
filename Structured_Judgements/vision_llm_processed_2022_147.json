@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2022_147.pdf",
+        "court_name": "T.C. İSTANBUL 1. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2022/147",
+        "karar_no": "2023/57",
+        "case_subject": "Marka hukuksuzluğuna ilişkin dava",
+        "dava_tarihi": "15/06/2022",
+        "karar_tarihi": "02/03/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın dilekçesinde, müvekkili davacı olan bir firma tarafından kullanılan bir markanın ticari hak ihlali iddia etmiştir. Müvekkilin markayı kullanmak için fatura ve sipariş formlarında kullandığı ve sosyal medyada aktif olduğu belirtilmiştir. Davacı, TPMA tarafından markanın tescil edilmiş olduğunu ve davacının markayı kullanmasının engellenmesi talep etmiştir.",
+        "reasoning_text": "Mahkeme, davanın açılmamış sayılmasına karar vermiştir çünkü davacının adresi belirtilmemiş ve davacı vekili tam olarak tanımlanmamıştır. Ayrıca, davacının adresinin tesbit edilememesi nedeniyle dava açılmamıştır.",
+        "verdict_text": "1-HMK 119 maddesi gereğince DAVANIN AÇILMAMIŞ SAYILMASINA, 2-179,90TL ilam harcının peşin harctan mahsubu ile eksik kalan 99,20 TL harcin davacidan tahsiline, 3-Davacının tarafın yapmış olduğu yargılama giderlerinin üzerinde bırakılmasına, 4-Artan gider avansının karar kesinleştiğinde davacıya iadesine, Dair karar, tarafların yokluğunda, gerekeli kararın taraflara tebliginden itibaren 2 haftalık süre içinde İSTANAF YASA yolu açık olmak üzere dosya üzerinde yapılan inceleme sonucunda karar verildi.03/03/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 Sayılı SMK kanunu",
+            "Hukuk Muhakemesi Kanunu (HMK) 119. madde"
+        ]
+    },
+    "summary_for_human": "Davacı, bir firmanın kullandığı markanın ticari hak ihlali iddia etti. Ancak, davanın açılmamasına karar verildi çünkü davacının adresi belirtilmemiş ve vekili tam olarak tanımlanmamıştır.",
+    "summary_for_model": "Marka hukuksuzluğu davası, davacının adresinin belirtilmemesi ve vekilinin tam tanımlanmaması nedeniyle açılmamıştır. HMK 119. maddeye dayanılarak dava reddedilmiştir."
+}

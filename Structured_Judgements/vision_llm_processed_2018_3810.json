@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2018_3810.pdf",
+        "court_name": "İstanbul Anadolu 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2018/407 E",
+        "karar_no": "2019/61 Karar",
+        "case_subject": "Marka (Tecavüzün Tespiti İstemli) Marka (Marka Hükümsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "26/10/2018",
+        "karar_tarihi": "11/01/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde; davanın kullandığı markanın müvekkilinin tescilli markalarına tecavüz ettiğini, haksız rekabet gerçekleştirdiğini iddia etmiştir. Davacı vekili, davanın müvekkilinin grubunda okuduğu, bildiği, seslendirdiği düzenlemeye ait şarkıların müvekkilinin markasına benzediğini, davanın müvekkilinin rock alt yapılar ve vokaller kullanarak yorumladığı şarkıların müvekkilinin markasına benzediğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacı vekilinin iddialarını reddetmiştir. Mahkeme, davacı vekilinin iddialarının yetersiz olduğunu, davacı vekilinin iddialarının kanıtlanmadığını ve davacı vekilinin iddialarının mantıksız olduğunu tespit etmiştir.",
+        "verdict_text": "6100 sayılı HMK.'nin 353/1-b-1 maddesi gereğince davacı vekilinin yerinde görülmeyen istinaf isteminin ESAS TAN REDDİNE, Alınması gereken 44,40 TL harçtan peşin alınan 35,90 TL harçın mahsubu ile bakiye 8,50 TL eksik harçın davacıdan alınarak hazinede irat kaydına, İstinaf yargılama giderlerinin istinafa gelen üzerinde bırakılmasına, İstinaf incelemesi duruşmasız yapıldığından istinaf aşaması için ayrıca avukatlık ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda oy birliği ile ve kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK.'nin 353/1-b-1 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davanın kullandığı markanın müvekkilinin tescilli markalarına tecavüz ettiğini iddia etmiştir. Ancak mahkeme, davacı vekilinin iddialarını reddetmiştir. Mahkeme, davacı vekilinin iddialarının yetersiz olduğunu ve kanıtlanmadığını tespit etmiştir.",
+    "summary_for_model": "Davacı vekili, davanın kullandığı markanın müvekkilinin tescilli markalarına tecavüz ettiğini iddia etmiştir. Mahkeme, davacı vekilinin iddialarını reddetmiştir. Mahkeme, davacı vekilinin iddialarının yetersiz olduğunu ve kanıtlanmadığını tespit etmiştir. Davacı vekilinin istinaf isteminin esastan reddine karar verildi."
+}

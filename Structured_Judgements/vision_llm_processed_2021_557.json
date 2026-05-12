@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2021_557.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2019/1601 D. İş- 2020/321 Karar",
+        "karar_no": "2021/614",
+        "case_subject": "İhtiyati hacze itiraz",
+        "dava_tarihi": "24/06/2020",
+        "karar_tarihi": "28/04/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, borçluların TMSF'nin bir takım makine ve ekipmanların ihalesine katılması ve bu makinelerin üçüncü kişilere satılması ile ilgili borçların ihyati haciz taleplerini reddetmiştir. Borçlular, ihyati haciz kararının kaldırılması için itirazda bulunmuştur.",
+        "reasoning_text": "Mahkeme, ihyati haciz kararının kaldırılmasına karar vermiştir. İhtiyati haciz taleplerinin hukuka uygun olmadığı, borçluların itirazlarının kabul edilmesi ve mahkemenin önceki kararlarının tutarlılığı nedeniyle karar verilmiştir.",
+        "verdict_text": "İhtiyati haciz kararının kaldırılmasına, Peşin harcin karar harcına mahsubuna başkaca harç alınmasına yer olmadığına, dosya üzerinde yapılan inceleme sonucunda HMK'nın 362(1)-f maddesi uyarınca kesin olmak üzere, oy birliği ile karar verildi. 28/04/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İstanbul Ticaret Kanunu (İ.T.K.) 257/1. madde",
+            "İstanbul Ticaret Kanunu (İ.T.K.) 258/1. madde",
+            "İstanbul Ticaret Kanunu (İ.T.K.) 265. madde",
+            "Hukuk Muhakemeleri Kanunu (HMK) 353/1-b-1. madde",
+            "Hukuk Muhakemeleri Kanunu (HMK) 355. madde",
+            "Hukuk Muhakemeleri Kanunu (HMK) 362(1)-f madde"
+        ]
+    },
+    "summary_for_human": "Mahkeme, borçluların ihyati haciz taleplerini reddetmiştir. Borçlular, ihyati haciz kararının kaldırılması için itirazda bulunmuştur. Mahkeme, ihyati haciz taleplerinin hukuka uygun olmadığı ve borçluların itirazlarının kabul edilmesi nedeniyle, ihyati haciz kararının kaldırılmasına karar vermiştir. Karar, Peşin harcin karar harcına mahsubuna başkaca harç alınmasına yer olmadığına ve dosya üzerinde yapılan inceleme sonucunda HMK'nın 362(1)-f maddesi uyarınca kesin olmak üzere, oy birliği ile verilmiştir.",
+    "summary_for_model": "İhtiyati haciz taleplerinin reddi, borçluların itirazı ve mahkemenin önceki kararlarının tutarlılığı nedeniyle ihyati haciz kararının kaldırılmasına karar verildi. HMK'nın 353(1)b-1 ve 362(1)-f maddeleri uyarınca ES ASTAN REDDİNE ve Peşin harcin karar harcına mahsubuna başkaca harç alınmasına yer olmadığına karar verildi."
+}

@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2025_15.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2025/15 Esas",
+        "karar_no": "2025/221 Karar",
+        "case_subject": "Marka (Tecavüzün Teşbiti İstemi) | Marka (Tecavüzün Giderilmesi İstemi)",
+        "dava_tarihi": "24/06/2024",
+        "karar_tarihi": "30/01/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın vekilinin ticari unvanının esas unsuru olan \"...\" ibaresine ait hem TPMK hem de uluslararası marka ofisi tarafından marka tescili bulunduğunu iddia etti. Davacı, vekilinin \"mavi\" renk unsuru ile birliktelikte \"...\" şekillerinde, kataloglarda yer alan \"...\" renk ile \"benzer ürün\" kodlarını, fiziki ve dijital ortamlarda kullanmak suretiyle marka haklarını ihlal ettiğini iddia etti.",
+        "reasoning_text": "Mahkeme, ilk derece mahkemesinin ihlati tedbir kararının kaldırılmasına karar verdi. İstinaf talebinin kabulüne karar verildi. Davanın vekilinin istinaf başvurusu kabul edildi ve dava dosyanın mahkemeye gönderilmesi kararı verildi.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere; 1- Davacı vekilinin istinaf isteminin KABULÜ ile; 2- İstanbul 2. Fikri Ve Sınai Haklar Hukuk Mahkemesi'nin 24/06/2024 tarih, 2023/125 E. Sayılı Ara Kararının 6100 Sayılı HMK'nın 353/1-a-6. maddesi gereğince KALDIRILMASINA, 3- Dosyanın, yukarıda gösterilen biçimde inceleme ve değerlendirme yapılmak üzere mahkemesine GÖNDERILMESINE, 4- İstinaf yasa yoluna başvuran davacı tarafından peşin olarak yatırılan istinaf karar ve ilam harcının talebi halinde kendisine iaadesine,5- Dosya üzerinde inceleme yapılması sebebiyle vekalet ücreti tayinine yer olmadığına,6- İstinaf yasa yoluna başvuran tarafından istinaf aşamasında yapılan giderlerin ilk derece mahkemesince verilecek nihai kararda dikkate alınmasına,6100 Sayılı HMK'nın 353/1-a-6. ve 362/1-g. maddeleri gereğince dosya üzerinde yapılan inceleme sonucunda ve KESİN olmak üzere, oy birliğiyle karar verildi. 30/01/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "353/1-a-6. madde",
+            "362/1-g. madde",
+            "SMK'nın 7 ve 29. maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, vekilinin marka haklarını ihlal ettiğini iddia etti. Mahkeme, ilk derece mahkemesinin ihlati tedbir kararını kaldırdı ve istinaf talebini kabul etti. Davanın vekilinin istinaf başvurusu kabul edildi ve dava dosyanın mahkemeye gönderilmesi kararı verildi.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, davacı vekilinin istinaf talebini kabul etti. İlk derece mahkemesinin ihlati tedbir kararının kaldırılmasına karar verildi. Davanın vekilinin istinaf başvurusu kabul edildi ve dava dosyanın mahkemeye gönderilmesi kararı verildi. 6100 Sayılı HMK'nın 353/1-a-6. ve 362/1-g. maddeleri ve SMK'nın 7 ve 29. maddeleri referans gösterildi."
+}

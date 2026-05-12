@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2021_834.pdf",
+        "court_name": "BAKIRKÖY 1. FİKRİ VE SANATİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/834 Esas",
+        "karar_no": "2021/1417 Karar",
+        "case_subject": "Tespit (D.İş)",
+        "dava_tarihi": "14/01/2021",
+        "karar_tarihi": "08/07/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının Instagram ve Facebook hesaplarında markasını kullanan reklamların kaldırılması ve erişimin engellenmesi talep etti. Davalı vekili ise, davalının markasını kullanmadığını ve hak ihlalinin olmadığını savundu.",
+        "reasoning_text": "Mahkeme, davalının markasını kullanmadığına dair kanıt bulamadığını ve davacının talebini reddetti. Davacı vekilinin istinaf başvurusu da reddedildi.",
+        "verdict_text": "İstinaf incelemesi için dairemeze gönderilen dosyanın ilk incelemesi tamamlanmış olmakla, HMK 353 ve 356. maddeleri gereğince dosya içeriğine göre duruşma yapılmasına gerek görülmeden dosya üzerinde yapılan inceleme sonucu; ... Mahkemede bu aşamada tedbir talebinin reddi kararı yerinde olmakla, tedbir talep eden vekilinin istinaf başvurusunun esasdan reddine karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 356",
+            "SMK 159",
+            "HMK 389",
+            "1-600 sayılı HMK'nin 353/1-b maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının Instagram ve Facebook hesaplarında markasını kullanan reklamların kaldırılmasını talep etti. Mahkeme, davalının markasını kullanmadığına dair kanıt bulamadığını ve davacının talebini reddetti.",
+    "summary_for_model": "Davacı vekili, davalının sosyal medya hesaplarında markasını kullanan reklamların kaldırılması talep etti. Mahkeme, davalının markasını kullanmadığına dair kanıt bulamadığını ve davacının talebini reddetti. Davacı vekilinin istinaf başvurusu da reddedildi."
+}

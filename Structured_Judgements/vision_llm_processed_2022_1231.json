@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2022_1231.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2022/1231",
+        "karar_no": "2024/1460",
+        "case_subject": "YİDK Kararı İptali-Hüküm Süzlüğü",
+        "dava_tarihi": "18/04/2022",
+        "karar_tarihi": "20/09/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, Ankara 4. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 18/04/2022 tarihli ve 2021/172 E. - 2022/107 K. sayılı kararının iptali için dava açmıştır. İddialar, davacı vekilinin YİDK tarafından reddedilen marka tescil başvurusuna dayanıyor. Davacı, davalının markasını aktif olarak kullandığını, haksuz kazanç elde ettiğini iddia ediyor.",
+        "reasoning_text": "Mahkeme, davacı vekilinin istinaf başvurusunu reddetmiştir. Karar, SMK 6/1, 6/3, 6/5 ve 6/9 maddelerine dayanarak verilmiştir. Mahkeme, markaların benzersizliğini ve davacı vekilinin hak sahibi olamayacağını tespit etmiştir.",
+        "verdict_text": "ESASTAN REDDİNE, 427,60-TL istinaf karar ve ilam harcı, 80,70-TL istinaf karar ve ilam harcı, 346,90-TL davacı tarafından tahsil edilmiştir. İstinaf aşamasında davacı tarafından yapılan yargılama giderleri davacı uhdesindedir. İstinaf aşamasında duruşma açılmadığından vekalet ücreti takdirine yer verilmemiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 6/1",
+            "SMK 6/3",
+            "SMK 6/5",
+            "SMK 6/9",
+            "HMK 353/1-b.1",
+            "HMK 361",
+            "Yargıtay Hukuk Genel Kurulu Kararı 08.06.2016, E.2014/11-696, K.2016/778",
+            "6100 sayılı HMK",
+            "Harcılar Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, Ankara 4. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin YİDK kararını iptal etmek için dava açmıştır. Mahkeme, davacı vekilinin istinaf başvurusunu reddetmiştir. Karar, SMK maddeleri ve HMK hükmüne dayanarak verilmiştir.",
+    "summary_for_model": "Dava, YİDK kararının iptali için açılmıştır. Mahkeme, davacı vekilinin istinaf başvurusunu reddetmiştir. Karar, SMK 6/1, 6/3, 6/5 ve 6/9 maddeleri ve HMK hükmüne dayanarak verilmiştir. Davacı vekilinin hak sahibi olamayacağı tespit edilmiştir."
+}

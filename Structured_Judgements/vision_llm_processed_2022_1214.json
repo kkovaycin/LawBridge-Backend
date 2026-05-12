@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_1214.pdf",
+        "court_name": "İstanbul Anadolu 5. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2022/1214",
+        "karar_no": "2022/1355",
+        "case_subject": "Tazminat (Haksız Rekabetten Kaynaklanan)",
+        "dava_tarihi": "02/03/2022",
+        "karar_tarihi": "02/03/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davada iddia ettiği; Almanya'da yerleşik bir şirketin Türkiye'de kendine ait ticari markaları kullandığını, internet sitelerinde ve sosyal medya hesaplarında markasını ve ürün fotoğraflarını hukuka aykırı biçimde kullandığını iddia etti. Davalı, bu iddiaları reddetmekte ve ticari ilişkinin sona erdiğini belirtmekteydi.",
+        "reasoning_text": "Mahkeme, davacı vekilinin istinaf başvurusunu esastan reddetmiştir. Davacı vekili, davanın haksız rekabet hükümlerine dayanarak talep ettiği maddi tazminatın talep edilmesinin, davalı ile vekilli şirket arasındaki ticari ilişkinin sona ermesine rağmen davacı şirketin markasını ve ürün fotoğraflarını internet sitelerinde ve sosyal medya hesaplarında kullanmaya devam etmesinin TTK'nın 54 ve devam maddeleri gereğince haksız rekabet teşkil ettiğini iddia etmiştir.",
+        "verdict_text": "Yukarıda açıklanan gerekçelerle; 1-HMK'nın 353/1.b.1.maddesi uyarınca, davacı vekilinin istinaf başvurusunun esastan reddine, 2-Davacı vekili tarafından yatırılan istinaf başvuru ve peşin harçlarının Hazineye gelir kaydına, 3-Davacı vekili tarafından istinaf kanun yoluyla başvuru için yapılan masrafların kendi üzerinde bırakılmasına,4-Gerekçeli kararın, HMK'nın 20. maddesi uyarınca, ilk derece mahkemesince taraf vekillerine tebliğiğine dair; HMK'nın 353/1.b.1. maddesi uyarınca dosya üzerinde yapılan inceleme sonucunda, 20.10.2022 tarihinde, oy birliğiyle ve kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK",
+            "HMK",
+            "556 sayılı KHK"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin markasını ve ürün fotoğraflarını internet sitelerinde ve sosyal medya hesaplarında hukuka aykırı biçimde kullandığını iddia etti. Mahkeme, davacı vekilinin istinaf başvurusunu esastan reddetti.",
+    "summary_for_model": "Davacı vekili, davalı şirketin markasını ve ürün fotoğraflarını internet sitelerinde ve sosyal medya hesaplarında hukuka aykırı biçimde kullandığını iddia etti. Mahkeme, istinaf başvurusunu esastan reddetti. Davacı vekili, TTK ve HMK hükümlerine dayanarak maddi tazminat talep etti."
+}

@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2020_2032.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2020/2032",
+        "karar_no": "2023/1553",
+        "case_subject": "Marka Hakkina Tecavüzden Kaynaklanan",
+        "dava_tarihi": "24/12/2019",
+        "karar_tarihi": "11/12/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, davalı tarafından markanın tescilsiz ve izinsiz kullanımı iddia etmiştir. Davalı, markanın ticaret ünvanı olarak kullanıldığını ve internet siteleri, YouTube kanalları ve Facebook hesaplarında markayı kullanıldığını savunmuştur.",
+        "reasoning_text": "Mahkeme, davacı vekilinin iddialarını kabul ederek davalı tarafından markanın izinsiz kullanımı ve hak ihlali tespit etmiştir. Mahkeme, davalı tarafından markanın ticaret ünvanı olarak kullanıldığını ve bu kullanımların davacı markasına tecavüz oluşturduğunu karar vermiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1- Davacının istinaf isteminin KABULÜ ile; 2- İstanbul 2.Fikri Ve Sınai Haklar Hukuk Mahkemesi'nin 24/12/2019 tarih, 2018/5 E. 2019/560 K. Sayılı Kararının 6100 Sayılı HMK'nın 355, 26,297/son ve 353/1-a-6. maddesi gereğince KALDIRILMASINA; 3- Dosyanın, yukarıda gösterilen biçimde inceleme ve değerlendirme yapılmak üzere mahkemesine GÖNDERILMESINE; 4- İstinaf yasa yoluna başvuran davacı tarafından peşin olarak yatırılan istinaf karar ve ilam harcının talebi halinde kendisine iaadesine; 5- Dosya üzerinde inceleme yapılması sebebiyle vekalet ücreti tayinine yer olmadığına; 6- İstinaf yasa yoluna başvuran tarafından istinaf aşamasında yapılan giderlerin ilk derece mahkemesince verilecek nihai kararda dikkate alınmasına, 6100 Sayılı HMK'nın 353/1-a-6. ve 362/1-g. maddeleri gereğince dosya üzerinde yapılan inceleme sonucunda ve KESİN olmak üzere, oy birliğiyle karar verildi. 11/12/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "TTK m.55/1-a-4",
+            "TTK m.54 vd.",
+            "6769 sayılı SMK hükümleri",
+            "TPMK kaydı"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı tarafından markasının izinsiz kullanımı iddia etti. Mahkeme, davalı tarafından markanın ticaret ünvanı olarak kullanıldığını ve bu kullanımların davacı markasına tecavüz oluşturduğunu karar verdi.",
+    "summary_for_model": "Davacı vekili, davalı tarafından markanın izinsiz kullanımı iddia etti. Mahkeme, davalı tarafından markanın ticaret ünvanı olarak kullanıldığını ve bu kullanımların davacı markasına tecavüz oluşturduğunu karar verdi. Davacı vekilinin iddiaları kabul edildi."
+}

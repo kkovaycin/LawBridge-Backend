@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2024_23.pdf",
+        "court_name": "T.C. İzmir Bölge Adliye Mahkemesi 11. Hukuk Dairesi",
+        "esas_no": "2022/147 Esas",
+        "karar_no": "2024/440",
+        "case_subject": "İhtiyati Tedbir",
+        "dava_tarihi": "10/11/2023",
+        "karar_tarihi": "01/03/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı şirketin müvekkil şirketin şifahi izni ile markaları kullandığını iddia ediyor. İlk derece mahkemesi tarafından verilen ihtiyatı tedbir kararı, davanın tecavüz eylemlerinin durdurulması için istendi. İkinci derece mahkemesi, ilk derece kararının kaldırılmasına karar verdi.",
+        "reasoning_text": "İstanbul 2. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 2019/68 Esas sayılı dosyasında dava konusu olan tek markanın davacı şirketin diğer markaları ile ilgili olduğu için, ilk derece mahkemesinin kararı hatalı olarak değerlendirildi. 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-a-6 ve 362/1-f maddeleri uyarınca istinaf başvurusu kabul edildi.",
+        "verdict_text": "İhtiyatı tedbir talep eden davacı vekilinin istinaf başvurusunun ESASA İLİŞKİN SEBEPLE İNCELENMEKSİZİN KABULÜNE, İzmir Fikri ve Sınai Haklar Hukuk Mahkemesince verilen 10.11.2023 gün ve 2022/147 Esas sayılı, \"09.03.2023 tarihli ihtiyatı tedbir kararının kaldırılmasına\" dair ara kararının KALDIRILMASINA, Dairemizin kararına uygun şekilde yeniden bir karar verilmek üzere dosyanın mahal mahkemesine GÖNDERİLMESİNE, İstinaf yoluna başvuran tarafından yatırılan istinaf karar harcının istek halinde kendisine iadesine, Dosya üzerinden yapılan inceleme neticesinde, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun gereğince 353/1-a-6 ve 362/1-f maddesi gereğince kesin olmak üzere oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hukuk Muhakemeleri Kanunu",
+            "353/1-a-6",
+            "362/1-f",
+            "Hukuk Muhakemeleri Kanunu",
+            "İstanbul 2. Fikri ve Sınai Haklar Hukuk Mahkemesi"
+        ]
+    },
+    "summary_for_human": "İzmir Bölge Adliye Mahkemesi, davacı vekilinin istinaf başvurusunu kabul ederek ilk derece mahkemesinin ihtiyatı tedbir kararını kaldırdı. Davanın tecavüz eylemlerinin durdurulması için istedilen tedbirin kaldırılmasına karar verildi.",
+    "summary_for_model": "İstanbul 2. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 2019/68 Esas sayılı dosyasında dava konusu olan tek markanın davacı şirketin diğer markaları ile ilgili olduğu için, ilk derece mahkemesinin kararı hatalı olarak değerlendirildi. 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-a-6 ve 362/1-f maddeleri uyarınca istinaf başvurusu kabul edildi."
+}

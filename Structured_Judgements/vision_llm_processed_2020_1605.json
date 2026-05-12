@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2020_1605.pdf",
+        "court_name": "İstanbul Anadolu 4. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2019/156",
+        "karar_no": "2020/123",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "13/02/2020",
+        "karar_tarihi": "29/12/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın sosyal medya hesaplarında yaptığı paylaşımlar nedeniyle vekilinin kişilik haklarına saldırdığını ve haksız rekabet niteliğinde olduğunu iddia ediyor. Davacı vekili, vekilinin paylaşımlarının ifade özgürlüğü kapsamında olduğunu savunuyor.",
+        "reasoning_text": "Yerel mahkeme, davanın paylaşımlarının ifade özgürlüğü kapsamında değerlendirilemeyeceğini ve vekilinin kişilik haklarına saldırdığını tespit etti. Davanın taleplerinin reddedilmesi gerektiği kararı verildi.",
+        "verdict_text": "Davanın REDDİNE, ilk derece mahkemesi yönünden; Dairemiz karar tarihi itibarıyla alınması gereken 80,70-TL harcin, davacı tarafından dava açılırken peşin olarak yatırılan 1.707,75-TL harçtan mahsubu ile bakiye 1.627,05-TL'nin talep halinde davacıya iadesine, Davacı tarafından sarf edilen yargılama giderlerinin davacı üzerinde bırakılmasına, Davalı tarafından sarf edilen 16,50-TL yargılama giderinin davacıdan alınarak davalya verilmesine, Davalı taraf kendisini vekil ile temsil ettirdiğinden Dairemiz karar tarihi itibarıyla olan AAÜT'nin 10/3 fikrası uyarınca hesap olunan 9.200,00-TL maktu vekalet ücretinin davacıdan alınarak davalya verilmesine, Artan gider avansı bulunduğu takdirde talep halinde avansı yatan tarafa iadesine, İstinaf yönünden; Harçlar Kanunu gereğince istinaf eden tarafından yatırılan 148,60-TL istinaf başvuru harcının hazneye gelir kaydına, 54,40-TL istinaf karar harcının talep halinde davalya iadesine, Davacı tarafından sarf edilen 148,60-TL istinaf kanun yoluna başvurma harci ile 31,50.TL dosyanın istinafa gidiş/ dönüş gideri olmak üzere; toplam 179,60-TL yargılama giderinin davalıdan alınarak davacıya verilmesine, Bakiye gider avansı varsa talep halinde avansı yatan tarafa iadesine, Kararın ilk derece mahkemesinde taraflara tebliği gönderilmesine, Dosya üzerinde yapılan inceleme sonucunda 29/12/2022 tarihinde HMK'nın 362/1-a maddesi gereğince kesin olarak oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TMK'nin 24-25, TTK'nin 54/2, 55(1), 56/1-e ve TBK'nin 58. Maddeleri",
+            "Anayasanın 26 ve 28 maddeleri",
+            "Avrupa İnsan Hakları Sözleşmesinin 10. maddesi",
+            "Basın Kanunu 3. maddesi",
+            "Harçlar Kanunu",
+            "HMK'nın 353/1-b2 ve 362/1-a maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, vekilinin sosyal medya paylaşımları nedeniyle kişilik haklarına saldırdığını iddia ediyor. Yerel mahkeme, bu paylaşımların ifade özgürlüğü kapsamında olmadığını ve vekilinin haklarına saldırdığını tespit etti. Davanın talepleri reddedildi.",
+    "summary_for_model": "Dava, vekilinin sosyal medya paylaşımları nedeniyle kişilik haklarına saldırdığını iddia ediyor. Yerel mahkeme, bu paylaşımların ifade özgürlüğü kapsamında olmadığını ve vekilinin haklarına saldırdığını tespit etti. Davanın talepleri reddedildi. İstinaf başvurusu reddedildi."
+}

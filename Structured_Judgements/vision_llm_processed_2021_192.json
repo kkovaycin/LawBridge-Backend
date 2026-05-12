@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2021_192.pdf",
+        "court_name": "T.C. İSTANBUL 6. AŞLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2021/192 Esas",
+        "karar_no": "2022/814",
+        "case_subject": "İtirazın İptali (Ticari Satımdan Kaynaklanan)",
+        "dava_tarihi": "16/03/2021",
+        "karar_tarihi": "10/11/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, ticari satımda kaynaklanan bir fatura için itiraz edildi. Davacı, ticari alım satım yapan bir şirketin ticari alım satım yaparken bir şirketten televizyon satin aldığını, daha sonra mürekkilin söz konusu televizyonu satin aldığını, ancak ürünün hasarlı çıktığında kullanıldığını iddia etti. Mürekkil, ürünü satin aldığı firma ile iletişim kuramadığını, ancak müşteri hizmetleri üzerinden iletişim kurduğunu iddia etti.",
+        "reasoning_text": "Davacı, itirazın iptali talebini, dava konusu fatura için itirazın haklı olmadığını iddia etti. Mahkeme, dava konusu fatura için itirazın haklı olmadığını, dava konusu fatura için itirazın iptali davasının İK'nin 67. Maddesi uyarınca iptali ve icra iýkar tazminatının tahsili davasıdır olarak kararlaştırıdı.",
+        "verdict_text": "Davanın KİSMEN KABULÜ İLE, davalın ... 7.İcra Müdürlüğü'nün ... Esas sayılı takipine yaptığı itirazın 6.962,00-TL asil alacak ve 193,39-TL işlemş faizi olmak üzere toplam 7.155,39-TL yönünden İPTALİNE, takipin 6.962,00-TL asil alacağı takip tarihinden itibaren yıllık %10 ticari temerrüt faizi yürütülmek suretiyle ve takip talebindeki diğer koşuşlarla devamına, fazlaya ilişkin isteminin reddine, ... karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İK'nin 67. Maddesi",
+            "İK'nin 62. Maddesi",
+            "HMK'nun 320/2. Maddesi",
+            "HMK md.222",
+            "HMK 333.maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, ticari satımda kaynaklanan bir fatura için itiraz etti. Mahkeme, itirazın haklı olmadığını kararlaştırdı ve dava konusu fatura için itirazın iptali davasını kabul etti.",
+    "summary_for_model": "Davacı, ticari satımda kaynaklanan bir fatura için itiraz etti. Mahkeme, itirazın haklı olmadığını kararlaştırdı ve dava konusu fatura için itirazın iptali davasını kabul etti. İK'nin 67. Maddesi ve HMK'nun 320/2. Maddesi gibi kanun maddeleri kullanıldı."
+}

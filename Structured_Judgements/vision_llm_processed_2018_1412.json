@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2018_1412.pdf",
+        "court_name": "İSTANBUL BÖLGE ADLİYE MAHKEMESİ 16. HUKUK DAİRESİ",
+        "esas_no": "2018/1412 Esas",
+        "karar_no": "2018/930",
+        "case_subject": "Marka (Marka İtibarının Kaybi Nedeniyle Tazminat İstemi)",
+        "dava_tarihi": "30/01/2018",
+        "karar_tarihi": "09/04/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilinin TPMK nezinde tescilli esası unsurlu markaların İstanbul gibi asli unsurlu markalar olarak tescil edildiğini iddia etmiştir. Davanın Ankara FSHHM'de açtığı davada, müvekkilinin markalarını projelerde, internet sisteminde, sosyal medya hesaplarında ve reklam tabelalarında kullanmaya devam ettiğini, bu kullanımların markanın ihbaresine ön plana çıkarıldığını ve karıştırma ihtimali meydana getirdiğini savunmuştur.",
+        "reasoning_text": "Mahkeme, davacının iddialarını reddetmiştir. Davacının istinafa cevabını rastlamamış ve ilk derece mahkemesi kararının reddine karar vermiştir. Davacının iddialarının makul olmadığını ve davanın temelli olmadığını tespit etmiştir.",
+        "verdict_text": "İhtiyati tedbir istemi reddine karar verilmiştir. Davacı vekili istinafa itmekte hak sahibidir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HUKUM: 353/1-b maddesi",
+            "HUKUM: 610 sayılı HMK'nın 353/1-b maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkilinin markalarını ihlal ettiğini iddia etti ancak mahkeme bu iddiaları reddetti. Davacı istinafa başvurabilir.",
+    "summary_for_model": "Marka ihlali davası, davacının iddiaları reddedildi. İstinafa başvuru hakkı korunmuştur. Hukuki temel: 353/1-b maddesi."
+}

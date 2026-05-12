@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2022_3172.pdf",
+        "court_name": "BÖLGE ADLÎYE MAHKEMESİ",
+        "esas_no": "2021/286",
+        "karar_no": "2023/155",
+        "case_subject": "İtiraz iptali",
+        "dava_tarihi": "24/10/2022",
+        "karar_tarihi": "14/02/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı tarafça 23-28/Ocak/2018 tarihleri arasında CNR Fuar Merkezi'nde düzenen 2018 İMOB fuarında davalıya ait standın kurulması hususunda 03/01/2018 tarihli sözleşmenin yapıldığını, iş bedelinin 29.000,00 TL olarak belirlendiğini, davacının sözleşmeden kaynaklanan edimlerini yerine getirdiğini, davalı tarafından 22.000,00 TL bakiye borcu ödememesi üzerine davalı aleyhine Bakırköy ... İcra Müdürlüğü'nün ... Esas sayılı dosyası ile takibe girişliğini, davanın borça itirazı üzerine takibin durduğunu belirterek, itirazın iptali ile takibin devamına ve icra inkâr tazminatının davalidan tahsiline karar verilmesini talep ve dava etmiştir.",
+        "reasoning_text": "Mahkemecede, davacı taraf verilen kesin süre ve yapılan ihbarata rağmen bilirkiişi incelemesi yönünden ara karara bağlanan gider/deli avansını yatırmadığından bilirkiişi deliline dayanmaktan vazgeçmiş sayıldığı ve dava dilekçesinin deliller kisminda ayrica yemin deliline dayanmayan davacı taraf iddiasını ispata yarar başka bir yasal delil sunmadığı gerekçesi ile davanın reddine karar verilmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Bakırköy 3. Asliye Ticaret Mahkemesi'nin 24/10/2022 tarih ve 2021/286 Esas, 2022/1039 Karar sayılı kararında usul ve esas yönünden yasaya aykırı bir durum bulunmadığına göre, davalı vekilinin istinaf başvurusunun HMK'nın 353/1-b-1 maddesi gereğince esasdan REDDİNE, 2-Alınması gereken 1.502,82 TL nisbi istinaf karar harcından davalı tarafça peşin olarak yatırılan toplam 375,71 TL harcin mahsubu ile bakiye 1.127,11 TL harcin davalidan alınarak HAZİNEYE GELİR KAYDINA,3-Davalı tarafça"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TBK 470",
+            "TBK 474",
+            "TBK 478",
+            "HMK 353/1-b-1",
+            "HMK 355",
+            "HMK 362/1-a"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin istinaf talebini reddetmiştir. Davacı, davalı tarafça fuar standı iş bedelinin ödenmediği iddiasıyla dava açmıştır. Ancak mahkeme, davacı tarafın iddialarını destekleyecek yeterli delil sunmadığını ve davanın reddine karar vermiştir.",
+    "summary_for_model": "Davacı vekili, davalı tarafça fuar standı iş bedelinin ödenmediği iddiasıyla dava açmıştır. Mahkeme, davacı tarafın iddialarını destekleyecek yeterli delil sunmadığını ve davanın reddine karar vermiştir. Davacı vekilinin istinaf talebi HMK 353/1-b-1 maddesine göre esas olarak reddedilmiştir. Davalı tarafça 1.127,11 TL harcin alınması kararlaştırılmıştır."
+}

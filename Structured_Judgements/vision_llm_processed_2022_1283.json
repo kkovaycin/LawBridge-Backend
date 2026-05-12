@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2022_1283.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2022/1283",
+        "karar_no": "2022/912",
+        "case_subject": "İhtiyati haciz talebi ve istinaf",
+        "dava_tarihi": "02/06/2022",
+        "karar_tarihi": "08/09/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, Metal Mutfak Eşyaları ticaret unvanlı şahıs şirketi yetkilisi ile anlaşarak tespi siparişi verdiğini iddia etmiştir. Müvekkilin 12/03/2021 ve 13/03/2021 tarihlerinde toplamda 17.500 USD tutarında ödeme yaptığını, ancak karşı tarafın 8.950 USD'ye denk gelen siparişin 14 ay aşkın süreyle ifa etmediğini, eksik ifaya rağmen ücret iadesi yapılmadığını, karşı tarafın başka şirketlere karşı benzer girişimlerde bulunduğunu ve adres değişikliği yaptığını iddia etmiştir.",
+        "reasoning_text": "İlk derece mahkemesi, İcra İflas Kanunu 257. maddesi gereğince, ihityati haciz talebinin reddine karar vermiştir. İkinci derece mahkemesi, İcra İflas Kanunu 355. maddesi ve Ticari Satım Sözleşmesi Kapsamında Eksik Yapıldığı İddia Edilen İfa Sebepyle Halen Teslim Edilmemiş Emtia İçin Önceden Yapılan Ödemenin İadesi talep edilmektedir. Mahkeme, alacağın varlığı ve miktarı konusunda kanaat oluşturamayarak ihityati haciz kararı verilebileceğini kabul etmemiştir.",
+        "verdict_text": "1- İhtiyati haciz isteyen vekilin istinaf başvurusu, Hukuk Muhakemeleri Kanunu 353(1)b-1 maddesi uyarınca ESAS TAN REDDİNE, 2- İhtiyati haciz isteyen davacı tarafından başvuru sırasında istinaf kararı harç peyin olarak yatırıldığından başka harç alınmasına yer olmadığına, 3- İhtiyati haciz isteyen davacı tarafından istinaf aşamasında yapılan yargılama giderlerinin kendi üzerinde bırakılmasına, Daire, dosya üzerinden yapılan inceleme sonunda, Hukuk Muhakemeleri Kanunu 362(1)f maddesi uyarınca kesin olarak oy birliğiyle karar verildi. 08/09/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İcra İflas Kanunu 257. madde",
+            "İcra İflas Kanunu 355. madde",
+            "İcra İflas Kanunu 258. madde",
+            "Ticari Kanun 207. madde",
+            "Hukuk Muhakemeleri Kanunu 353(1)b-1 madde",
+            "Hukuk Muhakemeleri Kanunu 362(1)f madde"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir şirket tarafından ihityati haciz talebiyle başlatılmıştır. Davacı, metal mutfak eşyaları satan bir şirkete yaptığı siparişin 14 aydan fazla bir süre içinde yerine getirilmediğini ve ödemelerin eksik olduğunu iddia etmiştir. İlk derece mahkemesi, ihityati haciz talebini reddetmiştir çünkü alacağın varlığı ve miktarı konusunda yeterli kanıt bulunmamıştır. İkinci derece mahkemesi de bu kararı onaylamıştır. Davacı, ilk derece mahkemesinin kararını kaldırmak ve ihityati haciz kararı verilmesini talep etmiştir ancak bu talepler de reddedilmiştir.",
+    "summary_for_model": "Dava, Metal Mutfak Eşyaları ticaret unvanlı şahıs şirketi aleyhinde ihityati haciz talebiyle başlatılmıştır. İlk derece mahkemesi, İcra İflas Kanunu 257. maddesi uyarınca, ihityati haciz talebini reddetmiştir çünkü alacağın varlığı ve miktarı konusunda kanaat oluşturulamamıştır. İkinci derece mahkemesi, İcra İflas Kanunu 355. maddesi ve Ticari Satım Sözleşmesi Kapsamında Eksik Yapıldığı İddia Edilen İfa Sebepyle Halen Teslim Edilmemiş Emtia İçin Önceden Yapılan Ödemenin İadesi talep edilmektedir. Mahkeme, alacağın varlığı ve miktarı konusunda kanaat oluşturamayarak ihityati haciz kararı verilebileceğini kabul etmemiştir. İkinci derece mahkemesi, Hukuk Muhakemeleri Kanunu 353(1)b-1 ve 362(1)f maddeleri uyarınca, davacının istinaf başvurusunu reddetmiştir."
+}

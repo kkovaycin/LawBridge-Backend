@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2020_52.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 14. Hukuk Dairesi",
+        "esas_no": "2020/52",
+        "karar_no": "2022/1443",
+        "case_subject": "Alacak (Ticari Satımdan Kaynaklanan)",
+        "dava_tarihi": "20/11/2019",
+        "karar_tarihi": "03/11/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, dava dilekçesinde özetle; taraflar arasındaki satım sözleşmesi nedeniyle davalından sipariş edilen kumaşlar nedeniyle müvekkilinin 77.148,12 TL ödeme yaptığını, kumaşların davalı şirketçe belli bir sezon için üretildiğini, ancak kumaşların ihtara rağmen teslim edilmediğini ileri sürerek, 77.148,12 TL'nin ihtarname tarihinden itibaren faizle birlikte iaadesine karar verilmesini talep ve dava etmiştir. Davalı vekili, savunmasında özetle; davacının sözleşme konusu kumaşları teslim almaya gelmediği gibi bu hususta herhangi bir bildirimde de bulunmadığını, satıcının usulüne uygun şekilde temerrüde düşürüldüğünü, davacı tarafından keside edilen ihtarnamenin temerrüt şartlarını taşamadığını savunarak, davanın reddini istemiştir.",
+        "reasoning_text": "İlk Derece Mahkemesince yapılan yargılama sonucunda; \"...teslimi konu malların teslime hazır hale getirildiği hususunun davalı tarafından ispat edilmesi gerektiği, bu hususta dosyaya sunulan ve davalı tarafından da inkar edilmeyen WhatsApp yazışma içeriği incelendiğinde, davalinin kumaşları teslim etmeme sebebinin davacı tarafından istenen bir evrak üzerinde İslak imza olmaması nedeniyle dayandığı, bu hususun davalı savunması ile çeliştiği, diğer yandan davalı tarafından kumaş siparisi veren ve bu nedenle 77.148,72TL ödeme yapan davacının kumaşları teslim almaya gelmemesinin hayatın olağan akışına aykırı olduğu, diğer yandan mahkememizce tarafların ticari defter ve belgeler üzerinde incelemeler yaptırılmış olup dosyaya sunulan rapor içeriğine göre davacı tarafından yapılan ödemelerin tarafların ticari defterlerine aykırı olduğu belirtilmişti, alınan raporun denetime elverişli olduğu, gerek yukarıda açıklanan hususta ve gerekse bilirkişi raporu içeriği tüm dosya kapsamı içeriği değerlendirildiğinde teslimi konu malların teslime hazır hale getirildiği hususunun davalı tarafından ispat edilemediği, bu hususta dosyaya yansıyan herhangi bir bilgi, belge ve delil bulunmadığı, netice itibarıyla davacının davalından 77.148,72 TL alacaklı olduğu, her ne kadar alacağı ödeme tarihinden itibaren faiz işletilmesi talep edilmiş ise de, davacı tarafından davalığa gönderilen Kadıköy ... Noterliğinin 28/12/2018 tarih, ... yevmiye numaralı ihtarnamenin 02/01/2019 tarihinde davalığa tebliğ edildiği, ihtarnamede belirtilen 2 günlük ödeme süresinin eklenmesiyle 04/01/2019 tarihinde davalının temerrüte düştüğü, dolayısıyla davacının bu tarihten itibaren temerrüt faizi talep edebileceği kanatine varılmakla davanın kabulüne...\" gerekçesiyle davanın kabulüne, 77.148,12 TL'nin 04.01.2019 tarihinden itibaren işleyecek avans faizi ile birlikte davalıdan tahsiline, karar verilmiştir. Bu karara karşı, davalı vekilince istinaf başvurusunda bulunulmuştur.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-HMK'nın 353/1.b.1. maddesi uyarınca, davalı vekilinin istinaf başvurusunun esastan reddine, 2-Davalı tarafından yatırılan istinaf peşin harçlarının Hazineye gelir kaydına; bakiye 3.952,50 TL istinaf karar harçının davalıdan tahsiline,3-Davalı tarafından istinaf kanun yoluyla başvuru için yapılan masrafların kendi üzerlerinde bırakılmasına,4-Gerekçeli kararın ilk derece mahkemesince taraflara tebliğine,5-Dosyanın, kararı veren ilk derece mahkemesine gönderilmesine dair; HMK'nın 353/1.b.1. maddesi uyarınca dosya üzerinde yapılan inceleme sonucunda, oybirliğiyle ve kesin olarak karar verildi.03.11.2022 KANUN YOLU: HMK'nın 362/1.a maddesi uyarınca, dava konusunun değerine göre karar kesindir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK'nın 18.maddesi",
+            "TBK'nın 207.maddesi",
+            "TBK'nın 124.maddesi",
+            "TBK'nın 125.maddesi",
+            "HMK'nın 355. maddesi",
+            "HMK'nın 353/1.b.1. maddesi",
+            "HMK'nın 362/1.a maddesi"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir ticari satım sözleşmesi çerçevesinde, davacı tarafından sipariş edilen kumaşların teslim edilmemesi nedeniyle açılan bir alacak davasıdır. İlk derece mahkemesi, davalının kumaşları teslim etmeme sebeplerini inceledi ve davacı tarafından sunulan kanıtların yetersiz olduğunu tespit etti. Sonuç olarak, davacıya 77.148,12 TL alacak tanındı ve bu tutarın 04.01.2019 tarihinden itibaren faizle ödenmesi kararlaştırıldı. Davalı, bu karara karşı istinaf başvurusunda bulundu ancak istinaf başvurusu esastan reddedildi.",
+    "summary_for_model": "Dava, ticari satım sözleşmesi çerçevesinde kumaş teslim edilmemesi nedeniyle açıldı. İlk derece mahkemesi, davacı tarafından sunulan kanıtların yetersiz olduğunu tespit etti ve davacıya 77.148,12 TL alacak tanındı. Davalı, istinaf başvurusunda bulundu ancak HMK'nın 353/1.b.1. maddesi uyarınca istinaf başvurusu esastan reddedildi. TBK'nın 207, 124 ve 125. maddeleri, TTK'nın 18. maddesi ve HMK'nın 355. maddesi ve 362/1.a maddesi referans gösterildi."
+}

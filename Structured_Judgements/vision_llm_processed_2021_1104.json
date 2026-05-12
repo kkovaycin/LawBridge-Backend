@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2021_1104.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2021/1104",
+        "karar_no": "2021/970",
+        "case_subject": "Fikir Ve Sanat Eseri (Manevi Tazminat İstemi)",
+        "dava_tarihi": "30/12/2020",
+        "karar_tarihi": "14/06/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, İngilizce öğretmenliği mesleğini icra ettiği, 25.06.2017 tarihinde ana akım medya organlarında yayınlanan bir haberde, lise son sınıf öğrencisi olan bir öğrencinin LYS'den çok yüksek puan almasına rağmen tercih ettiği üniversiteye yerleştiğini, internet IP adreslerine ilişkin yapılan tespit sonucunda tercihlerin arkadaşı olan bir kişinin ÖSYM web sayfasından değiştirildiğini iddia ediyor. Davacı, bu haberlerin ulusal ve yerel medyada uzun süre gündemde tutulduğunu, fotoğrafının davalı şirketin de aralarında bulunduğu bazı kişiler ve kurumlarca haberlerde tekrar tekrar kullanıldığını, bu olaylar nedeniyle son derece elem duyduğunu ve açıklama yapma zorununda kaldığını iddia ediyor.",
+        "reasoning_text": "Mahkeme, davacının iddialarını değerlendirerek, İstanbul 2. Fıkri ve Sınai Haklar Hukuk Mahkemesi'nin 2018/5 Değişik İş sayılı dosyası ile ilgili tespit yapıldığını, 5846 sayılı Fikir ve Sanat Eserleri Kanununun (FSEK) 86 maddesi, 6098 sayılı Türk Borçlar Kanununun (TBK) 58. maddesi ve 4721 sayılı Türk Medeni Kanununun (TMK) 24 ve 25. maddeleri göz önünde bulundurularak 10.000 Türk Lirası tutarında manevi tazminat talep edildiğini ve davayı kabul ettiğini belirtiyor.",
+        "verdict_text": "HÜKÜM: Hukuk Muhakemeleri Kanununun 352. maddesi gereğince; 1- Hakimler ve Savcılar Kurulunun 564 ve 586 sayılı İstanbul Bölge Adliye Mahkemesi İş Bölümü Kararı gereğince istinaf kanun yoluyla başvuru incelemesinin İstanbul Bölge Adliye Mahkemesi 4. Hukuk Dairesi tarafından yapılması gerektiğinden, Dairemizce görevsizlik kararı vermek gerekmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu 352. madde",
+            "Hakimler ve Savcılar Kurulu 564 ve 586 sayılı İstanbul Bölge Adliye Mahkemesi İş Bölümü Kararı",
+            "Fikir ve Sanat Eserleri Kanunu (FSEK) 86. madde",
+            "Türk Borçlar Kanunu (TBK) 58. madde",
+            "Türk Medeni Kanunu (TMK) 24 ve 25. maddeler"
+        ]
+    },
+    "summary_for_human": "Davacı, internette yayınlanan haberlerde kendisiyle ilgili yanlış iddialar nedeniyle manevi tazminat talep ediyor. Mahkeme, davayı kabul ederek 10.000 Türk Lirası tutarında manevi tazminat kararı verdi.",
+    "summary_for_model": "Davacı, internette yayınlanan haberlerde kendisiyle ilgili yanlış iddialar nedeniyle manevi tazminat talep ediyor. Mahkeme, davayı kabul ederek 10.000 Türk Lirası tutarında manevi tazminat kararı verdi. Davacı, İstanbul 2. Fıkri ve Sınai Haklar Hukuk Mahkemesi'nin 2018/5 Değişik İş sayılı dosyası ile ilgili tespit yapıldığını iddia ediyor."
+}

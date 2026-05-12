@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2021_1479.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2021/1479",
+        "karar_no": "2021/1390",
+        "case_subject": "Fikir Ve Sanat Eseri (Manevi Tazminat İstemi)",
+        "dava_tarihi": "30/12/2020",
+        "karar_tarihi": "30/06/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, internette yayınlanan haberlerde kendisinin fotoğrafının izinsiz kullanıldığını iddia etmiştir. Davacı, bu durumun manevi tazminat talep etmesi için yeterli olduğunu savunmuştur.",
+        "reasoning_text": "Mahkeme, davacının iddiasını kabul etmemiş ve Hüküm Kanunu'nun 353/1-b.1 maddesine dayanarak davayı reddetmiştir. Mahkeme, davacının iddiasının yetersiz olduğunu ve davanın gereksiz olduğunu belirtmiştir.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere, 1-İstanbul 1.Fikri ve Sınai Haklar Hukuk Mahkemesinin 30/12/2020 tarih, 2020/424 Esas - 2020/423 Karar sayılı kararına karşı davacı vekili tarafından yapılan istinaf başvurusunun HMK 353/1-b.1 maddesi gereğince ESASTAN REDDİNE, 2-Harçlar Kanunu uyarınca davacidan alınması gereken 59,30-TL miktarı istinaf kararı ve ilam harci, istinaf yoluna başvuran davacı tarafından peşin yatırıldığından başka harç alınmasına yer olmadığına, 3-İncelemenin duruşmasız olarak yapılması nedeniyle avukatlık ücreti takdirine YER OLMADIĞINA, 4-Yasa yoluna başvuran tarafından yapılan giderlerin üzerinde bırakılmasına, 5-HMK'nun 359. Maddesinin 3. fikrası gereği karar kesin niteliğinde olduğundan kararın taraflara tebliği işleminin ilk derece mahkemesi tarafından yapılmasına, HMK. m. 353/1-b/1 hükmü uyarınca, dosya üzerinde yapılan inceleme sonucunda ve HMK. m. 362/1-a mad. gereğince, miktar itibarıyla kesin olmak üzere oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hüküm Kanunu 353/1-b.1",
+            "Hüküm Kanunu 362/1-a",
+            "Harçlar Kanunu",
+            "Fikir ve Sanat Eserleri Kanunu (FSEK) 86",
+            "Türk Borçlar Kanunu (TBK) 58",
+            "Türk Medeni Kanunu (TMK) 24 ve 25"
+        ]
+    },
+    "summary_for_human": "Davacı, internette yayınlanan haberlerde kendisinin fotoğrafının izinsiz kullanıldığını iddia ederek manevi tazminat talep etti. Mahkeme, bu iddianın yetersiz olduğunu belirleyerek davayı reddetti.",
+    "summary_for_model": "Davacı, internette yayınlanan haberlerde kendisinin fotoğrafının izinsiz kullanıldığını iddia etti. Mahkeme, bu iddianın yetersiz olduğunu belirleyerek davayı reddetti. Hüküm Kanunu'nun 353/1-b.1 maddesine dayanarak davayı reddetme kararı verildi."
+}

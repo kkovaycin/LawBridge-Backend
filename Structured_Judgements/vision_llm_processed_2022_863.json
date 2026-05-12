@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2022_863.pdf",
+        "court_name": "İstanbul 8. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2021/351",
+        "karar_no": "2024/255",
+        "case_subject": "Müvekkili şirketin mirasçılarla ilgili ticari işlemleri ve borç talepleri",
+        "dava_tarihi": "25/05/2021",
+        "karar_tarihi": "13/03/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, müvekkili şirketin Covid-19 nedeniyle vefat eden ortaklarından mirasçılarla ilgili ticari işlemleri ve borç taleplerini iddia etmiştir. Davacı, mirasçılarla şirketin devam etmesini ve risklerin mirasçılara devredilmesini talep etmiştir. Davacı ayrıca, şirketin CE belgesi alınması nedeniyle düzenlenen 325.000,00 TL borç talebini ve bu borcun ödenmemesini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacının vekili olarak davayı açtığını ve davalının vekili bulunmadığını tespit etmiştir. Mahkeme, davacının iddialarını ve savunmalarını değerlendirerek, davacının talebinin reddedildiğini ve davanın reddine karar vermiştir. Mahkeme, davacının vekili tarafından yapılan işlemlerin geçersiz olduğunu ve davacının borç talebinin reddedildiğini karar vermiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacı tarafından açılan davanın REDDİNE, 2-Alınması gereken 427,60 TL karar ve ilam harcının peşin yatırılan 5.550,19 TL harçtan mahsubu ile fazladan yatırılan 5.122,59 TL harçın karar kesinleştiğinde ve talep halinde davacıya İADESİNE, 3-Davacının yaptığı yargılama giderlerinin davacı üzerinde BİRAKILMASININA, 4-Davalının vekili bulunmadığından bu konuda hükmün tesisine YER OLMADIĞINA, 5-6325 sayılı Hukuk Uyumluluklarında Arabuluculuk Kanunu 18/A-13. maddesi uyarınca ve Arabuluculuk Kanunu Yönetmeliği Tarife hükümleri uyarınca Adalet Bakanlığı bütçesinden ödenen 1.320,00-TL arabuluculuk giderinin davacından alınarak HAZİNEYE GELİR KAYDININA, 6-56100 sayılı kanunun HMK 333. maddesi gereğince; varsa taraflarca yatırılan gider avansı ile varsa delil avasının arta kalan kısmının karar kesinleştiğinde ilgisine İADESİNE, 7-Yazi İşleri Hizmetlerinin Yürütülmesine Dair Yönetmeliğin 67/1. maddesi gereğince taraflardan birinin talebi üzerine kararın tebliğe ÇIKARTILMASINA, Dair; davacı vekilinin yüzüne karşı, davalı taraf yokluğunda, HMK'nın 341/1 ve 345. maddeleri gereğince gerekli kararın tebliğ tarihinden itibaren iki haftalık yasal süre içerisinde İstanbul Bölge Adliye Mahkemesi nezdiinde İSTİNAF kanun yolu açık olmak üzere verilen karar, açıkça okunup usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6325 sayılı Hukuk Uyumluluklarında Arabuluculuk Kanunu 18/A-13. madde",
+            "Arabuluculuk Kanunu Yönetmeliği Tarife hükümleri",
+            "56100 sayılı kanunun HMK 333. madde",
+            "Yazi İşleri Hizmetlerinin Yürütülmesine Dair Yönetmeliğin 67/1. madde",
+            "HMK'nın 341/1 ve 345. maddeleri"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı tarafından açılan davayı reddetmiştir. Davacı, müvekkili şirketin mirasçılarla ilgili ticari işlemleri ve borç taleplerini iddia etmiştir. Ancak mahkeme, davacının vekili olarak davayı açtığını ve davalının vekili bulunmadığını tespit etmiştir. Mahkeme, davacının iddialarını ve savunmalarını değerlendirerek, davacının talebinin reddedildiğini ve davanın reddine karar vermiştir. Mahkeme ayrıca, davacının vekili tarafından yapılan işlemlerin geçersiz olduğunu ve davacının borç talebinin reddedildiğini karar vermiştir.",
+    "summary_for_model": "Davacı, müvekkili şirketin mirasçılarla ilgili ticari işlemleri ve borç taleplerini iddia etmiştir. Mahkeme, davacının vekili olarak davayı açtığını ve davalının vekili bulunmadığını tespit etmiştir. Mahkeme, davacının iddialarını ve savunmalarını değerlendirerek, davacının talebinin reddedildiğini ve davanın reddine karar vermiştir. Mahkeme, davacının vekili tarafından yapılan işlemlerin geçersiz olduğunu ve davacının borç talebinin reddedildiğini karar vermiştir. Davacıya karşı 427,60 TL karar ve ilam harcı, arabuluculuk gideri ve diğer harçlar tahsil edilmiştir."
+}

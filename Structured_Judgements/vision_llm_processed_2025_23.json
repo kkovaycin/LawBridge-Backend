@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2025_23.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2024/158 E.",
+        "karar_no": "2025/261",
+        "case_subject": "Marka (Marka Hükmüsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "13/02/2025",
+        "karar_tarihi": "13/02/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı-karşı davacı vekili, davacı-karşı davalı şirketin \"... Kredi\" markasını ve internet sitelerini kullanmasının hukuksuz olduğunu iddia etmiştir. İlk derece mahkemesi, davacı-karşı davalı şirketin markayı kullanmasının yanlıtıcı olduğunu ve tüketicilere zarar verdiğini tespit etmiştir.",
+        "reasoning_text": "İstanbul Bölge Adliye Mahkemesi, davacı-karşı davalı şirketin markayı kullanmasının hukuksuz olduğunu ve tüketicilere zarar verdiğini tespit etmiştir. İlk derece mahkemesi kararı, davacı-karşı davacı vekilinin istinaf talebini reddetmiştir. İstinaf mahkemesi, davacı-karşı davalı şirketin markayı kullanmasının yanlıtıcı olduğunu ve tüketicilere zarar verdiğini tespit etmiştir.",
+        "verdict_text": "İstanbul Bölge Adliye Mahkemesi, davacı-karşı davalı şirketin \"... Kredi\" markasını ve internet sitelerini kullanmasının hukuksuz olduğunu ve tüketicilere zarar verdiğini tespit etmiştir. İlk derece mahkemesi kararı, davacı-karşı davacı vekilinin istinaf talebini reddetmiştir. İstinaf mahkemesi, davacı-karşı davalı şirketin markayı kullanmasının yanlıtıcı olduğunu ve tüketicilere zarar verdiğini tespit etmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "2-492 Sayılı Harçlar Kanunu",
+            "Türk Patent ve Marka Kurumu",
+            "Sınai Mülkiyet Kanunu"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, davacı-karşı davalı şirketin \"... Kredi\" markasını ve internet sitelerini kullanmasının hukuksuz olduğunu ve tüketicilere zarar verdiğini tespit etmiştir. İlk derece mahkemesi kararı, davacı-karşı davacı vekilinin istinaf talebini reddetmiştir.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, davacı-karşı davalı şirketin \"... Kredi\" markasını ve internet sitelerini kullanmasının hukuksuz olduğunu ve tüketicilere zarar verdiğini tespit etmiştir. İlk derece mahkemesi kararı, davacı-karşı davacı vekilinin istinaf talebini reddetmiştir. İstinaf mahkemesi, davacı-karşı davalı şirketin markayı kullanmasının yanlıtıcı olduğunu ve tüketicilere zarar verdiğini tespit etmiştir."
+}

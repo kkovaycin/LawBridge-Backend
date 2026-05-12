@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2025_1165.pdf",
+        "court_name": "GAZİANTEP BÖLGE ADLİYE MAHKEMESİ 11. HUKUK DAİRESİ",
+        "esas_no": "",
+        "karar_no": "",
+        "case_subject": "Itirazın İptali (Taşınir Kira Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "",
+        "karar_tarihi": "09/09/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle, davacı alacaklı tarafından fatura alacağına dayalı olarak davalı borçlu aleyhine ...Sayılı dosya ile icra takibi başlatıldığını, davalı şirket tarafından borça itiraz edilmesi üzerine takip durduğunu, davacı tarafça zorunlu arabulculuk başvurusunda bulunduğunu, ... numaralı dosya ile arabulculuk görüşmeleri gerçekleştirilip taraflar arasında anlaşma sağlanamadığından.. Sayılı dosyasına yapılan itirazin iptali ile davalı aleyhine ...'den az olmamak üzere icra inkar tazminatina karar verilmesini talep etmiştir.",
+        "reasoning_text": "Mahkemecede \"...Tüm dosya kapsamı ve delillerden; davacı vekilinin dava dilekçesi ekinde Whatsapp konuşmaları ve \"...başlıklı fatura suretleri sunduğu, sunulan delillerin incelendiğinde Whatsapp konuşmaları görüntülerinde telefon numarası görülmemesi, yapılan konuşmanın bu halı davalı şirket temsilcisi ile yapılı yönünde yaklaşık ispatın bu aşamada söz konusu olmadığı ve ...başlıklı fatura suretlerinin tek başına yaklaşık ispatın ölçüsü bakımından yeterli olmayacağı, istemin yargılamayı gerektirdiği, bu aşamada yasanın ihtiyati haciz için yasanın aradığı yaklaşık ispat ölçüsünü sağlanamadığı değerlendirilmiş olup ihtiyati haciz talebinin reddine karar verilmiştir.\" şeklinde karar verilmiştir.",
+        "verdict_text": "HÜKÜM : Yukarıda Ağıklanan Nedenlerle;\n1-Davacı vekilinin vaki istinaf başvurusunun HMK'nin 353/1-b.(1) maddesi uyarınca ESASTAN REDDİNE,\n2-Kafi miktarda harç alınmakla yeniden harç alınmasına yer olmadığına,\n3-Davacı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına,\n4-HMK'n 333. maddesi uyarınca artan gider avansının talep halinde iadesine,\n5-Istinaf yargılaması duruşmalı yapılmadığından vekalet ücreti tayinine yer olmadığına,\n6-HMK'n 359/4. maddesi uyarınca kararnın ilk derece mahkemesince taraflara tebliğine,\nDair, dosya üzerinden yapılan tetkikat neticesinde HMK'n 362/1-f maddesi gereğine kanun yollan kapalı ve kesin olmak üzere oy birliğiyle karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK'nin 353. maddesi",
+            "6100 sayılı HMK'nin 355. maddesi",
+            "6100 sayılı HMK'nin 357. maddesi",
+            "IIK'nin 257 ve devamı maddeleri",
+            "HMK'nin 333. maddesi",
+            "HMK'nin 359/4. maddesi",
+            "HMK'nin 362/1-f maddesi",
+            "5070 Sayılı Yasanın 5. ve 22. maddeleri"
+        ]
+    },
+    "summary_for_human": "Bu davada, davacı vekili, davalı şirketin borçunu itiraz etmesi nedeniyle fatura alacağına dayalı olarak icra takibi başlatıldığını ve arabulculuk başvurusunda bulunduğunu iddia etmiştir. Mahkeme, dava dosyasındaki deliller ve Whatsapp konuşmaları incelerken, bu konuşmaların davalı şirket temsilcisi ile yapılı olduğu halde, fatura suretlerinin tek başına yeterli ispat olmadığını ve yasanın ihtiyati haciz için aradığı yaklaşık ispatın sağlanamadığını değerlendirerek, ihtiyati haciz talebini reddetmiştir. Son olarak, istinaf başvurusunun esastan reddine karar verilmiştir.",
+    "summary_for_model": "Davacı vekili, fatura alacağına dayalı olarak davalı borçlu aleyhine icra takibi başlatıldığını ve arabulculuk başvurusunda bulunduğunu iddia etmiştir. Mahkeme, dosya kapsamındaki deliller ve Whatsapp konuşmalarını incelerken, bu konuşmaların davalı şirket temsilcisi ile yapılı olduğu halde, fatura suretlerinin tek başına yeterli ispat olmadığını ve yasanın ihtiyati haciz için aradığı yaklaşık ispatın sağlanamadığını değerlendirerek, ihtiyati haciz talebini reddetmiştir. HMK'nin 353/1-b.(1), 333, 359/4 ve 362/1-f maddeleri uyarınca, istinaf başvurusunun esastan reddine karar verilmiştir."
+}

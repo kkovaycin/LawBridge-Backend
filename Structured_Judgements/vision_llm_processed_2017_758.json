@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2017_758.pdf",
+        "court_name": "İstanbul 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2017/758",
+        "karar_no": "2019/268",
+        "case_subject": "Endüstriyel Tasarım Belgesinin Hükümsuzluğu",
+        "dava_tarihi": "22/11/2017",
+        "karar_tarihi": "28/05/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davasında, davalı adına Türk Patent ve Marka Kurumu'nda tescil edilmiş bir tasarımın hükümsuzluğunu iddia etmiştir. Mahkemede HMK 266. madde kapsamında bilirkişi görüşü alınmıştır. İkinci heyette yer alan bilirkişiler, tasarımcılar arasında temel farkların bulunduğunu, ancak bu farkların tasarımcıya özgürlük alanı bırakmayacak zorunlu unsurlar olduğunu belirtmişlerdir.",
+        "reasoning_text": "Mahkeme, HMK 266. maddeye dayanarak raporların denetim ve hükmün kurulmasına elverişli olduğunu kabul etmiştir. Tasarımın yeni ve ayırt edici niteliğe sahip olmadığı, teknik fonksiyonunun tasarım şekillendirmesi olduğu ve tasarımın kamu düzenine ve genel ahlaka aykırı olduğu gibi hükümsuzlük sebepleri tespit edilmiştir.",
+        "verdict_text": "HÜKÜM; Yukarıda açıklanan gerekçe kapsamına göre, 1-Davalı adına TPE nezdiğinde ... no ile tescilli ETB nin hükümsuzluğuna, 2-Karar kesinleştiğinde sicile işlenmesi için TPMK'ya gönderilmesine, 3-44,40 TL ilam harcının peşin harctan mahsubu ile 13,00 TL, eksik harcin davalidan tahsiline, 4-Avukatlık asgari ücret tarife gereğince; 3.931 TL vekalet ücretinin davalidan alınarak davacıya verilmesine, 5-Davacı tarafın yapmış olduğu yargılama giderlerinden olan 31,40 TL peşin harç, 31,40 TL başvuru harcı, 4.500 TL bilirkişi ücreti ve 284 TL tebligat-müzekkere masrafı olmak üzere toplam 4.846,80 TL'nin davalidan alınarak davacıya verilmesine, 6-Artan gider avansının karar kesinleştiğinde ve talebi halinde taraflara iadesine, Dair karar taraf vekillerinin yüzüne karşı gerekli kararın tebliginden itibaren iki haftalık süre içinde İSTİNAF YASA YOLU AÇIK olmak üzere verilen karar açıkça okundu, usulen anlatıldı. 28/05/2019"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 266. madde",
+            "6769 sayılı SMK hükümleri"
+        ]
+    },
+    "summary_for_human": "Mahkeme, endüstriyel tasarımın hükümsuzluğunu kararlaştırmıştır. Tasarımın yeni ve ayırt edici niteliği olmadığı, teknik fonksiyonunun tasarım şekillendirmesi olduğu ve kamu düzenine aykırı olduğu gibi sebeplerle hüküm verilmiştir.",
+    "summary_for_model": "Mahkeme, HMK 266. maddeye dayanarak tasarımın hükümsuzluğunu kararlaştırmıştır. Tasarımın yeni ve ayırt edici niteliği olmadığı, teknik fonksiyonunun tasarım şekillendirmesi olduğu ve kamu düzenine aykırı olduğu gibi sebeplerle hüküm verilmiştir."
+}

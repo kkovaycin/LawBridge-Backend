@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2023_1774.pdf",
+        "court_name": "İstanbul 3. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2023/1706",
+        "karar_no": "2023/138 E.",
+        "case_subject": "Menfi Tespit (Fikri Ve Sanat Eseri Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "13/10/2023",
+        "karar_tarihi": "28/12/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, MESAM'ın yönetim kurulu üyelerine karşı sosyal medyada hakaret ve iftira içeren paylaşımlar yapıldığını iddia etmiştir. Mahkeme, bu iddiaların MESAM'ın üyelikten çıkarma kararına uygun olduğunu ve davacının davayı kazanma ihtimalinin olmadığını tespit etmiştir.",
+        "reasoning_text": "Mahkeme, MESAM'ın üyelikten çıkarma kararı ile ilgili itirazın kabul edilmediğini ve davacının iddialarının yetersiz olduğunu gerekçelendirmiştir. Ayrıca, davacının sosyal medya paylaşımları ile MESAM'ın üyelerine karşı hakaret ve iftira iddialarının yetersiz olduğunu tespit etmiştir.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere; 1-Üsul ve yasaya uygun İstanbul 3. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin tarih ve 2023/138 E. sayılı kararına karşı davacı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESAS TAN REDDİNE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gereken 269,85-TL istinaf karar harcı davalı tarafından peşin yatırıldığından yeniden harç alınmasına yer olmadığına, 3-Davalı tarafça istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, 4-İncelemenin duruşmasız olarak yapılması sebebiyle taraflarca vekalet ücreti tayinine yer olmadığına, 5-Taraflarca yatırılan gider avansından harçanmayan kısmın karar kesinleştiğinde iaadesine, 6-Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iaadesi işlemlerinin ilk derece Mahkemesine yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/(1-f) ve 394/(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi. 28/12/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı HMK'nın 353/1-b/1. maddesi",
+            "6100 Sayılı HMK'nın 362/(1-f) ve 394/(5). maddeleri",
+            "2-492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, MESAM'ın üyelerine karşı sosyal medyada hakaret ve iftira iddiaları ile dava açmıştır. Mahkeme, bu iddiaların yetersiz olduğunu ve davacının davayı kazanma ihtimalinin olmadığını tespit ederek istinaf talebini reddetmiştir.",
+    "summary_for_model": "Davacı vekili, MESAM'ın üyelerine karşı sosyal medyada hakaret ve iftira iddiaları ile dava açmıştır. Mahkeme, bu iddiaların yetersiz olduğunu ve davacının davayı kazanma ihtimalinin olmadığını tespit ederek istinaf talebini reddetmiştir. Karar, 6100 Sayılı HMK'nın ilgili maddeleri ve 2-492 Sayılı Harçlar Kanunu'na dayanarak verilmiştir."
+}

@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2019_800.pdf",
+        "court_name": "İstanbul Anadolu 9. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2019/800",
+        "karar_no": "2019/602",
+        "case_subject": "İhtiyati Tedbir",
+        "dava_tarihi": "13/11/2018",
+        "karar_tarihi": "25/04/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının internet siteleri ve sosyal medya hesaplarında asılsız iddialar yaparak haklarını ihlal ettiğini iddia etmiştir. Davalının bu iddiaları, internet siteleri ve sosyal medya hesaplarında yayınlanan açıklamalar ve mesajlar aracılığıyla yapılmıştır. Davacı, bu açıklamaların hak ihlali oluşturduğunu ve davalının ticari faaliyetlerini engellemek amacıyla bu açıklamaları yaptığını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacının iddialarının asılsız olduğunu ve davalının hak ihlali yapmadığını tespit etmiştir. Mahkeme ayrıca, davacının iddialarının hak ihlali oluşturmadığını ve davalının internet siteleri ve sosyal medya hesaplarında yayınlanan açıklamaların hak ihlali oluşturmadığını karar vermiştir. Mahkeme, bu kararın, davacının iddialarının asılsız olduğunu ve davalının hak ihlali yapmadığını göstermektedir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-HMK'nın 353/1.b.1. maddesi uyarınca istinaf başvurusunun esastan reddine,2-Talep eden tarafından yatırılan istinaf başvuru harcının Hazinede irad kaydına,3-Talep eden tarafından istinaf kanununa başvuru için yapılan masrafların kendi üzerlerinde birakılmasına,4-Gerekçeli kararın ilk derece mahkemesinde taraflara tebligine,5-Dosyanın kararı veren ilk derece mahkemesine gönderilmesine dair; HMK'nın 353/1.b.1. ve 391/3. maddeleri uyarınca dosya üzerinde yapılan inceleme sonucunda, 25/04/2019 tarihinde oybirliğiyle ve kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nın 353/1.b.1. maddesi",
+            "HMK'nın 391/3. maddesi",
+            "TTK'nun 61. maddesi",
+            "TTK'nun 54 vd. maddeleri",
+            "Hukuk Usülü Muhakemeleri Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının internet siteleri ve sosyal medya hesaplarında asılsız iddialar yaparak haklarını ihlal ettiğini iddia etmiştir. Mahkeme, bu iddiaların asılsız olduğunu ve davalının hak ihlali yapmadığını karar vermiştir.",
+    "summary_for_model": "Davacı vekili, davalının internet siteleri ve sosyal medya hesaplarında asılsız iddialar yaparak haklarını ihlal ettiğini iddia etmiştir. Mahkeme, bu iddiaların asılsız olduğunu ve davalının hak ihlali yapmadığını karar vermiştir. Davacı, bu açıklamaların hak ihlali oluşturduğunu iddia etmiştir."
+}

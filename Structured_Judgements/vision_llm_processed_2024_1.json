@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2024_1.pdf",
+        "court_name": "İstanbul 12. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2024/1",
+        "karar_no": "2024/197",
+        "case_subject": "İtirazin İptali (Hizmet Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "31/05/2019",
+        "karar_tarihi": "12/03/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Dava, kurumsal departmanın gelir paylaşımı ve vergi ödemeleriyle ilgili anlaşmaların feshedilmesini talep ediyor. Davacı, davalının sözleşmeleri ihlal ettiğini iddia ediyor.",
+        "reasoning_text": "Mahkeme, davalının hak ihlalleri ve ticari dava niteliği nedeniyle davayı reddetmiştir. Davalının ticari dava sayılması için yeterli kanıt bulunmadığı tespit edilmiştir.",
+        "verdict_text": "DAVAYA REDDİNE KARAR VERİLİMİŞTİR."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İK.67. madde",
+            "Türk Ticaret Kanunu 6102 sayılı",
+            "Türk Ticaret Kanunu 6335 sayılı",
+            "Hukuk Muhakemeleri Kanunu 331/2. madde",
+            "Hukuk Muhakemeleri Kanunu 345 madde",
+            "Hukuk Muhakemeleri Kanunu 342 madde",
+            "Hukuk Muhakemeleri Kanunu 343 madde",
+            "Hukuk Muhakemeleri Kanunu 341/1 madde"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davalının ticari dava sayılması için yeterli kanıt bulunmadığı için davayı reddetmiştir. Davacı, kurumsal departmanın gelir paylaşımı ve vergi ödemeleriyle ilgili anlaşmaların ihlal edildiğini iddia etmiştir.",
+    "summary_for_model": "Dava, kurumsal departmanın gelir paylaşımı ve vergi ödemeleriyle ilgili anlaşmaların ihlal edildiğini iddia ediyor. Mahkeme, davalının ticari dava sayılması için yeterli kanıt bulunmadığı için davayı reddetmiştir. Davalının hak ihlalleri ve ticari dava niteliği nedeniyle davayı reddetmiştir."
+}

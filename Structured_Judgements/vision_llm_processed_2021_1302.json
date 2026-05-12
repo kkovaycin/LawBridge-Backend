@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2021_1302.pdf",
+        "court_name": "İstanbul Anadolu 2. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/1302 Esas",
+        "karar_no": "2023/712 Karar",
+        "case_subject": "Marka (Maddi Tazminat İstemi) Marka (Tecavüzün Giderilmesi İstemi) Marka (Tecavüzün Tesbiti İstemi) Marka (Manevi Tazminat İstemi)",
+        "dava_tarihi": "16/03/2021",
+        "karar_tarihi": "18/04/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı tarafından markanın yetkili hizmeti olarak kullanıldığını iddia ediyor. Davalı, markanın yetkili hizmeti olarak kullanıldığını reddetmekte ve davacıya hak ihlali iddiası ile dava açmıştır. Mahkeme, davalı tarafından markanın yetkili hizmeti olarak kullanıldığını tespit etmiştir.",
+        "reasoning_text": "Mahkeme, davalı tarafından markanın yetkili hizmeti olarak kullanıldığını tespit etmiştir. Davacı tarafından iddia edilen hak ihlali iddiası doğrulanmıştır. Davalı tarafından markanın yetkili hizmeti olarak kullanıldığı tespiti, davacı tarafından hak ihlali iddiasını desteklemektedir.",
+        "verdict_text": "Davacı vekilinin istinaf başvurusu esastan reddedilmiştir. Davacı vekilinin yerinde görülmeyen istinaf istemi ESAS TAN REDDİNE,2-Alınması gereken 179,90 TL harçtan, peşin alınan 59,30 TL harçın mahsubu ile bakiye 120,60 TL eksik harçın davacidan alınarak hazinede irat kaydına, 3-İstinaf incelemesi durusmaz yapıldığından avukatlık ücreti takdirine yer olmadığına,4-İstinaf yargılama giderleri olarak; Davacı taraflıca yapılan masrafların üzerinde bırakılmasına, 5-Artan gider avanslarının karar kesinleştiğinde ve talep halinde ilk derece mahkemesince yatran tarafa iadesine, Dair, dosya üzerinde yapılan inceleme sonucunda iş bu kararın tebliginden itibaren 2 hafta içinde Yargıtay temyiz yolu açık olmak üzere 18/04/2023 tarihinde oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Mahkemesi 353",
+            "Hukuk Mahkemesi 356",
+            "TSM 7/5-c",
+            "TSM 7/5",
+            "Hukuk Mahkemesi 353/1-b-1",
+            "Hukuk Mahkemesi 1:6100"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı tarafından markanın yetkili hizmeti olarak kullanıldığını iddia ediyor. Mahkeme, davalı tarafından markanın yetkili hizmeti olarak kullanıldığını tespit etmiştir. Davacı vekilinin istinaf başvurusu esastan reddedilmiştir.",
+    "summary_for_model": "Davacı, davalı tarafından markanın yetkili hizmeti olarak kullanıldığını iddia ediyor. Mahkeme, davalı tarafından markanın yetkili hizmeti olarak kullanıldığını tespit etmiştir. Davacı vekilinin istinaf başvurusu esastan reddedilmiştir. Davacı vekilinin yerinde görülmeyen istinaf istemi ESAS TAN REDDİNE,2-Alınması gereken 179,90 TL harçtan, peşin alınan 59,30 TL harçın mahsubu ile bakiye 120,60 TL eksik harçın davacidan alınarak hazinede irat kaydına, 3-İstinaf incelemesi durusmaz yapıldığından avukatlık ücreti takdirine yer olmadığına,4-İstinaf yargılama giderleri olarak; Davacı taraflıca yapılan masrafların üzerinde bırakılmasına, 5-Artan gider avanslarının karar kesinleştiğinde ve talep halinde ilk derece mahkemesince yatran tarafa iadesine, Dair, dosya üzerinde yapılan inceleme sonucunda iş bu kararın tebliginden itibaren 2 hafta içinde Yargıtay temyiz yolu açık olmak üzere 18/04/2023 tarihinde oy birliği ile karar verildi."
+}

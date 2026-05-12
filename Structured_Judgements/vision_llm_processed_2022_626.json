@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_626.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2022/626",
+        "karar_no": "2024/84",
+        "case_subject": "Markanın Kullanılmama Nedeni ile İptali",
+        "dava_tarihi": "04/11/2019",
+        "karar_tarihi": "18/01/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, ABD merkezli yabancı şirketi davaya konu markanın 09 ve 42. sınıflarda ticari faaliyetlerde kullanılmadığını iddia etmiştir. Davacı vekili, davayı iptal talep etmiştir. Mahkeme, davanın kabulüne karar vermiştir.",
+        "reasoning_text": "Mahkeme, davanın iptal talebini reddetmiştir. Davacı vekili, davanın iptal talebini reddetmiştir. Mahkeme, davanın iptal talebini reddetmiştir.",
+        "verdict_text": "Gerekçesi ayrıntılı kararda açıklanmıştır. 1-6100 sayılı HMK'nın 353/1-b-1 maddesi gereğince, davalı vekilinin yerinde görülmeyen istinaf isteminin ESAS TAN REDDİNE, 2-Alınması gereken 427,60-TL harçtan, pesin alınan 80,70-TL harcin mahsubu ile bakiye 346,90-TL harcin davalından alınarak hazineye irat kaydına, 3-Davalı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, -Davacının gider avansından kullanıldığı anlaşılan 69,50-TL istinaf masrafının davalından alınarak davaciya verilmesine, 4-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda, HMK'nun 361.maddesi uyarınca tebliğden itibaren iki haftalık süre içerisinde Yargıtay ilgili hukuk dairesinde temyiz yolu açık olmak üzere oy birliği ile karar verildi.18/01/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemesi Kanunu (HMK)",
+            "Sınai Mülkiyet Kanunu (SMK)",
+            "Ticaret Kanunu (TTK)",
+            "Türk Patent ve Marka Kurumu (TPMK)"
+        ]
+    },
+    "summary_for_human": "Davacı, ABD merkezli yabancı şirketi davaya konu markanın 09 ve 42. sınıflarda ticari faaliyetlerde kullanılmadığını iddia etmiştir. Mahkeme, davanın iptal talebini reddetmiştir.",
+    "summary_for_model": "Davacı, ABD merkezli yabancı şirketi davaya konu markanın 09 ve 42. sınıflarda ticari faaliyetlerde kullanılmadığını iddia etmiştir. Mahkeme, davanın iptal talebini reddetmiştir. Davacı vekili, davanın iptal talebini reddetmiştir."
+}

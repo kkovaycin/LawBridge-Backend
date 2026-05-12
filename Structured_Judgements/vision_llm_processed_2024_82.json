@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2024_82.pdf",
+        "court_name": "T.C. İSTANBUL 3.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2024/82",
+        "karar_no": "2024/96",
+        "case_subject": "Markanın Hükümsuzluğu ve Sıçilden Terkini",
+        "dava_tarihi": "14/05/2024",
+        "karar_tarihi": "24/06/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın esasını markanın kötü niyetle tescili ve müvekkiline ait markanın hak sahibi olduğu iddiasıyla savunmuştur. Müvekkilin markasının uzun süre önce ilk kez piyasaya sunulduğunu ve markanın popüler olduğunu belirtmiştir. Davacı, markanın müvekkilin markasıyla aynı olduğunu ve iltisat teşkil ettiğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, dava konusu markanın kötü niyetle tescili ve müvekkiline ait markanın hak sahibi olduğu iddialarını değerlendirmiştir. Müvekkilin markasının popülerliği ve ticari değerinin yüksek olduğu belirtilmiştir. Davacı vekili, markaların aynı olduğu ve iltisat teşkil ettiğini savunmuştur. Mahkeme, dava konusu markanın kötü niyetle tescili ve müvekkiline ait markanın hak sahibi olduğu iddialarını reddetmiştir.",
+        "verdict_text": "Dava reddine, vekalet ücreti ve yargılama gideri talep edilmesine, dava giderinin dağılımına ve dava konusu markanın hukümsuzluğuna karar verildi. Davacı vekili tarafından yapılan yargılama giderinin bir kısmı mahkemeye iade edildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 5/1-ç",
+            "SMK 6/1",
+            "Sınai Mülkiyet Kanunu 6/6",
+            "Sınai Mülkiyet Kanunu 6/9",
+            "Hukuk Muhakemesi Kanunu 309/2",
+            "Hukuk Muhakemesi Kanunu 345/1"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin markanın kötü niyetle tescili ve müvekkiline ait markanın hak sahibi olduğu iddialarını reddetmiştir. Müvekkilin markasının popülerliği ve ticari değerinin yüksek olduğu belirtilmiştir. Davacı vekili, markaların aynı olduğu ve iltisat teşkil ettiğini savunmuştur.",
+    "summary_for_model": "Mahkeme, dava konusu markanın kötü niyetle tescili ve müvekkiline ait markanın hak sahibi olduğu iddialarını reddetmiştir. Müvekkilin markasının popülerliği ve ticari değerinin yüksek olduğu belirtilmiştir. Davacı vekili, markaların aynı olduğu ve iltisat teşkil ettiğini savunmuştur. Mahkeme, dava reddine ve vekalet ücreti ve yargılama gideri talep edilmesine karar vermiştir."
+}

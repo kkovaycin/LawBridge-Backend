@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2020_559.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2020/559",
+        "karar_no": "2020/916",
+        "case_subject": "Markaya Tecavüz",
+        "dava_tarihi": "30/12/2019",
+        "karar_tarihi": "04/06/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davayı itiraza konu marka başvurusunun sahibinin kötü niyetli olarak müvekkiline ait logo tasarımında renkler ve marka tasvirini kullanmasını, fotoğraf ve yazışmaların ekli olduğunu, müvekkilin markayı ve eğlence mekanına ait Instagram hesabını kullanmasını, reklam amaçlı sponsor anlaşmalarını ve ödemeleri yapmasını, müvekkilin markasını davaların marka tasvir taleplerinden önce kullandığını ve tüketicinin markayı yanlış olarak tanıdığını iddia etmiştir.",
+        "reasoning_text": "Davacı, markaya tecavüz iddiasına dayalı maddi ve manevi tazminat istemektedir. İlk derece mahkemesi, itiraza konu marka başvurusunun sahibinin kötü niyetli olarak müvekkiline ait logo tasarımında renkler ve marka tasvirini kullanmasını, fotoğraf ve yazışmaların ekli olduğunu, müvekkilin markayı ve eğlence mekanına ait Instagram hesabını kullanmasını, reklam amaçlı sponsor anlaşmalarını ve ödemeleri yapmasını, müvekkilin markasını davaların marka tasvir taleplerinden önce kullandığını ve tüketicinin markayı yanlış olarak tanıdığını iddia etmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi ayrıntılı kararda açıklanan üzere; 1-Davacı vekilinin istinaf isteminin kabulü ile, 2-İstanbul 1. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 30/12/2019 gün ve 2019/355 Esas, 2019/478 Karar sayılı kararının 6100 sayılı HMK'nın 353/1-a-6 maddesi gereğince KALDIRILMASINA, -Yargılama devam olunmak üzere, dosyanın ilk derece mahkemesine gönderilmesine, 3-İstinaf talebi kabul edildiğinden, istinaf peşin harçının talebi halinde davacı tarafa iadesine, 4-İstinaf aşamasında davacı taraflıca yapılan yargılama gideri olan 121,30 TL istinaf yoluna başvurma harcı ile 133,50 TL tebliği ve posta gideri olmak üzere toplam 254,80 TL'nin davalıdan alınarak davacıya verilmesine, 5-İstinaf incelemesi duruşmasız yapıldığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucu 04/06/2020 tarihinde HMK'nın 353/1-a-6 maddesi uyarınca oybirliğiyle kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 Sayılı SMK 159/1",
+            "6100 sayılı HMK'nın 353/1-a-6 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, markaya tecavüz iddiasıyla dava açtı ve itiraza konu marka başvurusunun sahibinin kötü niyetli olarak müvekkiline ait logo tasarımını kullanmasını iddia etti. İlk derece mahkemesi, itiraza konu marka başvurusunun sahibinin kötü niyetli olduğunu tespit etti ve davayı itiraza konu marka başvurusunun sahibine karşı kaldırdı.",
+    "summary_for_model": "Davacı, markaya tecavüz iddiasıyla dava açtı ve itiraza konu marka başvurusunun sahibinin kötü niyetli olarak müvekkiline ait logo tasarımını kullanmasını iddia etti. İlk derece mahkemesi, itiraza konu marka başvurusunun sahibinin kötü niyetli olduğunu tespit etti ve davayı itiraza konu marka başvurusunun sahibine karşı kaldırdı. Davacı, markaya tecavüz iddiasına dayalı maddi ve manevi tazminat istemektedir."
+}

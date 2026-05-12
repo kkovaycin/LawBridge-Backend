@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2023_729.pdf",
+        "court_name": "İstanbul Anadolu 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2023/729",
+        "karar_no": "2023/907",
+        "case_subject": "Marka (Maddi Tazminat İstemli)",
+        "dava_tarihi": "21/02/2023",
+        "karar_tarihi": "09/06/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, dava sonuçlanıncaya kadar tedbiren, hükümden sonra da nihai olarak davalı şirketle ilişkili olarak kullanılan \"...\" ibaresinin kaldırılmasını ve aynı web sitesi üzerindeki \"...\" hesaplarının kullanımının durdurulmasını, davalı şirketin tecavüz teşkil eden fillerden men edilmesini, davalı şirketin ticaret unvanından \"...\" ibaresinin terk edilmesini talep etmiştir. İstanbul Anadolu 2. FSHHM'nin 2020/358 esas sayılı davasının lehlerine sonuçlandığını ve hükmüsüzlük davasının reddedildiğini, ancak kararın halen kesinleşmediğini, bu nedenle ihtiyati tedbir ile ilgili yaklaşık ispat koşulunun gerçekleştiğini beyan ederek ihtiyati tedbir kararı verilmesini talep etmiştir.",
+        "reasoning_text": "Mahkemenin 06.01.2021 tarihli ara kararında, davacıya ait marka tescil kaydının örneği ile; davalıya ait olduğu iddia edilen sosyal medya hesaplarında ve https://www.../ adlı web sitesinde \"...\" ibaresinin davacıya ait markanın başvuru tarihi olan 30/03/2020 tarihinden daha önce kullanılmaya başladığı, alan adının 01/10/2018 tarihinde kullanılmaya başladığı, davalı şirketin ticaret unvanında da \"...\" ibaresinin esas unsur olarak yer aldığı, sosyal medya hesaplarında ve internet sitesindeki kullanımlarının ticaret unvanı kullanımı niteliğinde olduğu, davacının bu ibare üzerinde davalı tarafından daha önce hak sahibi olduğu iddiasının yargılamayı gerektirdiği, davacının bu ibare üzerinde davalı tarafından daha önce hak sahibi olduğuna dair yaklaşık ispat koşulunun bu aşamada gerçekleşmediğinden, davacının ihtiyati tedbir talebinin reddine karar verilmiştir.",
+        "verdict_text": "09/06/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemesi Kanunu (HMK) 353. Maddesi",
+            "Hukuk Muhakemesi Kanunu (HMK) 355. Maddesi",
+            "Hukuk Muhakemesi Kanunu (HMK) 6/6. Maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin ticaret unvanında ve sosyal medya hesaplarında kullanıldığı iddia edilen bir markanın tescilini talep etmiştir. Mahkeme, davacı tarafından daha önce hak sahibi olduğu iddiasının yargılamayı gerektirdiğini ancak bu aşamada yaklaşık ispat koşulunun gerçekleşmediğini belirleyerek ihtiyati tedbir talebini reddetmiştir.",
+    "summary_for_model": "Davacı, davalı şirketin ticaret unvanında ve sosyal medya hesaplarında kullanıldığı iddia edilen bir markanın tescilini talep etmiştir. Mahkeme, davacı tarafından daha önce hak sahibi olduğu iddiasının yargılamayı gerektirdiğini ancak bu aşamada yaklaşık ispat koşulunun gerçekleşmediğini belirleyerek ihtiyati tedbir talebini reddetmiştir. Davanın esas ve istinaf aşamalarında çeşitli kararlar verilmiştir."
+}

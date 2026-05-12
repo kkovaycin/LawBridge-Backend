@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2020_1100.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 14. Hukuk Dairesi",
+        "esas_no": "2020/90 E.",
+        "karar_no": "2020/745",
+        "case_subject": "Tazminat (Haksız Rekabetten Kaynaklanan)",
+        "dava_tarihi": "14/02/2020",
+        "karar_tarihi": "16/07/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Dava, haksız rekabet iddiası ile ilgi olarak, davacı vekili tarafından sosyal medya ve internet sitelerinde yapılan paylaşımların ticari itibarı zarar verdiği iddia edildi. Davacı, davalının paylaşımlarının müvekkillerinin ticari itibarına zarar verdiğini ve Hüküm Kanunu (HMK) md. 389'a dayanarak tedbir talep etti.",
+        "reasoning_text": "İlk derece mahkemesi, davalının paylaşımlarının ticari itibara zarar verdiğini kabul etmedi. İstinaf mahkemesi, HMK md. 352'ye dayanarak istinaf başvurusunun reddedildiğini ve davanın ilk derece mahkemesine geri gönderildiğini kararlaştırdı.",
+        "verdict_text": "Gerekçesi yukarıda açıklanan nedenlerle; 1- HMK'nin 352. maddesi uyarınca, caiz olmadığı anlaşılan istinaf başvurusunun USULDEN REDDİNE, 2-Davacı vekili tarafından yatırılan istinaf başvuru harçlarının talep halinde iadesine, 3-Davacı tarafından istinaf kanun yoluyla başvuru için yapılan masrafların kendi üzerlerinde bırakılmasına, 4-Gerekeli kararın ilk derece mahkemesince taraflara tebliğine, 5-Dosyanın kararı veren ilk derece mahkemesine gönderilmesine dair; HMK'nin 352. maddesi uyarınca dosya üzerinde yapılan ön inceleme sonucunda, oybirliğiyle ve kesin olarak karar verildi. 16/07/2020"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hüküm Kanunu (HMK) md. 389",
+            "Hüküm Kanunu (HMK) md. 352",
+            "Hüküm Kanunu (HMK) md. 355",
+            "Hüküm Kanunu (HMK) md. 341",
+            "Hüküm Kanunu (HMK) md. 394",
+            "Türk Ticaret Kanunu (TTK) md. 55",
+            "Türk Ticaret Kanunu (TTK) md. 56",
+            "Türk Ticaret Kanunu (TTK) md. 58",
+            "Türk Ticaret Kanunu (TTK) md. 61"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adlıye Mahkemesi, haksız rekabet davasında davalının sosyal medya ve internet sitelerindeki paylaşımlarının ticari itibara zarar verdiğini kabul etmedi. İstinaf mahkemesi, HMK md. 352'ye dayanarak istinaf başvurusunu reddederek davayı ilk derece mahkemesine geri gönderdi.",
+    "summary_for_model": "Dava, haksız rekabet iddiası ile ilgi olarak, davacı vekili tarafından sosyal medya ve internet sitelerinde yapılan paylaşımların ticari itibara zarar verdiği iddia edildi. İlk derece mahkemesi, davalının paylaşımlarının ticari itibara zarar verdiğini kabul etmedi. İstinaf mahkemesi, HMK md. 352'ye dayanarak istinaf başvurusunu reddederek davayı ilk derece mahkemesine geri gönderdi."
+}

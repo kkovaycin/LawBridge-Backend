@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_532.pdf",
+        "court_name": "T.C. İSTANBUL 3.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/532",
+        "karar_no": "2022/136",
+        "case_subject": "Haysiyet Kurulu Kararının İptali",
+        "dava_tarihi": "28/10/2021",
+        "karar_tarihi": "13/10/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, müvekkilin ömrüne ve üyelerine zarar verdiği iddialarını, Haysiyet Kurulu tarafından verilen kararı iptal etmeyi talep etmiştir. Davalı vekili ise, davacının mesajlarının hakaret ve tahkir niteliğinde olduğunu savunmuştur.",
+        "reasoning_text": "Mahkeme, davacının mesajlarının eleştiriye değil, hakaret ve tahkire dayalı olduğunu tespit ederek, Haysiyet Kurulu'nun kararı iptal edilmiştir.",
+        "verdict_text": "1-... Haysiyet Kurulunun ... tarih ve ... sayılı kararının iptaline, 2-80,70 ilam harcından peşin harçın mahsubu ile eksik 21,40 TL harçın davalından tahsiline, 3-Avukatlık Asgari Ücret Tarifesi uyarınca 15.000,00 TL vekalet ücretinin davalından alınarak davacıya verilmesine, 4-Davacı tarafın yaptığı 59,30 TL başvuru harcı, 59,30 peşin harç, 85,50 TL tebligat ve müzekkere masrafı olmak üzere toplam 204,10 TL yargılama giderinin davalından alınarak davacıya verilmesine, 5-Taraflarca fazla yatırılan gider avansının karar kesinleştiğinde ve talep halinde iadesine, Dair karar taraf vekillerinin yüzüne karşı gerekli kararın tebliginden itibaren iki haftalık süre içinde İSTİNAF YASA YOLU AÇIK olmak üzere verilen karar açıkça okundu, usulen anlatıldı. 13/10/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "5846 Sayılı Yasanın 42. maddesi",
+            "Türkiye Müzik Eseri Sahipleri Meslek Birliği Üye Disiplin Yönergeleri Bölüm II",
+            "Türk Ceza Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacının Haysiyet Kurulu'na karşı yaptığı hakaret ve tahkir mesajlarının, eleştiriye değil, kişisel saldırı niteliğinde olduğunu tespit ederek Haysiyet Kurulu'nun kararı iptal etti. Davacıya 204,10 TL yargılama gideri ve 15.000,00 TL vekalet ücreti verildi.",
+    "summary_for_model": "Davacı, Haysiyet Kurulu'na karşı hakaret ve tahkir mesajları ile dava açtı. Mahkeme, mesajların eleştiriye değil, kişisel saldırı niteliğinde olduğunu tespit ederek Haysiyet Kurulu'nun kararı iptal etti. Davacıya 204,10 TL yargılama gideri ve 15.000,00 TL vekalet ücreti verildi. Davacı mesajlarının eleştiriye kapalı olduğu ve adalet ve hakkaniyet ilkesine aykırı olduğu tespit edildi."
+}

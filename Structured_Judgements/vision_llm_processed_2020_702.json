@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2020_702.pdf",
+        "court_name": "İstanbul Anadolu 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2020/702 Esas",
+        "karar_no": "2022/1069",
+        "case_subject": "Endüstriyel Tasarım (Endüstriyel Tasarının Hükümsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "24/12/2019",
+        "karar_tarihi": "15/06/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkili şirketin plastik çit üreten bir firma olduğunu, davalının da müvekkili şirketin ürettiği siyah çit tasarımının küçük detaylarda anlaşılabilir farklılıklar hariçinde genel görünümü aynı nitelikte beyaz renkte benzereğini ürettiğini iddia etmiştir. Davalının müvekkili ve başkaları tarafından daha önceden satış yapılan tasarım için tescil belgesi alındığını, yenilik unsurunu barındırmayan tasarımın tescil işleminin müvekkiline zarar ürettiğini, dava konusu tasarımın yeni olmadığını, tescil tarihinden önce hali hazırda satışının yapıldığını, TV kanalında yayınlanan programda reklamının yapıldığını, videonun 2012 yılında youtube web sitesine yüklendiğini, davalının facebook hesabında 2012 yılında yüklenen fotoğrafların yer aldığını, dava dışı şirketin web sayfasında 2012 yılında resimlerin yüklendiğini belirtmiştir.",
+        "reasoning_text": "Mahkeme, toplanan delillere ve bilirkişi raporuna göre davalının adına tescilci çoklu endüstriyel tasarımın çit tasarımı oldukları, bilirkişiler tarafından internet üzerinde yapılan inceleme sonucunda her dört tasarımın da tescil tarihinden önce internet ortamında 26/06/2012 tarihinde https://www.youtube.com/... web adresindeki ürün görseli, 18/03/1013 tarihinde http://www....com/... adresinde yer alan ürün görseli, 04/07/2012 tarihinde http://www.facebook.com/... sosyal medya hesabında paylaşılan ürün görselleri ile bilginlenmiş kullanıcı üzerinde yarattığı genel izlenimlerde farklılıklar bulunmadığı, birbirileri ile aynı olma derecesinde benzer oldukları, bu nedenle yenilik özelliğinin bulunmadığı ve hükümsüzlük koşullarının mevcut olduğu gerekçesiyle davalının kabulüne karar vermiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Davalı vekilinin istinaf talebinin HMK'nun 353/1-b-1 maddesi uyarınca ESASTAN REDDİNE, 2-Alınması gereken 80,70 TL harçtan, pesin alınan 54,40 TL harçın mahsubu ile bakiye 26,30 TL harçın davalından alınarak hazinede irat kaydına, 3-Davalı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, 4-Istinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda, HMK'nun 361.maddesi uyarınca tebligden itibaren iki haftalık süre içerisinde Yargıtay ilgili hukuk dairesindeki temyiz yolu açık olmak üzere oy birliği ile karar verildi.15/06/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353. Maddesi",
+            "HMK 361.maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının müvekkili şirketin ürettiği çit tasarımını hükümsüz olarak kullandığını iddia etmiştir. Mahkeme, internetteki inceleme sonuçlarına dayanarak tasarımın yenilik unsuruna sahip olmadığını ve hükümsüz olduğunu karar vermiştir.",
+    "summary_for_model": "Davacı, davalının müvekkili şirketin ürettiği çit tasarımını hükümsüz kullanarak zarar verdiğini iddia etmiştir. Mahkeme, internetteki inceleme sonuçlarına dayanarak tasarımın yenilik unsuruna sahip olmadığını ve hükümsüz olduğunu karar vermiştir. HMK 353 ve 361 maddeleri uygulanmıştır."
+}

@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2019_2787.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2019/2787 Esas",
+        "karar_no": "2022/626",
+        "case_subject": "Marka (Tecavüzün Giderilmesi İstemi)",
+        "dava_tarihi": "20/11/2018",
+        "karar_tarihi": "13/04/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalıya karşı markanın ihlal edildiğini iddia etmiştir. Davacı, markanın ticari faaliyetlerinde kullanıldığını, reklam ve internet sitelerinde kullanıldığını iddia etmiştir. Davalı ise, markanın ihlal edilmediğini savunmuştur.",
+        "reasoning_text": "Mahkeme, davacı ve davalının iddialarını değerlendirerek, davacı tarafından iddia edilen markanın ihlal edildiğini kabul etmiştir. Mahkeme, davacı tarafından sunulan kanıtların yeterli olduğunu ve davalı tarafından sunulan savunmaların yetersiz olduğunu tespit etmiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Davacı karşı davacı vekilinin istinaf talebinin HMK'nun 353/1-b-1 maddesi uyarınca ESASTAN REDDİNE,2-Alınması gereken 161,40-TL (asıl ve karşı dava yönünden) harçtan, peşin alınan 88,80-TL harcin mahsubu ile bakiye 72,60-TL harcin davalı karşı davacı alınarak hazineye irak kaydına, 3-Davalı karşı davacı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına,4-Istinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda, HMK'nun 361.maddesi uyarınca tebliğden itibaren iki haftalık süre içerisinde Yargıtay İlgili hukuk dairesinde temyiz yolu açık olmak üzere oy birliği ile karar verildi.13/04/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353/1-b-1",
+            "HMK 361",
+            "Marka Kanunu md. 7/1c",
+            "Marka Kanunu md. 14",
+            "Anayasa Mahkemesi Kararı 06.01.2017, 148/189"
+        ]
+    },
+    "summary_for_human": "Davacı, davalıya karşı markanın ihlal edildiğini iddia etmiştir. Mahkeme, davacı tarafından sunulan kanıtların yeterli olduğunu kabul ederek davacı lehine karar vermiştir.",
+    "summary_for_model": "Davacı, davalıya karşı markanın ihlal edildiğini iddia etmiştir. Mahkeme, davacı tarafından sunulan kanıtların yeterli olduğunu kabul ederek davacı lehine karar vermiştir. Davalı tarafından sunulan savunmalar yetersiz olarak değerlendirilmiştir."
+}

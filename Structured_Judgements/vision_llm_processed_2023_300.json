@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2023_300.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2023/300",
+        "karar_no": "2023/160",
+        "case_subject": "İhtiyati Tedbire İtiraz",
+        "dava_tarihi": "14/12/2022",
+        "karar_tarihi": "15/02/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın marka hak ihlallerinin devam ettiğini ve davanın hak ihlal ettiği gelirlerin arttığını iddia etti. Davacı, internet siteleri, sosyal medya hesapları ve çevrimiçi alışveriş sitelerinde markasını kullanmaya devam ettiği için İhtiyati Tedbir kararı talep etti.",
+        "reasoning_text": "Mahkeme, ilk derece mahkemesinin İhtiyati Tedbir kararını kaldırdığını, davacı vekilinin istinaf başvurusunun esas yönünden reddedildiğini ve davanın hak ihlallerinin devam ettiğini tespit etti. Mahkeme, İhtiyati Tedbirin kaldırılmasına karar verdi.",
+        "verdict_text": "İhtiyati Tedbirin kaldırılması isteyen davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ESAS TAN REDDİNE, İhtiyati Tedbirin kaldırılması isteyen davalıdan alınması gereken harç, istinaf aşamasında ihityati tedbirin kaldırılması isteyen davalı tarafından yapılan yargılama giderlerinin uhdesinde bırakılmasına, İstinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına, Kararın tebliği ve harç işlemlerinin yerel mahkeme tarafından yaptırılmasına, Dair, dosya üzerinde yapılan inceleme sonucunda oybirliği ile 16/02/2023 tarihinde HMK 362/1-f maddesi uyarınca KESİN olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK madde 159",
+            "6100 sayılı HMK m. 393/1",
+            "6100 sayılı HMK m. 355",
+            "HMK m. 389",
+            "HMK m. 390/3",
+            "HMK m. 353/1-b.1",
+            "HMK m. 362/1-f",
+            "5070 sayılı Yasa"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin İhtiyati Tedbirin kaldırılması talebini reddetti. Davanın marka hak ihlallerinin devam ettiğini tespit etti ve İhtiyati Tedbirin kaldırılmasına karar verdi.",
+    "summary_for_model": "Mahkeme, ilk derece mahkemesinin İhtiyati Tedbir kararını kaldırdığını, davacı vekilinin istinaf başvurusunun esas yönünden reddedildiğini ve davanın hak ihlallerinin devam ettiğini tespit etti. Mahkeme, İhtiyati Tedbirin kaldırılmasına karar verdi."
+}

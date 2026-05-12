@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2021_1425.pdf",
+        "court_name": "İstanbul Anadolu 13. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2021/244",
+        "karar_no": "2021/272",
+        "case_subject": "Davacı vekili dava dilekçesi ile davalı kooperatifin üyesi olduğu bağımsız bölümün mürisine tahsis edilmiş olduğunu ve davalı kooperatifin herhangi bir borcuna sahip olmadığını iddia etmiştir.",
+        "dava_tarihi": "27/04/2021",
+        "karar_tarihi": "08/12/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesi ile davalı kooperatifin üyesi olduğu bağımsız bölümün mürisine tahsis edilmiş olduğunu ve davalı kooperatifin herhangi bir borcuna sahip olmadığını iddia etmiştir. Davalı kooperatifin 20.07.1991 tarihli genel kurul kararı ile vakfedilmiş olduğunu ve bu karara dayanarak vakıf tescil edildiğini, davalı aleyhine Kadıköy 1. Aslıye Ticaret Mahkemesi'nde 1999/905 Esas no'lu dosyadan ikame olunmuş olan dava dosyasından verilen karar ile davalı kooperatifin 20.07.1991 tarihli genel kurul kararının yoklukla butlanmasına karar verildiğini iddia etmiştir.",
+        "reasoning_text": "İlk derece mahkemesi, davanın haklı olarak açıldığını, davalı kooperatifin üyesi olduğu bağımsız bölümün mürisine tahsis edilmiş olduğunu ve davalı kooperatifin herhangi bir borcuna sahip olmadığını kabul etmiştir. Ancak, davalı kooperatifin üyesi olduğu bağımsız bölümün mürisine tahsis edilmiş olduğunu iddia eden davacı vekili, davalı kooperatifin üyesi olduğu bağımsız bölümün mürisine tahsis edilmiş olduğunu iddia etmiştir. Davacı vekili, davalı kooperatifin üyesi olduğu bağımsız bölümün mürisine tahsis edilmiş olduğunu iddia etmiştir.",
+        "verdict_text": "Davaya dava dilekçesi tebliğ edilmeden dosya üzerinden karar verilmiştir. İlk derece mahkemesi kararı, davanın haklı olarak açıldığını, davalı kooperatifin üyesi olduğu bağımsız bölümün mürisine tahsis edilmiş olduğunu ve davalı kooperatifin herhangi bir borcuna sahip olmadığını kabul etmiştir. Ancak, davalı kooperatifin üyesi olduğu bağımsız bölümün mürisine tahsis edilmiş olduğunu iddia eden davacı vekili, davalı kooperatifin üyesi olduğu bağımsız bölümün mürisine tahsis edilmiş olduğunu iddia etmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "Kooperatifler Kanunu",
+            "1163 Sayılı Kooperatifler Kanunu",
+            "Hukuk Muhakemeleri Kanunu"
+        ]
+    },
+    "summary_for_human": "İstanbul Anadolu 13. Aslıye Ticaret Mahkemesi, davacı vekili tarafından yapılan dava dilekçesi ile davalı kooperatifin üyesi olduğu bağımsız bölümün mürisine tahsis edilmiş olduğunu ve davalı kooperatifin herhangi bir borcuna sahip olmadığını iddia eden dava dosyasını inceleyerek, davanın haklı olarak açıldığını kabul etmiştir.",
+    "summary_for_model": "İstanbul Anadolu 13. Aslıye Ticaret Mahkemesi, davacı vekili tarafından yapılan dava dilekçesi ile davalı kooperatifin üyesi olduğu bağımsız bölümün mürisine tahsis edilmiş olduğunu ve davalı kooperatifin herhangi bir borcuna sahip olmadığını iddia eden dava dosyasını inceleyerek, davanın haklı olarak açıldığını kabul etmiştir. Davacı vekili, davalı kooperatifin üyesi olduğu bağımsız bölümün mürisine tahsis edilmiş olduğunu iddia etmiştir."
+}

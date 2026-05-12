@@ -1,0 +1,32 @@
+{
+    "meta_data": {
+        "file_name": "2020_632.pdf",
+        "court_name": "İstanbul Anadolu 2. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2017/1276",
+        "karar_no": "2020/116",
+        "case_subject": "Tazminat (Haksız Rekabetten Kaynaklanan)",
+        "dava_tarihi": "06/02/2020",
+        "karar_tarihi": "20/10/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, aromaterapi alanında faaliyet göstererek iki yüz yakın kozmetik ürün üretti. Bu ürünler için Sağlık Bakanlığı Kozmetik Dairesi'ne bildirim yapıldı ve piyasaya sunulması için test ve analizler yapıldı. Davacı tarafından büyük uğraslar sonucu üretilen bu ürünler taklitti edildi. Ürünler ambalajı benzersiz olduğu için müşterilerin yanılabileceği iddia edildi. Davacı, üretilen ürünlerin içeriklerini tutturamadığı ve insanların sağlığıyla oynadığı iddia edildi. Davacı, İzmir Alaçatı'da satış faaliyetlerinde bulunduğu ve üretilen ürünleri Instagram'da oluşturduğu satış sayfasında koyduğu belirtildi. Davacı, bu faaliyetlerinin haksız rekabet teşkil ettiğini iddia etti.",
+        "reasoning_text": "Mahkeme, davacının ürettiği ürünlerin takliti edilerek satışa sunulması nedeniyle haksız rekabetin meni ve manevi tazminat istemesine ilişkin davayı reddetmeye karar verdi. Davacı, ürünleri satışa sunmadığı, görsel olarak kullandığı ve ürünlerin tescilli olmadığı için haberdar olması beklenemeyeceği belirtildi. Mahkeme, TTK'nun 55. maddesinin 4. bendinde belirtilen haksız rekabetin teşeklini teyit etti. Davacının ürettiği ürünler ve davacıya ait ürünler arasında iltisaba neden olacak şekilde benzerlik bulunduğu tespit edildi.",
+        "verdict_text": "Davacının ürettiği ürünlerin takliti edilerek satışa sunulması nedeniyle oluşan haksız rekabetin meni ve manevi tazminat istemesine ilişkin davanın reddine karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 55. madde",
+            "TTK 56, 58/e madde",
+            "B.K. 49. madde",
+            "TTK 58. madde",
+            "B.K. 49. madde",
+            "TTK 55/1-a-4 e",
+            "TTK 56/1-e",
+            "TBK 58. madde",
+            "HMK 353(1)b-1 madde",
+            "HMK 361/1. madde"
+        ]
+    },
+    "summary_for_human": "Davacı, ürettiği kozmetik ürünlerinin takliti edilerek satışa sunulması nedeniyle haksız rekabet iddiasıyla dava açtı. Mahkeme, davacının ürünlerini satışa sunmadığı ve ürünlerin tescilli olmadığı için haberdar olması beklenemeyeceği gerekçesiyle davayı reddetti.",
+    "summary_for_model": "Davacı, ürettiği ürünlerin takliti edilerek satışa sunulması nedeniyle haksız rekabet iddiasıyla dava açtı. Mahkeme, davacının ürünlerini satışa sunmadığı ve ürünlerin tescilli olmadığı için haberdar olması beklenemeyeceği gerekçesiyle davayı reddetti. TTK ve B.K. maddeleri çerçevesinde haksız rekabetin teşeklini teyit edildi."
+}

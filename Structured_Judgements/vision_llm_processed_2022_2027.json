@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_2027.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2022/644",
+        "karar_no": "2022/1528",
+        "case_subject": "Haksız rekabet ve meni davası",
+        "dava_tarihi": "19/08/2022",
+        "karar_tarihi": "27/10/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının 'Dermatologların En Çok Tavsiye Ettiği (Önerdiği) Marka' ifadesini kullanmakla haksız rekabet oluşturduğunu iddia etmiştir. Davalı, bu iddialara karşı savunma yapmıştır.",
+        "reasoning_text": "Mahkeme, davacının iddialarını inceledi ve davalının iddiaları doğrulanmadığını tespit etti. Davalının reklamlarının haksız rekabet oluşturmadığına karar verildi.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun 6100 sayılı HMK'nin 353/1-b.1 maddesi gereğince ESASLAN REDDİNE, 2-Harçlar Kanunu gereğince istinaf eden tarafından yatırılan istinaf kanun yoluna başvurma harcinin hazineye gelir kaydına, 3-Karar tarihli itibarıyla Harçlar Kanunu gereğince alınması gereken 80,70 TL istinaf karar harci istinaf eden tarafından peşin olarak yatırıldığından yeniden harç alınmasına yer olmadığına, yatırılan harcin hazineye gelir kaydına, 4-İstinaf yargılama giderlerinin istinaf talep eden üzerinde bırakılmasına, 5-Artan gider avansı varsa talep halinde avansı yatan tarafa iadesine, 6-Kararın ilk derece mahkemesine taraflara tebliği gönderilmesine, Dosya üzerinde yapılan inceleme sonucunda 27/10/2022 tarihinde HMK'nin 362/1-f maddesi gereğince kesin olarak oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK md. 61",
+            "HMK'nin 355. maddesi",
+            "HMK'nin 390/3 maddesi",
+            "Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının 'Dermatologların En Çok Tavsiye Ettiği Marka' ifadesini kullanmakla haksız rekabet yaptığını iddia etti. Mahkeme, davalının iddiaları doğrulanmadığını tespit etti ve davacıya karşı istinaf başvurusunu reddetti.",
+    "summary_for_model": "Davacı, davalının 'Dermatologların En Çok Tavsiye Ettiği Marka' ifadesini kullanmakla haksız rekabet yaptığını iddia etti. Mahkeme, davalının iddiaları doğrulanmadığını tespit etti ve davacıya karşı istinaf başvurusunu reddetti. Davalının reklamlarının haksız rekabet oluşturmadığına karar verildi."
+}

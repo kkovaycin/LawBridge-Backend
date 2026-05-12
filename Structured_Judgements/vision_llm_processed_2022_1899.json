@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2022_1899.pdf",
+        "court_name": "T.C. İZMİR BÖLGE ADLİYE MAHKEMESİ 17. HUKUK DAİRESİ",
+        "esas_no": "2022/1899",
+        "karar_no": "2023/2330",
+        "case_subject": "İhtiyati haciz talebi",
+        "dava_tarihi": "07/09/2022",
+        "karar_tarihi": "19/12/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "İhtiyati haciz talep eden vekil, alacaklı vekili tarafından yapılan ödemelerin borç sahibi adına gönderildiğini iddia etmiştir. Vekil, borç sahibinin borç ödemelerini tamamlamadığını, telefonları açmadığını ve hileli işlemlerle borcu ödemeyeceğini belirtmiştir. Mahkeme, borç sahibinin borç ödemelerini tamamlamadığını ve vekilinin borç ödemelerini tamamlamadığını tespit etmiştir.",
+        "reasoning_text": "Mahkeme, İhtiyati haciz talebinin kabulüne karar vermiştir. Talep, İK'nin 257 vd. maddeleri hükmüne göre açılmıştır ve ihityati haciz talebi ihkite ait olarak kabul edilmiştir. Mahkeme, borç sahibinin borç ödemelerini tamamlamadığını ve vekilinin borç ödemelerini tamamlamadığını tespit etmiştir. Mahkeme, borç sahibinin borç ödemelerini tamamlamadığını ve vekilinin borç ödemelerini tamamlamadığını tespit etmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle; A-6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b-2 maddesi uyarınca talep eden vekilinin istinaf başvurusunun KABULÜNE, 1-Karşıyaka Asliye Ticaret Mahkemesi'nin 2022/121 Esas ve 2022/119 Karar sayılı dosyasında verilen 07/09/2022 tarihli KARARIN KALDIRILMASINA, 2)İhtiyati haciz talep eden tarafın yatırmış olduğu 80,70 TL istinaf karar harcının talep edene iadesine, 3)İhtiyati haciz talep eden tarafından yatırılan 220,70 TL istinaf kanun yolu harcının davalıdan alınarak davacıya verilmesine, 4)İstinaf yargılama sırasında duruşma açılmadığından istinaf eden yararına istinaf vekalet ücreti verilmesine yer olmadığına, B-6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b-2 maddesi uyarınca yeniden esas hakkındaki kararla; 1)İhtiyati haciz talep eden yönünden ihityati haciz talebinin terminat mukabilinde KABULÜ ile, 2)İK'nin 257. maddesi uyarınca, yukarıda ismi yazılı davalı/ borçlu ...'un 2000.000,00-TL alacağı karşılayacak haczi caiz taşınır ve taşınmaz mallarının 200.000,00-TL ile sınırlı olmak üzere İHTİYATEN HACZİNE, 3- Davalı/ borçlu ...'un ve 3. sahiplerinin muhtemel zararlarına karşılık olarak 200.000,00-TL'nin % 15'i oranında hesaplanarak takdir olanan 30.000,00-TL nakit terminatın mahkeme veznesine depo edilmesi veya aynı miktarda kesin ve süresiz bir banka terminat mektubunun mahkemeye ibrazı halinde kararın yerine getirilmesine için bir örneğinin talep eden vekiline verilmesine, 4-Kararın verildiği tarihten itibaren 10 gün içinde infaz edilmemesi halinde kendiliğinden kalkmış sayılacağına, 5-Harc peşin alındığından yeniden alınmasına yer olmadığına, 7-Terminat alınması ve devamındaki işlemlerin ilk derece mahkemesince yerine getirilmesine, 8-Artan yargılama giderinin istek halinde yatırına iadesine, 9-Kararın taraflara tebliği, kesinleştirme, harç ikmali ve gider avansı iadesi işlemlerinin yerel mahkemeye yerine getirilmesine, Dair, dosya üzerinde yapılan inceleme sonunda HMK'nun 362/1-f maddesi gereğince kesin olarak oy birliği ile karar verildi. 19/12/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hukuk Muhakemeleri Kanunu",
+            "İK'nin 257 vd. maddeleri",
+            "İK'nin 258. maddesi",
+            "İK'nin 257/1. maddesi",
+            "İK'nin 257/2. maddesi",
+            "HMK'nun 362/1-f maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, ihityati haciz talebini kabul ederek borç sahibinin borç ödemelerini tamamlamadığını ve vekilinin borç ödemelerini tamamlamadığını tespit etmiştir. Talep, İK'nin 257 vd. maddeleri hükmüne göre açılmıştır ve ihityati haciz talebi ihkite ait olarak kabul edilmiştir. Mahkeme, borç sahibinin borç ödemelerini tamamlamadığını ve vekilinin borç ödemelerini tamamlamadığını tespit etmiştir.",
+    "summary_for_model": "İhtiyati haciz talebi, İK'nin 257 vd. maddeleri hükmüne göre açılmıştır. Mahkeme, borç sahibinin borç ödemelerini tamamlamadığını ve vekilinin borç ödemelerini tamamlamadığını tespit etmiştir. Talep, ihityati haciz talebi ihkite ait olarak kabul edilmiştir. Mahkeme, borç sahibinin borç ödemelerini tamamlamadığını ve vekilinin borç ödemelerini tamamlamadığını tespit etmiştir. İstinaf başvurusu kabul edilmiş ve kararın kaldırılmasına karar verilmiştir."
+}

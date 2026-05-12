@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2024_991.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 44. Hukuk Dairesi Türk Millet Adına İstanbul Mahkemesi Kararı",
+        "esas_no": "2024/991 Esas",
+        "karar_no": "2024/1411",
+        "case_subject": "Marka (Marka Hüküm Süzlüğünden Kaynaklanan)",
+        "dava_tarihi": "09/05/2024",
+        "karar_tarihi": "12/09/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı adına kayıtlı olduğu bildirilen markalar ve tasarımların kullanılmasına karşı itiyatı tedbir talebiyle başvurmuştur. Davalı vekili, markaların hukuksuzluğu ve sicilden terkini talep etmiştir. Davacı vekili, davalı vekilinin markaları kullanmasının davalıya ait olduğunu iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacı vekilinin itiyatı tedbir talebini kabul etmiştir. Davacı vekilinin talebinin haklı olduğunu ve davalı vekilinin markaları kullanmasının davalıya ait olduğunu iddia ettiğini değerlendirmiştir. Davalı vekilinin markaları kullanmasının davalıya ait olduğunu iddia ettiği için itiyatı tedbir talebinin kabul edilmesi gerekmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1- Davacı vekilinin istinaf istemin KABULÜ ile; 2- Bakırköy 2. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 09/05/2024 tarih, 2024/97 E. sayılı ara Kararının 6100 Sayılı HMK'nun 353/1-a.6. maddesi gereğince KALDIRILMASINA, 3- Dosyanın, yukarıda gösterilen biçimde inceleme ve değerlendirme yapılmak üzere mahkemesine GÖNDERILMESINE, 4- İstinaf yasa yoluna başvuran davacı tarafından peşin olarak yatırılan istinaf karar ve ilam harcının talebi halinde kendisine iadesine, 5- Dosya üzerinde inceleme yapılması sebebiyle vekalet ücreti tayinine yer olmadığına, 6- İstinaf yasa yoluna başvuran tarafından istinaf aşamasında yapılan giderlerin ilk derece mahkemesinde verilecek nihai kararda dikkate alınmasına, 6100 Sayılı HMK'nin 353/1-a.6. ve 362/1-g. maddeleri gereğince dosya üzerinde yapılan inceleme sonucunda ve KESİN olmak üzere, oy birliğiyle karar verildi. 12/09/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "159. madde",
+            "353/1-a.6. madde",
+            "362/1-g. madde"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin itiyatı tedbir talebini kabul etti. Davalı vekilinin markaları kullanmasının davalıya ait olduğunu iddia ettiği için talep kabul edildi.",
+    "summary_for_model": "Mahkeme, davacı vekilinin itiyatı tedbir talebini kabul etti. Davalı vekilinin markaları kullanmasının davalıya ait olduğunu iddia ettiği için talep kabul edildi. 6100 Sayılı Hukuk Muhakemeleri Kanunu ve ilgili maddeler çerçevesinde karar verildi."
+}

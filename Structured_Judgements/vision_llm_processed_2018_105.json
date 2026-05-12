@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2018_105.pdf",
+        "court_name": "T.C. BAKIRKÖY 1. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2018/105",
+        "karar_no": "2019/337",
+        "case_subject": "Marka Hakkindan Tecavüzden Kaynaklanan",
+        "dava_tarihi": "01/03/2018",
+        "karar_tarihi": "26/09/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Dava, davacı vekili tarafından müvekkillerinin markasını kötüye kullanması iddiasıyla açıldı. Davacı, müvekkillerin markasını ticari faaliyetlerinde kullanırken, davacı markasına tecavüz ettiğini iddia etti. Davacı, ticari zarar ve kâr kaybı taleplerini de ekledi.",
+        "reasoning_text": "Mahkeme, davacı tarafından sunulan delillerin yetersiz olduğunu ve davacı markasının tanınmışlık kriterlerini karşılamadığını tespit etti. Ayrıca, davacı tarafından yapılan markaların birbirine benzemediğini ve ticari faaliyetlerin aynı alanda olmadığını belirledi.",
+        "verdict_text": "Davacının davasının REDDİNE, Peşin yatırılan 35,90 TL harctan ve 187,85 TL işlah harcından alınması gereken 44,40 TL harcin mahsubu ile arda kalan 179,35 TL harcin karar kesinleştiğinde yatıran tarafa iadesine, Davalı kendisini vekile temsil ettirmekle yürürlükteki Avukatlık Asgari Ücret Tarifesine göre 3.931,00 TL ücret takdirine, bu ücretin davacıdan alınarak davalya verilmesine, Davacı tarafından yapılan yargılama giderinin üzerinde bırakılmasına, Karar kesinleştiğinde kalan gider avansının yatıran tarafa iadesine, Davacı vekilinin yüzüne karşı davalı vekilinin yokluğunda kararın tebliğinden itibaren 2 hafta süre içerisinde İstanbul Bölge Adliye Mahkemesi Hukuk Dairesi nezdiinde İstinaf kanun yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 151/2-b",
+            "SMK 155",
+            "B.K. 50 ve 51.maddeleri"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı tarafından iddia edilen marka tecavüzüne karşı, davacı markasının tanınmışlık kriterlerini karşılamadığını ve ticari faaliyetlerin aynı alanda olmadığını belirleyerek davayı reddetmiştir. Davacıya karşı harç ve ücret talepleri de kabul edilmiştir.",
+    "summary_for_model": "Dava, marka tecavüzüne ilişkin olarak açıldı. Mahkeme, davacı markasının tanınmışlık kriterlerini karşılamadığını ve ticari faaliyetlerin aynı alanda olmadığını tespit ederek davayı reddetmiştir. Davacıya karşı harç ve ücret talepleri kabul edilmiştir."
+}

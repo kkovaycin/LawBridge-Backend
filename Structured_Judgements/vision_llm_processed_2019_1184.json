@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2019_1184.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 14. Hukuk Dairesi",
+        "esas_no": "2018/523 Esas - 2019/58 Karar",
+        "karar_no": "2021/1209",
+        "case_subject": "Manevi Tazminat Davası",
+        "dava_tarihi": "22/01/2019",
+        "karar_tarihi": "07/10/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davalı vekili, davacı vekilinin davayı kısıtlı olarak kabul etmesine karşı istinaf başvurusu yaptı. Davacı, davalı vekilinin kişisel Twitter hesabından paylaşımlarını eleştirerek hak ihlali iddia etti. Davalı vekili ise, davanın usulüne uygunluğunu savundu.",
+        "reasoning_text": "İlk derece mahkemesi, davanın kısmen kabulüne karar verdi. İstinaf başvurusu, davanın hak ihlali ve ifade özgürlüğü ihlali iddiaları nedeniyle reddedildi. Mahkeme, davanın hak ihlali ve ifade özgürlüğü ihlali iddialarını reddetti.",
+        "verdict_text": "Davanın esas hakkında Dairemizce yeniden hüküm verilmesine, davanın reddine, 59,30 TL harçın, peşin olarak yatırılan 341,55 TL'den mahsubu ile artan 282,25 TL harçın, talep halinde ilk derece mahkemesince davacıya iadesine, davacı tarafından sarf edilen yargılama giderlerinin kendi üzerinde bırakılmasına, davalı tarafından yargılama sırasında yapılan 29,60 TL yargılama giderinin davacıdan alınarak davalı tarafa verilmesine, artan gider avanslarının yatıran tarafa iadesine, davalı kendisini vekille temsil ettiğinden, AAÜT gereğince hesaplanan 4.080,00 TL vekalet ücretinin davacıdan tahsili ile davalya verilmesine, istinaf aşamasındaki yargılama giderleri yönünden davalı tarafından yatırılan 121,30 TL istinaf başvuru harcının Hazineye iad kaydına, davalı tarafından yatırılan peşin istinaf karar harcının, talep halinde davalya iadesine, davalı tarafından sarf edilen 121,30 TL başvuru harci giderinin ve 31,50 TL posta gideri toplamı olan 152,80 TL'nin davacıdan alınarak davalıya verilmesine, gerekli kararın ilk derece mahkemesince taraf vekiline tebliğiğine, dosyanın, karar veren ilk derece mahkemesine gönderilmesine dair; HMK'nın 353/1.b.2. maddesi uyarınca dosya üzerinden yapılan inceleme sonucunda, oy birliğiyle ve kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK'nın 56/1.e maddesi",
+            "HMK'nın 355. maddesi",
+            "HMK'nın 353/1.b.2. maddesi",
+            "Avrupa İnsan Hakları Mahkemesi (AİHM)"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, davacı vekilinin davayı kısmen kabul etmesine karşı istinaf başvurusunu reddetti. Davanın hak ihlali ve ifade özgürlüğü iddiaları reddedildi. Davanın esas hakkında Dairemizce yeniden hüküm verildi.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, davacı vekilinin davayı kısmen kabul etmesine karşı istinaf başvurusunu reddetti. Davanın hak ihlali ve ifade özgürlüğü iddiaları reddedildi. HMK'nın 353/1.b.2. maddesi uyarınca dosya üzerinde inceleme yapıldı ve karar verildi."
+}

@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2025_488.pdf",
+        "court_name": "Antalya Bölge Adliye Mahkemesi",
+        "esas_no": "İhtiyati Haciz",
+        "karar_no": "18/07/2025",
+        "case_subject": "İhtiyati haciz davası",
+        "dava_tarihi": "03/06/2025",
+        "karar_tarihi": "18/07/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı şirketin sera demirleri alım-satımını ve teslimini müvekkiline teslim etmediğini iddia etmiştir. Davalı şirketin ticari itibarını kullanarak sera demir ücretini ödemediği ve banka havaleleriyle ödemeyi reddettiği belirtilmiştir. Davacı, davalı şirketin haciz ve takibi için itiraz ettiğini, ancak takibin durduğunu ve arabuluculuğa başvurulduğunu iddia etmiştir.",
+        "reasoning_text": "İstinaf mahkemesi, ilk derece mahkemesinin kararının gerekliliğini ve usulüne uygunluğunu değerlendirmiştir. Davacı vekilinin istinaf itirazlarının reddedildiği ve istinaf başvurusunun esastan reddedildiği kararı verilmiştir. Davacı vekilinin ilk derece mahkemesi kararını ilgisiz olarak itiraz ettiği ve istinaf başvurusunun gereksiz olduğu tespit edilmiştir.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin ilk derece mahkemesi kararına ilişkin istinaf başvurusunun HMK'nın 353/1-b-1 maddesi uyarınca ES ASTAN REDDİNE, 2-492 sayılı Harçlar Kanunu gereğince alınması gerekli 615,40 TL miktarı istinaf karar harci peşin olarak alındığından yeniden alınmasına YER OLMADIĞINA, 3-Davacının istinaf başvurusu nedeniyle yaptığı yargılama masraflarının kendi üzerinde BİRAKILMASINA, 4-Kullanılmayan istinaf gider avansının 6100 sayılı HMK'nın 333. maddesi uyarınca ilk derece mahkemesince ilgisine İADESİNE, 5-İstinaf incelemesi dosya üzerinden yapıldığından vekalet ücreti takdirine YER OLMADIĞINA, 6-Kararın ilk derece mahkemesi tarafından taraflara TE BLİĞİNE, Dairemizce istinaf incelemesi, 6100 sayılı HMK'nın 355. maddesi hükmü uyarınca istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak ve kamu düzenine aykırı hususlar olup olmadığı gözetilerek yapılmıştır. HMK'nın 359/3 maddesi uyarınca; dosya kapsamındaki yazı, belge ve bilgilere, yasaya uygun gerektirici nedenlere, ilk derece mahkemesi kararının gerekçesinde dayanan delillere, delillerin tartışılması sonucu maddi olay ve hukuki değerlendirmede usul ve yasaya aykırı bir yön bulunmamasına, HMK'nın 355/1 maddesi gereği incelemenin istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılıp, re'sen gözetilmesi gereken, kamu düzenine herhangi bir aykırılığın da bulunmamasına, yaklaşık ispat sağlar bir belgenin sunulmamış olduğu hususlar birlikte değerlendirildiğinde, ara kararın usul ve esas yönünden hukuka uygun olduğunun anlaşılmasına göre; davacı vekilinin istinaf itirazları yerinde görülmediğinden HMK'nın 353/1-b-1 maddesi gereğince istinaf başvurusunun esastan reddine karar verilmiştir. Dairemizce istinaf incelemesi, 6100 sayılı HMK'nın 353/1-b-1 maddesi gereğince dosya üzerinde yapılan inceleme sonucunda oybirliğiyle, 6100 sayılı HMK'nın 362/1-f maddesi gereğince kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hukuk Muhakemeleri Kanunu (HMK)",
+            "492 sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir şirket tarafından sera demirleri alım-satım ve teslimiyle ilgili iddialar üzerine açılmıştır. Davacı vekili, davalı şirketin sera demirleri teslim etmediğini ve banka havaleleriyle ödemeyi reddettiğini iddia etmiştir. İlk derece mahkemesi, davacı vekilinin itirazını reddetmiştir. İstinaf mahkemesi, ilk derece mahkemesinin kararının usul ve esas yönünden hukuka uygun olduğunu tespit ederek, davacı vekilinin istinaf itirazlarını esastan reddetmiştir. Karar, HMK'nın ilgili maddeleri ve 492 sayılı Harçlar Kanunu uyarınca verilmiştir.",
+    "summary_for_model": "Dava, sera demirleri alım-satım ve teslimiyle ilgili iddialar üzerine açılmıştır. Davacı vekili, davalı şirketin sera demirleri teslim etmediğini ve banka havaleleriyle ödemeyi reddettiğini iddia etmiştir. İlk derece mahkemesi, davacı vekilinin itirazını reddetmiştir. İstinaf mahkemesi, HMK'nın 353/1-b-1 ve 359/3 maddeleri uyarınca, davacı vekilinin istinaf itirazlarını esastan reddetmiştir. Karar, HMK'nın 355, 362/1-f ve 333 maddeleri ile 492 sayılı Harçlar Kanunu uyarınca verilmiştir."
+}

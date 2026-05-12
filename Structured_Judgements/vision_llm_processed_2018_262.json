@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2018_262.pdf",
+        "court_name": "İstanbul 2. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2018/262",
+        "karar_no": "2019/284",
+        "case_subject": "Hak Mahrumiyeti Kararının İptali",
+        "dava_tarihi": "21/05/2018",
+        "karar_tarihi": "27/06/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, 2010 yılında Yönetim Kurulu üyesi olarak seçildi ve 2018'de Bakanlık Kararı ile yeni üyelerle değiştirildi. Davacı, sosyal medyada hakaret ve tahkir içeren ifadeler yayınladı. Mahkeme, bu davranışların hak mahrumiyeti cezasına yol açtığını tespit etti.",
+        "reasoning_text": "Mahkeme, davacının sosyal medyada yayınladığı ifadelerin hakaret ve tahkire yol açtığını ve bu durumun hak mahrumiyeti cezasına uygun olduğunu değerlendirdi. Davacının savunması yetersiz bulundu.",
+        "verdict_text": "1-Davının KABULÜ ile, davacı hakkında verilen ... Haysiyet Kurulunun ... tarih ...evrak kayıt numaru hak mahrumiyeti kararının İPTALİNE,\n2-Alınması gereken 44,40 TL karar harcından peşin yatırılan 35,90 TL'nin mahsubu ile kalan 8,50 TL bakiye karar harcının davalından tahsiline,\n3-Davacı tarafından yapılan: 128,00 TL posta gideri ile 71,80 TL harç (pesin+başvuru) olmak üzere toplam 199,80 TL yargılama giderinin davalından alınarak davacıya verilmesine,\n4-Davacı yargılamada kendisini vekili ile temsil ettirdiğinden AAÜT'ne göre tespit olan 3.931,00 TL vekalet ücretinin davalından alınarak davacıya ödünmesine,\n5-Daval tarafından yapılan yargılama giderlerinin üzerinde bırakılmasına,\n6-Yatırılan gider avanslarından kullanılmayan kısmunun talep halinde ve karar kesinleştiğinde yatıran tarafa iadesine,\nDair taraf vekillerinin yüzüne karşı, (HMK 345/1 md. gereğince) gerekli kararın tebliğinden itibaren 2 hafta içerisinde Mahkememize veya başka bir yer mahkemesine dilekçe ile başvurmak ve istinaf harci ile gerekli giderlerin tamamı ödenmek suretiyle, İstanbul Bölge Adliye Mahkemesine istinaf yolu açık olmak üzere verilen karar, açıkça okunup usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Haysiyet Kurulu Çalışma Esasları",
+            "Haysiyet Kurulu Kararlarında Dikkat Edilmesi Gereken Hususlar",
+            "Türk Ceza Kanunu",
+            "Elektronik İmza Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, sosyal medyada hakaret ve tahkire yol açan ifadeler yayınladı. Mahkeme, bu davranışların hak mahrumiyeti cezasına uygun olduğunu tespit etti ve davacının hak mahrumiyeti kararını iptal etti.",
+    "summary_for_model": "Davacı, sosyal medyada hakaret ve tahkire yol açan ifadeler yayınladı. Mahkeme, bu davranışların hak mahrumiyeti cezasına uygun olduğunu tespit etti ve davacının hak mahrumiyeti kararını iptal etti. Davacıya 44,40 TL karar harcı ve 199,80 TL yargılama gideri tahakkuk etti."
+}

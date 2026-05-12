@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2018_129.pdf",
+        "court_name": "T.C. BAKIRKÖY 1. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2018/129",
+        "karar_no": "2019/136",
+        "case_subject": "Marka hakkına tecavüz ve ticaret unvanı kullanımı iddiaları",
+        "dava_tarihi": "14/03/2018",
+        "karar_tarihi": "11/04/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının markasını kullanmak için internetteki web sitelerinde ve reklamlarında kullanmasını önlemeye çalıştı. Davalının markasını kullanan ürünler davacıya ait olarak satılıyordu. Davacı, davalının markasını kullanmasının durdurulmasını ve maddi ve manevi tazminat talep etti.",
+        "reasoning_text": "Mahkeme, davalının markasını kullanmasının hukuki olarak kabul edilemez olduğunu ve davacının haklarını ihlal ettiğini tespit etti. Davalının markasını kullanmasının durdurulması ve tazminat talebinin kabul edilmesi gerektiği kararlaştırıldı.",
+        "verdict_text": "HÜKÜM: Gereğecesine yukarıda açıklandığı üzere; 1-Davacının davasının KABULÜNE, davalının davacı adına tescilli \"...\" esas unsurlu marka hakkına tecavüz teşkil eden fiillerin önlenmesine ve durdurulmasına, davalının davacı markası ile iltisab oluşturan \"...\" ibareli markayı ürünlerinden, iş evraklarında, reklamlarında, internet ortamında, web sitesinde kullanılmasının önlenmesine, markayı taşıyan ürünlere el konulmasına bu ürünlerin masrafı davaldan alınmak suretiyle etiketlerinin sökülmesine bu şekilde tecavüzün giderilmesi mümkün değilse ürünlerin imhasına, davalı adına olan http://www.teks.com isimli web sitesine erişimin engellenmesine, 2-Toplam 50.000,00 TL manevi ve 750.000,00 TL maddi tazminatın dava tarihinden itibaren işleyecek yasal faizi ile birlikte davaldan alınarak davacıya verilmesine, 3-Karar tarihinde yürürlükte bulunan harçlar tarifesi gereğince hesaplanan, 54.648,00 TL ilam harçından, 870,96 TL peşin ve 12.791,04 TL ıslah harcının mahsubu ile, 40.986,00 TL bakiye karar harcının davaldan tahsili ile hazneye irat kaydına, 4-Karar tarihinde yürürlükte bulunan avukatlık asgari ücret tarifesi gereğince hesaplanan 43.950,00 TL vekalet ücretinin, davaldan alınarak davacıya verilmesine, 5-Karar tarihinde yürürlükte bulunan avukatlık asgari ücret tarifesi gereğince manevi tazminat yönünden hesaplanan 5.850,00 TL vekalet ücretinin, davaldan alınarak davacıya verilmesine, 6-Davacı tarafından yapılan 906,86 TL dava ilk masrafı, 293,00 TL tebligat-tezkere, 12.791,04 TL ıslah harç masrafı ve 2.850,00 TL birlikçi ücreti olmak üzere toplam 16.840,09 TL yargılama giderinin, davaldan alınarak davacıya verilmesine, 7-Talep halinde kararın taraf vekillerine tebliği, 8-Karar kesinleştiğinde kullanılmayan gider avansının ilgisine iaadesine, Taraf vekillerinin yüzlerine karşı verilen karar, kararın tebliginden itibaren 2 hafta süre içerisinde İstanbul Bölge Adliye Mahkemesi Hukuk Dairesi nezdiinde İstinaf kanun yolu açık olmak üzere, açıkça okunup anlatıldı.11/04/2019"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK md.7/2-b",
+            "SMK md.7/3-e",
+            "SMK 151/2-b"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markasını kullanmasının durdurulmasını ve maddi/manevi tazminat talep etti. Mahkeme davalının markasını kullanmasının hukuki olarak kabul edilemez olduğunu tespit etti ve tazminat talebini kabul etti.",
+    "summary_for_model": "Davacı, davalının markasını kullanmasının durdurulmasını ve maddi/manevi tazminat talep etti. Mahkeme, davalının markasını kullanmasının hukuki olarak kabul edilemez olduğunu tespit etti ve tazminat talebini kabul etti. SMK md.7/2-b, SMK md.7/3-e ve SMK 151/2-b kanun maddeleri bahsedildi."
+}

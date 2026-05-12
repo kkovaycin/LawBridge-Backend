@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2024_127.pdf",
+        "court_name": "T.C. İstanbul 1. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2024/127",
+        "karar_no": "2024/209",
+        "case_subject": "Marka hükmüsüzlüğü davası",
+        "dava_tarihi": "16/07/2024",
+        "karar_tarihi": "27/08/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, markanın hükmüsüzlüğü talep ediyor. Davalı, markanın tescilinin kötüye kullanıldığını iddia ediyor. Davalı, internet siteleri ve sosyal medya hesaplarında markanın kullanıldığını engellemek istiyor.",
+        "reasoning_text": "Davacı, SMK 25. maddesine dayanarak markanın hükmüsüzlüğü talep ediyor. Mahkeme, davanın yetkili yerinde açıldığını ve davanın yetkili mahkemede değerlendirildiğini tespit ediyor. Davanın yetkisiz olduğu için mahkeme yetkisizliği kararı verildi.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere; 1-Yukarıda açıklanan gerekçelerle görevli ve yetkili mahkemenin İstanbul Anadolu Nöbetçi FSHHM olduğuundan, MAHKEMEMİZİN YETKİSİZLİĞİNE, 2-HMK 20. madde uyarınca Dosyanın süresi içinde kanun yoluna başvurulmayarak kesinleşmesi halinde kararın kesinleşme tarihinden ,kanun yoluna başvurulmuş ise bu başvurunun reddi kararının tebliği tarihinden itibaren iki haftalık süre içinde mahkemeye müracaat edilmesi halinde dosyanın yetkili ve görevli İstanbul Anadolu Nöbetçi Fikri ve Sınai Haklar Hukuk Mahkemesine gönderilmesine, 3-Harç ve yargılama giderlerinin nihai karar ile birlikte yetkili mahkemeye hüküm altına alınmasına, Dair karar tarafların yokluğunda gerekçeli kararın taraflara tebliğiinden itibaren 2 HAFTA içerisinde İSTANAF YASA yolu açık olmak üzere karar verildi. 27/08/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 25. madde",
+            "HMK 20. madde",
+            "İSTANAF YASA"
+        ]
+    },
+    "summary_for_human": "Davacı, markanın hükmüsüzlüğü talep ediyor. Mahkeme, davanın yetkili yerinde açıldığını ve davanın yetkili mahkemede değerlendirildiğini tespit ediyor. Davanın yetkisiz olduğu için mahkeme yetkisizliği kararı verildi.",
+    "summary_for_model": "Davacı, markanın hükmüsüzlüğü talep ediyor. Mahkeme, davanın yetkili yerinde açıldığını ve davanın yetkili mahkemede değerlendirildiğini tespit ediyor. Davanın yetkisiz olduğu için mahkeme yetkisizliği kararı verildi. SMK 25. madde ve HMK 20. madde referans alınmıştır."
+}

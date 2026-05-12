@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2025_303.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2025/303 Esas",
+        "karar_no": "2025/441",
+        "case_subject": "Marka (Manevi Tazminat İstemli) | Marka (Maddi Tazminat İstemli)",
+        "dava_tarihi": "18/12/2024",
+        "karar_tarihi": "26/03/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının markasını internette ve sosyal medyada kullanmasını engellemek için ihtiyatı tedbir talebiyle dava açtı. Davalının markasını kullanmakla suçlandığı iddialar, davacı vekilinin talebini destekledi.",
+        "reasoning_text": "Mahkeme, davacı vekilinin istinaf talebini kabul ederek ilk derece mahkemesinin kararını kaldırdı. Davalının markasını kullanmakla suçlandığı iddiaların yetersiz olduğu ve dava dilencesinde eksik kanıtlar olduğu için kararın hatalı olduğu tespit edildi.",
+        "verdict_text": "Yukarıda açıklanan nedenlere; 1-Davacı vekilinin istinaf talebinin HMK'nun 353/1-b-1 maddesi uyarınca ESAS TAN REDDİNE, 2-Alınması gereken 615,40 TL harçtan, peşin alınan 427,60 TL harcin mahsubu ile bakiye 187,80 TL harcin davacıdan alınarak hazineye irat kaydına, 3-Davacı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, 4-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinden yapılan inceleme sonunda, oy birliğiyle kesin olarak karar verildi.26/03/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK) 355. madde",
+            "Hukuk Muhakemeleri Kanunu (HMK) 353/1-b-1 madde",
+            "Hukuk Muhakemeleri Kanunu (HMK) 389. madde"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markasını internette ve sosyal medyada kullanmasını engellemek için dava açtı. Mahkeme, davacı vekilinin istinaf talebini kabul ederek ilk derece mahkemesinin kararını kaldırdı. Davalının markasını kullanmakla suçlandığı iddiaların yetersiz olduğu ve dava dilencesinde eksik kanıtlar olduğu için kararın hatalı olduğu tespit edildi.",
+    "summary_for_model": "Davacı vekili, davalının markasını internette ve sosyal medyada kullanmasını engellemek için dava açtı. Mahkeme, davacı vekilinin istinaf talebini kabul ederek ilk derece mahkemesinin kararını kaldırdı. Davalının markasını kullanmakla suçlandığı iddiaların yetersiz olduğu ve dava dilencesinde eksik kanıtlar olduğu için kararın hatalı olduğu tespit edildi."
+}

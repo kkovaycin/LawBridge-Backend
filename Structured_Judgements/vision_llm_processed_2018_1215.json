@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2018_1215.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2018/1215",
+        "karar_no": "2021/438",
+        "case_subject": "Marka (Manevi Tazminat İstemi)",
+        "dava_tarihi": "23/11/2017",
+        "karar_tarihi": "05/03/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı markasının ticari takdim şekli ve ambalajı nedeniyle hak ihlali iddia etti. İstinaf sürecinde eksiklikler nedeniyle dava reddedildi.",
+        "reasoning_text": "Markanın tanınmışlığı ve benzerlik değerlendirmesi için ortalama tüketici gözüyle değil, nitelikli tüketici gözüyle bakılması gerektiği vurgulandı. Davacı ve davalı ürünün ticari takdim şekli ve ambalajı nedeniyle hak ihlali iddiası reddedildi.",
+        "verdict_text": "Davacı vekilinin istinaf talepleri reddedildi. Dava sonucunda davacıya 50.000 TL manevi tazminat verilmedi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "353. madde",
+            "356. madde",
+            "556 Sayılı KHK 8/1-b madde",
+            "556 Sayılı KHK 8/4 madde"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı markasının ticari takdim şekli ve ambalajı nedeniyle hak ihlali iddia etti. İstinaf sürecinde eksiklikler nedeniyle dava reddedildi.",
+    "summary_for_model": "Marka hukuku davasında, ticari takdim şekli ve ambalajı nedeniyle hak ihlali iddiası reddedildi. İstinaf sürecinde eksiklikler nedeniyle dava reddedildi."
+}

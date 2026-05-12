@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2020_679.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2017/44 E - 2017/234 K",
+        "karar_no": "2021/1494",
+        "case_subject": "Menfi Tespit (Fikir Ve Sanat Eseri Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "14/11/2017",
+        "karar_tarihi": "02/12/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; 20.02.2017 tarihinde tebliğ edilen hak mahrumiyeti cezasının tüm sonuçları ile ortadan kaldırılması, müvekkilinin sağlık durumu nedeniyle, sağlık sigortasından ve diğer haklarından dava sonuçlanıncaya kadar yararlanabilmesi açısından, kararın uygulanmasının dava sonucuna kadar durdurulmasını sağlamak amacıyla ihtiyati tedbir kararı verilmesini talep etmiştir.",
+        "reasoning_text": "Mahkeme, dava konusu ifadelerin ifade özgürlüğünün sınırlarını aştığını tespit ederek mahkemeye ortaya konulan gerekçenin, ifade özgürlüğüne getirilecek sınırlamanın demokratik bir toplumda zorlayıcı bir toplumsal ihtiyacın karşılanması amacıyla yönelik, ölçülü, orantılı ve istisnai nitelikte olması gerektiğini vurgulamıştır.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklanmış üzere; 1-Üstül ve yasaya uygun İstanbul 1. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 14/11/2017 tarih ve 2017/44 E, 2017/234 K. Sayılı kararına karşı davacı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 355/1-b/1 maddesi gereğince ESASTAN REDDİNE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gereken 59,30 TL maktu istinaf karar ve ilam harcından peşin yatırılan 35,90 TL, harcin mahsubu ile bakiye 23,40 TL harcin davacidan tahsiliyle Hazineye gelir kaydedilmesine, 3- Davacı tarafça istinaf aşamasında yapılan yargılama giderlerinin üzerinde birakılmasına, 4- İncelemenin durusmaz olarak yapılması sebebiyle taraflar yararına vekalet ücreti takdirine yer olmadığına, 5- Davacı tarafından yatırılan gider avansından harçnmayan kısım karar kesinleştiğinde iaadesine, Dosya üzerinde yapılan inceleme sonucunda, 20/07/2017 tarih ve 7035 Sayılı Kanunun 31. maddesiyle değişik 6100 Sayılı HMK'nın 361/1. maddesi gereğince, kararın tebliğinden itibaren 2 hafta içerisinde Yargıtaya temiz başvurusunda bulunma yolu açık olmak üzere, oy birliğiyle karar verildi. 02/12/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "492 Sayılı Harçlar Kanunu",
+            "7035 Sayılı Kanun",
+            "Anayasa'nın 12. ve 26. maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, sosyal medyada yayınlanan eleştiriler nedeniyle hak mahrumiyeti kararına karşı istinaf talebinde bulundu. Mahkeme, ifadelerin ifade özgürlüğünün sınırlarını aştığını tespit ederek kararı kaldırdı.",
+    "summary_for_model": "Davacı vekili, sosyal medya eleştirileri nedeniyle hak mahrumiyeti kararına karşı istinaf talebinde bulundu. Mahkeme, ifadelerin ifade özgürlüğünün sınırlarını aştığını tespit ederek kararı kaldırdı. Anayasa ve HMK maddeleri çerçevesinde karar verildi."
+}

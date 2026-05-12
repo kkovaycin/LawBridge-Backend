@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_748.pdf",
+        "court_name": "İstanbul Anadolu 2. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2023/748 Esas",
+        "karar_no": "2023/986",
+        "case_subject": "Tespit (D.İş)",
+        "dava_tarihi": "16/12/2022",
+        "karar_tarihi": "22/06/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının ticaret unvanı ve markası ile benzer olan işaretleri kullanmaya başladığını iddia etmiştir. Davalının eğitim ve öğretim hizmetlerinde markanın kullanıldığı ve internet sitelerinde kullanıldığı tespit edilmiştir.",
+        "reasoning_text": "Mahkeme, davalının markasını kullanmanın hak ihlali oluşturduğunu ve ihlalin önlenmesi için tedbir kararı verilmesinin gerektiğini değerlendirmiştir. Davalının markasını kullanmanın ticaret unvanına tecavüz oluşturduğuna karar verilmiştir.",
+        "verdict_text": "İhtiyati tedbir talebinin kısmen kabulüne, istinaf peşin harcının talebe halinde tedbir talep eden tarafa iadesine, istinaf aşamasında tedbir talep eden tarafa yapılan yargılama gideri olan 492-TL, istinaf yoluna başvurma harci ile 102-TL, tebligat ve posta gideri olmak üzere toplam 594-TL'nin karşı tarafından alınarak ihityati tedbir talebine verilmesine, Dair, dosya üzerinde yapılan inceleme sonucu 22/06/2023 tarihinde HMK'nın 353/1-a-6 maddesi uyarınca oybirliğiyle kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 Sayılı Sınai Mülkiyet Kanunu",
+            "HMK 353. Maddesi",
+            "SMK M. 29",
+            "SMK 159 md"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının ticaret unvanı ve markası ile benzer işaretleri kullanmaya başladığını iddia etmiştir. Mahkeme, bu kullanmanın hak ihlali oluşturduğunu tespit ederek ihityati tedbir kararı vermiştir.",
+    "summary_for_model": "Davacı, davalının ticaret unvanı ve markası ile benzer işaretleri kullanmaya başladığını iddia etmiştir. Mahkeme, bu kullanmanın hak ihlali oluşturduğunu tespit ederek ihityati tedbir kararı vermiştir. Davalının markasını kullanmanın ticaret unvanına tecavüz oluşturduğuna karar verilmiştir."
+}

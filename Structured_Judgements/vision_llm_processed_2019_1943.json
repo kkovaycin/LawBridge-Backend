@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2019_1943.pdf",
+        "court_name": "T.C. İZMİR BÖLGE ADLİYE MAHKEMESİ 11. HUKUK DAİRESİ",
+        "esas_no": "2018/19 E. - 2019/85 K.",
+        "karar_no": "2022/1489",
+        "case_subject": "Tasarımın hukuksuzluğu ve tescilinin iptali",
+        "dava_tarihi": "22/05/2019",
+        "karar_tarihi": "20/10/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı şirketin mimarlık hizmetleri, tasarım ve reklamcılık alanında faaliyet gösterdiğini iddia ediyor. Davalı şirket, 2015'teki hizmet sözleşmesi ile davalı şirketin Bostanlı şubesinin tasarımını oluşturdu. Ancak davalı şirket, tasarımın başka bir şirkete ait olduğunu ve müvekkilin tasarımını kullanmadığını iddia ediyor. Mahkeme, tasarımın davacı tarafından değil, başka bir şirket tarafından kullanıldığını ve tasarımın davacı tarafından işletilmediğini tespit etti.",
+        "reasoning_text": "Mahkeme, tasarımın yeni ve ayırt edici olduğunun teknik olarak kanıtlanmadığını ve davacı tarafından sunulan delillerin yetersiz olduğunu tespit etti. Tasarımın hukuksuzluğu ve tescilinin iptali için gerekli olan yenilik unsuru taşımadığı için dava reddedildi. İstinaf başvurusu da reddedildi.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Davacı vekilinin istinaf başvurusunun Hukuk Mahkemeleri Kanunu'nun 353/1-b-1 maddesi uyarınca ESASTAN REDDİNE, 2-Davacı yönünden istinaf karar harci olan 80,70 TL'den peşin alınan 44,40 TL'nin mahsubu ile bakiye 36,30 TL'nin davalardan alınarak hazinede gelir kaydına, 3-İstinaf başvurusu nedeniyle davalının yaptığı giderlerin kendi üzerinde bırakılmasına, Dosya üzerinden yapılan inceleme neticesinde, kararın tebliğiinden itibaren iki hafta içinde Yargıtay ilgili Hukuk Dairesinde temyiz yolu açık olmak üzere 20.10.2022 tarihinde oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Mahkemeleri Kanunu'nun 353/1-b-1 maddesi",
+            "Tasarım Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin tasarımını kullanmadığını iddia ediyor. Mahkeme, tasarımın yeni ve ayırt edici olmadığını ve davacı tarafından işletilmediğini tespit etti. Tasarımın hukuksuzluğu ve tescilinin iptali için gerekli olan yenilik unsuru taşımadığı için dava reddedildi.",
+    "summary_for_model": "Davacı vekili, davalı şirketin tasarımını kullanmadığını iddia ediyor. Mahkeme, tasarımın yeni ve ayırt edici olmadığını ve davacı tarafından işletilmediğini tespit etti. Tasarımın hukuksuzluğu ve tescilinin iptali için gerekli olan yenilik unsuru taşımadığı için dava reddedildi. İstinaf başvurusu da reddedildi."
+}

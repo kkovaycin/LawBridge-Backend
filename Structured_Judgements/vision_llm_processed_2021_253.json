@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2021_253.pdf",
+        "court_name": "T.C. İSTANBUL 3.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/253",
+        "karar_no": "2022/159",
+        "case_subject": "Markaya Tecavüz - Haksız Rekabetin Teşbiti, Durdurulması, Önlenmesi",
+        "dava_tarihi": "31/12/2019",
+        "karar_tarihi": "17/11/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, 1949'da kurulan bir şirketin 2006'da 'Şti' olarak kaydolduğunu ve 29 bayisinin mevcut olduğunu iddia ediyor. Şirket, 2017'de itiraz edilen bir markayı kaydettikten sonra, davacı şirketin web sitelerinde ve sosyal medyada markayı kullanmaya devam ettiğini iddia ediyor. Bu durum, davacı şirketin ticari itibarını zedelediğini ve davacıya maddi zarar verdiğini iddia ediyor.",
+        "reasoning_text": "Mahkeme, davacı şirketin markayı kullanma hakının olmadığını ve bu kullanımların haksız rekabet oluşturduğunu tespit etti. Davacı şirketin web sitelerinde ve sosyal medyada markayı kullanması, davacı şirketin ticari itibarını zedelediğini ve davacıya maddi zarar verdiğini tespit edildi. Mahkeme, davacı şirketin markayı kullanma hakının olmadığını ve bu kullanımların haksız rekabet oluşturduğunu karar verdi.",
+        "verdict_text": "Davacı şirketin markayı kullanma hakının olmadığını ve bu kullanımların haksız rekabet oluşturduğunu tespit edildi. Davacı şirketin web sitelerinde ve sosyal medyada markayı kullanması engellenmeli ve davacı şirkete maddi tazminat verilmelidir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SİNAÎ MÜLKİYET KANUNU",
+            "TÜRK TİCARET KANUNU",
+            "TÜRK PATENT VE MARKA KURUMU",
+            "TÜRK BORÇLAR KANUNU",
+            "TÜRK İŞ KANUNU"
+        ]
+    },
+    "summary_for_human": "Davacı şirketi, davacı şirketin web sitelerinde ve sosyal medyada markayı kullanmasının haksız rekabet oluşturduğunu iddia ediyor. Mahkeme, davacı şirketin markayı kullanma hakının olmadığını ve bu kullanımların haksız rekabet oluşturduğunu karar verdi.",
+    "summary_for_model": "Davacı şirketi, davacı şirketin web sitelerinde ve sosyal medyada markayı kullanmasının haksız rekabet oluşturduğunu iddia ediyor. Mahkeme, davacı şirketin markayı kullanma hakının olmadığını ve bu kullanımların haksız rekabet oluşturduğunu karar verdi. Davacı şirkete maddi tazminat verilmelidir."
+}

@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2021_474.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2021/474",
+        "karar_no": "2023/53",
+        "case_subject": "Marka (Tecavüzün Tesbiti İstemi)",
+        "dava_tarihi": "21/02/2019",
+        "karar_tarihi": "18/01/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalların Facebook ve Twitter hesaplarında müvekkiline ait markayı kullanarak hak ihlali yaptıklarını iddia etmiştir. Davalların hesapların kullanıcısı olarak tanımlanması ve markanın kötüye kullanılması iddia edilmiştir.",
+        "reasoning_text": "İlk derece mahkemesi, davalların davacı adına tescil edilmiş hesapları kullanmakla suçlandığını ancak hesapların kim tarafından yönetildiğini tespit edemediğini belirtmiştir. İkinci derece mahkemesi, davalların davacı adına tescil edilmiş hesapları kullanmakla suçlandığını ve bu durumun hak ihlali olarak değerlendirildiğini kararlaştırmıştır.",
+        "verdict_text": "Davalların davacı adına tescil edilmiş hesapları kullanmakla suçlandıkları için davanın reddine karar verilmiştir. Davalların davacı adına tescil edilmiş hesapları kullanmakla suçlandıkları için davanın reddine karar verilmiştir. Davalların davacı adına tescil edilmiş hesapları kullanmakla suçlandıkları için davanın reddine karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK) 355. madde",
+            "Türk Patent Kurumu 37. sınıfi",
+            "Türk Ticaret Kanunu (TTK) 54-63. maddeler",
+            "TTK 55/1-a-1 ve TTK 55/1-a-4",
+            "HMK 361. madde"
+        ]
+    },
+    "summary_for_human": "Davacı, davalların Facebook ve Twitter hesaplarında markasını kötüye kullandığını iddia etmiştir. İlk derece mahkemesi hesapların kim tarafından yönetildiğini tespit edemediği için davayı reddetmiştir. İkinci derece mahkemesi ise davalların davacı adına tescil edilmiş hesapları kullanmakla suçlandığını kararlaştırmıştır.",
+    "summary_for_model": "Dava, davalların Facebook ve Twitter hesaplarında davacı adına tescil edilmiş hesapları kullanarak markayı kötüye kullandığı iddiasına dayanmaktadır. İlk derece mahkemesi hesapların kim tarafından yönetildiğini tespit edemediği için davayı reddetmiştir. İkinci derece mahkemesi ise davalların davacı adına tescil edilmiş hesapları kullanmakla suçlandığını kararlaştırmıştır."
+}

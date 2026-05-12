@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2020_678.pdf",
+        "court_name": "T.C. İSTANBUL 21. AŞLİYE TİCARET MAHKEMESİ",
+        "esas_no": "2020/678 Esas",
+        "karar_no": "2020/697",
+        "case_subject": "Tazminat (Şirket Yöneticilerinin Sorumluluğundan Kaynaklanan)",
+        "dava_tarihi": "21/12/2020",
+        "karar_tarihi": "31/12/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının şirketin %50 ortağı ve müdürlerinden biri olduğunu, şirketin işsiz hale getirildiğini ve dürüstlük kurallarına aykırı davranışlarda bulunduğunu iddia etmiştir. Şirketin sosyal medya hesaplarını değiştirdiği, müşterilere para iadesi yaptığı ve ikinci Instagram hesabını değiştirdiği belirtilmiştir.",
+        "reasoning_text": "Mahkeme, davaların birleştirilmesinin uygun olduğunu ve davaların aynı kişiler tarafından açıldığını tespit etmiştir. Davaların birleştirilmesinin usul ekonomisi gereği gerekli olduğunu ve mahkemede açılan davaların birleştirilmesine karar verildiğini belirtmiştir.",
+        "verdict_text": "1-Davacının işbu dava davasının, ... Aslıye Ticaret Mahkemesinin 2020/... Esas sayılı dosyasının 6100 sayılı HMK'nın 166. Maddesine uygun olarak fili ve hukuki irtibat bulunması nedeniyle BİRLLEŞTİRİLMESİNE ve mahkememizin işbu esasının birleştirilme nedeniyle kapatılmasına, yargılama ... Aslıye Ticaret Mahkemesinin 2020/... esas sayılı dosyası üzerinden devam olunmasına, 2-İşbu dava dosyasının ... Aslıye Ticaret Mahkemesinin 2020/... Esas sayılı dosya içerisine konulmasına, 3-Kararın ilgili mahkemeye derhal bildirilmesine, 4-Yargılama giderleri vesair ücretlerin anılan dosyada nazara alınmasına, Dair; dosya üzerinde yapılan inceleme sonucunda, nihai karar ile birlikte istinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 31/12/2020"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK'nın 166. Maddesi",
+            "5070 Sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davaların birleştirilmesinin uygun olduğunu ve davaların aynı kişiler tarafından açıldığını tespit etmiştir. Davaların birleştirilmesinin usul ekonomisi gereği gerekli olduğunu ve mahkemede açılan davaların birleştirilmesine karar verildiğini belirtmiştir.",
+    "summary_for_model": "Mahkeme, davaların birleştirilmesinin uygun olduğunu ve davaların aynı kişiler tarafından açıldığını tespit etmiştir. Davaların birleştirilmesinin usul ekonomisi gereği gerekli olduğunu ve mahkemede açılan davaların birleştirilmesine karar verildiğini belirtmiştir. 6100 sayılı HMK'nın 166. Maddesi ve 5070 Sayılı Kanun bahsedilmiştir."
+}

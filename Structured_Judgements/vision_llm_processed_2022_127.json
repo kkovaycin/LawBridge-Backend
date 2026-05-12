@@ -1,0 +1,21 @@
+{
+    "meta_data": {
+        "file_name": "2022_127.pdf",
+        "court_name": "T.C. İSTANBUL 3.FİKRİ VE SINAI HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2022/127",
+        "karar_no": "2022/97",
+        "case_subject": "Delil tesbiti ve ihtiyati tedbir kararı",
+        "dava_tarihi": "19/07/2022",
+        "karar_tarihi": "19/07/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının markasını kullanmak için çeşitli platformlarda (internet sitesi, sosyal medya hesapları vb.) davacıya ait markayı kullanmakta olduğunu iddia etmiştir. Davacı, bu durumun davasının haklarını ihlal ettiğini ve davalının markasını kullanan her türlü fiilin durdurulmasını talep etmiştir.",
+        "reasoning_text": "Mahkeme, davacının iddialarını kabul ederek, davalının markasını kullanmak için verilen delil ve ihtiyati tedbir kararının D.İ.S olarak açılması gerektiğini tespit etmiştir. Bu nedenle, davanın esas davası olarak açılması için mahkemeye tevzi edilmesi gerektiği kararlaştırılmıştır.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzerine\nTalevin, delil tesbiti ve ihtiyati tedbir karar verilmesine ilişkin olduğu, D.İ.S olarak açılması gerekirken esas dava olarak açılıp Mahkememize tevzi edildiği anlaşldığından, Mahkememizdeki esasın kapıtılmasına ve D.İ.S olarak açılmak üzerine dosyasının tevzi bürosuna iadesine,\nDair tarafların yokluğunda, dosya üzerinde yapılan inceleme sonrasında karar verildi. 19/07/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": []
+    },
+    "summary_for_human": "Davacı, davalının markasını kullanmakta olduğunu iddia ederek delil tesbiti ve ihtiyati tedbir talep etmiştir. Mahkeme, bu talebin esas dava olarak açılmasını kararlaştırıp, davayı D.İ.S olarak açılmasını talep etmiştir.",
+    "summary_for_model": "Davacı, davalının markasını kullanmakta olduğunu iddia ederek delil tesbiti ve ihtiyati tedbir talep etmiştir. Mahkeme, bu talebin esas dava olarak açılmasını kararlaştırıp, davayı D.İ.S olarak açılmasını talep etmiştir."
+}

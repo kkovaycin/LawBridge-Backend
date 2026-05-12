@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_89.pdf",
+        "court_name": "TC. ADANA BÖLGE ADLİYE MAHKEMESİ 5. HUKUK DAİRESİ",
+        "esas_no": "2023/89",
+        "karar_no": "2023/128",
+        "case_subject": "MENFİ TESPİT İSTİNAF YOLUNA",
+        "dava_tarihi": "22/11/2022",
+        "karar_tarihi": "12/01/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, Ticaret Limited Şirketi'ne karşı elektrik enerjisi verilmesinin durdurulmasını talep etmiştir. İlk derece mahkemesi, davacı vekilinin istinaf başvurusunu kabul etmiş ve davayı kaldırmıştır.",
+        "reasoning_text": "İstinaf mahkemesi, ilk derece mahkemesinin kararının Hukuk Muhakemeleri Kanunu 353/1-b(2) maddesine uygun olduğunu ve istinaf talebinin reddedildiğini kararlaştırmıştır. Davacı vekilinin taleplerinin kabul edilmediği ve dava sonucunun ilk derece mahkemesinde karar verildiği belirtilmiştir.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere;\n1-Davacı tarafın istinaf başvurusunun KABULÜ İLE; ilk Derece Mahkemesinin 22/11/2022 tarihli ara kararının Hukuk Muhakemeleri Kanunu 353/1-b(2) maddesi gereğince KALDIRILARAK (DÜZELTİLEREK); ihtiyati tedbir talebi hakkında aşağıdaki hükmün kurulmasına;\nA) Davacı tarafın ihtiyati tedbir talebinin KABULÜ İLE; Davacı tarafından takdiren kacak tahakkuk bedeli olan 11.182.916,27-TL'nin %15'i olan 1.677.437,44-TL nakdi teminat yatırıldığında veya kesin banka teminat mektubu sunulduğunda ... (trafo ve sayacıksız olan için geçici sanal tesisat no...) tesisat numaralı davacı elektrik abonesinin kullanındaki sayaca TEDBİREN ELEKTİRİK ENERJİSİNİN VERİLMESİNE,\nB) Elektrik enerjisinin verilmesinden sonraki faturaların ödenmemesi halinde davalı şirketin elektriği kesme hakkının bakı kalmasına,\n2-Davacı istinaf eden tarafından yatırılan 80.70-TL. Maktu istinaf karar harcının talep halinde istinaf istemde bulunanana iadesine,\n3-İhtiyati tedbir talep edeninin istinafta yaptığı masrafların asıl dava sonucunda haklılık durumuna göre ilk Derece Mahkemesinde değerlendirilmesine,\n4-İstinaf kararının tebliği, teminat alınması, infaz yazışmaları ve diğer usuli işlemlerin İlk Derece Mahkemesinde yerine getirilmesine\nDair, dosya üzerinde yapılan inceleme sonunda Hukuk Muhakemeleri Kanunu 362/1-f maddesi gereğince KESİN olmak üzere oy birliği karar verildi. 12/01/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu 389",
+            "Hukuk Muhakemeleri Kanunu 355",
+            "Hukuk Muhakemeleri Kanunu 353/1-b(2)",
+            "Hukuk Muhakemeleri Kanunu 362/1-f"
+        ]
+    },
+    "summary_for_human": "Davacı, Ticaret Limited Şirketi'ne karşı elektrik enerjisi verilmesinin durdurulmasını talep etti. İlk derece mahkemesi davayı kaldırdı ve istinaf talebini kabul etti. İstinaf mahkemesi de ilk derece kararını onayladı.",
+    "summary_for_model": "Davacı, elektrik enerjisi verilmesinin durdurulmasını talep etti. İlk derece mahkemesi ve istinaf mahkemesi, davayı kaldırdı ve istinaf talebini kabul etmedi. Hukuk Muhakemeleri Kanunu 353/1-b(2) ve 362/1-f maddeleri uygulanmıştır."
+}

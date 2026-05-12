@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2025_487.pdf",
+        "court_name": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2025/487",
+        "karar_no": "2025/676",
+        "case_subject": "İhtiyatı Tedbir",
+        "dava_tarihi": "11/02/2025",
+        "karar_tarihi": "30/04/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekili tarafından tescil edilmiş markaları kullanan davalı şirketin ticari faaliyetlerini engellemek için itibar ve hak ihlali iddiasıyla dava açmıştır. Davalı, markaların tescil tarihinden önceki ticari faaliyetlerini ve hak sahipliği iddiasını reddetmiştir.",
+        "reasoning_text": "Mahkeme, davacı vekilinin markaları kullanan davalı şirketin ticari faaliyetlerini engellemek için itibar ve hak ihlali iddiasını kabul etmiştir. Davalı vekilinin itirazı reddedilmiş ve itibar tedbirinin kısmen kabulüne karar verilmiştir.",
+        "verdict_text": "Mahkemenin 11/12/2024 tarihli \"İhtiyatı Tedbir talebinin kısmen kabulü\"kararına karşı taraf vekilleri tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESAS TAN REDDİNE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gereken 615,40 TL istinaf kararı harcı tarafılara peşin yatırıldığından yeniden harç alınmasına yer olmadığına, 3-Taraflarca istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, 4-İncelemenin duruşmasız olarak yapılması sebebiyle taraflar yararına vekalet ücreti tayinine yer olmadığına, 5-Taraflarca yatırılan gider avansından harçnamayan kısım karar kesinleştiğinde iaadesine, 6-Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iaadesi işlemlerinin İlk derece Mahkemesince yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362(1-f). ve 394(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 159/2-c",
+            "7251 sayılı Kanun",
+            "6100 Sayılı HMK",
+            "492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi, davacı vekilinin markaları kullanan davalı şirketin ticari faaliyetlerini engellemek için itibar ve hak ihlali iddiasını kabul etmiştir. Davalı vekilinin itirazı reddedilmiş ve itibar tedbirinin kısmen kabulüne karar verilmiştir.",
+    "summary_for_model": "Mahkeme, davacı vekilinin markaları kullanan davalı şirketin ticari faaliyetlerini engellemek için itibar ve hak ihlali iddiasını kabul etmiştir. Davalı vekilinin itirazı reddedilmiş ve itibar tedbirinin kısmen kabulüne karar verilmiştir. Karar, 6100 Sayılı HMK'nın 353/1-b/1. maddesi ve diğer kanunlara dayanarak verilmiştir."
+}

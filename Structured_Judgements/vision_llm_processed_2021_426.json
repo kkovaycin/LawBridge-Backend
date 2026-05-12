@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_426.pdf",
+        "court_name": "İstanbul 3. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/426",
+        "karar_no": "2022/39",
+        "case_subject": "Haksız rekabet davası",
+        "dava_tarihi": "21/07/2020",
+        "karar_tarihi": "18/04/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacılar, müvekkillerinin COVID-19 pandemisi sırasında Ar-Ge çalışmalarıyla virüsün etkisiz hale getirmek için bir teknoloji geliştirdiğini iddia etmiştir. Bu teknoloji, insan sağlığına zarar vermeden virüsleri etkisiz hale getirmektedir. Davacılar, bu teknolojinin patent başvurularının gizli olduğu ve müvekkillerin bu bilgileri kamuya açık hale getirdiğini iddia etmektedir.",
+        "reasoning_text": "Mahkeme, dava konusu hak sahipliği ve hak ihlali iddialarını değerlendirmiştir. Davacılar, müvekkillerinin patent hak sahipliği iddiasını destekleyemediği için dava reddedilmiştir. Ayrıca, dava konusu hak ihlali iddiaları da reddedilmiştir.",
+        "verdict_text": "HÜKÜM: Gereğeceği yukarıda açıklanmış üzere; 1-SULH NEDENİ İLE DAVA KONUSUZ KALDIĞINDAN, KARAR VERİLMESİNE YER OLMADIĞINA, 2-Taraflar vekalet ücreti ve yargılama giderleri taleplerinden, bu hususta karar verilmesine yer olmadığına, 3-80,70 TL ilam harcından peşin harcin mahsubu ile eksik kalan 26,30-TL harcin davacılardan tahsiline, 4-Tarafların yapmış olduğu yargılama giderlerinin üzerlerinde bırakılmasına 5-Taraflarca fazla yatırılan gider avansının karar kesinleştiğinde ve talepleri halinde iaadesine, Dair taraf vekillerinin yokluğunda, gerekeli kararın tebliğiinden itibaren 2 haftalık süre içinde İSTANAF YASA yolu açık olmak üzere karar verildi. 18/04/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 59. madde",
+            "HMK 313. madde",
+            "İSTANAF YASA"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacıların müvekkillerinin COVID-19 virüsüne karşı bir teknoloji geliştirdiği iddiasını reddetmiştir. Davacılar, bu teknolojinin patent hak sahipliği iddiasını destekleyemediği için dava reddedilmiştir. Ayrıca, dava konusu hak ihlali iddiaları da reddedilmiştir.",
+    "summary_for_model": "Mahkeme, dava konusu hak sahipliği ve hak ihlali iddialarını değerlendirmiştir. Davacılar, müvekkillerinin patent hak sahipliği iddiasını destekleyemediği için dava reddedilmiştir. Ayrıca, dava konusu hak ihlali iddiaları da reddedilmiştir. Mahkeme, dava konusu hak ihlali iddialarını reddetmiştir."
+}

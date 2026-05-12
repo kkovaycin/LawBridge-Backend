@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2018_2382.pdf",
+        "court_name": "İSTANBUL BÖLGE ADLİYE MAHKEMESİ 16. HUKUK DAİRESİ",
+        "esas_no": "2018/2382",
+        "karar_no": "2018/1667",
+        "case_subject": "Fikir Ve Sanat Eseri (Maddi Tazminat İstemli, Fikir Ve Sanat Eseri (Manevi Tazminat İstemli))",
+        "dava_tarihi": "16/07/2018",
+        "karar_tarihi": "16/07/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacılar vekili, davalların müvekkillerinden fotoğraf çekimi ve yayınlaması ile ilgili iddialarını savunmuştur. Davallar, müvekkillerinin davacının izni olmadan fotoğraf ve görselleri yayınladığını iddia etmiştir. Davacılar, davalların müvekkillerinin ve oğlunun ad ve fotoğraflarını izinsiz olarak reklam ve tanıtımda kullandığını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davaların istinaf incelemesi için gönderildiğini ve HMK 353 ve 356 maddeleri uyarınca duruşma yapılması gerektiğini belirtmiştir. Davaların incelenmesi sonucunda, davaların reddi kararı verilmiştir.",
+        "verdict_text": "İstanbul 1.Fıkrî ve Sınai Haklar Hukuk Mahkemesi tarafından verilen kararın istinaf incelemesi için gönderildiği ve HMK 353/1-b-1 maddesi uyarınca istinaf istemi reddedildiği, ayrıca istinaf incelemesi duruşmasız yapıldığı ve istinaf yargılama giderlerinin istinafa gelen davallara bırakıldığı belirtilmiştir. Karar, 16/07/2018 tarihinde oybirliği ile kesin olarak verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 356",
+            "TMK 24 ve 25 maddeleri",
+            "6100 sayılı HMK",
+            "Anayasaya ve Türk Ceza Kanununa aykırı olduğu iddia edilen maddeler"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir kişinin fotoğraf ve görsellerinin izinsiz olarak reklam ve tanıtımda kullanılmasına karşı açılmıştır. Davacılar, davalların müvekkillerinin ve oğlunun ad ve fotoğraflarını izinsiz olarak yayınladığını iddia etmiştir. Mahkeme, davaların istinaf incelemesi için gönderildiğini ve HMK 353 ve 356 maddeleri uyarınca duruşma yapılması gerektiğini belirtmiştir. Davaların incelenmesi sonucunda, davaların reddi kararı verilmiştir. Karar, 16/07/2018 tarihinde oybirliği ile kesin olarak verilmiştir.",
+    "summary_for_model": "Dava, davacılar tarafından davalların müvekkillerinden fotoğraf çekimi ve yayınlaması ile ilgili iddialarını savunması üzerine açılmıştır. Davallar, müvekkillerinin davacının izni olmadan fotoğraf ve görselleri yayınladığını iddia etmiştir. Mahkeme, HMK 353 ve 356 maddeleri uyarınca duruşma yapılması gerektiğini belirtmiş ve davaların istinaf incelemesi için gönderilmiştir. Davaların incelenmesi sonucunda, davaların reddi kararı verilmiştir. Karar, 16/07/2018 tarihinde oybirliği ile kesin olarak verilmiştir. Davaların istinaf istemi reddedilmiş ve istinaf yargılama giderleri istinafa gelen davallara bırakılmıştır."
+}

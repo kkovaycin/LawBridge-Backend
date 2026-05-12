@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2023_750.pdf",
+        "court_name": "İstanbul Anadolu 2. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2023/750",
+        "karar_no": "2023/956",
+        "case_subject": "Marka (Tecavüzün Giderilmesi İstemi)",
+        "dava_tarihi": "22/06/2023",
+        "karar_tarihi": "22/06/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının markasını kullanmak için yetkili olmadığını iddia ediyor. Davalının internet siteleri ve sosyal medya hesaplarında markayı kullanması, markanın tecavüzüne yol açtığı iddia edilmektedir. İlk derece mahkemesi, davalının markayı kullanmasının mevcut delil durumuna göre değerlendirilmediğini ve ihityati tedbir kararı verilmediğini tespit etmiştir.",
+        "reasoning_text": "Mahkeme, davalının markayı kullanmasının mevcut delil durumuna göre değerlendirilmediğini ve ihityati tedbir kararı verilmediğini tespit etmiştir. Ayrıca, davalının markayı kullanmasının markanın tecavüzüne yol açtığı iddiasının kanıtlanmadığını ve davalının markayı kullanmasının mevcut delil durumuna göre değerlendirilmediğini belirtmiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlere; 1-Davacı vekilinin istinaf talebinin KABULÜNE, 2-İstanbul Anadolu 2.Fıkri ve Sınai Haklar Hukuk Mahkemesi'nin 28/03/2023 tarih ve 2023/31 Esas sayılı ara KALDIRILMASINA, 3-Yukarıda gerekçede belirtildiği şekilde bir karar verilmek üzere dosyanın ilk derece mahkemesine İADESİNE, 4-İstinaf peşin harcının talebi halinde davacıya iadesine, 5-İstinaf aşamasında davacı tarafından yapılan yargılama gideri olan 492,00 TL istinaf yoluna başvurma harci ile 82,00 TL posta ve tebligat masrafı olmak üzere toplam 574,00 TL'nin davaldan alınarak davacıya verilmesine, 6-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dosya üzerinden yapılan inceleme sonucu oy birliği ile HMK'nun 362/1-f maddesi uyarınca kesin olarak karar verildi:22/06/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK) 355",
+            "Hukuk Muhakemeleri Kanunu (HMK) 362/1-f"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markasını kullanmak için yetkili olmadığını iddia ediyor. İlk derece mahkemesi, davalının markayı kullanmasının mevcut delil durumuna göre değerlendirilmediğini ve ihityati tedbir kararı verilmediğini tespit etmiştir. İstinaf talebi kabul edilmiş ve ilk derece mahkemesi kararı kaldırılmıştır.",
+    "summary_for_model": "Davacı, davalının markasını kullanmak için yetkili olmadığını iddia ediyor. İlk derece mahkemesi, davalının markayı kullanmasının mevcut delil durumuna göre değerlendirilmediğini ve ihityati tedbir kararı verilmediğini tespit etmiştir. İstinaf talebi kabul edilmiş ve ilk derece mahkemesi kararı kaldırılmıştır. Davalının markayı kullanmasının markanın tecavüzüne yol açtığı iddiasının kanıtlanmadığı belirtilmiştir."
+}

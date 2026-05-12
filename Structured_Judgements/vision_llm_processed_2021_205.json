@@ -1,0 +1,31 @@
+{
+  "meta_data": {
+    "file_name": "2021_205.pdf",
+    "court_name": "ANKARA 4. FİKRİ VE SINAÎ HAKLAR HUKUK MAHKEMESİ",
+    "esas_no": "2021/205",
+    "karar_no": "2022/42",
+    "case_subject": "Marka Hakkına Tecavüz, Haksız Rekabet, Men, Ref ve Unvan Terkini",
+    "dava_tarihi": "12/07/2021",
+    "karar_tarihi": "14/02/2022"
+  },
+  "rrl_segments": {
+    "facts_text": "ÖZET: Tanınmış bir holding (davacı), '...' ibaresini esas unsur olarak kullanan ve yeni kurulan bir ilaç firmasına (davalı) karşı dava açmıştır. Davacı, '...' markasının kendisine ait olduğunu ve davalının unvan/logosunda bunu kullanarak iltibas yarattığını iddia etmiştir. Davalı, farklı sektörlerde olduklarını (İlaç vs. İnşaat/Enerji) ve logolarının benzeşmediğini savunmuştur.",
+    "reasoning_text": "ÖZET: Bilirkişi raporuna göre, '...' ibaresi davacı holding ile özdeşleşmiş ve ayırt edici gücü yüksektir. Davalının farklı sektörde olsa bile holding çatısı altında faaliyet gösteren bir şirket algısı yarattığı (iltibas) tespit edilmiştir. TTK 52 ve SMK hükümleri uyarınca, davalının ticaret unvanındaki '...' ibaresinin kullanımı haksız rekabet ve marka tecavüzü oluşturmaktadır.",
+    "verdict_text": "Davanın KABULÜNE, marka tecavüzünün tespitine, men'ine ve davalı ticaret unvanındaki '...' ibaresinin TERKİNİNE karar verilmiştir."
+  },
+  "structural_features": {
+    "mentioned_laws": [
+      "SMK Madde 29",
+      "SMK Madde 7",
+      "SMK Madde 19",
+      "TTK Madde 52",
+      "TTK Madde 54",
+      "TTK Madde 55",
+      "SMK Madde 7/3-e",
+      "TTK Madde 50",
+      "TTK Madde 45"
+    ]
+  },
+  "summary_for_human": "Büyük bir holding, kendi adını kullanan yeni bir ilaç firmasına dava açmış. İlaç firması 'bizim sektörümüz farklı' dese de mahkeme, holdingin çok ünlü olduğunu ve vatandaşın bu ilaç firmasını da holdingin bir parçası sanabileceğini (karıştırılma ihtimali) belirterek ilaç firmasının bu ismi kullanmasını yasaklamış ve adını değiştirmesine karar vermiş.",
+  "summary_for_model": "Dava, tanınmış marka statüsündeki '...' ibaresinin ticaret unvanı ve marka olarak haksız kullanımı iddiasına ilişkindir. Mahkeme, SMK 7/3-e ve TTK 52 uyarınca, tarafların faaliyet alanları farklı olsa bile davacı markasının yüksek ayırt ediciliği ve holding yapısı nedeniyle iltibas tehlikesi (associative confusion) oluştuğuna kanaat getirmiştir. Marka tecavüzü ve haksız rekabet tespit edilerek unvan terkini hükmü kurulmuştur."
+}

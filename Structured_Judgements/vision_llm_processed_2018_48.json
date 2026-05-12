@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2018_48.pdf",
+        "court_name": "İzmir 1. Asliye Ticaret Mahkemesi",
+        "esas_no": "2018/48 Esas",
+        "karar_no": "2018/19",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "11/01/2018",
+        "karar_tarihi": "15/01/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; Müvekkil şirket ile davalının yetkilisi olduğu Taşımacılık ve Turizm San. Ve Tic. A.Ş arasında düzenlenen hizmet sözleşmesi gereğince plakalı araçların kiralanması, kiralanan plakalı iki adet aracın sözleşmenin 5.maddesinin 3.bendinde kararlaştırılan hükümlere aykırı olarak Taşımacılık ve Turizm San. ve Tic. A.Ş yetkilileri tarafından üniversitesinin kullanımına iken OHAL kapsamında araçlara el konulduğunu ve araçların halen teslim alınmadığını, araçların ne sebeple kullanıldığı hususlarının müvekkil şirket tarafından bilinmediğini gibi araçların üçüncü şahıslara kullandırılmasına yönelik müvekkil şirketten izin alınmadığını söyleme maddesine aykırı olarak şüpheliarın araçları üniversitesinin kullanımına tahsis ettiklerini vs belirterek maddi tazminata ilişkin taleplerinde fazlaya ilişkin hakları saklı kalmak üzere şimdilik 5.000,00TL maddi ve 10.000,00TL manevi tazminatin dava tarihinden itibaren yasal faizi ile birlikte davalardan tahsiline, yargılama giderleri ile vekalet ücretinin davalar üzerinde bırakılmasına karar verilmesini talep etmiştir.",
+        "reasoning_text": "Davalının Twitter ve Facebook'daki paylaşımlarında davacının kurumsal kimliğine ve saygınlığına, ekonomik itibarına saldırdığından bahisle haksız fiile dayalı fazlaya ilişkin hakları saklı kalmak kaydı ile 5.000,00 TL maddi ve 10.000,00 TL manevi tazminatin tahsiline yönelik açılan işbu davanın TTK 4 ve devamı maddeleri kapsamında ticari dava olmadığı, bu nedenle mahkememizin görevli olmadığı, görevli mahkemenin Asliye Hukuk Mahkemesi olduğu, görev hususu kamu düzenine ilişkin olup, resen incelenmesi gerektiğinden ve dava şartı niteliğinde olduğundan mahkememizin görevsizliği nedeniyle aşağıdağı karar verilmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle:\n1-Asliye Hukuk Mahkemeleri görevli olduğundan Mahkememizin görevsizliği nedeniyle dava şartı yokluğundan davanın usulden reddine,\n2-Karar kanun yoluna başvurulmadan kesinleşmiş ise kesinleşme tarihinden itibaren 2 hafta içinde, kanun yoluna başvurulursa bu başvurunun reddi kararının tebliği tarihinden itibaren 2 hafta içinde gönderilme talebinde bulunulduğu takdirde dava dosyasının görevli İzmir Asliye Hukuk Mahkemelerine gönderilmesine,\n3-Yargılama giderlerinin ve vekalet ücretinin görevli mahkemeye nazara alınmasına,\nİlişkin tebliği itibaren iki haftalık süre içinde İstinaf yolu açık olmak üzere dosya üzerinde yapılan inceleme sonunda karar verildi, 15/01/2018"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 4 ve devamı maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının sosyal medyada kurumsal imajını zedelediğini iddia ederek maddi ve manevi tazminat talep etmiştir. Mahkeme, davanın ticari dava olmadığı ve görevli mahkemenin Asliye Hukuk Mahkemesi olduğu için davayı reddetmiştir.",
+    "summary_for_model": "Davacı, davalının sosyal medya paylaşımları nedeniyle kurumsal imaj ve saygınlık ihlalini iddia ederek maddi ve manevi tazminat talep etmiştir. Mahkeme, davanın ticari dava olmadığı ve görevli mahkemenin Asliye Hukuk Mahkemesi olduğu için davayı reddetmiştir. TTK 4 ve devamı maddeleri davaya ilişkin olarak bahsedilmiştir."
+}

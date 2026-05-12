@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2021_1946.pdf",
+        "court_name": "İstanbul Anadolu 2. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2017/1244 E - 2021/730 K",
+        "karar_no": "2025/175",
+        "case_subject": "Tazminat davası (Haksız rekabetten kaynaklanan maddi ve manevi tazminat istemi)",
+        "dava_tarihi": "22/06/2021",
+        "karar_tarihi": "06/02/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, dava dilekçesinde özetle; davalının 14/02/2017 tarihinde müvekkili şirkette ihalat ihracat sorumlusu olarak işe başladığını, 21/09/2017 tarihinde iş akdinin müvekkili tarafından haklı nedene feshedildiğini, davalının kendi ismi ile kullanmakta olduğu facebook hesabından müvekkili adına marka tescilli pergotech ürünüyle ilgili hizmet ilişkisinde kendisine iş kapsamında yaptırılan potansiyel müşteri portföyünü satışa sunduğunu, bu hususta davalı hakksız olduğu iddia edildi. Davalı vekili, savunmasında özetle; davacı şirkette 14/02/2017 tarihinde pazarlamaçı olarak işe başladığını, yıllarca çalışa neticesinde portföy oluşturduğunu, davacı firmanın fazla müşterisi olmadığını, 21/09/2017 tarihinde haklı bir neden olaksızın iş akdinin son verildiğini, facebook ve whatsapp yazışmalarında herhangi bir zarar doğurucu faaliyet olmadığını, herhangi bir satış yapılmadığını, kazancı elde etmediğini, ticari sırların paylaşılmadığını, kendisine ait müşteri portföyünde davacı şirketin herhangi bir hakkı olmadığını savunarak; davanın haksız olduğu iddia edildi.",
+        "reasoning_text": "İlk derece mahkemesinde yapılan yargılama sonucunda; davacı tarafından davalı yanın müşteri bilgilerini ifşa ederek haksız rekabette bulunduğu nedeniyle uğranılan maddi ve manevi tazminat istemde bulunduğu; davalı tarafından davanın reddinin talep edildiği görülmüştür. Maddi tazminat istemi bakımından; davacı vekilince 09/07/2018 tarihinde sunulan dilekçe ile maddi tazminat isteme ile ilgili davanın geri alındığı bildirildiği, davalı tarafından da 08/11/2018 tarihli celsede geri alma istemininin kabul edildiği anlaşılmakla; HMK md. 123 hükmü uyarınca, maddi tazminat istemi yönünden davanın açılmamış sayılmasına karar verilmiştir. Manevi tazminat istemi bakımından ise; davalı sahıs davacı şirkette çalışması sırasında elde ettiği müşteri portföyünün TTK md. 55/1-d kapsamında iş sırrı olarak değerlendirilmesi gerektiği, dosya kapsamında alınan bilirkişi raporları ile müşteri listelerinin üçüncü kişilerle paylaşılmış olduğuna dair somut bir delil olmadığından haksız rekabet koşullarının oluşmadığı belirtilmiş ise de, davalı tarafından facebook sitesinde verilen ilan ile müşteri portföyünün satışa çıkarıldığı, anılan ilanların davalı tarafından inkâr edildiği, her ne kadar müşteri portföyünün üçüncü kişilerin eline geçtiğine dair herhangi bir dair dosyada somut bir delil bulunmasa da, davalı yanın paylaşımının dürüstlük kurallarına aykırı olduğu, haksız rekabetin oluşması için zararın meydana gelmesinin zorunlu olmadığı, zarar tehlikesinin varlığının yeterli olduğu, tarafların sosyal ve ekonomik durumları, ülkenin ekonomik koşulları, paranın satın alma gücü, filin ağır ve sıkıntılı değerlendirilerek manevi tazminat istemi kabulüne karar verilmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle; 1-HMK'nın 353/1.b.1 maddesi uyarınca, davalı vekilinin istinaf başvurusunun esastan reddine dair aşağıdaki hükmü verilmiştir. 2-Davalı tarafından yatırılan istinaf başvuru ve peşin karar harçlarının Hazineye gelir kaydına; bakiye 256,16 TL istinaf karar harcının davaldan tahsiline, Hazineye gelir kaydına, 3-Davalı tarafından yapılan kanun yolu giderlerinin kendi üzerinde bırakılmasına, 4-Gerekçeli kararın ilk derece mahkemesine taraflara tebliğine, 5-Dosyanın, karar veren ilk derece mahkemesine gönderilmesine dair; HMK'nın 353/1.b.1 maddesi uyarınca dosya üzerinden yapılan istinaf incelemesi sonucunda, 06.02.2025 tarihinde, oy birliğiyle ve kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK md. 55/1-d",
+            "TTK md. 55/2-d",
+            "TTK md. 56/1-e",
+            "TBK md. 58",
+            "HMK md. 123",
+            "HMK md. 353/1.b.1"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının Facebook hesabından müşteri bilgilerini ifşa ederek haksız rekabet yaptığını iddia ediyor. İlk mahkeme, maddi tazminat davasını reddetse de, manevi tazminat davasını kabul etti. İstinaf mahkemesi, davalı vekilinin istinaf başvurusunu reddetti.",
+    "summary_for_model": "Davacı, davalının Facebook hesabından müşteri bilgilerini ifşa ederek haksız rekabet yaptığını iddia ediyor. İlk mahkeme, maddi tazminat davasını reddetse de, manevi tazminat davasını kabul etti. İstinaf mahkemesi, davalı vekilinin istinaf başvurusunu reddetti. Davalı, davacı şirketin eski çalışan olarak Facebook üzerinden müşteri portföyünü sattığını iddia ediyor."
+}

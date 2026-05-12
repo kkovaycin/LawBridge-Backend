@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2018_2177.pdf",
+        "court_name": "İSTANBUL BÖLGE ADLİYE MAHKEMESİ 16. HUKUK DAİRESİ TÜRKİLLİTADINA İSTİNAFKARARI",
+        "esas_no": "2018/2177 Esas",
+        "karar_no": "2018/1671",
+        "case_subject": "Marka (Tecavüzün Tesbiti İstemli)",
+        "dava_tarihi": "08/05/2018",
+        "karar_tarihi": "16/07/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacılar, davalların müzik grubunu kurduklarını ve 2014'te ayrılma kararı verdiklerini iddia ettiler. Davalların grubun markasını kendi adlarına kullanmaya devam etmesi ve sosyal medyada resmi olarak davalların adını kullanması iddia edildi. Davacılar, grubun markasının 4 kişiden oluşan adı olarak kullanılması gerektiğini iddia ettiler. Davacılar, grubun markasını kendileri adına kullanmanın yasal olarak mümkün olduğunu iddia ettiler.",
+        "reasoning_text": "Mahkeme, davacı vekilinin istinaf talebini reddetti. Davacılar, davalların grubun markasını kullanma haklarına sahip olduklarını iddia ettiler. Mahkeme, davacıların grubun markasını kullanma hakları olmadığını ve grubun markasının 4 kişiden oluşan adı olarak kullanılması gerektiğini karar verdi.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan gerekçelerle, davacı vekilinin yerinde görülmeyen istinaf isteminin, 6100 sayılı HMK'nın 353/1-b-1 maddesi gereğince REDDİNE, -Harç peşin alındığından yeniden harç alınmasına yer olmadığına, -İstinaf incelemesi duruşmasız yapıldığından avukatlık ücreti takdirine yer olmadığına, -İstinaf yargılama giderlerinin davacılar üzerlerinde bırakılmasına, -Artan gider avanslarının karar kesinleştiğinde ve talep halinde taraflara iadesine, dair, dosya üzerinde yapılan inceleme sonucu 16/07/2018 tarihinde oy birliği ile kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK'nın 353/1-b-1 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacılar, davalların müzik grubunun markasını kendi adlarına kullanmaya devam etmesini iddia etti. Mahkeme, davacıların grubun markasını kullanma hakları olmadığını ve grubun markasının 4 kişiden oluşan adı olarak kullanılması gerektiğini karar verdi.",
+    "summary_for_model": "Davacılar, davalların müzik grubunun markasını kendi adlarına kullanmaya devam etmesini iddia etti. Mahkeme, davacıların grubun markasını kullanma hakları olmadığını ve grubun markasının 4 kişiden oluşan adı olarak kullanılması gerektiğini karar verdi. Davacı vekilinin istinaf talebi reddedildi."
+}

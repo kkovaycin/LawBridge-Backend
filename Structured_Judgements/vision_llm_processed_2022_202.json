@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2022_202.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLIYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2022/202",
+        "karar_no": "2023/169",
+        "case_subject": "Haksız Rekabetten Kaynaklanan Tazminat",
+        "dava_tarihi": "08/07/2021",
+        "karar_tarihi": "09/03/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekili aracılığıyla davayı açtı. Davacı, vekilinin BTKY kararının gereği olarak davaya ait web sitesi ve Twitter hesabının engellenmesini talep etti. Davacı, vekilinin davaya ait web sitesi ve Twitter hesabının hak ihlali olduğunu iddia etti.",
+        "reasoning_text": "İlk derece mahkemesi, davacı vekilinin talebini reddetti. İkinci derece mahkemesi, ilk derece mahkemesi kararının kaldırılmasına karar verdi. İkinci derece mahkemesi, davacı vekilinin talebinin haklı olmadığını ve davacı vekilinin davaya ait web sitesi ve Twitter hesabının engellenmesini talep etmesinin gereksiz olduğunu tespit etti.",
+        "verdict_text": "HÜKÜM: Gereçleri yukarıda belirtilmiş üzere; 1-HMK'nın 353/1-a-6. maddesi gereğince taraf vekillerinin istinaf itirazlarının KABÜLÜ ile, Ankara 2. Fikri ve Sınai Haklar Hukuk Mahkemesince verilen 08/07/2021 tarih ve 2019/371 E. - 2021/266 K. sayılı kararının KALDIRILMASINA, 2-Dosyanın, davanın yeniden görülmesi için mahkemesine İADESİNE, 3-Taraf vekillerinin diğer istinaf itirazlarının bu aşamada incelenmesine yer olmadığına, 4-Asil davada davalı ve birleşen davada davalı tarafından ayrı ayrı yatırılan 118,42 TL nispî istinaf karar ve ilam harçının istekte anılan davalılara ayrı ayrı iadesine, 5-İstinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına, 6-İstinaf aşamasında yapılan yargılama giderlerinin ilk derece mahkemesinde yapılacak yargılama da değerlendirilmesine, 7-Kararın tebliği ve harç işlemlerinin yerel mahkeme tarafından yapılmasına, Dosya üzerinde yapılan inceleme sonucunda oybirliği ile 16/02/2023 tarihinde HMK 353/1-a-6 maddesi uyarınca KESİN olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hukuk Muhakemeleri Kanunu",
+            "6098 sayılı Kanun",
+            "TTK'nın 56. maddesi",
+            "HMK'nın 353/1-a-6. maddesi",
+            "HMK'nın 341. vd. maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, vekilinin davaya ait web sitesi ve Twitter hesabının engellenmesini talep etti. İkinci derece mahkemesi, ilk derece mahkemesi kararının kaldırılmasına karar verdi. İkinci derece mahkemesi, davacı vekilinin talebinin haklı olmadığını ve davacı vekilinin davaya ait web sitesi ve Twitter hesabının engellenmesini talep etmesinin gereksiz olduğunu tespit etti.",
+    "summary_for_model": "Davacı, vekilinin davaya ait web sitesi ve Twitter hesabının engellenmesini talep etti. İkinci derece mahkemesi, ilk derece mahkemesi kararının kaldırılmasına karar verdi. İkinci derece mahkemesi, davacı vekilinin talebinin haklı olmadığını ve davacı vekilinin davaya ait web sitesi ve Twitter hesabının engellenmesini talep etmesinin gereksiz olduğunu tespit etti. Davacı vekilinin talebinin reddedilmesi, davacı vekilinin davaya ait web sitesi ve Twitter hesabının engellenmesini talep etmesinin gereksiz olduğu tespiti ve davacı vekilinin talebinin haklı olmadığı tespiti ile sonuçlanmıştır."
+}

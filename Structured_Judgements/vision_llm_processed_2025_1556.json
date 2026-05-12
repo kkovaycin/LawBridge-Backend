@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2025_1556.pdf",
+        "court_name": "T.C. İSTANBUL BÖLGE ADLIYE MAHKEMESİ 12. HUKUK DAİRESİ",
+        "esas_no": "2025/344",
+        "karar_no": "2025/347",
+        "case_subject": "Taşınma ve ihyati tedbir talepleri",
+        "dava_tarihi": "24/10/2025",
+        "karar_tarihi": "24/10/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, ihyati tedbir talepleriyle taşınma ve ihyati tedbir taleplerini savunmuştür. Davacılar, ihyati tedbir taleplerini reddetmiştir. Davacılar vekili, istinaf başvurusuyla HMK'nun 353(1)b-1 maddesine dayanarak ES ASTAN REDDİNE,Alınması gereken 615,40-TL istinaf karşı harcının peşin yatırılan 1.230,80-TL harçtan mahsubu ile fazla alınan 615,40-TL harçi istekte bulunmuştur.",
+        "reasoning_text": "Hakemlik, ihyati tedbir taleplerinin reddedilmesine karar vermiştir. HKM 362(1)-f maddesine göre, dava içerisinde mevcut ve anlanan belgeler ve ihyati tedbir taleplerinin esasla ilişkili bir davada değerlendirilmesinin yerinde olduğunu saptayarak karara karar verilmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle: İhyati tedbir talep eden davacılar vekilinin istinaf başvurusu HKM'nun 353(1)b-1 maddesine uyarınca ES ASTAN REDDİNE,Alınması gereken 615,40-TL istinaf karşı harçının peşin yatırılan 1.230,80-TL harçtan mahsubu ile fazla alınan 615,40-TL harçi istekte halinde davacılara iağesine, Dosya üzerinde yapılan inceleme sonucunda HMK 362(1)-f maddesi uyarınca kesin olmak üzere oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMM 389",
+            "HMM 353(1)b-1",
+            "HMM 362(1)-f"
+        ]
+    },
+    "summary_for_human": "Davacılar, ihyati tedbir talepleriyle taşınma ve ihyati tedbir taleplerini savunmuştür. Mahkeme, talepleri reddetmiştir. Davacılar vekili, istinaf başvurusuyla harç taleplerini sunmuştur.",
+    "summary_for_model": "Hakemlik, ihyati tedbir taleplerini reddetmiştir. HKM 362(1)-f maddesine göre, dava içerisinde mevcut ve anlanan belgeler ve ihyati tedbir taleplerinin esasla ilişkili bir davada değerlendirilmesinin yerinde olduğunu saptayarak karara karar verilmiştir."
+}

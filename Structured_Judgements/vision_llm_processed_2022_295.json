@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2022_295.pdf",
+        "court_name": "Antalya Bölge Adlıye Mahkemesi Yedinci Hukuk Dairesi",
+        "esas_no": "İstinafkararı",
+        "karar_no": "25/10/2021",
+        "case_subject": "İstinat (Eser Sözleşmesi)",
+        "dava_tarihi": "25/10/2021",
+        "karar_tarihi": "30/04/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davacı yüklenici ile davalı iş sahibi arasında yapılan anlaşma neticesinde davacının 19.850,00 TL bedel karşılığında davalıya özel üretilecek avizenin montajının yapılması konusunda anlaşmaları, 7.500,00 TL peşinat ödemesi yapıldığını, geriye kalan 12.350,00 TL'nin ise avizelerin tamamı takıldıkdan sonra ödeneceğini kararlaştırıldığını, üretim ve montaj için 24/11/2018 tarihinde tamamlandığını, ancak davalının montaj tamamlandıktan sonra oturma grubu avizesinin normal pozisyonda göz ile görülemeyen, merdivenle çıkıp avizeye tepeden bakıldığında görülecek bir yerde kusur olduğu iddiasıyla avizeyi beğenmediğini ve bu avize değişmeden bakiye bedeli ödemeyeceğini beyan ettiğini, davalının beğenmediği avizenin toplam bedeli 5.000,00 TL olmasına rağmen 12.350,00 TL bakiye iş bedelinin ödenmemesinin davalının kötü niyetini gösterdiğini, davalının bakiye borcunu ödememekte israr etmesi üzerine, davacının davalıya borcu olmasa rağmen sırf alacağını tahsil edebilmek ve davalının beğenmediği parçanın değiştirilmesinin terminatı olmak üzere 12.350,00 TL bedelli senedi verdiğini, gerçek bir borç ikrarını içermeyen senedin davalı tarafından icra takibine konu edildiğini, toplam 16.391,72 TL'nin davacıdan tahsil edildiğini iddia ederek, davalı tarafından cebri icra yoluyla haksız olarak tahsil edilen 16.391,72 TL'nin ikinci haksız tahsilatının yapıldığı 25/10/2019 tarihinden itibaren işletilecek yasal faizi ile birlikte davalıdan tahsiline karar verilmesini talep ve dava etmiştir.",
+        "reasoning_text": "İlk derece mahkemesi, taraflar arasında düzenlenen avize satış sözleşmesine istinaden davalı tarafından 7.500,00 TL peşinatın davacıya ödendiğini, davalıya whatsapp yazışmaları yönünden meşruhatlı isticvap davetiyesi tebliğ edilmesine rağmen duruşmada hazır olmadığını, bu nedenle whatsapp yazışmalarının taraflar arasında gerçekleştiğinin kabulünün gerektiğini, whatsapp yazışmalarının HMK'nun 199. maddesi uyarınca belge olduğu, aynı kanunun HMK'nun 202. maddesinde, senetle ispat zorunluluğu bulunan hallerde delil başlangıcının bulunması halinde tank dinlenebileceğinin düzenlendiğini, bu kapsamda dinlenen davacı tanıklarının senetin terminat nedeni olduğunu beyan ettiklerini, gerek whatsapp yazışmalarının içeriğinden gerekse dinlenen davacı tanıklarının beyanından avize satış sözleşmesinden dolayı davacının bakiye alacağını tahsili için davaya konu terminat nedeninin davacı tarafından düzenlenip davalıya verildiğini, davacının davaya konu bono nedeniyle davalıya herhangi bir borcu olmadığını, Antalya 12. İcra Müdürlüğünün ... esas sayılı takip dosyasından dolayı davacının davalıya yapmış olduğu 16.391,72.-TL tutarındaki ödemenin talepe bağlı kalınarak son ödeme tarihinden itibaren işleyecek yasal faizi ile birlikte istiradına karar verildiği gerekçesiyle davanın kabulü ile, 16.391,72.-TL alacağıın 25/10/2019 tarihinden itibaren işleyecek faizi ile birlikte davalıdan alınarak davacıya verilmesine karar vermiştir.",
+        "verdict_text": "Davalı vekilinin istinaf başvurusunun ESAS TAN REDDİNE, Alınması gerekli 1.119,71 TL istinaf karar harcından, peşin alınan 279,92 TL harçın mahsubuyla bakiye 839,79 TL harç davalıdan tahsili ile hazineye gelir kaydına, harç tahsil işlemlerinin ilk derece mahkemesi tarafından yerine getirilmesine, Dosya üzerinde yapılan inceleme neticesinde 30/04/2024 tarihinde HMK'nun 362. maddesi uyarınca kesin olarak oybirliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İcra İflas Kanunu 72. madde",
+            "Türk Ceza Kanunu 470 vd. maddeler",
+            "Hukuk Muhakemesi Kanunu 352. madde",
+            "Hukuk Muhakemesi Kanunu 355. madde",
+            "Hukuk Muhakemesi Kanunu 353/1-b/1 madde",
+            "Hukuk Muhakemesi Kanunu 362. madde",
+            "Hukuk Muhakemesi Kanunu 199. madde",
+            "Hukuk Muhakemesi Kanunu 202. madde",
+            "Hukuk Muhakemesi Kanunu 171. madde"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir avize satış sözleşmesi çerçevesinde davacı ve davalı arasında ortaya çıkan finansal anlaşmazlıkları çözmek amacıyla açılmıştır. Davacı, davalıya ödemesi gereken 12.350,00 TL bedelinin ödenmemesini iddia ediyor ve bu tutarın tahsilini talep ediyor. İlk derece mahkemesi, davalı tarafından yapılan whatsapp yazışmalarının delil olarak kabul edilerek davacıya 16.391,72 TL tutarında tahsil kararı vermiştir. Davalı, bu kararı istinaf ederek, davacının iddialarının doğru olmadığını ve davaya konu senedin davacıya verilmiş borç nedeniyle düzenlendiğini savunmuştur. İkinci derece mahkemesi, istinaf başvurusunu reddetmiş ve davalıya 1.119,71 TL istinaf harcı kesmiştir.",
+    "summary_for_model": "Dava, avize satış sözleşmesi çerçevesinde davacı ve davalı arasında finansal anlaşmazlık üzerine kurulmuştur. İlk derece mahkemesi, davalı tarafından yapılan whatsapp yazışmalarının delil olarak kabul edilerek davacıya 16.391,72 TL tutarında tahsil kararı vermiştir. Davalı, bu kararı istinaf ederek, davacının iddialarının doğru olmadığını ve davaya konu senedin davacıya verilmiş borç nedeniyle düzenlendiğini savunmuştur. İkinci derece mahkemesi, istinaf başvurusunu reddetmiş ve davalıya 1.119,71 TL istinaf harcı kesmiştir. Hukuki dayanaklar arasında İcra İflas Kanunu 72. madde, Türk Ceza Kanunu 470 vd. maddeler, Hukuk Muhakemesi Kanunu 352. madde, Hukuk Muhakemesi Kanunu 355. madde, Hukuk Muhakemesi Kanunu 353/1-b/1 madde, Hukuk Muhakemesi Kanunu 362. madde, Hukuk Muhakemesi Kanunu 199. madde, Hukuk Muhakemesi Kanunu 202. madde ve Hukuk Muhakemesi Kanunu 171. madde yer alır."
+}

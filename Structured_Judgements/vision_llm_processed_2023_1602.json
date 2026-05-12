@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2023_1602.pdf",
+        "court_name": "BÖLGE ADLİYE MAHKEMESİ",
+        "esas_no": "2023/725",
+        "karar_no": "2023/1072",
+        "case_subject": "İtirazın iptali",
+        "dava_tarihi": "18/08/2023",
+        "karar_tarihi": "12/10/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının Fuar Stand Tasarım ve Uygulama İşinden kaynaklanan alacağının tahsili talebi ile Küçükçekmece İcra Müdürlüğü'nün ... Esas sayılı dosyası ile toplam 135.700,00 TL asıl alacak için icra takibi başlattığını, borçlu şirketin icra takibine itiraz ettiğini ve icra takibinin durduğunu, taraflar arasında mail ve WhatsApp üzerinden yazışmalar yapıldığını, müvekkilin işi yaptığını, davalı şirketin takibe ve davaya konu e-satış faturasına süresi içerisinde herhangi bir itiraz olmadığını, davalı borçlu şirketin yetkilisinin ... olduğunu, @...com adresinden 05/10/2022 tarihinde taraflar arasındaki Fuar Stand Tasarım Ve Uygulama İşinin stand ve görsellerinin yerleştirilmiş halinin davalı borçlu şirket yetkilisi ...'nun gmail adresine iletildiğini, baskı ve imalat için onay talep edildiğini, ...'nun 06/10/2022 tarihinde bu talebe onaylıyorum diye cevap verdiğini ve yapılan iş ödemesini yapacağını beyan ettiğini, 19.10.2022 tarihinde icra takibi ve davanın dayanağı 19.10.2022 tarih, ... numaralı e-satış faturasının düzenlendiğini, bu faturanın davalı borçlu şirketin sistemine düştüğünü ve herhangi bir itiraza uğramadan kesinleştiğini, davanın bir ticari alacaktan kaynaklandığından zorunlu arabulculuk kapsamında olduğunu, arabulculuk sürecinin anlaşama ile sonuçlandığını, davalı şirkete davacı şirketin fuar stand tasarım ve uygulama iş ve hizmetlerinden kaynaklanan icra takibine ve davaya konu alacağını halen ödemediğini belirterek, borçlu şirketin taşınır taşınmaz malları ile 3. sayısalardaki hak ve alacaklarının ihtiyaten hacize, Küçükçekmece İcra Müdürlüğü'nün ... Esas sayılı dosyası ile başlatılan takibe itirazın iptali ile takibin devamına, alacağın %20'sinden aşağı olmamak üzere icra inkâr tazminatının davalından tahsiline karar verilmesini talep ve dava etmiştir.",
+        "reasoning_text": "Mahkemeye 18/08/2023 tarihli ara karar ile davacının ihtiyati haciz talebinin reddine karar verildiğini, davacının ihtiyati haciz talebine dayanak belgenin yalnızca fatura olduğunu, ödenmesi gereken muaccel bir alacağın varlığı kesin olarak gösteren belgelerden olmadığını, kaldi ki faturaya dair irsaliye de sunulmadığını, davacı tarafından sözleşme ve alacak miktarının yazılı belge ile ispatlanamadığını, müvekkilin mal kaçırdığına dair dosyada delil bulunmadığını belirterek, davanın reddine, icra takibinin konusu asıl alacağın %20'sinden aşağı olmamak üzere kötüniyet tazminatının davacından tahsiline karar verilmesini talep etmiştir. Mahkemeye 18/08/2023 tarihli ara karar ile, ihtiyati haciz konu alacak tek taraflı olarak düzenlenen tutanağa dayalı faturadan kaynaklanmakta olup dosyadaki deliller de mevcut hali ile yaklaşık ispata elverişli olmayıp, alacağın yargılama muhteç olduğunu, İİK 257. madde gereği ihtiyati haciz şartlarının oluşmadığı gerekçesiyle, ihtiyati haciz talebinin reddine karar verilmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Bakırköy 6. Asliye Ticaret Mahkemesi'nin 18/08/2023 tarih ve 2023/725 Esas sayılı ara kararında usul ve esas yönünden yasaya aykırı bir durum bulunmadığına göre, davacı vekilinin istinaf başvurusunun HMK'nin 353/1-b.1 maddesi gereğince REDDİNE, 2-İstinaf harçları peşin alındığından ayrıca harç alınmasına YER OLMADIĞINA, 3-Davacı taraflıca yapılan istinaf yargılama giderlerinin üzerinde BİRAKILMASININA, 4-İstinaf incelemesi sonunda duruşma açılmadığından vekalet ücreti takdirine YER OLMADIĞINA, Dair, dosya üzerinden yapılan inceleme sonucunda HMK'nin 362/1-f bendi gereğince KESİN olmak üzere 12/10/2023 tarihinde oybirliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İİK 257",
+            "İİK 258",
+            "6098 sayılı Türk Borçlar Kanunu 470",
+            "6100 sayılı HMK 355",
+            "HMK 353/1-b.1",
+            "HMK 362/1-f"
+        ]
+    },
+    "summary_for_human": "Bu dava, Fuar Stand Tasarım ve Uygulama İşinden kaynaklanan bir ticari alacak için açılmıştır. Davacı, borçlu şirketin alacağını ödemediğini iddia ediyor ve icra takibi başlatmıştır. Borçlu şirket ise icra takibine itiraz etmiştir. Mahkeme, davacı tarafından sunulan belgelerin yetersiz olduğunu ve alacağın muaccel olmadığını karar vermiştir. İstinaf başvurusu reddedilmiştir.",
+    "summary_for_model": "Dava, Fuar Stand Tasarım ve Uygulama İşinden kaynaklanan ticari alacak için açılmıştır. Davacı, borçlu şirketin alacağını ödemediğini iddia ederek icra takibi başlatmıştır. Borçlu şirket, icra takibine itiraz etmiştir. Mahkeme, davacı tarafından sunulan belgelerin yetersiz olduğunu ve alacağın muaccel olmadığını, İİK 257 ve devami maddelerine göre ihtiyati haciz talebinin reddine karar vermiştir. İstinaf başvurusu HMK'nin 353/1-b.1 maddesi gereğince reddedilmiştir."
+}

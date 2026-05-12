@@ -1,0 +1,34 @@
+{
+    "meta_data": {
+        "file_name": "2022_1062.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2022/168",
+        "karar_no": "2022/188",
+        "case_subject": "Ticari emlak komisyonculuğu hizmeti ve ticari işlemlerin tüketici mahkemesi yetkili olduğu durumdaki dava şartı",
+        "dava_tarihi": "03/06/2022",
+        "karar_tarihi": "21/03/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının emlak komisyonculuğu hizmeti verdiğini iddia ediyor. Davalı, ticari amaçla taşınmaz satmadığını ve SGK kayıtlarına göre mesken olarak nitelendiğini savunuyor. Davacı, davalının ticari işlemlerinin tüketici mahkemesi yetkisi altına girdiğini iddia ediyor.",
+        "reasoning_text": "6502 sayılı Kanun'a göre, ticari amaçla hareket eden emlak komisyoncusu davacı olarak tüketici mahkemesi yetkili. Davalının ticari işlemlerinin tüketici mahkemesi yetkisi altına girdiği için dava şartı oluşturulmuştur. Mahkemenin görevli olmayışı nedeniyle dava usulden reddine karar verilmiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle: Davalı vekilinin istinaf başvurusunun HMK'nun 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE, Peşin harcin karar harcına mahsubuna başka harç alınmasına yer olmadığına, Dosya üzerinde yapılan inceleme sonunda HMK 353(1)-a maddesi uyarınca kesin olmak üzere oy birliği ile karar verildi. 03/06/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6502 sayılı Kanun",
+            "6502 sayılı TKHK",
+            "6502 sayılı Kanun 2. madde",
+            "6502 sayılı Kanun 3. madde",
+            "6502 sayılı TKHK 3/1. madde (1)",
+            "6502 sayılı Kanun 73. madde",
+            "6502 sayılı Kanun 83. madde",
+            "6502 sayılı Kanun 83/2. madde",
+            "HMK 114/c madde",
+            "TTK 19. Madde",
+            "HMK 353(1)b-1 madde",
+            "HMK 353(1)-a madde"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının emlak komisyonculuğu hizmeti verdiğini iddia ediyor. Davalı, ticari amaçla taşınmaz satmadığını savunuyor. Mahkeme, davalının ticari işlemlerinin tüketici mahkemesi yetkisi altına girdiği için dava şartı oluşturulduğunu ancak mahkemenin görevli olmayışı nedeniyle davayı usulden reddetti.",
+    "summary_for_model": "Dava, emlak komisyonculuğu hizmeti ve ticari işlemlerin tüketici mahkemesi yetkili olduğu durumdaki dava şartını konu alıyor. 6502 sayılı Kanun'a göre davacı ticari ve mesleki amaçla hareket eden emlak komisyoncusu olarak tüketici mahkemesi yetkili. Davalının ticari işlemlerinin tüketici mahkemesi yetkisi altına girdiği için dava şartı oluşturulmuştur. Mahkemenin görevli olmayışı nedeniyle dava usulden reddine karar verilmiştir."
+}

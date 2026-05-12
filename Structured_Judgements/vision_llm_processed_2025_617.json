@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2025_617.pdf",
+        "court_name": "T.C. İSTANBUL BÖLGE ADLİYE MAHKEMESİ 43. HUKUK DAİREŞİ",
+        "esas_no": "2025/191 Esas",
+        "karar_no": "2025/620",
+        "case_subject": "Ihtiyati haciz taleplerine karşı istinaf davası",
+        "dava_tarihi": "14/03/2025",
+        "karar_tarihi": "08/05/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın ihityati haciz taleplerine karşı istinaf dıleğcesinde, davanın teminat için alacaklı olarak 5.457,76 USD borçunu kabul ettiğinde, ihityati haciz taleplerinin reddedilmesi istemiyle dava açılmıştır. Davacı vekili, ihityati haciz taleplerinin reddedilmesi ve dava sonlandırılması için istinaf talebinde bulundu.",
+        "reasoning_text": "Mahkeme, ihityati haciz taleplerinin reddedilmesi için 2004 sayılı İcra ve İflas Kanunu'nun 257/1. maddesine dayanarak karar verdi. Mahkeme, alacaklının ihityati haciz taleplerine karşı reddedilmesi gerektiğinde, ihityati haciz taleplerinin reddedilmesi ve dava sonlandırılması için istinaf talebini kabul etti.",
+        "verdict_text": "Dair, dosya üzerinde yapılan inceleme sonrasında HMK'nın 362(1)-f maddesi ve İİK'nun 258/3. maddeleri uyarınca kesin olmak üzere oy birliği ile karar verildi. 08/05/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "2004 sayılı İcra ve İflas Kanunu (IİK)",
+            "Hukuk Muhakemeleri Kanunu (HMK)",
+            "Yargıtay 19. HD'nin 12/12/2019 Tarih, 2019/2300 E-2019/5531 K"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacının ihityati haciz taleplerine karşı istinaf dıleğcesini reddederek, ihityati haciz taleplerinin reddedilmesi ve dava sonlandırılması için karar verdi. Mahkeme, ihityati haciz taleplerinin reddedilmesi gerektiğinde, alacaklının ihityati haciz taleplerine karşı reddedilmesi ve dava sonlandırılması için istinaf talebini kabul etti.",
+    "summary_for_model": "Davacı vekili, ihityati haciz taleplerine karşı istinaf dıleğcesinde, davanın teminat için alacaklı olarak 5.457,76 USD borçunu kabul ettiğinde, ihityati haciz taleplerinin reddedilmesi istemiyle dava açılmıştır. Mahkeme, 2004 sayılı İcra ve İflas Kanunu'nun 257/1. maddesine dayanarak ihityati haciz taleplerinin reddedilmesi ve dava sonlandırılması için karar verdi. Davacı vekili, ihityati haciz taleplerinin reddedilmesi ve dava sonlandırılması için istinaf talebinde bulundu."
+}

@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_436.pdf",
+        "court_name": "T.C. BAKIRKÖY 4. AŞLİYE TİCARET MAHKEMESİ",
+        "esas_no": "2021/436",
+        "karar_no": "2021/1077",
+        "case_subject": "Şirketin Olağanüstü Genel Kurul Toplantısına Çağrılması",
+        "dava_tarihi": "21/05/2021",
+        "karar_tarihi": "24/11/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekilinin davada yetkili olduğunu iddia ederken, vekilin şirketin diğer ortaklarıyla birlikte hareket ettiğini, şirketin iyi yönetilmediğini ve vekilin şirketin hesaplarında usulsüzlükler yapabileceğini iddia etmiştir. Davacı, Eskişehir Noterliği'nin 19.04.2021 tarihli ihbarnamesiyle çağrıya 7 iş günü içinde cevap verilmediğini belirtmiştir.",
+        "reasoning_text": "Davacı, TTK 412. maddesine dayanarak şirketin Olağanüstü Genel Kurul Toplantısına çağrılması için kayyum atanmasını talep etmiştir. Ancak, TTK 411. maddesine göre azınlık pay sahiplerinin yönetim kurulundan genel kurul toplantısına çağrı yapma yetkileri yoktur. Bu nedenle, talep reddedilmiştir.",
+        "verdict_text": "1-Davanın kabulü ile İstanbul Ticaret Sicil Müdürlüğü'nün ... sicil numarasına kayitli ...'nin Eskişehir ... Noterliği'nin 19/04/2021 tarih ve ... yevmiye no.lu ihbarnamesinde belirtilen gündem maddelerini görüşmek üzere genel kurul toplantısına çağırmak ve genel kurul toplantısı için gerekli tüm iş ve işlemleri yapmak ve alınan kararı tescil ettirmek hususunda görevli ve yetkili olmak üzere TTK 412. maddesi gereğince ...'in KAYYIM olarak atanmasına, 2-Atanan kayyima 3.000,00 TL ücret takdirine ve bu ücretin daha sonra davalı şirketten alınmak üzere davacı tarafça yatırılmasına, 3-Alınması gereken 59,30 TL karar harcı peşin alındığından başka harç alınmasına yer olmadığına, 4-Davacı kendilerini vekil ile temsil ettirdiklerinden karar tarihinde yürürlükte olan A. A. Ü. Tarifeşi gereğince 5.100,00 TL vekalet ücretinin davalidan tahsili ile davacıya verilmesine, 5-Davacı tarafından yapılan yargılama giderlerinin kendi üzerinde bırakılmasına, 6-Kullanılmayan yargılama gider avansı konusunda HMK 333. maddesi gereğince kararın kesinleşmesinden sonra karar verilmesine, Dair, davacı vekilinin yüzüne karşı TTK 412. maddesi gereğince kesin olmak üzere oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 412",
+            "TTK 411",
+            "HMK 333"
+        ]
+    },
+    "summary_for_human": "Davacı, şirketin Olağanüstü Genel Kurul Toplantısına çağrılması için kayyum atanmasını talep etti. Ancak, azınlık pay sahiplerinin bu yetkileri olmadığı için talep reddedildi. Karar, davacıya vekalet ücreti ve yargılama giderleri için ödemeler yapılmasına karar verdi.",
+    "summary_for_model": "Davacı, TTK 412. maddesine dayanarak şirketin Olağanüstü Genel Kurul Toplantısına çağrılması için kayyum atanmasını talep etti. Ancak, TTK 411. maddesine göre azınlık pay sahiplerinin bu yetkileri olmadığı için talep reddedildi. Karar, davacıya vekalet ücreti ve yargılama giderleri için ödemeler yapılmasına karar verdi."
+}

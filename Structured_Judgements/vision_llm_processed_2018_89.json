@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2018_89.pdf",
+        "court_name": "İSTANBUL BÖLGE ADLİYE MAHKEMESİ 16. HUKUK DAİRESİ",
+        "esas_no": "2018/89 Esas",
+        "karar_no": "2018/221 Karar",
+        "case_subject": "Fikır Ve Sanat Eseri (Maddi Tazminat İstemi)",
+        "dava_tarihi": "12/02/2018",
+        "karar_tarihi": "12/02/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilinin tanınmış bir oyuncu olduğunu ve waffle yerken çekilmiş fotoğraf ve videoların izinsiz olarak Kayseri ilindeki reklam panolarında, video lef ekranlarda reklam ve ticari amaçla kullanıldığını iddia etti. FSEK 80, 86 ve 68 maddeleri ile lisans bedelinin 3 katı tazminat hesabıyla şimdilik 1.000 TL maddi, 50.000 TL manevi tazminatının davalından tahsili ve davanın bu kullanımlarının durdurulması, tespite, instagram ve facebook dahil sosyal medyada kullanılmaması ve tecavüz refini, talep ve dava edilmesi talep edildi. Mahkemece 20.10.2017 tarihinde 6769 sayılı SMK'nü göre 20.000 TL temiant karşılığı davacıya ait görütülerin billboard, reklam mecraları, sosyal medya platformlarında davalı tarafından kullanılmasının tedbiren önlenmesine karar verildi.",
+        "reasoning_text": "İstinaf incelemesi için daireye gönderilen dosyanın ilk incelemesi tamamlanmış olmakla, HMK 353 ve 356 maddeleri gereğince dosya içeriğine göre duruşma yapılmasına gerek görülmeden dosya üzerinde yapılan inceleme sonucu, davacı vekili, müvekkilinin tanınmış bir oyuncu olduğunu iddia etti. Davacı vekili istinafa cevap vermemiştir. Her ne kadar ilk derece mahkemesinde verilen ihtiyati tedbir kararına karşı doğrudan istinaf yoluna başvurulmuş ve dosya bu nedenle daireimize gönderilmişse de, 6100 sayılı HMK'nun 341/1 maddesinde \"İlk derece mahkemelerinden verilen ihtiyati tedbir, ihtiyati haciz taleplerinin reddi ve bu taleplerin kabulü hakkında, itiraz üzerine verilecek kararlara karşı istinaf yoluna başvurulabileceğinin yazılı bulunduğu, ayrıca her mahkeme kararına karşı etkin bir başvuru imkanının bulunması gerektiği, somit olanda aleyhine ihtiyati tedbir kararı verilen davalının istinaf başvurusunun, itiraz mahiyetinde görülerek, özellikle kararı veren ilk derece mahkemesi tarafından incelenmesinin ve eğer ilk derece mahkemesi itirazı yerinde görmez ise bu takdirde itirazin reddine karşı istinaf yoluna başvurulabileceği gözleterek, ilk derece mahkemesi tarafından tedbire itiraz hakkında olumlu ya da olumsuz bir karar verildikten sonra gerekirse yeniden daireimize gönderilmek üzere dosyanın geri çevrilmesine karar verilmiştir.",
+        "verdict_text": "6100 sayılı HMK'nun 341/1 ve 353/1-b maddeleri gereğince belirtilen usuli eksiklik tamamlandıkta ve davalının başvurunun itiraz mahiyetinde görülerek ilk derece mahkemesi tarafından olumlu ya da olumsuz bir karar verildikten sonra, gerekirse dosya yeniden daireimize gönderilmek üzere, bu aşamada dosyanın GERİ ÇEVRİLMESİNE, istinaf incelemesi yapılmadığından şimdilik harç konusunda bir karar verilmesine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda oy birliği ile ve kesin olarak karar verildi. 12/02/2018"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 356",
+            "FSEK 80",
+            "FSEK 86",
+            "FSEK 68",
+            "SMK 159",
+            "HMK 341/1",
+            "HMK 353/1-b"
+        ]
+    },
+    "summary_for_human": "Davacı, ünlü bir oyuncunun izinsiz olarak reklamlarda kullanıldığını iddia etti ve tazminat talep etti. Mahkeme, davalının itirazını reddetti ve davacıya karşı önlem kararı verdi.",
+    "summary_for_model": "Davacı vekili, müvekkilinin tanınmış bir oyuncu olduğunu ve izinsiz olarak reklamlarda kullanıldığını iddia etti. Mahkeme, davalının itirazını reddetti ve davacıya karşı önlem kararı verdi. İstinaf incelemesi için dosya gönderildi."
+}

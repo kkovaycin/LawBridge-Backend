@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2022_343.pdf",
+        "court_name": "T.C. İSTANBUL BÖLGE ADLİYE MAHKEMESİ 16. HUKUK DAİRESİ",
+        "esas_no": "2022/343",
+        "karar_no": "2023/1826",
+        "case_subject": "Tescilsiz Endüstriyel Tasarima Tecavüz, Tazminat",
+        "dava_tarihi": "03/12/2021",
+        "karar_tarihi": "07/12/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, 28 Ekim 2019'da Instagram üzerinden tescilsiz tasarımını kamuya sunan bir kadının elbiselerini üretip sattığını iddia ediyor. Tasarımın tescilsiz olduğu ve hak ihlali olduğu tespit edildi.",
+        "reasoning_text": "Tasarımın ilk kez kamuya sunulması ve yenilik unsuru bulunmaması nedeniyle tescilsiz tasarım olarak değerlendirildi. Davacının hak ihlali iddiası kabul edilmedi.",
+        "verdict_text": "Davacının tescilsiz tasarım iddiası reddedildi. İstinaf talebi reddedildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 55/4, 57, 56/4-b",
+            "TTK 54 vd maddeleri",
+            "SMK 151.2.a",
+            "TBK 50 md",
+            "HMK 353, 355, 361"
+        ]
+    },
+    "summary_for_human": "Davacı, bir kadının Instagram'da tescilsiz tasarımını kullanarak elbiseler sattığını iddia etti. Mahkeme, tasarımın tescilsiz olduğu ancak hak ihlali yapılmadığı sonucuna vardı ve davayı reddetti.",
+    "summary_for_model": "Dava, tescilsiz tasarım ve hak ihlali iddiasını içeriyor. Mahkeme, tasarımın tescilsiz olduğu ancak yenilik unsuru bulunmadığı için davayı reddetti. İstinaf talebi de reddedildi."
+}

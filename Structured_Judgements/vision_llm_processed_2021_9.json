@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_9.pdf",
+        "court_name": "T.C. Ankara 1. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/9",
+        "karar_no": "2022/277",
+        "case_subject": "Endüstriyel Tasarım İle İlgili Kurum Kararının İptali",
+        "dava_tarihi": "11/01/2021",
+        "karar_tarihi": "27/09/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesiyle; müvekkilin 2019/08033 numaralı tasarımlar için tescil başvurusunda bulunduğunu, ilana diğer davalı tarafından Türk Patent ve Marka Kurumu tarafından iptal edilmiş olan 2019/08551 numaralı tasarım başvurusu dayanağı gösterilerek itiraz edildiğini belirtmiştir. Davacı firma tarafından müvekkilin tasarım tesciline yönelik itiraz dayanağı olarak gösterilen 2019/08551 numaralı tasarımlar da davalı Türk Patent Ve Marka Kurumu tarafından iptal edildiğini, müvekkilin davalı firmanın itiraz dilekçesinde de beyan ettiği G...N isimli tasarım ajansı ile davalı firmanın iddialarının aksine çok daha öncesinden beri çalıştığını, davalı firmanın da aynı ajansla çalışmaya başladığını öğrenmesi üzerine söz konusu tasarım ajansıyla ilişkisini sona erdirdiğini, davalı firmanın birçok çalışanının müvekkilin eski çalışan olduğunu, davalı firmanın itiraz konu tasarım ile ilgili satış faaliyetlerinin fark edilmesi sonrası İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi'ne 13.04.2020 tarihinde başvurularak 2020/52 D.İ.S sayılı dosya ile tespit talep edildiğini, alınan heyet raporunda müvekkilin haklılığının ortaya çıktığını, Kurum kararının iptali gerektiğini iddia ederek Türk Patent ve Marka Kurumu Yeniden İnceleme ve Değerlendirme Kurulu'nun 06.11.2020 tarihli ve 2020/T-723 sayılı kararının iptaline karar verilmesini talep ve dava etmiştir.",
+        "reasoning_text": "Yargılama devam etmekte iken; davacı vekili 26/09/2022 tarihinde uyap üzerinden sunduğu dilekçesiyle, davadan feragat ettiklerini bildirmiştir. Feragat ve sulh davayı sona erdiren hallerlendirilmiştir. Dava dilekçesine ekli vekaletname ve yetki belgesinde davacı vekilinin davadan feragat etmeye yetkili olduğu anlaşılmıştır. Açıklanan nedenlerle davacının davadan feragat etmesi nedeniyle aşağıdaki gibi hüküm kurulmuştur.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle;\n1-Davanın feragat nedeniyle REDDİNE,\n2-Harçlar Yasasına göre hesaplanan 53,80-TL karar harcının peşin alınan 59,30-TL harçtan mahsubu ile bakiye 05,50-TL harcin kararın kesinleşmesine müteakip istem halinde davacıya iadesine,\n3-Avukatlık Asgari Ücret Tarifesine göre hesap olan takdiren 7.375,00-TL maktu ücreti vekaletin davacidan alınarak davalılara verilmesine,\n4-Yatırılan ve kullanılmayan gider avansının, hükmün kesinleşmesini müteakip re'sen yatırana iadesine (HMK m.333),\nDair verilen karar; hazır olan taraf vekillerinin yüzüne karşı, teblig tarihinden itibaren 2 haftalık yasal süre içinde Bölge Adliye Mahkemesinde istinaf yolu açık olmak üzere açıkça okunup, usulen anlatıldı. 27/09/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Harçlar Yasası",
+            "Avukatlık Asgari Ücret Tarifesi",
+            "Hukuk Muhakemesi Kanunu (HMK) m.333"
+        ]
+    },
+    "summary_for_human": "Davacı vekili davadan feragat ettiği için dava reddedildi. Davacıya 5,50 TL harç iadesi ve 7.375 TL avukatlık ücreti ödenmesi kararlaştırıldı.",
+    "summary_for_model": "Dava, davacı vekilinin feragat dilekçesiyle sonlandırıldı. Feragat nedeniyle dava reddedildi. Davacıya harç iadesi ve avukatlık ücreti ödenmesi kararı verildi. HMK m.333 uyarınca yatırılan gider avansının iadesi kararlaştırıldı."
+}

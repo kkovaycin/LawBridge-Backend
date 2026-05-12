@@ -1,0 +1,32 @@
+{
+    "meta_data": {
+        "file_name": "2024_771.pdf",
+        "court_name": "KAYSERİ BÖLGE ADLİYE MAHKEMESİ",
+        "esas_no": "2024/771",
+        "karar_no": "2024/817",
+        "case_subject": "Ticari Şirket (Şirket Ortaklık Payı Alacağının Tahsili Kaynağı)",
+        "dava_tarihi": "15/02/2024",
+        "karar_tarihi": "03/04/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dilekçesinde özetle; Davalların mal varlıkları üzerine ihtiyati haciz, adı ortaklığın konusunu oluşturan taşınmazlar üzerine ihtiyati tedbir şerhi konulmasına, bunların mümkün olması halinde davalidir şerhi konulmasına karar verilmesini talep etmiştir.",
+        "reasoning_text": "İlk derece Mahkemesi tarafından kararı ile; Dosyadaki mevcut delillerin incelenmesinde, dava konusu olmayan taşınmazlar üzerine tedbir konulması talebinin ve dava konusunun alacak olması nedeniyle davalidir şerhi konulması talebinin HMK madde 389 gereği reddine, dava konusu alacakın varlığı ve miktarı yargılama gerektirdiği için ihtiyati haciz talebinin reddine karar verilmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle; Kayseri 2. Asliye Ticaret Mahkemesi'nin 2024/141 Esas sayılı 15/02/2024 tarihli ara kararının hukuka uygun olduğunun anlaşılması nedeniyle davacının istinaf başvurusunun H.M.K.'nin 353/1-b.1 maddesi gereğince ESASTAN REDDİNE, Alınması gereken istinaf karar harci istinaf eden davacı tarattan peşin olarak alındığından harçla ilgili yeniden karar verilmesine yer olmadığına, Davacı tarafından yapılan istinaf yoluna başvuru harci ve istinaf posta giderlerinin derdest dava sonunda ilk derece mahkemesince verilecek nihai kararda değerlendirilmesine, İstinaf incelemesi aşamasında duruşma yapılmadığından vekalet ücreti takdirine yer olmadığına, HMK 302/5 maddesi gereğince işbu ilamin kesinleşme kaydı yapılan kararın yerine getirilmesi için gerekli bildirimlerin, harç tahsil işlemlerinin, HMK 359/4 Maddesi gereğince bu kararın taraflarına tebliği işlemlerinin yapılması ve artan gider avansının ilgili tarafa iadesi işlemlerinin İlk Derece Mahkemesi tarafından yapılmasına, Dair, dosya üzerinden yapılan inceleme ile HMK 362/1-f, 391/3 ve İİK 258/son bendi uyarınca KESİN olarak oy birliği ile karar verildi. 03/04/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "H.M.K. 355",
+            "H.M.K. 389",
+            "H.M.K. 389. Vd",
+            "H.M.K. 302/5",
+            "H.M.K. 359/4",
+            "H.M.K. 362/1-f",
+            "H.M.K. 391/3",
+            "İİK 257",
+            "İİK 258/son",
+            "İİK 353/1-b.1"
+        ]
+    },
+    "summary_for_human": "Bu davada, davacı vekili, davalların mal varlıkları üzerinde ihtiyati haciz ve adı ortaklığın konusunu oluşturan taşınmazlar üzerinde ihtiyati tedbir şerhi konulmasını talep etmiştir. İlk derece mahkemesi, dava konusu olan alacakın varlığı ve miktarı yargılama gerektirdiği için bu taleplerin reddine karar vermiştir. Davacı vekili, bu kararı istinaf ederek itiraz etmiştir. İstinaf mahkemesi, ilk derece kararının hukuka uygun olduğunu kabul ederek istinaf başvurusunu reddetmiştir.",
+    "summary_for_model": "Davacı vekili, davalların mal varlıkları ve adı ortaklığın konusunu oluşturan taşınmazlar üzerinde ihtiyati haciz ve tedbir şerhi talep etmiştir. İlk derece mahkemesi, HMK 389 ve 257 maddeleri çerçevesinde taleplerin reddine karar vermiştir. İstinaf mahkemesi, H.M.K. 353/1-b.1 maddesi uyarınca istinaf başvurusunu reddetmiştir. Karar, HMK 302/5, 359/4, 362/1-f, 391/3 ve İİK 258/son maddeleri çerçevesinde kesin olarak verilmiştir."
+}

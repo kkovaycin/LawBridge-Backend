@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_1925.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2022/1925",
+        "karar_no": "2023/191",
+        "case_subject": "Tespit ve tedbir taleplerinin değerlendirilmesi",
+        "dava_tarihi": "04/07/2022",
+        "karar_tarihi": "03/02/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, talep edilen vekil tarafından tescil edilmiş çok sayıda tasarımın karşı taraf tarafından kullanıldığını iddia etmiştir. Karşı taraf ise bu tasarımların yeni olmadığını ve davacı tarafından satıldığını savunmuştur. Mahkeme, tescil tarihleri ve benzerlik değerlendirmeleri ışığında karar vermiştir.",
+        "reasoning_text": "Mahkeme, 6769 Sayılı SMK 159. Madde ve 6769 SMK 353, 356 maddeleri çerçevesinde, tescil tarihleri ve tasarım benzerlikleri dikkate alındığında, talep edilen tasarımların kısmen kabul edilmesini ve kısmen reddedilmesini kararlaştırmıştır. İstinaf başvurusu reddedilmiştir.",
+        "verdict_text": "İstinaf başvurusu reddedilmiştir. Talep edilen vekil tarafından tescil edilmiş çok sayıda tasarımın kısmen kabul edilmesi ve kısmen reddedilmesi kararlaştırılmıştır. Dava sonucunda, talep edilen vekil tarafından tescil edilmiş tasarımların kısmen kabul edilmesi ve kısmen reddedilmesi kararı verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 Sayılı SMK 159. Madde",
+            "6769 Sayılı SMK 353. Madde",
+            "6769 Sayılı SMK 356. Madde"
+        ]
+    },
+    "summary_for_human": "Davacı, talep edilen vekil tarafından tescil edilmiş tasarımların karşı taraf tarafından kullanıldığını iddia etmiştir. Mahkeme, tasarımların kısmen kabul edilmesini ve kısmen reddedilmesini kararlaştırmıştır.",
+    "summary_for_model": "Davacı, talep edilen vekil tarafından tescil edilmiş tasarımların karşı taraf tarafından kullanıldığını iddia etmiştir. Mahkeme, 6769 Sayılı SMK 159. Madde ve 6769 Sayılı SMK 353, 356 maddeleri çerçevesinde, tasarımların kısmen kabul edilmesini ve kısmen reddedilmesini kararlaştırmıştır."
+}

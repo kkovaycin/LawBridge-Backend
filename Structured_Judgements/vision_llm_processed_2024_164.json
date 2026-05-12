@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2024_164.pdf",
+        "court_name": "İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2022/124 Esas",
+        "karar_no": "2024/475 Karar",
+        "case_subject": "Marka hakları ihlali ve ihlalin önlenmesi",
+        "dava_tarihi": "12/12/2023",
+        "karar_tarihi": "11/03/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının davacı firmanın tescilli markasını internet ve sosyal medyada kullanmasını iddia ediyor. Davacı firmanın markası, davacı firmanın ticari faaliyetlerinde kullanılmakta ve davacı firmanın ticari itibarını olumsuz etkilemektedir.",
+        "reasoning_text": "Mahkeme, davacı firmanın markasının tescilli olduğu ve davalının bu markayı kullanmasının davacı firmanın ticari haklarını ihlal ettiğini tespit etti. Davalının markayı kullanmasının davacı firmanın ticari itibarını olumsuz etkilediğini ve davacı firmanın ticari haklarını ihlal ettiğini belirledi.",
+        "verdict_text": "İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi, davacı firmanın tescilli markasının davalının internet ve sosyal medyada kullanılmasına karşı ihlalin önlenmesi için tedbir kararı verdi. Davalının markayı kullanmasının durdurulması ve davacı firmanın ticari haklarının korunması için tedbir kararı verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK) 353 ve 356. maddeleri",
+            "Hukuk Muhakemeleri Kanunu (HMK) 352/l-b-1 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı firmanın tescilli markasının davalının internet ve sosyal medyada kullanılmasına karşı dava açıldı. Mahkeme, davalının markayı kullanmasının davacı firmanın ticari haklarını ihlal ettiğini tespit etti ve ihlalin önlenmesi için tedbir kararı verdi.",
+    "summary_for_model": "Davacı firmanın tescilli markasının davalının internet ve sosyal medyada kullanılmasına karşı dava açıldı. Mahkeme, davalının markayı kullanmasının davacı firmanın ticari haklarını ihlal ettiğini tespit etti ve ihlalin önlenmesi için tedbir kararı verdi. Davacı firmanın ticari haklarının korunması için tedbir kararı verildi."
+}

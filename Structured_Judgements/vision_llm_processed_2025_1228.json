@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2025_1228.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2025/1228",
+        "karar_no": "2025/1277",
+        "case_subject": "Marka (Marka Hakkına Tecavüzden Kaynaklanan)",
+        "dava_tarihi": "22/10/2025",
+        "karar_tarihi": "22/10/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, ihitayati tedbir talebinde, davanın müvekkili şirketin \"...\" markasını ve işbu markanın tanınır logosunun ayırt edilemeyecek derecede benzerini kullanarak faaliyet gösterdiğini iddia etti. İstanbul 1. Fikri ve Sınai Haklar Hukuk Mahkemesi 2025/36 D. İş dosyası ile alınan bilirkişi raporu ile tespit edilen marka hakkına tecavüzün kaldırılması talep edildi.",
+        "reasoning_text": "İlk derece mahkemesi, 17/07/2025 tarihli ara karar ile ihitayati tedbir talebini kabul etti. Davacı vekili ihitayati tedbire itiraz etti. İkinci derece mahkemesi, 31/07/2025 tarihli ara karar ile ihitayati tedbir talebinin kısmen kabulüne karar verdi. İstinaf istemi, 31/07/2025 tarihli ara kararın usul ve yasaya aykırılığı nedeniyle reddedildi.",
+        "verdict_text": "Davacı vekilinin istinaf talebinin HMK'nun 353/1-b-1 maddesi uyarınca ES ASTAN REDDİNE, 2- Harç peşin alındığından yeniden harç alınmasına yer olmadığına, 3- Davacı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, 4- İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinden yapılan inceleme sonunda, oy birliğiyle kesin olarak karar verildi. 22/10/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK) 355. madde",
+            "Hukuk Muhakemeleri Kanunu (HMK) 353. madde",
+            "Hukuk Muhakemeleri Kanunu (HMK) 353/1-b-1 madde",
+            "SMK m.159/2-c madde"
+        ]
+    },
+    "summary_for_human": "Davacı, ihitayati tedbir talebinde, davanın müvekkili şirketin markasını kötüye kullanmakla suçladı. İlk derece mahkemesi talebi kabul etti, ancak ikinci derece mahkemesi kısmen kabul etti. İstinaf talebi reddedildi.",
+    "summary_for_model": "Dava, marka hakkına tecavüz iddiasına dayanıyor. İlk derece mahkemesi ihitayati tedbiri kabul etti. İkinci derece mahkemesi kısmen kabul etti. İstinaf talebi HMK 353/1-b-1 maddesi uyarınca reddedildi."
+}

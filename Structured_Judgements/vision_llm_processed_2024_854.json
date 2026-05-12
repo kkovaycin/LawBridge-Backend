@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2024_854.pdf",
+        "court_name": "T.C. SAKARYA ASLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2024/854",
+        "karar_no": "2024/741",
+        "case_subject": "Haksız reket ve zarar tazminatı davası",
+        "dava_tarihi": "13/12/2024",
+        "karar_tarihi": "18/12/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının internet ortamında haksız reket oluşturduğunu iddia ediyor. Davacı, davalının Facebook ve Instagram gibi platformlarda davacı firmanın ticari faaliyetlerini kötülemesi nedeniyle zarar gördüğünü iddia ediyor. Davacı, davalının davacı firmanın itibarını zedelediğini ve ticari faaliyetlerini olumsuz etkilediğini iddia ediyor.",
+        "reasoning_text": "Mahkeme, davacı vekilinin dava dilekçesinin TBK'nın 57. maddesi uyarınca haklı olduğunu tespit etti. Mahkeme, davacı vekilinin dava dilekçesinin sonuç ve istem kısmında her ne kadar \"TTK haksız reket hükümleri\" ibaresi kullanılmış olsa da, davanın dayanaklarının TBK'nın 57. maddesi olduğu sonucuna vararak dosyanın görevli ve yetkili Sakarya Asliye Hukuk Mahkemesine devrine ve gönderilmesine dair karar verdi.",
+        "verdict_text": "KARAR: Yukarıda açıklanan nedenlerle:\n1-Dosyanın görevli ve yetkili Sakarya Asliye Hukuk Mahkemesine devrine ve GÖNDERİLMESİNE,\n2-Harc ve masrafların görevli ve yetkili mahkemeye değerlendirilmesine,\nDair; dosya üzerinde yapılan inceleme neticesinde KESİN OLARAK karar verildi. 18/12/2024\nKatipler ...\ne-imzalı"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK haksız reket hükümleri",
+            "TBK'nın 57. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının internette davacı firmanın itibarını zedelediğini iddia ediyor. Mahkeme, davacı vekilinin dava dilekçesinin TBK'nın 57. maddesi uyarınca haklı olduğunu tespit etti.",
+    "summary_for_model": "Davacı, davalının internette davacı firmanın itibarını zedelediğini iddia ediyor. Mahkeme, davacı vekilinin dava dilekçesinin TBK'nın 57. maddesi uyarınca haklı olduğunu tespit etti."
+}

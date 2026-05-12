@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2025_951.pdf",
+        "court_name": "İSTANBUL BÖLGE ADLİYE MAHKEMESİ 16. HUKUK DAİRESİ",
+        "esas_no": "2025/951",
+        "karar_no": "2025/1124",
+        "case_subject": "Marka (Marka Hükmüsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "30/04/2025",
+        "karar_tarihi": "25/09/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının müvekkiline ait markayı Google arama motorunda anahtar kelime olarak kullandığını iddia etti. Bu durum, davalının müvekkiline büyük zarar verdiği ve davalının web sitesine erişimin engellenmesi talep edildiği için dava açıldı.",
+        "reasoning_text": "Mahkeme, davacı vekilinin istinaf talebini reddetti. İstinaf talebinin reddedilmesinin ardından, davacı vekili tarafından yeni bir istinaf talebi yapıldı. Mahkeme, bu talebin de reddedildiğini ve davanın sonucunun 25/09/2025 tarihinde kararlaştırıldığını belirledi.",
+        "verdict_text": "Davacı vekilinin istinaf talebinin reddine karar verildi. Davanın sonucunda, davacı vekilinin talebinin reddedildiği ve davanın 25/09/2025 tarihinde kararlaştırıldığı belirtildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemesi Kanunu (HMK) 353. ve 356. maddeleri",
+            "Hukuk Muhakemesi Kanunu (HMK) 389. maddesi",
+            "Hukuk Muhakemesi Kanunu (HMK) 355. maddesi",
+            "Hukuk Muhakemesi Kanunu (HMK) 353/1-b-1 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davalının müvekkiline ait markayı Google arama motorunda anahtar kelime olarak kullandığını iddia etti. Mahkeme, bu talebi reddetti ve davanın sonucunu 25/09/2025 tarihinde kararlaştırdı.",
+    "summary_for_model": "Davacı vekili, davalının müvekkiline ait markayı Google arama motorunda anahtar kelime olarak kullandığını iddia etti. Mahkeme, bu talebi reddetti ve davanın sonucunu 25/09/2025 tarihinde kararlaştırdı. İstinaf talebinin reddedilmesi ve davanın sonucunun kararlaştırılması vurgulanmıştır."
+}

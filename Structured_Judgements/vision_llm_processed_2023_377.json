@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2023_377.pdf",
+        "court_name": "T.C. İstanbul 21. Aşlıye Ticaret Mahkemesi",
+        "esas_no": "2023/377 Esas",
+        "karar_no": "2025/58 Karar",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "11/08/2021",
+        "karar_tarihi": "03/02/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının müvekkiline karşı haksız fiil iddiasında bulundu. Davalının sosyal medyada davacının projesine ilişkin yanlış ve zararlı ifadeler attığını, bu ifadelerin davacının haklarını ihlal ettiğini ve davalının bu davranışının davacıya maddi ve manevi zarar verdiğini iddia etti.",
+        "reasoning_text": "Mahkeme, davalının iddialarının haklı olduğunu tespit etti. Davalının davacıya karşı haksız fiilde bulunduğunu ve bu fiilin davacıya maddi ve manevi zarar verdiğini kabul etti. Mahkeme ayrıca, davalının davacıya karşı hak ihlali yaptığını ve bu ihlalin davacıya zarar verdiğini tespit etti.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere;\n1) Davanın KABULÜ ile;\n a) 5.000.00TL manevi tazminatın manevi tazminatın haksız fiil tarihi olan 21/01/2021 tarihinden itibaren işleyecek yasal faizi ile birlikte davalidan davacıya verilmesine,\n b) 5.000.00TL manevi tazminatın manevi tazminatın haksız fiil tarihi olan 21/01/2021 tarihinden itibaren işleyecek yasal faizi ile birlikte davalidan davacı şirkete verilmesine,\n 2) Alınması gereken 683.10TL harçtan peşin alınan 170.78TL harcin mahsubu ile bakiye 512.32TL harcin davalidan alınarak Hazineye irat kaydına,\n 3) Davacı tarafından yapılan 59.30TL başvurma harcı, 170.78TL peşin harç, 6.000.00TL bilirkişi ücreti, tebligat ve posta masrafından oluşan 863.00TL olmak üzere toplam 7.093.08TL yargılama giderinin davalidan alınarak davacılara verilmesine,\n 4) Davacı yargılama da kendilerini vekil ile temsil ettiğinden AAÜT'ne göre tespit olunan 10.000.00TL vekalet ücretinin davalidan alınarak davacılara ödünmesine,\n 5) Arapülülük ücreti olan 1.560.00TL'nin davalidan alınarak Hazineye irat kaydına,\n 6) Kullanılmayan gider avansının hükmün kesinleşmesi halinde ödeyen tarafa iadesine,\n Dair, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 345. maddesi uyarınca gerekli kararın tebliginden itibaren 2 hafta içerisinde mahkememize sunulacak ya da mahkememize gönderilmek üzere bir başka mahkemeye verilecek bir dilekçe ile ... Mahkemesinde istinaf yasa yolu açık olmak üzere verilen karar açıkça okunup, usulen anlatıldı. 03/02/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TMK'nın 24. ve 25. Maddesi",
+            "4721 sayılı Türk Medeni Kanunu",
+            "6098 sayılı Türk Borçlar Kanunu (TBK)",
+            "TTK m. 54",
+            "TTK m. 55 (a)",
+            "6100 sayılı Hukuk Muhakemeleri Kanunu'nun 345. maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davalının davacıya karşı haksız fiilde bulunduğunu ve bu fiilin davacıya maddi ve manevi zarar verdiğini kabul etti. Davacıya 5.000.00TL manevi tazminat ve diğer harçlar verilmesine karar verildi.",
+    "summary_for_model": "Mahkeme, davalının davacıya karşı haksız fiilde bulunduğunu ve bu fiilin davacıya maddi ve manevi zarar verdiğini tespit etti. Davacıya 5.000.00TL manevi tazminat ve diğer harçlar verilmesine karar verildi. Davalının iddialarının haklı olduğu kabul edildi."
+}

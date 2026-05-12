@@ -1,0 +1,32 @@
+{
+    "meta_data": {
+        "file_name": "2020_512.pdf",
+        "court_name": "11. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2020/512",
+        "karar_no": "2021/519",
+        "case_subject": "İtirazin İptali (Ticari Satımdan Kaynaklanan)",
+        "dava_tarihi": "01/10/2020",
+        "karar_tarihi": "23/06/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; müvekkili ile davalı arasındaki ticari alışverişi müteakip davalı tarafından müvekkiline ticari satış yapılmış olduğunu, müvekkili tarafından satışa konu malların bedelinin banka yolu ile davalı tarafa ödendiğini, ancak malların müvekkiline teslim edilmediğini, davalının ödemeye ilişkin üzerine düşen edimi yerine getirmediğini, bunun üzerine davalı aleyhine ... İcra Müdürlüğü'nün .../... Esas sayılı dosyası ile 7.000,00-TL.'lik alacağı ilişkin olarak başlatmış olduğu icra takibine davalı tarafından itiraz edildiğini, yapılan itirazin hakısız, kötü niyetli ve yasal dayanaktan yoksun olduğunu, itirazin tek amacının alacağın tahsili imkansız hale getirmek olduğunu belirterek, davalının itirazlarının iptali ile takibin devamına, davalı karşı taraf aleyhine %20'dan aşağı olmamak üzere icra inkâr tazminatina hükmedilmesine, yargılama masrafları ve vekalet ücretinin karşı tarafa tahmiline karar verilmesini talep ve dava etmiştir.",
+        "reasoning_text": "Davacı taraf delil olarak; ... İcra Müdürlüğü'nün .../... E. sayılı icra takip dosyası, ödeme dekontu, whatsapp yazışmaları, BA-BS formları, arabulculuk toplantı tutanağı, ticari defter ve kayıtlar, bilirkişi incelemesi, banka kayıtları, keşif, tanık beyanı, yemin ve diğer her türlü yasal delille dayanmıştır. Davalı taraf ise herhangi bir delil bildirmemiştir. Davaya konu ... İcra Müdürlüğü'nün .../... Esas sayılı icra dosyasındaki takip talebinde; davacı tarafından borcun sebebi olarak \"7.000,00-TL.'lik asıl alacak\"gösterilmek suretiyle davalı ...'den 7.000,00-TL. asıl alacak + 380,54-TL. işlemş faz olmak üzere toplamda 7.380,54-TL. talep edilmiştir. Örnek-7 nolu ödeme emri 20/08/2020 tarihinde davalya tebliğ edilmiş, davalı tarafından yasal süresi içerisinde 26/08/2020 tarihli dilekçe ile borca, faize, talep edilen faiz oranına ve tüm fer'lerine itiraz edilmiştir. Davalının itirazın üzerine icra takibi durmuş ve davacı tarafından yasada öngörülen 1 (bir) yıllık hak düşürücü süre içerisinde (01/10/2020 tarihinde) huzurdaki itirazin iptali davasının açıldığı anlaşılmıştır.",
+        "verdict_text": "KARAR: Yukarıda gerekçesi açıklanmış olduğu üzere;\n1-Davacının davasının HMK 114/1-c ve 115/2 maddesi gereğince görev dava şartı yokluğundan USULDEN REDDİNE,\n2-Görevli Mahkemenin ... ASLİYE HUKUK MAHKEMESİ olduğu,\n3-HMK'nun 331/2. maddesi gereğince yargılama gideri ve vekalet ücreti hususunda görevli mahkemeye karar verilmesine,\n4-HMK'nun 331/2. maddesi son cümlesi uyarınca dosya süresi içinde görevli mahkemeye gönderilmediği takdirde talep halinde yargılama gideri ve vekalet ücreti hususunda mahkememizce karar verilmesine,\n5-Karar kesinleştiğinde HMK'nun 20/1. maddesi uyarınca 2 (iki) haftalık kesin süre içinde başvurulması halinde dosyanın görevli mahkemesine gönderilmesine, belirlenen süre içinde başvurulmadığı takdirde mahkememizce davanın açılmamış sayılmasına karar verileceğinin ihtarına,\nDair, HMK'nun 345. maddesi uyarınca kararın taraflara tebliğ edildiği tarihten başlayarak iki hafta içinde HMK'nun 342. maddesi gereğince düzenlenmiş dilekçe ile HMK 343 maddesi uyarınca Mahkememize veya başka bir Mahkemeye yapılacak başvuru ile HMK 341/1 maddesi uyarınca İstanbul Bölge Adliye Mahkemesi nezdinde istinaf yolu açık olarak taraf vekillerinin yüzüne karşı açıkça okunup, usulen anlatıldı. 23/06/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6102 Sayılı Türk Ticaret Kanunu",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu (HMK)",
+            "HMK 114/c",
+            "HMK 115",
+            "HMK 331/2",
+            "HMK 20/1",
+            "HMK 345",
+            "HMK 342",
+            "HMK 343",
+            "HMK 341/1"
+        ]
+    },
+    "summary_for_human": "Bu davada, davacı şirket, davalı gerçek kişi üzerinden yaptığı ticari işlemin bedelinin ödenmediğini iddia ediyor. Davacı, davalı tarafından banka yoluyla yapılan ödemenin yetersiz olduğunu ve ticari ilişkinin olmadığını savunuyor. Mahkeme, davanın görev davası olmadığını ve davacı tarafından sunulan delillerin yetersiz olduğunu tespit ederek davayı usulden reddetmiştir. Ayrıca, görevli mahkemeye gönderilmekle ilgili eksiklikler nedeniyle yargılama gideri ve vekalet ücreti hususunda mahkemeye karar verilmesini ve davanın açılmamış sayılmasına karar verilmiştir.",
+    "summary_for_model": "Dava, davacı şirketin davalı gerçek kişi üzerinden yaptığı ticari işlemin bedelinin ödenmediğini iddia etmesiyle açılmıştır. Davacı, davalı tarafından banka yoluyla yapılan ödemenin yetersiz olduğunu ve ticari ilişkinin olmadığını savunmuştur. Mahkeme, davanın görev davası olmadığını ve davacı tarafından sunulan delillerin yetersiz olduğunu tespit ederek davayı usulden reddetmiştir. Ayrıca, görevli mahkemeye gönderilmekle ilgili eksiklikler nedeniyle yargılama gideri ve vekalet ücreti hususunda mahkemeye karar verilmesini ve davanın açılmamış sayılmasına karar verilmiştir. Davanın temeli, 6100 Sayılı Hukuk Muhakemeleri Kanunu ve 6102 Sayılı Türk Ticaret Kanunu'na dayanmaktadır."
+}

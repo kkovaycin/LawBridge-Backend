@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2020_783.pdf",
+        "court_name": "T.C. İSTANBUL 1. AŞLİYE TİCARET MAHKEMESİ",
+        "esas_no": "2020/783 Esas",
+        "karar_no": "2025/251",
+        "case_subject": "Tazminat (Haksiz Fiilden Kaynaklanan)",
+        "dava_tarihi": "31/12/2020",
+        "karar_tarihi": "08/04/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, makinenin hasar öncesi satılıp nakliye sırasında hasar görmesinin sorumluluğunu tartışır. Makine, nakliye sırasında kontrol panelinin hasar görmesi ve fabrika duvarına çarpma sonucu hasar alması nedeniyle sorumlu tutulmuştur.",
+        "reasoning_text": "Mahkeme, makinenin nakliye sırasında hasar almasının sorumluluğunu davalılara bölüsüm olarak bölümle kararlaştırıp, her iki tarafın da kusurlu olduğunu saptamıştır. Davacıya maddi ve manevi tazminat kararlaştırılmıştır.",
+        "verdict_text": "1-) Davanın KİSMEN KABULÜ ile, 8.000-TL'si davallardan ... San ve Tic. A.Ş'den, 8.000-TL'si diğer davali ...ş'den olmak üzere toplam 16.000-TL tazminatının 06/07/2020 tarihinden itibaren işleyecek yasal faizi ile birlikte davallardan alınarak davacıya verilmesine,\n2-) Manevi tazminata ilişkin talebin reddine,\nMaddi tazminat yönünden; ...\nDavaci lehine karar tarihinde yürürlükte bulunan Avukatlık Asgarı Öcret Tarifi şeğine göre hesaplanan 16.000,00-TL vekalet ücretinin ( 8.000-TL'si davallardan, 8.000-TL'si diğer davali ...'den sorumlu olmak kaydıyla ) davaldan tahsili ile davacıya verilmesine,\nDavaci tarafından yapılan toplam 15.683,00-TL yargılama giderinden davanın kabul red miktar ve oranı göz önüne alınarak hesaplanan 15.673,20-TL yargılama giderinin ve 54,40-TL peşin harç ve 54,40-TL başvurma harç toplamı 15.782,00-TL'nin davallardan müstereken ve müteselsilen tahsili ile davacıya verilmesine,\nDavali ... tarafından yapılan toplam 10.800,00-TL yargılama giderinin davali ... üzerinde birakılmasına,\nDavali ... tarafından yapılan toplam 10.00,00-TL yargılama giderinin davali ... üzerine birakılmasına,\n6325 sayılı Hukuk Uyguzamlıklarında Arabulculuk Kanunu m.18/A gereğine Adalet Bakanlığı bütçesinden karşılanan 1.360,00-TL arabulculuk ücretin davanın kabul ret oranına göre 1.359,15-TL'nin davallardan (davali ...'den 679,57- TL, davali ...'nin 679,57-TL'den sorumlu olmak üzere); 0,85-TL'nin ise davacıdan alınarak hazinede gelir kaydına, tahsilat ve gereği için Mahkeme Yazi İşleri Müdürlüğüne ilgili vergi dairesine müzekkere yazılmasına,\nTaraflarca yatırılan bakiye gider avansının kararın kesinleşmesi halinde yatırana iadesine,\nDair taraf vekillerinin yüzüne karşı miktar itibari ile KESİN olmak üzere verilen karar ağıkça okunup anlatıldı. 08/04/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 875",
+            "TTK 58",
+            "BK 49",
+            "Arabulculuk Kanunu m.18/A"
+        ]
+    },
+    "summary_for_human": "Mahkeme, makinenin nakliye sırasında hasar almasının sorumluluğunu davalılara bölümle kararlaştırıp, her iki tarafın da kusurlu olduğunu saptamıştır. Davacıya maddi ve manevi tazminat kararlaştırılmıştır.",
+    "summary_for_model": "Dava, makinenin nakliye sırasında hasar almasının sorumluluğunu tartışır. Mahkeme, her iki tarafın da kusurlu olduğunu saptamıştır ve davacıya maddi ve manevi tazminat kararlaştırıp, tazminat tutarını belirlemiştir."
+}

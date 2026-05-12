@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2019_166.pdf",
+        "court_name": "T.C. ANKARA 1. FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2019/166",
+        "karar_no": "2021/26",
+        "case_subject": "Markaya Tecavüzün ve Haksız Rekabetin Tesbiti",
+        "dava_tarihi": "25/04/2019",
+        "karar_tarihi": "02/02/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davayı vekil aracılığıyla açtı. Müvekkilin uzun süredir kullandığı ve büyük yatırım, emek ve çaba sarfederek tüketicinin gözünde ayırt edici nitelik kazandırdığı \"...\" markası, Türk Patent ve Marka Kurumu tarafından tescil edildi. Davacı, müvekkilin bu markayı kendi işletmesine ait internet sayfası ve sosyal medya platformlarında kullanmasını, hukuka aykırı olarak 28.02.2019 tarihli Ankara Noterliği tarafından e-tespit tutanağı ile sabit hale geldiğini iddia etti. Davacı, müvekkilin arabuluculuk görüşmelerine başvurmasının ardından davalı yanın Türk Patent ve Marka Kurumu'na \"...\" ibaresini kullanarak marka tescil başvurusunda bulunduğunu, bu başvurunun davalı yanın kötü niyetli olduğunu ve iltisab yaratma amacı taşıdığını iddia etti.",
+        "reasoning_text": "Mahkeme, taraflar arasındaki uyumsuzluğun; davalının kullandıklarının davacının tescilli markası hakkından doğan haklara tecavüz teşkil etmediğini, haksız rekabet yaratmadığını ve tazminat şartlarının oluşmadığını tespit etti. Davanın açılmasını müteakip tarafların dava, cevap ve cevaba cevap dilekçeleri karşılıklı tebliğ olmuş, sundukları deliller alınmış, tescil ve başvuru dosyaları ile Alâkalı ticaret sicil kayıtları getirilmiş, dava şartları incelenmiş, ön inceleme duruşması yapılmış ve taraflar sulhe teşvik olunmuştur.",
+        "verdict_text": "HÜKÜM: Gerekçesi açıklanmış olarak:\n1-Davanın REDDİNE,\n2-Harçlar Yasasına göre hesaplanan 59,30-TL karar harcının peşin alınan 187,86-TL'den mahsubu ile bakiye 128,56-TL'nin kararın kesinleşmesine müteakip istem halinde davacıya iadesine,\n3-Davacının men, ref taleplerinin reddi nedeniyle; Avukatlık Asgarî Ücret Tarifesine göre hesap olan takdiren 5.900,00-TL ücreti vekâletin davacıdan alınarak davalya verilmesine,\n4-Manevi tazminat talebinin reddi nedeniyle; Avukatlık Asgarî Ücret Tarifesine göre hesap olan takdiren 5.900,00-TL ücreti vekâletin davacıdan alınarak davalya verilmesine,\n5-Maddi tazminat talebinin reddi nedeniyle; Avukatlık Asgarî Ücret Tarifesine göre hesap olan takdiren 1.000,00-TL ücreti vekâletin davacıdan alınarak davalya verilmesine,\n6-Davacının yapmış olduğu yargılama giderinin davacı üzerinde bırakılmasına,\n7-Davalı tarafından yargılama gideri sarfedilmediğinden bu hususta karar verilmesine yer olmadığına,\n8-Yatırılan ve kullanılmayan gider avansının, hükmün kesinleşmesine müteakip re'sen yatırına iadesine (HMK m.333).\nDair verilen karar, hazır olan taraf vekillerinin yüzüne karşı, tebliğ tarihinden itibaren 2 haftalık yasal süre içinde Bölge Adliye Mahkemesinde istinaf yolu açık olmak üzere açıkça okunup, usulen anlatıldı. 02/02/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı Sınai Mülkiyet Kanunu (SMK)",
+            "Harçlar Yasası",
+            "Avukatlık Asgarî Ücret Tarifesi",
+            "Hukuk Muhakemesi Kanunu (HMK)"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı ve davalı arasındaki marka ve slogan kullanımlarını inceleyerek, davalı tarafından yapılan kullanımların davacının tescilli markasına tecavüz oluşturmadığını ve haksız rekabet yaratmadığını tespit etti. Dolayısıyla davayı reddetme kararı verildi.",
+    "summary_for_model": "Bu karar, 6769 sayılı Sınai Mülkiyet Kanunu çerçevesinde marka hakları ihlali iddiasını reddetmiştir. Davacı, davalı tarafından kullanılan sloganın tescilli markaya benzediğini iddia etse de, mahkeme bu iddianın temelsiz olduğunu tespit etmiştir. Karar, dava reddi ve harç iadesi ile sonuçlanmıştır."
+}

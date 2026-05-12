@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_679.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2021/679 Esas",
+        "karar_no": "2021/1056",
+        "case_subject": "Marka (Tecavüzün Tesbiti İstemli)",
+        "dava_tarihi": "25/01/2021",
+        "karar_tarihi": "27/05/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde; davalının adresinde delil tesbit işlemi yapılması, markasal kullanımda bulunan markanın tesbiti ve internet sitelerindeki markaya tecavüz teşkil eden ibarelerin engellenmesi talep etmiştir. Davalının markası ile iltisat oluşturduğunu iddia etmiştir.",
+        "reasoning_text": "Mahkeme, dava konusu markanın tecavüzüne ilişkin delillerin sunulmadığını ve davalının markasal kullanımının tescil dışı olduğunu belirlemiştir. İhtiyati tedbir talebinin kabulüne karşı davacı vekili, yasal süreç içinde istinaf kanunu yoluyla başvurmuştur.",
+        "verdict_text": "HÜKÜM: Gerekçesi ayrıntılı kararda açıklandığı üzere; 1-Davacı vekilinin istinaf isteminin kısmen kabulüne, 2-İstanbul 1.Fıkrı ve Sınai Haklar Hukuk Mahkemesi'nin 2021/11 Esas, sayılı dosyasındaki 25.01.2021 tarihli ihtiyati tedbirin reddine ilişkin ara kararının 6100 sayılı HMK'nın 353/1-a-6 maddesi gereğince KALDIRILMASINA, -Dosyanın ilk derece mahkemesine gönderilmesine, 3-İstinaf talebi kısmen kabul edildiğinden 59,30TL istinaf peşin harcının talebi halinde davalc tarafa iadesine, 4-İstinaf aşamasında davacı tarafa yapılan yargılama gideri olan 162,10TL istinaf yoluna başvurma harci ile 29,00 TL tebligat ve posta gideri olmak üzere toplam 191,10 TL'nin davaldan alınarak davacıya verilmesine, 5-İstinaf incelemesi duruşmasız yapıldığından vekalet ücreti takdirine yer olmadığına, Dair; dosya üzerinde yapılan inceleme sonucu 27/05/2021 tarihinde oy birliği ile kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Sınai Mülkiyet Kanunu 159/1 ve 159/3 maddeleri",
+            "Hukuk Muhakemeleri Kanunu 353/1-a-6 maddesi",
+            "Hukuk Muhakemeleri Kanunu 389/1 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markasını kullanmakta olduğunu iddia ederek markanın tecavüzüne karşı dava açmıştır. Mahkeme, davalının markasal kullanımının tescil dışı olduğunu ve delillerin eksik olduğunu belirlemiştir. İhtiyati tedbir talebinin reddine karar verilmiştir.",
+    "summary_for_model": "Davacı vekili, davalının markasını kullanmakta olduğunu iddia ederek markanın tecavüzüne karşı dava açmıştır. Mahkeme, davalının markasal kullanımının tescil dışı olduğunu ve delillerin eksik olduğunu belirlemiştir. İhtiyati tedbir talebinin reddine karar verilmiştir. İstinaf talebi kısmen kabul edilmiştir."
+}

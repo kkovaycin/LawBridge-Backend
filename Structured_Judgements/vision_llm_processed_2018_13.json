@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2018_13.pdf",
+        "court_name": "Antalya Aslıye Ticaret Mahkemesi",
+        "esas_no": "2018/13 Esas",
+        "karar_no": "2021/337",
+        "case_subject": "Tazminat (Ölüm Ve Cismani Zarar Sebepiyie Açılan Tazminat)",
+        "dava_tarihi": "05/01/2018",
+        "karar_tarihi": "25/05/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle: Davallardan ...A.Ş'nin işleteni ve malikinin olan ...'un ise sürücüsu olduğu ... kamyon ... marka ve modeli ... plakalı aracın müvekkilinin imam nikahlı eşi sürücü ...'in sevkte ve idaresinde bulunan ... plakalı araç ... tarihinde çarpması sonucu meydana gelen trafik kazasında ...'in hayatını kaybettiğini, ...'un kural ihlali nedeniyle asli kusurlu olduğunu, müvekkilinin de kazada yaralandığını, müvekkilinin sadece eşinin maddi kazancı ile geçimini sağladığını, herhangi bir sanat veya mesleği bulunmadığını, imam nikahlı eşi vefat ettiği için onun desteğinden yoksun kaldığını, davanın kabulü ile şimdilik ... TL maddi tazminatın davalları ... ile ...A.Ş yönünden olay tarihi olan ... davalı ... Sigorta A.Ş yönünden kendilerine başvurunun tebliği tarihi olan ... tarihinden itibaren işlemsi ve işleyecek yasal faizi ile müşterek ve mütessilsen tahsiline karar verilmesini talep ve dava etmiştir.",
+        "reasoning_text": "Davacı vekili dava dilekçesinde özetle: Açılan davanın haksız ve hukuki dayanaktan yoksun olduğunu, zira, davacı ... müvekkil firma yetkilisinin olumsuz cevap ve talimatına rağmen, gizli ve izinsiz olarak şirket aracını alıp şahsi için kullandığını ve evine giderken kaza yaptığını, dolayısıyla haksız ve yersiz davanın reddi gerektiğini beyan etmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacı Müflis ...A.Ş aleyhine açılan davanın FERAGAT NEDENİYLE REDDİNE, 2-Davalı ... ve Sigorta A.Ş aleyhine açılan maddi tazminat davasının KİSMEN KABULÜ İLE, ... TL maddi tazminatın (telle bağlı kalarak) ... TL'lik kısmına davalı ... için olay tarihinden (...) davalı sigorta şirketi için dava tarihinden itibaren işleyen yasal faiz uygulanarak bakiye alacak kısmına her iki davalı yönünden ıslah tarihi olan ... tarihinden itibaren yasal faiz uygulanarak davallardan müşterek ve mütessilsen tahsiline, 3-Davacının fazlaya ilişkin talebinin reddine, 4-Alınması gerekli ... TL harçtan ...TL peşin, ... TL ıslah harcı olmak üzere toplam ... TL harçın mahsubu ile bakiye ... TL harçın davalları ... ve ... Sigorta A.Ş'den müşterek ve mütessilsen tahsiline, 5-Davacı tarafından yatırılan ... TL başvurma, ... TL peşin ve ... TL ıslah harcı olmak üzere toplam ... TL'nin davacı üzerine brrakılmasına, 6-Davacı tarafından yatırılan ... TL bilirkişi ücreti, ... TL Adli Tip fatura bedeli, ... TL tebligat ve posta gideri olmak üzere toplam ... TL, yargılama giderinden ... TL'sinin davalları ... ve ... Sigorta A.Ş'den müşterek ve mütessilsen alınarak davacıya verilmesine, 285,10 TL'sinin davacı üzerine brrakılmasına, 7-A.Ü.T.uyarınca hesaplanan ... TL vekalet ücretinin davalları müşterek ... ve ... Sigorta A.Ş'den mütessilsen alınarak davacıya, 8-Müterafik kusur indirimi nedeniyle reddedilen dava miktarı üzerinden davalları lehine vekalet ücreti takdirine yer olmadığına, Dair, davacı vekilinin yüzüne karşı, davalının yokluğunda kararın tebliği tarihinden itibaren 2 hafta içerisinde İstinaf yasa yolu açık olmak üzere verilen karar açıkça okunup, anlatıldı. 25/05/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Yargıtay 17.HD nin emsal kararlarına",
+            "İstanbul Adli Tip Kurumu Trafik İhtisas Dairesi'nin raporu",
+            "Aktüer bilirkişi raporu"
+        ]
+    },
+    "summary_for_human": "Davacı, trafik kazasında ölen eşinin maddi tazminatını talep ediyor. Mahkeme, davayı kısmen kabul ederek davacıya maddi tazminat ödemesi için davalları sorumlu tuttu.",
+    "summary_for_model": "Davacı vekili, davanın haksız olduğunu iddia ediyor. Mahkeme, davayı kısmen kabul ederek maddi tazminat ödemesi için davalları sorumlu tuttu. Davacı vekilinin talebi reddedildi."
+}

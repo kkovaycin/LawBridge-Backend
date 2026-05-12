@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2025_8.pdf",
+        "court_name": "İSTANBUL BÖLGE ADLİYE MAHKEMESİ 16. HUKUK DAİRESİ",
+        "esas_no": "2025/8",
+        "karar_no": "2025/300",
+        "case_subject": "Marka (Marka Hakkına Tecavüzden Kaynaklanan)",
+        "dava_tarihi": "26/02/2025",
+        "karar_tarihi": "26/02/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, dava vekili tarafından ihitayati tedbir talepleriyle desteklenmiştir. Davacı, davalı şirketin markayı ihlal ettiğini iddia etmiştir. İhtiyati tedbir talepleri, davalı şirketin markayı kullanmasını engellemek amacıyla sunulmuştur.",
+        "reasoning_text": "İhtiyati tedbir talepleri, dava vekili tarafından sunulmuştur. İkinci derece mahkemesi, dava vekili tarafından yapılan istinaf talebini reddetmiştir. İstinaf talebinin reddi, dava vekili tarafından yapılan istinaf talebinin HUKUK MUHAKEMELERİ KANUNU'nun 353/1-b-1 maddesi uyarınca esastan reddedildiği için yapılmıştır.",
+        "verdict_text": "1-Davalı vekilinin istinaf talebinin HUKUK MUHAKEMELERİ KANUNU'nun 353/1-b-1 maddesi uyarınca ESAS TAN REDDİNE, 2-Alınması gereken 615,40 TL harçtan, peşin alınan 427,60 TL harçın mahsubu ile bakiye 187,80 TL harçın davalıdan alınarak hazineye irat kaydına, 3-Davalı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, 4-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinden yapılan inceleme sonunda, oy birliğiyle kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HUKUK MUHAKEMELERİ KANUNU (HMK)",
+            "HUKUK MUHAKEMELERİ KANUNU'NUN 353. MADDESİ",
+            "HUKUK MUHAKEMELERİ KANUNU'NUN 355. MADDESİ",
+            "HUKUK MUHAKEMELERİ KANUNU'NUN 389-390. MADDELERİ",
+            "HUKUK MUHAKEMELERİ KANUNU'NUN 392. MADDESİ"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliyesi, davalı şirketin markayı ihlal ettiğini iddia eden dava vekili tarafından yapılan ihitayati tedbir taleplerini reddetmiştir. İkinci derece mahkemesi, dava vekili tarafından yapılan istinaf talebini de reddetmiştir.",
+    "summary_for_model": "İstanbul Bölge Adliyesi, dava vekili tarafından yapılan ihitayati tedbir taleplerini ve istinaf talebini reddetmiştir. İstinaf talebinin reddi, HUKUK MUHAKEMELERİ KANUNU'nun 353/1-b-1 maddesi uyarınca esastan reddedildiği için yapılmıştır."
+}

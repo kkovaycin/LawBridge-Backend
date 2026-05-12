@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_55.pdf",
+        "court_name": "T.C. Ankara 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2023/55",
+        "karar_no": "2023/111",
+        "case_subject": "Bayilik sözleşmesi feshedilme ve maddi/manevi tazminat talebi",
+        "dava_tarihi": "10/03/2022",
+        "karar_tarihi": "31/10/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı tarafından kendine ait mağazanın bayilik alındığını iddia ediyor ve bayilik sözleşmesinin feshedilmesinden kaynaklanan 4.000,00 TL maddi ve 50.000,00 TL manevi tazminat talep ediyor.",
+        "reasoning_text": "Mahkeme, davanın Asliye Hukuk Mahkemesi'nde görüldüğünde HMK 114/c ve 115/2 maddeleri uyarınca dava şarti yokluğu nedeniyle usulden reddine karar verdi. Davacı vekili tarafından istinaf edilen kararın HMK'nin 353/1.b.1. maddesi uyarınca esasdan reddine karar verildi.",
+        "verdict_text": "GEREKÇE: Davanın bayilik sözleşmesinin haklı feshedilmesinden kaynaklanan maddi ve manevi tazminat isteme hakkı yoktur. İstinaf talebinin esasdan reddine karar verilir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 114/c",
+            "HMK 115/2",
+            "HMK 355",
+            "HMK 353/1.b.1"
+        ]
+    },
+    "summary_for_human": "Davacı, bayilik sözleşmesinin feshedilmesinden kaynaklanan maddi ve manevi tazminat talep ediyor. Mahkeme, davanın Asliye Hukuk Mahkemesi'nde görüldüğünde usulden reddine karar verdi. Davacı vekili tarafından istinaf edilen kararın esasdan reddine karar verildi.",
+    "summary_for_model": "Dava, bayilik sözleşmesinin feshedilmesinden kaynaklanan maddi ve manevi tazminat talebidir. Mahkeme, davanın Asliye Hukuk Mahkemesi'nde görüldüğünde usulden reddine karar verdi. Davacı vekili tarafından istinaf edilen kararın HMK'nin 353/1.b.1. maddesi uyarınca esasdan reddine karar verildi."
+}

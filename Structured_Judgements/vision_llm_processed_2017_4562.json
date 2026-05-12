@@ -1,0 +1,41 @@
+{
+    "meta_data": {
+        "file_name": "2017_4562.pdf",
+        "court_name": "İstanbul Anadolu 1. Fıkri ve Sanat Hakları Hukuk Mahkemesi",
+        "esas_no": "2015/96 E., 2017/76 K.",
+        "karar_no": "2020/1043 Karar",
+        "case_subject": "Fikir ve Sanat Eseri (Maddi Tazminat İstemli)",
+        "dava_tarihi": "25/05/2017",
+        "karar_tarihi": "11/06/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davayı dilekçesinde özetlemiştir. Müvekkilinin dijital tasarım sanatçısı olduğunu, FSEK md. 4 anlamında eser niteliğinde dijital tasarımlar ve görseller hazırladığını, bu eserleri www...com sitesinde yayınladığını, müvekkilinin imzasıyla Kadıköy Belediyesi Başkanı davalı tarafından izinsiz kullanıldığını iddia etmiştir. Davalılar ise, görselin FSEK anlamında eser niteliğinde olmadığını, davacının eser sahipliği iddiasını ispat edemediğini ve davanın belirsiz alacak davası olarak açılmayacağını iddia etmiştir.",
+        "reasoning_text": "İlk derece mahkemesi, görselin 'işleme' eser olarak kabul edildiğini, davacının eser sahipliği iddiasını desteklediğini ve davalıların ihlal ettiği hakları tespit ettiğini belirtmiştir. Ancak, davacının eser sahipliği iddiasını ispat edemediği ve davanın belirsiz alacak davası olarak açılmayacağı kararı verilmiştir.",
+        "verdict_text": "Davanın kısmen kabul, kısmen reddine, 3.000,00 TL maddi tazminat ve 2.000,00 TL manevi tazminat davacıya verilmesine, davalıdan mütessilen tahsiline karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "FSEK md. 4",
+            "FSEK md. 22-23",
+            "FSEK md. 24",
+            "FSEK md. 14",
+            "FSEK md. 15/1",
+            "FSEK md. 16",
+            "FSEK md. 6",
+            "FSEK md. 11",
+            "FSEK md. 70",
+            "FSEK md. 70/1",
+            "FSEK md. 70/2",
+            "FSEK md. 38",
+            "FSEK md. 15",
+            "FSEK md. 25",
+            "FSEK md. 22",
+            "FSEK md. 25",
+            "FSEK md. 70/1",
+            "HÜKÜM MUHAKEMELERİ KANUNU (HMK) md. 355",
+            "HÜKÜM MUHAKEMELERİ KANUNU (HMK) md. 353/1-b-1"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkilinin dijital tasarımlarını izinsiz kullanan davalıları maddi ve manevi tazminat talep etmiştir. İlk derece mahkemesi, görselin 'işleme' eser olarak kabul edildiğini ancak davacının eser sahipliği iddiasını ispat edemediğini tespit etmiştir. Davanın kısmen kabul, kısmen reddine karar verilmiştir.",
+    "summary_for_model": "Dava, dijital tasarımların izinsiz kullanımı nedeniyle maddi ve manevi tazminat talep etmektedir. İlk derece mahkemesi, görselin 'işleme' eser olarak kabul edildiğini ancak davacının eser sahipliği iddiasını ispat edemediğini tespit etmiştir. Davanın kısmen kabul, kısmen reddine karar verilmiştir. Davalılar, görselin FSEK anlamında eser niteliğinde olmadığını iddia etmiştir."
+}

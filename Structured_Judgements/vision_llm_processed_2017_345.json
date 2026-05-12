@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2017_345.pdf",
+        "court_name": "İstanbul 6. Asliye Ticaret Mahkemesi",
+        "esas_no": "2017/345",
+        "karar_no": "2018/671",
+        "case_subject": "Tazminat (Haksız Rekabetten Kaynaklanan)",
+        "dava_tarihi": "10/04/2017",
+        "karar_tarihi": "21/06/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı şirketin sunucularına ve veri tabanına vekilinin hak ihlali nedeniyle 20.000 TL manevi tazminat talep etti. Davalı, H.M.K. 128. maddesi hükmüne dayanarak davayı inkâr etti. Davacı, davalı tarafından yapılan internet sitelerinde yalan ve yanlıcı açıklamalar nedeniyle TTK 55 ve devam maddeleri kapsamında hak ihlali iddia etti.",
+        "reasoning_text": "Davacı, davalı tarafından yapılan açıklamaların TTK 55/1/a/1 maddesi kapsamında hak ihlali oluşturduğunu iddia etti. Davalı, bu açıklamaların TTK 56/1/e fikrası ve TBK 58 maddesi kapsamında davacıya manevi tazminat talep hakkı verdiğini savundu. Mahkeme, davacı vekilinin vekalet ücretini ve dava giderlerini davalıdan almasını kabul etti.",
+        "verdict_text": "Davanın KISMEN KABULÜ ile 3.000-TL manevi tazminat davacıya verildi. Davacıya 341,55-TL peşin harç, 204,93-TL karar harcı ve 136,62-TL talepler harcı ödendi. Davacı giderleri olarak 36,00-TL BVH ve VSH ve 79,60-TL tebliği ödendi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "H.M.K. 128",
+            "TTK 55",
+            "TTK 56/1/e",
+            "TBK 58",
+            "H.M.K. 333"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin vekalet ücretini ve dava giderlerini davalıdan almasını kabul etti. Davacıya 3.000 TL manevi tazminat verildi. Davacıya harç ve giderler ödendi.",
+    "summary_for_model": "Davacı vekilinin vekalet ücreti ve dava giderleri davalıdan alındı. Davacıya 3.000 TL manevi tazminat verildi. Davacıya harç ve giderler ödendi. Davacı vekilinin vekalet ücreti ve dava giderleri davalıdan alındı."
+}

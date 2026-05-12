@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2020_1106.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2017/1054",
+        "karar_no": "2018/1326",
+        "case_subject": "Haksız rekabet ve ifade özgürlüğü ihlali iddiası",
+        "dava_tarihi": "26/12/2018",
+        "karar_tarihi": "03/11/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekili aracılığıyla müvekkili şirketin sosyal medya hesaplarında yanlış ve yanlıtıcı açıklamalar yaparak haksız rekabet oluşturduğunu iddia etmiştir. Davacı ayrıca, şirketin PTT tarafından gönderilen postaların alıcılara ulaşmadığı iddiasını ve bu durumun çocukların güvenliğini tehdit ettiğini savunmuştur.",
+        "reasoning_text": "Mahkeme, davacının iddialarını reddetmiştir. Mahkeme, davacının sosyal medya hesaplarından yapılan açıklamaların haksız rekabet kapsamına girmediğini ve ifade özgürlüğü kapsamında ele alınması gerektiğini belirtmiştir. Ayrıca, davacının iddialarının yetersiz olduğu ve davanın reddine karar verildiği belirtilmiştir.",
+        "verdict_text": "1-Davacı vekilinin istinaf başvurusunun HMK'nın 353(1b-1) maddesi uyarınca ESASTAN REDDİNE, 2-Davacı tarafından yatırılan 44,40-TL istinaf peşin harcinin alınması gereken 80,70-TL karar harcından mahsubu ile eksik olan 36,30-TL harcin davacıdan tahsili ile hazineye irad kaydına, 3-Davacı tarafından istinaf aşamasında yapılan yargılama giderlerinin kendi üzerinde bırakılmasına, 4-Kararın, HMK'nın 359/4 maddesi uyarınca Dairemiz Yazi İşleri Müdürlüğunce taraflara resen tebligine, Dair, dosya üzerinden yapılan inceleme sonunda, gerekçeli kararın taraflara tebliginden itibaren 2(iki) hafta içerisinde Yargıtay'a temyiz yasa yolu açık olmak üzere oy birliğiyle karar verildi. 03/11/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK'nın 55/1-a maddesi",
+            "TTK'nın 56. maddesi",
+            "TBK'nın 58. Maddesi",
+            "HMK'nın 353/1-b-1 maddesi",
+            "HMK'nın 359/4 maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacının haksız rekabet ve ifade özgürlüğü ihlali iddialarını reddetmiştir. Davacı, müvekkili şirketin sosyal medya hesaplarında yanlış açıklamalar yaparak haksız rekabet oluşturduğunu iddia etmiştir. Ancak mahkeme, bu iddiaların yetersiz olduğunu ve davayı reddettiğini belirtmiştir.",
+    "summary_for_model": "Mahkeme, davacının haksız rekabet ve ifade özgürlüğü ihlali iddialarını reddetmiştir. Davacı, müvekkili şirketin sosyal medya hesaplarında yanlış açıklamalar yaparak haksız rekabet oluşturduğunu iddia etmiştir. Mahkeme, bu iddiaların yetersiz olduğunu ve davayı reddettiğini belirtmiştir. Davacı ayrıca, şirketin PTT tarafından gönderilen postaların alıcılara ulaşmadığı iddiasını ve bu durumun çocukların güvenliğini tehdit ettiğini savunmuştur."
+}

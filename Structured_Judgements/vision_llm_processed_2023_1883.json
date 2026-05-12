@@ -1,0 +1,32 @@
+{
+    "meta_data": {
+        "file_name": "2023_1883.pdf",
+        "court_name": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2023/1883 Esas",
+        "karar_no": "2024/159",
+        "case_subject": "Marka (Tecavüzün Tesbiti İstemi) | Marka (Tecavüzün Giderilmesi İstemi)",
+        "dava_tarihi": "01/11/2023",
+        "karar_tarihi": "05/02/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, 1999'dan beri elektrikli araç şarj cihazları ve benzeri ürünler için özel markalar kullanıyor. Davacı, bu markaları sosyal medyada ve ticari sitelerde kullanıyor. Davacı, bu markaların tecavüz edildiğini iddia ediyor. Davacı, Ankara Noterliği'nden 16.05.2023 tarihli ihbarname ile marka haklarına tecavüz edildiğini bildirdi. Davacı, Beyoğlu Noterliği'nden 09.06.2023 tarihli ihbarname ile marka haklarına tecavüz edildiğini iddia etti.",
+        "reasoning_text": "İlk Derece Mahkemesi, dava konusu uyumsuzluk ve marka haklarının tecavüz edildiği hususunda yalın kanıt sunulduğunu kabul etti. Mahkeme, 390/son maddesi uyarınca yalın kanıt koşulunun gerçekleştiğini anladı. İhtiyati tedbir talebinin kabulüne karar verildi. Davacı vekili, 31/10/2023 tarihli itiraz dilekçesinde, 13/10/2023 tarihli ihtiyatı tedbir kararının kaldırılmasına itiraz etti. İlk Derece Mahkemesi, 01/11/2023 tarihli ara karar ile ihtiyatı tedbir kararının kaldırılmasına karar verdi.",
+        "verdict_text": "HUKUM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacılar vekilinin istinaf isteminin KABULU ile; 2-İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 01.11.2023 tarih, 2023/159 E. Sayılı ara kararının 6100 Sayılı HMK'nun 353/1-a-6. maddesi gereğince KALDIRILMASINA; 3-Dosyanın, yukarıda gösterilen biçimde inceleme ve değerlendirme yapılmak üzere mahkemesine GÖNDERILMESINE; 4-İstinaf yasa yoluna başvuran davacılar tarafından peşin olarak yatırılan istinaf karar ve ilam harcının talebe halinde kendisine iadesine; 5-Dosya üzerinde inceleme yapılması sebebiyle vekalet ücreti tayinine yer olmadığına; 6-İstinaf yasa yoluna başvuran tarafından istinaf aşamasında yapılan giderlerin ilk derece mahkemesine verilecek nihai kararda dikkate alınmasına, 6100 Sayılı HMK'nun 353/1-a-6. ve 362/1-g. maddeleri gereğince dosya üzerinde yapılan inceleme sonucunda ve KESIN olmak üzere, oy birliğiyle karar verildi. 05/02/2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Mahkemeleri Kanunu",
+            "6769 Sayılı Sınai Mülkiyet Kanunu",
+            "159/1. madde",
+            "159/2 madde",
+            "159/3 madde",
+            "390 madde",
+            "394/4. fıkrası",
+            "395. Maddesi",
+            "353/1-a-6. maddesi",
+            "362/1-g. maddesi"
+        ]
+    },
+    "summary_for_human": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi, davacının marka haklarının tecavüz edildiğini iddia ettiği davada ilk derece mahkemesinin kararını kaldırdı. Davacı, marka haklarının tecavüz edildiğini iddia ediyor ve bu iddiaların kabul edilmesini talep ediyor. Mahkeme, dava konusu uyumsuzluk ve marka haklarının tecavüz edildiği hususunda yalın kanıt sunulduğunu kabul etti.",
+    "summary_for_model": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi, davacının marka haklarının tecavüz edildiğini iddia ettiği davada ilk derece mahkemesinin kararını kaldırdı. Davacı, marka haklarının tecavüz edildiğini iddia ediyor ve bu iddiaların kabul edilmesini talep ediyor. Mahkeme, dava konusu uyumsuzluk ve marka haklarının tecavüz edildiği hususunda yalın kanıt sunulduğunu kabul etti. Davacı vekili, ilk derece mahkemesinin kararını kaldırmak için itiraz etti. Mahkeme, dava konusu uyumsuzluk ve marka haklarının tecavüz edildiği hususunda yalın kanıt sunulduğunu kabul etti."
+}

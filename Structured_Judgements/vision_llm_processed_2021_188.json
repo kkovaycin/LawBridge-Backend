@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2021_188.pdf",
+        "court_name": "T.C. İSTANBUL 3.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/188",
+        "karar_no": "2022/176",
+        "case_subject": "Marka ve Alan Adının Devri",
+        "dava_tarihi": "13/02/2018",
+        "karar_tarihi": "12/12/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, davalı ile davacı arasında ortaklık ilişkisi, davalı'nın %80 hissesi ve davacı'nın %20 hissesi olduğu belirtildi. Davacı, davalı'nın davacı şirketi adına ticari faaliyetler yapması için davalı'ya %50'lik pay vermeyi teklif etti. Davacı, davalı'nın davacı şirketi adına ticari faaliyetler yapması için davalı'ya %50'lik pay vermeyi teklif etti. Davacı, davalı'nın davacı şirketi adına ticari faaliyetler yapması için davalı'ya %50'lik pay vermeyi teklif etti.",
+        "reasoning_text": "Davacı, davalı'nın davacı şirketi adına ticari faaliyetler yapması için davalı'ya %50'lik pay vermeyi teklif etti. Davacı, davalı'nın davacı şirketi adına ticari faaliyetler yapması için davalı'ya %50'lik pay vermeyi teklif etti. Davacı, davalı'nın davacı şirketi adına ticari faaliyetler yapması için davalı'ya %50'lik pay vermeyi teklif etti.",
+        "verdict_text": "1-SMK'nın 10.maddesi hükmüne göre; TPMK nezdiinde davalı ... adına tescilli ... ve ...numaralı markaların, ... ŞİRKETİ'ne devredilmesine, 2-Kararın kesinleşmesini müteakip kesinleşmiş karar örneğinin ilgili sicile işlenmek üzere TPMK'na gönderilmesine, 3-Türk hukukunda, alan adlarının haksız olarak tescil halinde gerçek hak sahibine devrine ilişkin bir düzenleme bulunmadığı bilinmekle, alan adının devrine ilişkin talebin reddine, 4-80,70 TL ilam harcının peşin harctan mahsubu ile artan 176,08 TL harcin karar kesinleştiğinde ve talep halinde davacıya iadesine, 5-Avukatlık Asgari Ücret Tarifi uyarınca 15.000,00 TL vekalet ücretinin davalıdan alınarak davacıya verilmesine, 6-Davacı tarafından yaptığı 35,90 TL başvuru harcı, 80,70 peşin harç, 934,50 TL tebligat ve müzekkere masrafı, 6.000 TL bilirkişi ücreti olmak üzere toplam 7.051,10 TL yargılama giderinin davalıdan alınarak davacıya verilmesine, 7-Davacı tarafından fazla yatırılan gider avansının karar kesinleştiğinde ve talep halinde iadesine"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK'nın 10.maddesi",
+            "TPMK",
+            "TBK'nın 547. maddesi",
+            "TBK'nın 551. maddesi",
+            "HMK 345/1.maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı'nın davacı şirketi adına ticari faaliyetler yapması için davalı'ya %50'lik pay vermeyi teklif etti. Davacı, davalı'nın davacı şirketi adına ticari faaliyetler yapması için davalı'ya %50'lik pay vermeyi teklif etti. Davacı, davalı'nın davacı şirketi adına ticari faaliyetler yapması için davalı'ya %50'lik pay vermeyi teklif etti.",
+    "summary_for_model": "Davacı, davalı'nın davacı şirketi adına ticari faaliyetler yapması için davalı'ya %50'lik pay vermeyi teklif etti. Davacı, davalı'nın davacı şirketi adına ticari faaliyetler yapması için davalı'ya %50'lik pay vermeyi teklif etti. Davacı, davalı'nın davacı şirketi adına ticari faaliyetler yapması için davalı'ya %50'lik pay vermeyi teklif etti."
+}

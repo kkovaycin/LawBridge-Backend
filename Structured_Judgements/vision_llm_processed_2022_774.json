@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_774.pdf",
+        "court_name": "İzmir Bölge Adlıye Mahkemesi",
+        "esas_no": "2020/46 Esas",
+        "karar_no": "2022/7 Karar",
+        "case_subject": "Marka Hakkına Tecavüz ve Haksız Rekabet Nedeniyle Maddi ve Manevi Tazminat",
+        "dava_tarihi": "19/06/2020",
+        "karar_tarihi": "25/12/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, müvekkiline ait markanın ihlali nedeniyle dava açmıştır. Müvekkil, markayı kullanmakla suçlanmıştır. Davacı, maddi ve manevi tazminat talep etmiştir.",
+        "reasoning_text": "Mahkeme, dava konusu ürünlerin orijinal olmadığı ve markaya tecavüz edildiği tespitini yapmıştır. İtibar tazminatı talebinin reddedildiği karara varılmıştır.",
+        "verdict_text": "Asıl dosya kapsamında davanın kısmen kabulüne, birleşen dosya kapsamında davanın kabulüne karar verilmiştir. Asıl dosya kapsamında 4.091 TL, birleşen dosya kapsamında 9.968 TL olmak üzere toplam 14.059,22 TL maddi tazminat, asıl dosya kapsamında 3.000 TL, birleşen dosya kapsamında 3.000 TL olmak üzere toplam 6.000 TL manevi tazminat davadan alınarak davacıya verilmiştir. Asıl dosya kapsamında itibar tazminatı talebinin reddine karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Ticaret Kanunu",
+            "Türk Patent ve Marka Kurumu",
+            "6100 Sayılı Hukuk Kurumu Kanunu",
+            "Anayasa"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkiline ait markanın ihlali nedeniyle dava açmıştır. Mahkeme, markaya tecavüz edildiğini tespit etmiş ve maddi tazminat vermiştir.",
+    "summary_for_model": "Marka ihlali davası. Müvekkil markayı kullanmakla suçlanmıştır. Mahkeme, maddi tazminat vermiştir. İtibar tazminatı reddedilmiştir."
+}

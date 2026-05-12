@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2019_355.pdf",
+        "court_name": "T.C. İSTANBUL 1.FİKRÎ VE SİNÂÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2019/355",
+        "karar_no": "2019/478",
+        "case_subject": "Marka kullanımının engellenmesi ve Maddi-Manevi tazminat",
+        "dava_tarihi": "06/11/2019",
+        "karar_tarihi": "30/12/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; Müvekkili şirketin bir restoran- eğlence yeri açtığını, bu eğlence yerinin kira sözleşmesini yaptığını, ismini koyduğunu, isme ait logo hazırlattığını, hazırlattığı logonun ödemelerini yaptığını, tabela yaptırdığını, işletmenin başladığını, eğlence yerinin açıldıkdan sonra da marka değerini arttırmak ve reklam yapmak amacıyla çalışmalar başlattığını, daha sonra kendine ait bir mekanın alt katında bir eğlence yeri daha açtığını, bu eğlence yerine davalı olarak aldığını, davalı ve karısının daha sonra müvekkilinin markasını tescil ettirmede gecikmesini fırsat bilerek, sırf müvekkilinin yarattığı markanın üzerinden para kazanmak ve kendi adlarına tescil ettmek için başvuruda bulunduklarını ve davacı müvekkiline ait instagram hesabı çağırdıklarını, müvekkili gibi kullanmaya başladıklarını, davalların müvekkilinın yarattığı marka ile müvekkilin müşterilerini çağımaya çalıştıklarını, davalların gerek sosyal medyada gerekse her yerde müşterileri yanlıtarak \"...da ki ...'ni kapattık ve ...da ... açtık\" diyerek duyuruda bulunduklarını, davalların ...'da açmayı planladıkları yeni eğlence yerinin sanki davacı müvekkiline ait olan eğlence yerinin devamıymış gibi tüketiciyi yanlıtarak reklam yapmaları nedeniyle davalların TPMK da ... kod numarası ile işlem görmekte olan ve tescili talep edilen ... adlı markanın tedbiren kullanılmasıının engellenmesinin ve 50.000,00-TL maddi, 50.000,00-TL manevi tazminatın davallardan tahsiline, vekalet ücreti ve yargılama giderlerinin davallara yükletilmesine talep ve dava etmiştir.",
+        "reasoning_text": "Mahkememizin 2019/174 E.sayılı dava dosyası incelediğinde; Davacının ... Ltd Şti, davalının ..., dava tarihinin 17/05/2019, dava konusu uyumazlığın ... başvuru numaralı markaya ilişkin olup davanın derdest olduğu ve duruşmasının 25/02/2020 tarihine bırakıldığı anlaşılmıştır. Mahkememizin bu dava dosyası ile 2019/174 E. sayılı dava dosyalarının; Davacısının ve dava konusu uyumazlığın aynı markaya ilişkin olduğu, aralarında hukuki ve fiili irtibat bulunduğu, biri hakkında verilecek kararın diğer davayı etkileyecek olması nedeniyle HMK 166/1 maddesi gereğince her iki dava dosyasının birleştirilmesine, bu davanın esasının kapatılarak, yargılamanın daha önce açıldığı anlaşılan Mahkememizin 2019/174 E.sayılı dava dosyası üzerinden yürütülmesine karar verilmiştir.",
+        "verdict_text": "1-Bu dava ile mahkememizin 2019/174 E. sayılı dava dosyaları arasında hukuki ve fiili irtibat bulunması, biri hakkında verilecek kararın diğer davayı etkileyecek olması nedeniyle HMK 166/1 maddesi gereğince her iki dava dosyasının BİRLLEŞTİRİLMESİNE, 2-Davanın esasının kapatılarak, yargılamanın birleşme kararı verilen mahkememizin 2019/174 E. sayılı dava dosyası üzerinden yürütülmesine, bu dava dosyasının birleştirme kararı verilen mahkememizin 2019/174 E. sayılı dosyası için gönderilmesine, 3-Harc ve yargılama giderlerinin birleşen dava dosyasında değerlendirilmesine, Dair taraflar/vekillerinin yokluğunda, ASIL HÜKMÜ BİRLİKTE İSTİNAF YASA YOLU AÇIK olmak üzere dosya üzerinden yapılan inceleme sonucunda karar verildi. 30/12/2019"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 166/1"
+        ]
+    },
+    "summary_for_human": "Mahkeme, iki dava dosyasını birleştirdi ve davanın esasını kapatarak, birleşen dava dosyasının değerlendirilmesine karar verdi. Davacı, davalıların markasını kötüye kullanmak ve ticari kazanç elde etmek için davayı açtı.",
+    "summary_for_model": "Mahkeme, HMK 166/1 maddesine dayanarak iki dava dosyasını birleştirdi. Davacı, davalıların markasını kötüye kullanmak ve ticari kazanç elde etmek için dava açtı. Karar, birleşen dava dosyasının değerlendirilmesine ve davanın esasının kapatılmasına karar verdi."
+}

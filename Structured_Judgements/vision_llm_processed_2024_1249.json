@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2024_1249.pdf",
+        "court_name": "İstanbul 1. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2024/1249 Esas",
+        "karar_no": "2024/1594 Karar",
+        "case_subject": "Marka (Resmi Makamlarca Açılan Hükmüsüzlük İsteği)",
+        "dava_tarihi": "17/01/2024",
+        "karar_tarihi": "10/10/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, müvekkilinin Kayseri ilinde yiyecek ve içecek sağlanması hizmetlerinin satış için marka yarattığını ve bu markasını tescillediğini iddia etmiştir. Davalı taraf TPMK'ya 23.11.2020 tarihinde başvurarak ... numaralı marka tescili alındığını, müvekkilinin İstanbul 1. Fikri ve Sınai Haklar Mahkemesi'nin 2021/282 D.iş numaralı dosyası ile delil tespitinde bulunduğunu ve bilirkişi raporu ile davalı tarafın müvekkiline ait markayı tam benzerlikle kullandığını ve markaya yönelik tecavüzünü tespit ettiğini belirtmiştir.",
+        "reasoning_text": "Mahkeme, davacı vekilinin istinaf isteminin kabulüne, HMK'nın 355, 353/1-a-6 maddesi gereğince yerel mahkeme kararının re'sen kaldırılmasına karar vermiştir. Mahkeme, davacı vekilinin istinaf istemleri incelemeksizin istinaf istemlerinin kısmen kabulüne, HMK'nın 355, 353/1-a-6 maddesi gereğince yerel mahkeme kararının re'sen kaldırılmasına karar vermiştir.",
+        "verdict_text": "İstanbul 1. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 17.01.2024 tarihli 2022/219 E. - 2024/8 K. sayılı kararıyla; \"...Açılan davanın kısmen kabul kısmen reddine, -Davalı adına kayıtlı ... numaralı markanın 43. Sınıf yönünden kısmi hükmüsüzlüğüne, tümden hükmüsüz kılınmasına talebinin reddine, hükmüsüzlük kararının kesinleşmesiyle birlikte Türk Patent ve Marka Kurumuna kararın bir örneğinin gönderilmesine, -Davalı ticaret unvanından ... ibaresinin çıkartılmasına, hükmün kesinleştiğinde ilgili ticaret sicil müdürlüğüne hükm özetinin gönderilmesine, -Davalı \"https://www.com/, - https://www.instagram.com/.../ - https://www.facebook.com/...\"adreslerine erişim engeli konulması yönündeki taleplerinin web sitesi ve instagram sosyal medya hesapları yönünden ilgili hesaplar yayından kaldırıldığından iş bu hesaplar yönünden taleplerin reddine, -https://www.facebook.com/... adlı facebook hesabında ilk paylaşımın 04/02/2021 tarihinde yapıldığı, her ne kadar söz konusu hesabın uzun yıllardır aktif olarak kullanıldığı sabit ise de söz konusu hesabın halihazırda faal olduğu ve mevcut isim ve içerik itibarıyla kullanının davacının marka hakkına tecavüz teşkil ettiği anlaşılmakla ilgili sosyal medya hesabına erişimin engellenmesine...\"karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 355",
+            "HMK 356",
+            "SMK 5 ve 6",
+            "SMK 6/3",
+            "HMK 140/3",
+            "HMK 297",
+            "Anayasa 141"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı tarafından kullanılan markanın hükmüsüzlüğünü talep etmiştir. Mahkeme, davacı vekilinin istinaf istemini kabul ederek yerel mahkeme kararını kaldırmıştır.",
+    "summary_for_model": "Davacı vekili, davalı tarafından kullanılan markanın hükmüsüzlüğünü talep etmiştir. Mahkeme, HMK'nın 355, 353/1-a-6 maddesi gereğince yerel mahkeme kararının re'sen kaldırılmasına karar vermiştir."
+}

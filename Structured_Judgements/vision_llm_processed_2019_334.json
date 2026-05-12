@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2019_334.pdf",
+        "court_name": "T.C. İSTANBUL 2.FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2019/334 Esas",
+        "karar_no": "2022/14",
+        "case_subject": "Marka (Kullanılmaması Nedeniyle İptal İsteği)",
+        "dava_tarihi": "04/11/2019",
+        "karar_tarihi": "14/01/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, markanın 09. ve 42. sınıflarda tescil edildiğini, ancak Türkiye'de ciddi bir şekilde kullanılmadığını iddia ediyor. Davacı, markanın internet siteleri, sosyal medya hesapları ve ticari faaliyetlerde kullanılmadığını, ayrıca arama motorlarında izlenemediğini belirtiyor.",
+        "reasoning_text": "Mahkeme, markanın tescil tarihinden itibaren 5 yıl içinde ciddi bir şekilde kullanılmadığını tespit etti. Bu durum, Sınai Mülkiyet Kanunu'nun 9. maddesine göre markanın iptaline neden oldu. Davacı tarafından sunulan deliller, markanın ticari faaliyetlerde kullanılmadığını göstermedi.",
+        "verdict_text": "Markanın 09. ve 42. sınıflarda yer alan mal ve hizmetler yönünden KISMEN İPTALİNE, bu mal ve hizmetler yönünden SİÇİLDEN TERKİNİNE karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Sınai Mülkiyet Kanunu (SMK)",
+            "Marka Kanunu (MKK)",
+            "Hukuk Muhakemesi Kanunu (HMK)"
+        ]
+    },
+    "summary_for_human": "Davacı, markanın 5 yıl içinde ciddi bir şekilde kullanılmadığını iddia etti. Mahkeme, bu iddianın doğrulanmadığını tespit etti ve markanın iptaline karar verdi.",
+    "summary_for_model": "Markanın tescil tarihinden itibaren 5 yıl içinde ciddi bir şekilde kullanılmadığı için iptal talebinin kabul edildiği dava. Davacı tarafından sunulan deliller yetersiz bulundu."
+}

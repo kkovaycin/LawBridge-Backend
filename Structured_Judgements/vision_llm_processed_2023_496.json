@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_496.pdf",
+        "court_name": "T.C. İZMİR 2. AŞLİYE TİCARET MAHKEMESİ",
+        "esas_no": "2023/496",
+        "karar_no": "2023/1021",
+        "case_subject": "İtiraz İptali (Eser Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "09/06/2023",
+        "karar_tarihi": "19/12/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, dava dilekçesinde özetle; Müvekkili şirket ile davalı şirket arasında 07.11.2022 tarihli bir eser sözleşmesi imzalandığını, müvekkili şirketin davalı şirkete imalat yapması için anlaşma yapıldığını, ancak davalı şirketin imalatları tamamlamadığını ve ihternameye karşı itiraz ettiğini belirtmiştir.",
+        "reasoning_text": "Mahkeme, davalı şirketin imalatları tamamlamadığı ve ihternameye karşı itiraz ettiği için, davacı vekilinin taleplerini kabul ederek davayı iptal etmiştir. Davalı şirketin imalatları tamamlamadığı ve ihternameye karşı itiraz ettiği için, davacı vekilinin taleplerini kabul ederek davayı iptal etmiştir.",
+        "verdict_text": "1-Davanın KİSMEN KABULÜ İLE, İzmir ... İcra Dairesi'nin ... Esas sayılı takip dosyasına yapılan itirazin 138.000,00-TL iaade bedeli asıl alacağı, 121,93-TL iaade bedeli işlemsi faizi, 1.140,98-TL ihtername masrafı ve 70.000,00-TL gecikme cezası asıl alacağı üzerinden devamına, asıl alacak miktarlarına takip tarihinden itibaren değişen oranlarda avans faizi işletilmesine, fazlasına dair istemin reddine,\n2-Alaçağın 138.000,00-TL'lik kısmı likit niteliğinde görülmekle %20 oranında hesaplanan 27.600,00-TL inkar tazminatının davalıdan alınarak davacıya verilmesine,\n3-Harçlar Kanunu gereğince alınması gereken 14.294,74-TL harçtan peşin olarak alınan 2.538,58-TL harcin mahsubu ile bakiye 11.756,16-TL harcin davalıdan tahsili ile hazineye gelir kaydına,\n4-Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifi uyarınca davacı yararına takdir edilen 33.389,44-TL vekalet ücretinin davalıdan alınıp davacıya verilmesine,\n5-Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifi uyarınca reddedilen miktar üzerinden davalı yararına takdir edilen 927,62-TL vekalet ücretinin davacıdan alınıp davalına verilmesine,\n6-Davacı tarafından peşin olarak yatırılan 2.538,58-TL harcin davalıdan alınarak davacıya verilmesine,\n7-Davacı tarafça sarf edilen 179,90-TL başvuru harci ile 120,50-TL posta ve tebligat ücreti, 300,40-TL yargılama giderinin, davanın ret ve kabul oranına göre 299,07-TL'sinin davalıdan alınarak davacıya verilmesine, bakiyenin davacı üzerinde bırakılmasına,\n8-Artan gider avansının karar kesinleştiğinde ve resen ilgili taraflara iaadesine,\n9-Dava şartı arabulculuk kapsamında hazineden karşılaşıığı anlaşılan 3.120,00-TL arabulculuk ücretinin davanın kabul ve ret oranında hesaplanan 3.106,23-TL'sinin davalıdan, 13,77-TL'sinin davacıdan tahsil edilerek hazineye gelir kaydına, bu hususta harç tahsili müzekkeresi yazılmasına,\nDair, davacı şirket yetkilisi, davacı vekili ve davalı vekilinin yüzüne karşı, diğer tarafların yokluğunda gerekli kararın taraflara tebliginden itibaren 2 hafta içerisinde mahkememize bir dilekçe verilmesi veya tutanağa geçirilmek kaydıyla mahkememiz zabıt katibine beyanda bulunmak ve bu beyanın mahkememiz Hakimi tarafından onaylanması süresi ile istinaf kanun yoluna gidilebileceği, yasal süre içinde istinaf kanun yoluna gidilmediği takdirde kararımızın kesinleşeceği, yasal sürede istinaf kanun yoluna gidilmesi halinde dosyanın ilgili İzmir Bölge Adliye Mahkemesi Hukuk Dairesi'ne istinaf konusunda karar verilmek üzere gönderileceği açıklanmak sureti ile açık yargılama sonunda verilen karar açıkça okunup usulen anlatıldı. 19/12/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Borçlar Kanunu",
+            "Türk Ticaret Kanunu",
+            "Harçlar Kanunu",
+            "Avukatlık Asgari Ücret Tarifi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davalı şirketin imalatları tamamlamadığı ve ihternameye karşı itiraz ettiği için, davacı vekilinin taleplerini kabul ederek davayı iptal etmiştir. Davacı vekilinin taleplerine göre, davalı şirkete karşı 138.000,00-TL iaade bedeli, 121,93-TL işlemsi faizi, 1.140,98-TL ihtername masrafı ve 70.000,00-TL gecikme cezası asıl alacağı üzerinden devamına, asıl alacak miktarlarına takip tarihinden itibaren değişen oranlarda avans faizi işletilmesine, fazlasına dair istemin reddine karar verilmiştir.",
+    "summary_for_model": "Mahkeme, davalı şirketin imalatları tamamlamadığı ve ihternameye karşı itiraz ettiği için, davacı vekilinin taleplerini kabul ederek davayı iptal etmiştir. Davacı vekilinin taleplerine göre, davalı şirkete karşı 138.000,00-TL iaade bedeli, 121,93-TL işlemsi faizi, 1.140,98-TL ihtername masrafı ve 70.000,00-TL gecikme cezası asıl alacağı üzerinden devamına, asıl alacak miktarlarına takip tarihinden itibaren değişen oranlarda avans faizi işletilmesine, fazlasına dair istemin reddine karar verilmiştir. Davacı vekilinin taleplerine göre, davalı şirkete karşı 138.000,00-TL iaade bedeli, 121,93-TL işlemsi faizi, 1.140,98-TL ihtername masrafı ve 70.000,00-TL gecikme cezası asıl alacağı üzerinden devamına, asıl alacak miktarlarına takip tarihinden itibaren değişen oranlarda avans faizi işletilmesine, fazlasına dair istemin reddine karar verilmiştir."
+}

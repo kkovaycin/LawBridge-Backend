@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_754.pdf",
+        "court_name": "İzmir 3. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2021/754",
+        "karar_no": "2022/524",
+        "case_subject": "Haksız reket ve ticari itibar ihlali davası",
+        "dava_tarihi": "22/10/2021",
+        "karar_tarihi": "23/06/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının müvekkili firmasına ait kimyasal maddelerin kötüye kullanılması ve sosyal medyada haksız reklam kampanyaları nedeniyle ticari itibarını zedelediğini iddia etmiştir. Davalının müvekkili firması, davacıya ait ürünlerin kötüye kullanıldığını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacı tarafından yapılan haksız reklam kampanyalarının davalının ticari itibarını zedelediğini kabul etmiştir. Davacı tarafından yapılan haksız reklam kampanyalarının davalının ticari itibarını zedelediğini ve davalının ticari itibarını korumak için manevi tazminat talep etmesi gerektiğini karar vermiştir.",
+        "verdict_text": "Yukarıda Açıklanan Nedenlerle;\n1- Davanın kısmen kabulü ile 10.000,00 TL manevi tazminatın 08/08/2021 tarihinden itibaren işleyecek avans faizi ile birlikte DAVALIDAN ALINARAK DAVACIYA VERILMESINE, fazlaya ilişkin istemin REDDINE,\n2- Karar tarihinden itibaren alınması gereken 683,10 TL karar ve ilam harcından evvelce alınan 1.707,75 TL peşin harç mahsubu ile hazineye irat kaydına, fazladan alınan 1.024,65 TL'nin talep halinde ve kararın kesinleşmesinden sonra DAVACI TARAFINA İADESINE,\n3- Davacı tarafından yatırılan 59,30 TL başvuru harcının, yukarıda mahsubuna karar verilen 683,10 TL peşin harç tutarı toplamı 742,40 TL. har ile gider avansından kullanılan kısım ret kabul oranına göre hesaplanın 20,88 TL'sinden oluşan toplam 763,28 TL. yargılama giderinin DAVALIDAN ALINARAK DAVACIYA VERILMESINE, fazlaya ilişkin yargılama giderinin davacı üzerinde bırakılmasına,\n4- Davacı tarafından yatırılan gider avansından kullanılmayan 42,20 TL'nin 6100 sayılı HMK'nun Gider avans Tarifesinin 5. maddesi gereğince DAVACIYA İADESINE,\n5- Davacı kendisini vekil temsil ettirdiğinden hükmün tarihi itibarıyla yürürlükte bulunan A.Ä.Ü.T. hükümleri gereğince kabul tutarı üzerinden hesap ve takdir edilen 5.100,00 TL'nin DAVALIDAN ALINARAK DAVACIYA VERILMESINE,\n7- Davalı kendisini vekil temsil ettirdiğinden hükmün tarihi itibarıyla yürürlükte bulunan A.Ä.Ü.T. hükümleri gereğince ret tutarı üzerinden hesap ve takdir edilen 5.100,00 TL'nin DAVACIDAN ALINARAK DAVALIYA VERILMESINE,\n8- Dava açmadan evvel dava şartı kapsamında başvurunun yapıldığı sabit olduğundan 1.320,00 TL arabuluculuk ücretinin Hazine tarafından ödenmesi halinde, bu ücretin 6831 sayılı Kanun kapsamında DAVALIDAN TAHŞİLİ İLE HAZİNEYE İRAT KAYDININA, bu hususta Hazineye müzekkere yazılmasına,\n9- Dair davacı vekilinin yüzüne karşı davalı tarafın yokluğunda gerekli kararın tebliginden itibaren 2 haftalık süre içerisinde İzmir Bölge Adliye mahkemeleri nezdiinde istinaf kanun yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK'nın 55. Maddesi",
+            "6100 sayılı HMK'nun Gider avans Tarifesinin 5. maddesi",
+            "6831 sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının müvekkili firmasına ait kimyasal maddelerin kötüye kullanılması ve sosyal medyada haksız reklam kampanyaları nedeniyle ticari itibarını zedelediğini iddia etmiştir. Mahkeme, davacı tarafından yapılan haksız reklam kampanyalarının davalının ticari itibarını zedelediğini kabul etmiştir.",
+    "summary_for_model": "Davacı, davalının müvekkili firmasına ait kimyasal maddelerin kötüye kullanılması ve sosyal medyada haksız reklam kampanyaları nedeniyle ticari itibarını zedelediğini iddia etmiştir. Mahkeme, davacı tarafından yapılan haksız reklam kampanyalarının davalının ticari itibarını zedelediğini kabul etmiştir. Davacı, davalının ticari itibarını korumak için manevi tazminat talep etmesi gerektiğini karar vermiştir."
+}

@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_1765.pdf",
+        "court_name": "Bakırköy 2. Fikri Ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2022/131 E.",
+        "karar_no": "2022/1787",
+        "case_subject": "Marka (Marka Hükmüsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "14/06/2022",
+        "karar_tarihi": "22/12/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı tarafından markanın ticari faaliyetinde kullanıldığını iddia ediyor. Davalı, markayı kullanmadığını ve ticari faaliyet yürütmediğini savunuyor. Davacı, davalı tarafından markanın ticari faaliyetinde kullanıldığını iddia ediyor.",
+        "reasoning_text": "Mahkeme, davacı vekilinin iddiasını kabul etmedi. Davalı tarafından markanın ticari faaliyetinde kullanıldığına dair yeterli kanıt bulunmadığını tespit etti. Davalı tarafından markanın ticari faaliyetinde kullanıldığına dair iddia, mahkeme tarafından reddedildi.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1- Üsül ve yasaya uygun Bakırköy 2. Fikri Ve Sınai Haklar Hukuk Mahkemesi'nin 12/10/2022 tarih ve 2022/131 E. Sayılı ara kararına karşı davallar vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2- 492 Sayılı Harçlar Kanunu gereğince alınması gereken 80,70 TL istinaf karar harcı davallar tarafından peşin yatırıldığından yeniden harç alınmasına yer olmadığına, 3- Davallar tarafça istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına 4- İncelemenin duruşmasız olarak yapılması sebebiyle taraflar yararına vekalet ücreti tayinine yer olmadığına, 5- Taraflarca yatırılan gider avansından harçnamayan kısmın karar kesinleştiğinde iadesine, 6- Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin ilk derece mahkemesince yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/(1)- f. ve 394/(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi. 22/12/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "6769 Sayılı Sınai Mülkiyet Kanunu",
+            "492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin markanın ticari faaliyetinde kullanıldığına dair iddiasını reddetti. Davalı tarafından markanın ticari faaliyetinde kullanıldığına dair yeterli kanıt bulunmadığını tespit etti.",
+    "summary_for_model": "Mahkeme, davacı vekilinin markanın ticari faaliyetinde kullanıldığına dair iddiasını reddetti. Davalı tarafından markanın ticari faaliyetinde kullanıldığına dair yeterli kanıt bulunmadığını tespit etti. Davacı vekilinin iddiası, mahkeme tarafından kabul edilmedi."
+}

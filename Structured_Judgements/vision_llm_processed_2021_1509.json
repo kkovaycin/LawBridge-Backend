@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2021_1509.pdf",
+        "court_name": "İSTANBUL BÖLGE ADLİYE MAHKEMESİ 16. HUKUK DAİRESİ",
+        "esas_no": "2021/1509 Esas",
+        "karar_no": "2021/1666 Karar",
+        "case_subject": "Marka (Marka Hükümsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "29/04/2021",
+        "karar_tarihi": "06/10/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili mahkemeye 2019/85 Esas sayılı dosyada dilekçesiyle; davalıya ait www.eu alan adı web sitesi ve sosyal medya hesaplarında yer linklerinde, müvekkilin tescilli ve tanınmış \"...\" markasının kullanıldığının teknik bilirkişi marifeti ile tespitine ve davalı tarafından üretilen \"...\" markasını taşıyan ürünlerin, davalıya adresinde üretim, dağıtım, satışının durdurulması, ayrıca bu ürünlere ve bu ürünlerin üretimine yarayan makine, araç, kalıp, ambalaj, etiket, kutu, iş evraki, katalog ve her türlü tanıtım ve promosyon araçlarına el konulması hususunda ihtiyati tedbir talep etmiştir.",
+        "reasoning_text": "Mahkemenin 2019/229 Esas sayılı dosyasında davacı vekili müvekkilin \"...\" ibareli markasının tanınmış marka olduğunu, davalıların bu markalı ürünleri üreterek satmakta olduğunu belirterek markaya tecavüz ve haksız rekabetin tespitine, durdurulmasına ve dilekçesinde belirtilttiği linkler ile sosyal medya hesaplarına erişimin engellenmesine, davalılardan \"...\" adına tescilli \"...\" sayılı \"...\" ibareli markanın hükümsüzlüğüne, 3.kişilere devrinin önlenmesine, bu ürünlerin üretim dağıtım tanıtım ve satışının durdurulmasına, el konulmasına ve kararın ilanına karar verilmesini talep ve dava etmiştir.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davalar \"...\" ve \"...\" vekilinin istinaf talebinin HMK'nun 353/1-b-1 maddesi uyarınca ESASTAN REDDİNE, 2-Harc peşin alındığından yeniden harç alınmasına yer olmadığına, 3-Istinafa gelen tarafından yapılan yargılama giderlerinin davalılar üzerinde bırakılmasına, 4-Istinaf incelemesi duruşmalı yapılmadığından vekalet ücretine yer olmadığına, Dosya üzerinde yapılan inceleme sonucunda oy birliği ile HMK'nun 362/1-f maddesi uyarınca kesin olarak karar verildi. 06/10/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 356",
+            "HMK 389",
+            "HMK 390",
+            "SMK 155",
+            "SMK 19",
+            "TPMK"
+        ]
+    },
+    "summary_for_human": "Davacı, davalıların tescilli markasını kullanmakta olduğunu iddia ederek markaya tecavüz ve haksız rekabet iddiasıyla dava açmıştır. Mahkeme, davacı vekilinin istinaf talebini reddetmiştir.",
+    "summary_for_model": "Davacı, davalıların tescilli markasını kullanmakta olduğunu iddia ederek markaya tecavüz ve haksız rekabet iddiasıyla dava açmıştır. Mahkeme, davacı vekilinin istinaf talebini reddetmiştir. Davalıların markasını taşıyan ürünlerin üretimi, dağıtımı ve satışının durdurulması talep edilmiştir."
+}

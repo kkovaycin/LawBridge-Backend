@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2017_1107.pdf",
+        "court_name": "T.C. İSTANBUL 4. ASLİYE TİCARET MAHKEMESİ",
+        "esas_no": "2017/1107",
+        "karar_no": "2021/366",
+        "case_subject": "Tazminat (Hizmet Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "24/02/2017",
+        "karar_tarihi": "01/06/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, Aslıye Hukuk Mahkemesi'ne verdiği dava dilekçesinde, gazetenin haberinin kamu yararı çerçevesinde değerlendirilmesinin izahen varste olduğunu, haberin kamu yararı çerçevesinde yapıldığını ve davada manevi tazminat koşullarının oluşmadığını savunmuştur.",
+        "reasoning_text": "Davanın ticaret mahkemesinin görev alanına girdiği gerekçesiyle görevsizlik kararı verilmesi üzerine dosya tevzi bürosu tarafından mahkemeye tevzi edilmiştir. Davanın redline karar verilerek, davacıya 170,77 TL harçtan mahsubu ile bakiye 111,47 TL'nin kararla kesinleştirildiği ve talep halinde davacı tarafa iadesine karar verilmiştir.",
+        "verdict_text": "HÜKÜM: Açıklanan gerekçeye göre; 1-Davanın redline, 2-Karar tarihine göre alınması gereken 59,30 TL harcin peşin alınan 170,77 TL harçtan mahsubu ile bakiye 111,47 TL'nin karar kesinleştirilmesinde ve talep halinde davacı tarafa iadesine, 3-Davalı kendisini duruşmalarda vekil ile temsil ettiğinden karar tarihi itibarıyla yürürlükte bulunan Avukatlık Asgari Ücret Tarifeşi gereğince hesaplanan 4.080,00 TL vekalet ücretinin davacıdan tahsili ile davalya verilmesine, 4-Davacı tarafından yapılan yargılama giderlerinin davacı üzerinde bırakılmasına, 5-Davacı tarafından yatırılan ve artan gider avansının karar kesinleştirilmesinde ve talep halinde davacıya iadesine, 6-Davalı tarafından yapılan 50,00 TL yargılama giderinin davacıdan alınarak davalya verilmesine, Daire verilen karar davacı vekilinin ve davalı vekilinin yüzüne karşı, gerekli kararın tebliğiden itibaren 2 hafta içerisinde İstanbul Bölge Adliyesi (İstinaf Mahkemesi) nezdiinde istinaf yolu açık olmak üzere verilen karar açıkça okunup, üsülen anlatıldı. 01/06/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Anayasa'nın 28. maddesi",
+            "5187 sayılı Basın Kanunu'nun 1. ve 3. maddeleri",
+            "Anayasa'nın Temel Hak ve Özgürlükler bölümü",
+            "Türk Medeni Kanunu'nun 24 ve 25. maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, gazetenin haberinin kamu yararı çerçevesinde değerlendirilmesinin izahen varste olduğunu savunmuştur. Mahkeme, davanın ticaret mahkemesinin görev alanına girdiği gerekçesiyle görevsizlik kararı vererek davayı reddetmiştir. Davacıya 170,77 TL harçtan mahsubu ile bakiye 111,47 TL'nin kararla kesinleştirildiği ve talep halinde davacıya iadesine karar verilmiştir.",
+    "summary_for_model": "Davacı vekili, gazetenin haberinin kamu yararı çerçevesinde değerlendirilmesinin izahen varste olduğunu savunmuştur. Mahkeme, davanın ticaret mahkemesinin görev alanına girdiği gerekçesiyle görevsizlik kararı vererek davayı reddetmiştir. Davacıya 170,77 TL harçtan mahsubu ile bakiye 111,47 TL'nin kararla kesinleştirildiği ve talep halinde davacıya iadesine karar verilmiştir. Anayasa'nın 28. maddesi, 5187 sayılı Basın Kanunu'nun 1. ve 3. maddeleri, Anayasa'nın Temel Hak ve Özgürlükler bölümü ve Türk Medeni Kanunu'nun 24 ve 25. maddeleri bahsedilmiştir."
+}

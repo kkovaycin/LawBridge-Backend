@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2022_1195.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 22. HUKUK DAİRESİ",
+        "esas_no": "2022/1195 (ESASTAN RET)",
+        "karar_no": "2022/1381",
+        "case_subject": "Alacak",
+        "dava_tarihi": "16/05/2022",
+        "karar_tarihi": "19/10/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkiline ait başka bir dosya içerisinde bulunan Vergi Dairesi Müdürlüğü'ne ilişkin müzekkere cevabında, müvekkilinin bilanço esası usulüne göre defter tuttuğunu, bu sebeple müvekkilinin vergi usul kanununun ilgili hükmü gereği bilanço esasına göre defter tutan birinci sınıf tüccar olduğunu iddia ederek istinaf etmiştir.",
+        "reasoning_text": "Mahkeme, davanın ticari dava niteliğinde olup olmadığı ve belirlenecek niteliğine göre davaya bakmakla görevli mahkemenin asiye hukuk veya asiye ticaret mahkemelerinden hangisi olduğu konularında toplanmaktadır. Davanın, bayilik sözleşmesinin haklı fesihinden kaynaklanan maddi ve manevi tazminat isteme ile ilgilidir. İnceleme, 6100 sayılı HMK'nın 355. Maddesi uyarınca istinaf dilekçesinde ileri sürülen sebeplerle sınırlı, ancak kamu düzenine ilişkin nedenler resen göz önünde tutularak yapılmıştır.",
+        "verdict_text": "ESASTAN REDDİNE, Harçlar Kanunu gereğince alınması gereken harç peşin alındığından başkaca harç alınmasına yer olmadığına, İstinaf eden tarafından yapılan istinaf posta giderlerinin üzerinde bırakılmasına, İstinaf incelemesi sırasında duruşma açılmadığından karşı taraf lehine vekalet ücretine hükmedilmesine yer olmadığına, HMK'nın 333.maddesi gereğince gider avansından kalanın karar kesinleştiğinde yatırına iaadesine, Kararın tebliği ilk derece mahkemesince yapılmasına, HMK'nın 362/1.c maddesi gereğince dosya üzerinden yapılan inceleme sonunda kesin olmak üzere 19/10/2022 tarihinde oybirliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hukuk Muhakemeleri Kanunu (HMK)",
+            "353/1.b.1. maddesi",
+            "333. maddesi",
+            "362/1.c maddesi",
+            "Harçlar Kanunu",
+            "5070 sayılı Kanun m. 5",
+            "6098 sayılı TBK m. 15"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, müvekkilinin vergi defteri tutma durumunu iddia ederek istinaf başvurusu yapmıştır. Mahkeme, istinaf sebeplerinin yetersiz olduğunu ve davanın usulden reddedilmesi gerektiğini karar vermiştir.",
+    "summary_for_model": "İstinaf davasında, davacı vekili müvekkilinin vergi defteri tutma durumunu iddia etmiştir. Mahkeme, HMK'nın 355. Maddesi uyarınca istinaf sebeplerinin yetersiz olduğunu tespit ederek davayı reddetmiştir. Karar, HMK'nın 353/1.b.1. maddesi ve diğer ilgili kanun maddeleri uyarınca verilmiştir."
+}

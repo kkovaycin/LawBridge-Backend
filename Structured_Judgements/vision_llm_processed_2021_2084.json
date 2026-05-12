@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2021_2084.pdf",
+        "court_name": "Bakırköy 2. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/2084 Esas",
+        "karar_no": "2021/2246 Karar",
+        "case_subject": "İhtiyatı tedbir talebi",
+        "dava_tarihi": "01/03/2021",
+        "karar_tarihi": "29/12/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili tedbir talebiyle dava dilekçesinde davalının müvekkiline ait ticari markaları tek başına veya ek unsurlarla birlikte kullanmasını, kendisini davacıyla bağlantılandıran izlenimi vermek için kullandığını, fotoğraf ve görsellerin izinsiz kullanımını, davalının müvekkiline ait ticari marka tecavüzünü ve haksız reklamını iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davalının müvekkiline ait ticari markaların izinsiz kullanımı, fotoğraf ve görsellerin izinsiz kullanımı, davalının ticari faaliyetini engellemek amacıyla internet sitelerine ve sosyal medya hesaplarına erişimin engellenmesine karar verdiğini açıklamıştır.",
+        "verdict_text": "Mahkeme, davalının müvekkiline ait ticari markaların izinsiz kullanımı, fotoğraf ve görsellerin izinsiz kullanımı ve davalının ticari faaliyetini engellemek amacıyla internet sitelerine ve sosyal medya hesaplarına erişimin engellenmesine karar vermiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 159",
+            "HMK 389",
+            "HMK 353",
+            "HMK 356",
+            "SMK 7/5-c"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının müvekkiline ait ticari markaları izinsiz kullanarak davacıyla bağlantı kurduğunu iddia etmiştir. Mahkeme, davalının ticari faaliyetini engellemek amacıyla internet sitelerine ve sosyal medya hesaplarına erişimin engellenmesine karar vermiştir.",
+    "summary_for_model": "Davacı, davalının müvekkiline ait ticari markaların izinsiz kullanımı ve fotoğraf/görsellerin izinsiz kullanımı iddiasıyla dava açmıştır. Mahkeme, davalının ticari faaliyetini engellemek amacıyla internet sitelerine ve sosyal medya hesaplarına erişimin engellenmesine karar vermiştir."
+}

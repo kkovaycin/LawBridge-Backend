@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_1940.pdf",
+        "court_name": "SAMSUN BÖLGE ADLİYE MAHKEMESİ",
+        "esas_no": "2021/480",
+        "karar_no": "2022/501",
+        "case_subject": "Alacak davası",
+        "dava_tarihi": "22/10/2021",
+        "karar_tarihi": "23/03/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, davanın Instagram profilinde görüp beğendiği Pul panel, Pleksi altıgen 3 lü sütun, arka fon, masa seti, pembe pano, Pleksi silindir sütunu sattığını iddia etti. Davacı, bu ürünlerin müvekkiline çok geç gönderildiğini, fatura tutarının 7000 TL olduğunu ve davalının tahsiline karar verilmesini talep etti.",
+        "reasoning_text": "İlk Derece Mahkemesi, davanın ticari dava olmadığı ve mahkemecenin görevli olduğu için görevsizlik kararı verdi. İstinaf talebinde bulunan davalı, bu kararı kaldırmak istedi. Mahkeme, davanın ticari dava olmadığı ve mahkemecenin görevli olduğu için istinaf başvurusunu esastan reddetti.",
+        "verdict_text": "1. Davalının İstinaf Başvurusunun Esastan REDDİNE.\n2. Alınması gerekli 80,70 TL istinaf karar harcından peşin alınan 59,30 TL harçın mahsubu ile bakiye 21,40 TL'nin davalıdan alınarak hazıneye gelir kaydına.\n3. İş bu kararın, bilgi mahiyetinde İlk Derece Mahkemesi'ne taraflara tebliğine.\nDair, HMK'nın 23/son maddesi uyarınca dosya üzerinden yapılan incelemeye kesin olmak üzere oy birliğiyle karar verildi..23/03/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nın 355. maddesi",
+            "HMK'nın 23/son maddesi",
+            "5070 sayılı Elektronik İmza Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davanın Instagram profilinde gördüğü ürünleri sattığını iddia etti ve fatura tutarının ödenmesini talep etti. İlk Derece Mahkemesi, davanın ticari dava olmadığı ve mahkemecenin görevli olduğu için görevsizlik kararı verdi. İstinaf talebinde bulunan davalı, bu kararı kaldırmak istedi. Mahkeme, davanın ticari dava olmadığı ve mahkemecenin görevli olduğu için istinaf başvurusunu esastan reddetti.",
+    "summary_for_model": "Dava, alacak davası olarak sınıflandırılmıştır. İlk Derece Mahkemesi, davanın ticari dava olmadığı ve mahkemecenin görevli olduğu için görevsizlik kararı verdi. İstinaf talebinde bulunan davalı, bu kararı kaldırmak istedi. Mahkeme, davanın ticari dava olmadığı ve mahkemecenin görevli olduğu için istinaf başvurusunu esastan reddetti. Karar, HMK'nın 355. ve 23/son maddeleri ile 5070 sayılı Elektronik İmza Kanunu çerçevesinde verildi."
+}

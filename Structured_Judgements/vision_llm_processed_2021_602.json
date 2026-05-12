@@ -1,0 +1,34 @@
+{
+    "meta_data": {
+        "file_name": "2021_602.pdf",
+        "court_name": "T.C. İSTANBUL 20.AŞLIYE TİCARET MAHKEMESİ",
+        "esas_no": "2021/602 Esas",
+        "karar_no": "2022/416",
+        "case_subject": "Ticari Şirket (Genel Kurul Kararının İptali İstemli)",
+        "dava_tarihi": "19/10/2021",
+        "karar_tarihi": "16/06/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın 26/07/2021 tarihli genel kurul toplantısında alınan 3,4,6,7 numaralı kararların iptali talebini savunmuştur. Davacı, bu kararların TTK 445 ve 446 maddeleri uyarınca iptal edilebileceğini iddia etmiştir. Davacı ayrıca, davanın kabul ve reddi durumunda mahkeme giderlerini talep etmiştir.",
+        "reasoning_text": "Mahkeme, davanın iptal talebini kabul etmiştir. Davacı vekili tarafından sunulan deliller ve savunmalar dikkate alınarak, davanın iptal talebinin haklı olduğu tespit edilmiştir. Mahkeme ayrıca, davanın kabul ve reddi durumunda mahkeme giderlerini davacı tarafından ödenmesi gerektiğini karar vermiştir.",
+        "verdict_text": "1- Davacı tarafından davalı şirkete açılan DAVANIN KISMEN KABULÜ ile; a) Davalı şirketin 26/07/2021 tarihli Genel Kurul Toplantısında alınan gündem maddelerine ilişkin 6 ve 7 numaralı kararların ayrı ayrı İPTALLERİNE, b) 3 ve 4 numaralı kararların iptali talebinin reddine, 2- Davacı tarafından yatırılan peşin harcin alınması gereken 80,70-TL karar harcından mahsubu ile bakiye 21,40-TL karar harcının davalı şirketten tahsil edilerek hazineye giril kaydedilmesine, 3- Davacı tarafından yargılama sırasında yapılan 13 adet tebligat-posta masrafı 90,45-TL, bilirkişi ücreti 3.600,00-TL olmak üzere toplam 3.690,45-TL yargılama giderinin davanın kabul ve red durumuna göre 1.845,22-TL'sinin davalı şirketten alınarak davacıya verilmesine, bakiye kısmın davalı taraf üzerinde bırakılmasına, 4- Davalı tarafından yargılama sırasında yapılan 2 adet tebligat-posta masrafı 52,00-TL yargılama giderinin davanın kabul ve red durumuna göre 26,00-TL'sinin davacıdan alınarak davalı şirkete verilmesine, bakiye kısmın davalı taraf üzerinde bırakılmasına, 5- Davacı taraf yargılama sırasında kendisini bir vekil ile temsil ettiğinden karar tarihinde yürürlükte bulunan AAÜT uyarınca hesaplanan 5.100,00-TL vekalet ücretinin davalı şirketten alınarak davacıya verilmesine, 6- Davalı şirket yargılama sırasında kendisini bir vekil ile temsil ettiğinden karar tarihinde yürürlükte bulunan AAÜT uyarınca hesaplanan 5.100,00-TL vekalet ücretinin davacıdan alınarak davalı şirkete verilmesine, 7- Taraflarca yatırılan gider avansının karar tebliğ işlemleri tamamlandıktan ve karar kesinleştikten sonra kullanılmayan kısmının yatıran ilgili tarafa resen iadesine, Dair; davacı vekilinin ve davalı vekilinin yüzlerine karşı, gerekli kararın taraflara tebliğinden itibaren 2 hafta içinde Mahkememize gönderilecek veya sunulacak dilekçe ile İSTİNAF yasa yolu açık olmak üzere oybirliğiyle verilen karar açıkça okunup usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 420",
+            "TTK 437/4",
+            "TTK 446",
+            "TTK 445",
+            "TTK 436/1",
+            "TTK 365",
+            "TTK 369",
+            "TTK 374",
+            "TTK 408",
+            "TMK 2",
+            "TTK 449",
+            "5070 Sayılı Elektronik İmza Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı tarafından yapılan iptal talebini kabul etmiştir. Davacı vekili tarafından sunulan deliller ve savunmalar dikkate alınarak, davanın iptal talebinin haklı olduğu tespit edilmiştir. Mahkeme ayrıca, davanın kabul ve reddi durumunda mahkeme giderlerini davacı tarafından ödenmesi gerektiğini karar vermiştir.",
+    "summary_for_model": "Mahkeme, davacı tarafından yapılan iptal talebini kabul etmiştir. Davacı vekili tarafından sunulan deliller ve savunmalar dikkate alınarak, davanın iptal talebinin haklı olduğu tespit edilmiştir. Mahkeme ayrıca, davanın kabul ve reddi durumunda mahkeme giderlerini davacı tarafından ödenmesi gerektiğini karar vermiştir. Davacı tarafından yatırılan peşin harcin alınması, tebligat-posta masrafları ve vekalet ücretleri gibi mali talepler de kararlaştırılmıştır."
+}

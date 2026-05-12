@@ -1,0 +1,32 @@
+{
+    "meta_data": {
+        "file_name": "2025_1200.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2025/1200",
+        "karar_no": "2025/1344",
+        "case_subject": "Tespit (D.İş)",
+        "dava_tarihi": "28/04/2025",
+        "karar_tarihi": "23/10/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "İhtiyati tedbir talebi, bir Instagram hesabının markaya ait tescilli isim ve domain'lerin engellenmesini talep ediyor. Talep, markanın hak ihlali ve haksız rekabet nedeniyle reddedildi.",
+        "reasoning_text": "İhtiyati tedbir talebi, HMK 353/1.b.1 maddesine dayanarak reddedildi. Talep, istinaf incelemesi sonucunda duruşmasız yapıldığı için esastan reddine karar verildi.",
+        "verdict_text": "İhtiyati tedbir talebi reddedildi. 615,40 TL maktu harç peşin alınması, istinaf incelemesi duruşmasız yapılması ve istinaf yargılama giderleri olarak kararlaştırıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 356",
+            "SMK 159",
+            "TTK 61",
+            "HMK 389",
+            "SMK 7/1-c",
+            "TTK 55/1-a",
+            "HMK 355",
+            "HMK 353/1.b.1",
+            "HMK 6100"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, bir markanın Instagram hesabının engellenmesini talep eden ihtiyati tedbir talebini reddetti. Talep, istinaf incelemesi sonucunda duruşmasız yapıldığı için esastan reddine karar verildi.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, HMK 353/1.b.1 maddesine dayanarak bir markanın Instagram hesabının engellenmesini talep eden ihtiyati tedbir talebini reddetmiştir. Talep, istinaf incelemesi sonucunda duruşmasız yapıldığı için esastan reddine karar verildi."
+}

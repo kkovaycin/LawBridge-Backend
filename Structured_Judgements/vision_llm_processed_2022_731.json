@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_731.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 14. Hukuk Dairesi",
+        "esas_no": "2022/731",
+        "karar_no": "2022/519",
+        "case_subject": "İhtiyati haciz talebinin reddi",
+        "dava_tarihi": "10/02/2022",
+        "karar_tarihi": "28/04/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "İhtiyati haciz talep eden vekil, ticari ilişki kapsamında 225.693,00 TL alacağını iddia etmiştir. Karşı taraf 15.000,00 TL ödeme yapmıştır. 125.000,00 TL bedelli çek ile vekil tarafından alacak belirtilmiştir. Çekin bankaya ibrazı sonrası 2.670,00 TL banka garantisi alınmıştır. İcra davası başlatılmıştır. İkinci derece mahkemesi, ilk derece mahkemesinin kararına istinaf başvurusu reddetmiştir.",
+        "reasoning_text": "İlk derece mahkemesi, alacakın varlığına kanıta yetersiz olduğu için ihtiyati haciz talebini reddetmiştir. İstinaf başvurusunda, alacakın varlığı ve miktarı konusunda yeterli delil sunulmadığı için ilk derece kararının usul ve yasaya aykırı olduğu iddia edilmiştir. İkinci derece mahkemesi, ilk derece kararının istinaf konusu olarak kabul edilmediğini ve istinaf başvurusunun reddine karar vermiştir.",
+        "verdict_text": "Gerekçesi yukarıda açıklanmış olan; 1-HMK'nın 353/1.b.1. maddesi uyarınca ihtiyati haciz talep eden vekilin istinaf başvurusunun reddine, 2-İhtiyati haciz talep eden tarafından yatırılan istinaf harçlarının Hazineye iad kaydına, 3-İhtiyati haciz talep eden tarafından istinaf kanun yoluyla başvuru için yapılan masrafların kendi üzerlerine bırakılmasına, 4-Gerekli kararın İlk Derece Mahkemesine taraf vekillerine tebliğiğine, 5-Dosyanın kararı veren ilk derece mahkemesine gönderilmesine dair; HMK'nın 353/1.b.1. ve İK'nin 258/3 maddeleri uyarınca dosya üzerinde yapılan inceleme sonucunda, 28.04.22 tarihinde, oybirliğiyle ve kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İK'nin 257. maddesi",
+            "İK'nin 258. maddesi",
+            "HMK'nın 353. maddesi",
+            "HMK'nın 362/1-f ve İK'nin 258/3. maddeleri"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adlıye Mahkemesi, bir şirketin bir diğer şirkete karşı 225.693,00 TL alacak iddiasıyla yaptığı ihtiyati haciz talebini reddetmiştir. Mahkeme, alacakın varlığına yetersiz delil sunulduğunu ve ilk derece mahkemesinin kararının usul ve yasaya uygun olduğunu değerlendirmiştir. İstinaf başvurusu da reddedilmiştir.",
+    "summary_for_model": "İkinci derece mahkemesi, ilk derece mahkemesinin İK 257. maddesi uyarınca ihtiyati haciz talebini reddetmesini onaylamıştır. İstinaf başvurusu, HMK 353/1.b.1. ve İK 258/3 maddeleri uyarınca reddedilmiştir. Alacakın varlığı ve miktarı konusunda yeterli delil sunulmadığı için ilk derece kararının usul ve yasaya uygun olduğu tespit edilmiştir."
+}

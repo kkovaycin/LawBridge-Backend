@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2019_1088.pdf",
+        "court_name": "İstanbul Anadolu 5. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2017/1139E. 2018/979K",
+        "karar_no": "2021/638",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "16/10/2018",
+        "karar_tarihi": "27/05/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davacı şirketin sosyal medyada yaptığı yorum ve paylaşımların davacıyı taciz destekçisi olarak nitelendirdiğini, ancak kamuoyuna yansiyan adli olayın gerçekte vakıf kapsamında bazı öğrencilere destek bursu sağladığını iddia etti. Davacı, bu paylaşımların hakaret ve tahrik ettiği iddialarıyla dava açtı.",
+        "reasoning_text": "İlk derece mahkemesi, davacı vekilinin iddialarını kabul etmedi ve davayı kısmen kabul etti. İstinaf başvurusu sonrası, davanın esas hakkında yeniden hüküm verildi. Hüküm, davacıya 59,30 TL harç ve 170,78 TL mahsubu ile 111,48 TL harç ödemesi, davacı vekilinin vekalet ücretinin davacıya tahsil edilmesi ve istinaf aşamasındaki giderlerin davalıya verilmesi gibi maddelerin içerdiğini belirledi.",
+        "verdict_text": "1-Davanın REDDİNE, 2-Alınması gerekli 59,30 TL harçın, peşin olarak yatırılan 170,78 TL'den mahsubu ile artan 111,48 TL harçın, talep halinde, ilk derece mahkemesince davacıya iadesine, 3-Davacı tarafa sarf edilen yargılama giderlerinin kendi üzerinde bırakılmasına, 4-Davalı tarafa yargılama sırasında yapılan 17,73 TL yargılama giderinin davacıdan alınarak davalı tarafa verilmesine, 5-Artan gider avanslarının, yatıran tarafa iadesine, 6-Davalı kendisini vekille temsil ettiğinden, AAÜT gereğince hesaplanan 4.080,00 TL vekalet ücretinin davacıdan tahsili ile davalıya verilmesine, 7-İstinaf aşamasındaki yargılama giderleri yönünden; a)Davalı tarafa yatırılan 121,30 TL istinaf başvuru harcının Hazineye irad kaydına; davalı tarafından yatırılan peşin istinaf karar harcının, talep halinde davalıya iadesine, b)Davalı tarafa sarf edilen 121,30 TL başvuru harci giderinin ve 35,00 TL posta giderinin davacıdan alınarak davalıya verilmesine, 8-Gerekli kararın ilk derece mahkemesince taraf vekiline tebliğiğine, 9-Dosyanın, karar veren ilk derece mahkemesine gönderilmesine dair; HMK'nın 353/1.b.2. maddesi uyarınca dosya üzerinden yapılan inceleme sonucunda, oy birliğiyle ve kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK'nın 55 ve devam maddeleri",
+            "TTK'nın 54.vd maddeleri",
+            "HMK'nın 353. maddesi",
+            "HMK'nın 353/1.b.2. maddesi",
+            "HMK'nın 362/1.a maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, sosyal medyada taciz destekçisi olarak nitelendiği iddialarıyla dava açtı. İlk derece mahkemesi davayı kısmen kabul etti. İstinaf sonrası, davacıya harç ve mahsubu ödemesi, vekalet ücretinin tahsil edilmesi ve istinaf giderlerinin davalıya verilmesi gibi maddelerin içerdiği hüküm verildi.",
+    "summary_for_model": "Dava, sosyal medyada taciz destekçisi olarak nitelendiği iddialarıyla açıldı. İlk derece mahkemesi davayı kısmen kabul etti. İstinaf sonrası, davacıya harç ve mahsubu ödemesi, vekalet ücretinin tahsil edilmesi ve istinaf giderlerinin davalıya verilmesi gibi maddelerin içerdiği hüküm verildi. Hüküm, HMK'nın 353/1.b.2. ve 362/1.a. maddeleri uyarınca verildi."
+}

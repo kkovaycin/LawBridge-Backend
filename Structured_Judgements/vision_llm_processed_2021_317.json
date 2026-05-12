@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2021_317.pdf",
+        "court_name": "T.C. ANKARA 2. FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/317",
+        "karar_no": "2022/39",
+        "case_subject": "Tasarım Hakkına Tecavüzün ve Haksız Rekabetin Durdurulması, Önlenmesi, Giderilmesi, Maddi ve Manevi Tazminat",
+        "dava_tarihi": "17/11/2021",
+        "karar_tarihi": "01/02/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın konusu olan tasarım haklarına tecavüz ve haksız rekabet iddiasını savundu. Davalların, davacı vekili tarafından temsil edilen şirketin patentli ofis mobilyalarını taklit ettiğini ve haksız kazanç sağladığını iddia etti. Davalların Instagram'da 'online_ofismobilya' adıyla bir sayfa açarak davacı vekili şirkete ait tasarım ürünlerini izinsiz olarak pazarladığını ve sattığını iddia etti. Davalların delilleri yok etme ihtimaline karşı dava açıldı.",
+        "reasoning_text": "Davacı ve davalı vekilleri, dava konusu kalmadığı için davadan feragat ettiler. Dosyalar tetkik edildi ve dava reddedildi. Taraflar arasında vekalet ücreti ve yargılama gideri talebi bulunmadığından, bu konuda karar verilmedi. Davalların bir gider yapmadığından bu konuda karar verilmedi. Yatırılan ve kullanılmayan gider avansının, hükmün kesinleşmesini müteakip re'sen yatıran tarafa iadesine karar verildi.",
+        "verdict_text": "Ferağ Nedeniyle davanın reddi, Peşin alınan 170,78.-TL harçtan (170,78-80,70-1/3=) alınması gereken 26,90.-TL'nin mahsubu ile kalan 143,88.-TL harçın hükmün kesinleşmesini müteakip talep halinde davacıya iadesine, Davacının yapmış olduğu giderlerin kendisi üzerinde bırakılmasına, Taraflar arasında vekalet ücreti ve yargılama gideri talebi bulunmadığından bu konuda karar verilmesine yer olmadığına, Davalların yapmış olduğu bir gider bulunmadığından bu konuda karar verilmesine yer olmadığına, Yatırılan ve kullanılmayan gider avansının, hükmün kesinleşmesini müteakip re'sen yatıran tarafa iadesine (HMK m.333), Dair, tarafların yokluğunda, tebliğ tarihinden itibaren iki hafta içinde Ankara Bölge Adliye Mahkemesine istinaf yolu açık olmak üzere verilen karar, açıkça okunup usulen anlatıldı.01/02/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK m.333"
+        ]
+    },
+    "summary_for_human": "Davacı, davalların tasarım haklarına tecavüz ve haksız rekabet iddiasıyla dava açtı. Taraflar davadan feragat etti ve dava reddedildi. Taraflar arasında vekalet ücreti ve yargılama gideri talebi bulunmadığından bu konuda karar verilmedi. Yatırılan ve kullanılmayan gider avansının iadesi kararlaştırıldı.",
+    "summary_for_model": "Dava, tasarım haklarına tecavüz ve haksız rekabet iddiasıyla açıldı. Taraflar davadan feragat etti ve dava reddedildi. Taraflar arasında vekalet ücreti ve yargılama gideri talebi bulunmadığından bu konuda karar verilmedi. Yatırılan ve kullanılmayan gider avansının iadesi kararlaştırıldı. HMK m.333'a atıf yapıldı."
+}

@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_228.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2020/191",
+        "karar_no": "2023/3114",
+        "case_subject": "Kişilik Haklarının İhlali Sebepyle Tazminat",
+        "dava_tarihi": "16/04/2021",
+        "karar_tarihi": "01/11/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Dava, davacı şirketin müvekkili şirketi Instagram'da hakaret içeren reklamlar vermesi ve ticari itibarı zedelemesi nedeniyle açıldı. Müvekkili şirket, davacı şirketin reklamları durdurması için dava açtı. İlk derece mahkemesi, davacı vekilinin istinaf talebini reddetti.",
+        "reasoning_text": "İstinaf talebi, 6100 Sayılı HMK'nın 353. maddesine dayanılarak reddedildi. Davacı vekilinin iddiası, davacı şirketin ticari itibarı zedelediğini iddia etmesine rağmen, mahkeme bu iddianın kanıtlanamadığını tespit etti.",
+        "verdict_text": "İstinaf talebi reddedildi. 269,85 TL istinaf kararı ve 194,85 TL harç davacı tarafından ödenmelidir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu (HMK)",
+            "6098 Sayılı Türk Borçlar Kanunu",
+            "492 Sayılı Harçlar Kanunu",
+            "7035 Sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, davacı şirketin müvekkili şirketi Instagram'da hakaret içeren reklamlar vermesi ve ticari itibarı zedelemesi nedeniyle açılan davada istinaf talebini reddetti. Müvekkili şirketin iddiaları kanıtlanamadığı için dava reddedildi.",
+    "summary_for_model": "İstinaf talebi, 6100 Sayılı HMK'nın 353. maddesine dayanılarak reddedildi. Davacı vekilinin iddiası, davacı şirketin ticari itibarı zedelediğini iddia etmesine rağmen, mahkeme bu iddianın kanıtlanamadığını tespit etti. İstinaf kararı ve harçler davacı tarafından ödenmelidir."
+}

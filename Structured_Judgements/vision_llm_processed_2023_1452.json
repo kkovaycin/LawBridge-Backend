@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_1452.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2023/1452",
+        "karar_no": "2023/1344",
+        "case_subject": "Marka (Marka Hakkına Tecavüzden Kaynaklanan)",
+        "dava_tarihi": "08/11/2023",
+        "karar_tarihi": "30/05/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacılar vekili, davaların dilekçesinde özetle; davalara ait ve tescilsiz \"...\" markasının iltisat teşkil edecek şekilde kullanılması, müvekkillerine ait tescilli mavi zemin üzerinde sari yazı ile yazılmış \"...\" markası yönünden haksız rekabet ve markaya tecavüz oluşturup oluşturmadığı hususunda Bakırköy 2. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 2023/103 D.iş sayılı dosyası ile tespit davası açılmış olduğunu, İsbü davada dosyaya sunulan bilirkişi raporu ile davalların kullanımının haksız rekabet teşkil ettiğini tespit edildiğini belirtmiştir.",
+        "reasoning_text": "İstanbul Mahkemesi, davacılar vekilinin istinaf dilekçesinde özetle; Bakırköy 2. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 2023/103 Değişik İş sayılı dosyasına sunulan bilirkişi raporunda, \"karşı taraf ...A.S. nin ... no ile tescilli markasının şeklinde ve ... no ile tescilli markasının ise şeklinde olduğu, markalarını tescili edildiği şekilde kullanma zorunluluğu olmasına karşı, tespit talep edenin ... no ile tescilli olan markasındaki renk, görsel ve tasarım ile ayınyet arzedecek şekilde, yine tespit talep edenin ticari sumurlarına kullanacağı renk ve kompozisyonları hiçbir teknik zorunluluk olmadan birebir aynen kullanmak suretiyle tespit talep edenin ürünleri ile karıştırılmaya yol açacak eylemlerde bulunduğunu, sözkonusu eylemin ise TTK hükümlerine göre haksız rekabet teşkil edeceği kanaatine ulaştığını, bu nedenle Mahkemeye talebin reddine karar verilmesinin doğru olmadığını, zira dosyaya sunulan bilirkişi raporu ile de yaklaşık ispat koşulunun oluştuğunu, öte yandan dosyaya sunulan ve Yerel Mahkemeye celp edilen TPE kayıtları ile de sabit olduğu üzere mavi renk üzerinde sari yazı ile yazılmış şekil markasının müvekkili ... adına tescilli olduğunu, yine dosyaya sunulmuş olan internet alışveriş sitelerinden alınan görseller ile müvekkili adına tescilli mavi renk üzerinde sari yazı ile yazılmış şekil markasının davalları tarafından kullanıldığının belli olduğunu, hal böyle iken yaklaşık ispat kuralının yerine getirilmediğinden bahisle tedbir talebinin reddine karar verilmesinin usul ve yasaya aykırı olduğunu belirtmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1- Usul ve yasaya uygun Bakırköy 1. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 30/05/2023 tarih ve 2023/71 E., sayılı ara kararına karşı davacılar vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2- 492 Sayılı Harçlar Kanunu gereğince alınması gereken 269,85 TL maktu istinaf kararı ve ilam harcından peşin yatırılan 179,90 TL harcin mahsubu ile bakiye 89,95 TL harcin davacılardan mütessilien tahsiliyle Hazineye gelir kaydedilmesine, 3- Davacılar tarafından istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, 4- İncelemenin duruşmasız olarak yapılması sebebiyle taraflar yararına vekalet ücreti tayinine yer olmadığına, 5- Taraflarca yatırılan gider avansından harçnamayan kısmın karar kesinleştiğinde iadesine, 6- Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin İlk derece Mahkemesince yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/(1)- f. ve 394/(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi. 08/11/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu (HMK)",
+            "492 Sayılı Harçlar Kanunu",
+            "Ticari Teşkilat Kanunu (TTK)",
+            "Sınai Mülkiyet Kanunu (6769)"
+        ]
+    },
+    "summary_for_human": "İstanbul Mahkemesi, davacılar vekilinin istinaf talebini reddetmiştir. Talep, haksız rekabet ve markaya tecavüz iddialarını destekleyecek yeterli kanıt sunmadığı için kabul edilmemiştir. Karar, HMK ve diğer kanunlara dayanarak verilmiştir.",
+    "summary_for_model": "İstanbul Mahkemesi, davacılar vekilinin istinaf talebini 6100 Sayılı HMK'nın 353/1-b/1. maddesi uyarınca reddetmiştir. Talep, haksız rekabet ve markaya tecavüz iddialarını destekleyecek yeterli kanıt sunmadığı için kabul edilmemiştir. Karar, HMK ve diğer kanunlara dayanarak verilmiştir."
+}

@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2019_2469.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 13. Hukuk Dairesi",
+        "esas_no": "2019/2469",
+        "karar_no": "2021/1715",
+        "case_subject": "Tazminat (Ticari Satımdan Kaynaklanan)",
+        "dava_tarihi": "24/09/2019",
+        "karar_tarihi": "01/12/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesi ile davacının sahibi bulunduğu mağazalarda tanınmış markaların satıldığını ve işyerlerinin isminin AVM'lerde bilinen bir şirket olduğunu iddia etmiştir. Davacı, davasının kendisinin kullandığı \"...\" isimli Instagram hesabında \"...\" tüm bu yer ve müşterilerimizin dikkatine: \"...\" resmi Türkiye distribütörü olarak biz yalnızca web sitemiz olan www....com ve işbirliği yaptığımız Türkiye genelinde ... mağazalarında satış yapmaktayız. ... ve ... gibi firmalarda bulunan ... isimli Türk yapımı ürünler ile bir ilgimiz yoktur. İsim benzerliği sonucu haksız rekabet için avukatlarımız tarafından hukuki süreç başlatıldı. Lütfen gördüğünüz ürünün etiketinde \"...\" olduğunu kontrol ediniz. Aksi takdirde, ... ile başlayan taklit bir ürünü satın almış olacaksınız. Sevgi ve saygılarımızla. ...@...com \"...\" şeklinde paylaşım yaparak davacının tescilli olan ... markalı ürünlerinin taklit ürünler olduğunu ve satın alınmaması gerektiğini, kalitesiz olduğunu ileri sürdüğünü, bu nedenle davacının zarar gördüğünü, davacının ürünlerinin taklit olmadığını, kaliteli ve kullanışlı olduğunu, davalının olumsuz algı yaratarak haksız kazanç sağladığını beyanla, 5.000,00 TL maddi ve 5.000,00 TL manevi tazminatın davalıdan tahsiline ve paylaşımın kaldırılmasına, yargılama giderlerinin ve vekalet ücretinin davalı tarafa yükletilmesine karar verilmesini talep ve dava etmiştir.",
+        "reasoning_text": "İlk Derece Mahkemesi kararı, davacının \"...\" markasıyla ürün sattığını, davalı tarafın \"...\" markasıyla ürün sattığını, müşterilerin ürünleri karıştırması sebebiyle kendisi müşterilerini uyarmak ve ürünlerini ayırt etmelerini sağlamak için açıklama yaptığını, davalının ürününü kötülemediğini, yapılan açıklama bir bütün olarak değerlendirildiğinde kendisi müşteri portföyüne yönelik olduğunu, Türk Ticaret Kanunu'nda \"Dürüstlük kurallarına aykırı davranışlar, ticari uygulamalar\" başlığı altında örnekleme yoluyla sayılan \"Başkalarını veya onların mallarını, iş ürünlerini, fiyatlarını, faaliyetlerini veya ticari işlerini yanlış, yanlıtıcı veya gereksiz yere incitici açıklamalarla kötülemek\" eylemini davalının gerçekleştirdiğini kabul edilemeyeceği çünkü açıklamada davacı dışında satış yapan bir firmasında adının geçtiği ayrıca \"gibi firmalar\" diyerek başka firmaların da kastedildiği, bu suretle davacıya hedef alan bir açıklama olmadığının sabit olduğu, yapılan açıklama davalı tarafın kendisi müşterilerine yönelik bir izahattan ibret olup haksız rekabet şartları gerçekleşmediğinden davanın reddine karar verildiğini ve aşağıdaki hükmün kurulduğunu belirtmiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun 6100 sayılı HMK'nın 353/1-b1 maddesi gereğince ESASTAN REDDİNE, 2-Harçlar Kanunu gereğince istinaf eden tarafından yatırılan 121,30.TL istinaf kanun yoluna başvurma harcının hazinede gelir kaydına, 3-Karar tarihi itibarıyla Harçlar Kanunu gereğince alınması gereken 59,30.TL istinaf karar harcından, istinaf eden tarafından peşin olarak yatırılan 44,40.TL harcin mahsubu ile bakiye 14,90.TL'nin davacından tahsilli ile hazinede gelir kaydına, 4-İstinaf yargılama giderlerinin istinaf eden davacı üzerinde bırakılmasına, 5-Karar kesinleştiğinde ve talep halinde artan gider avansı varsa avansı yatan tarafa iadesine, Dosya üzerinde yapılan inceleme sonucunda HMK'nın 361/1. maddesi gereğince kararın taraflara tebliğ tarihinden itibaren iki hafta içerisinde Yargıtay'da temyiz yolu açık olmak üzere 01/12/2021 tarihinde oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Ticaret Kanunu",
+            "Harçlar Kanunu",
+            "Hukuk Muhakemeleri Kanunu (HMK)",
+            "Yargıtay Hukuk Genel Kurulu Kararı (20.04.1994, E. 1993/11-965 ve K.1994/252)",
+            "Ticari Reklam Ve Haksız Ticari Uygulamalar Yönetmeliği"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin kendisiyle benzer isim ve marka kullanarak haksız rekabet yaptığını iddia etti. İlk derece mahkemesi, davacı vekilinin açıklamasının haksız rekabet oluşturmadığını kararlaştırdı. İstinaf başvurusu reddedildi.",
+    "summary_for_model": "Dava, davacı vekilinin açıklamasının haksız rekabet oluşturup oluşturmadığını incelemektedir. İlk derece mahkemesi, açıklamanın haksız rekabet şartlarını karşılamadığını ve davanın reddine karar verdi. İstinaf başvurusu reddedildi."
+}

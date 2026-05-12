@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2022_1167.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2022/160 E.",
+        "karar_no": "2022/1167",
+        "case_subject": "İhtiyati Tedbir",
+        "dava_tarihi": "16/05/2022",
+        "karar_tarihi": "01/07/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "İhtiyati tedbir isteyen davacı vekili, müvekkiline ait markanın davalı şirkete iltisat ve iltisat oluşturacak şekilde kullanıldığını iddia etmiştir. Davalı firmanın müvekkiline ait markayı ve logonu kullanması, sosyal medya hesaplarında müvekkiline ait online satış aracı olarak Instagram hesabının kullanılması, hak ihlali olarak değerlendirilmiştir.",
+        "reasoning_text": "İhtiyati tedbir talebi, dava esası olarak markanın ihlali ve hak ihlali iddialarına dayanmaktadır. İlk derece mahkemesi kararının kaldırılması talep edilmiştir. İstinaf başvurusu, davacı vekilinin istinaf başvurusunun esas yönünden reddine dair hükmün verilmesi için yapılmaktadır.",
+        "verdict_text": "ESASTAN REDDİNE, İstinaf karar ve ilam harci peşin olarak yatırılması gereklidir. İstinaf aşamasında ihityati tedbir isteyen tarafından yapılan yargılama giderlerinin anlaşma taraflar lehine bırakılması, duruşma açılmadığından vekalet ücreti takdirine yer verilmemiştir. Dava sonucunda KESİN olarak karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı HMK'nin 355. maddesi",
+            "HMK'nin 389. maddesi",
+            "HMK'nin 390/3. maddesi",
+            "HMK'nin 353/1-b.1 maddesi",
+            "HMK'nin 362/1-f maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkiline ait markanın davalı şirkete iltisat edildiğini iddia ederek ihityati tedbir talep etmiştir. İlk derece mahkemesi kararının kaldırılması için istinaf başvurusu yapılmıştır. İstinaf başvurusu reddedilmiştir.",
+    "summary_for_model": "İhtiyati tedbir talebi, markanın ihlali ve hak ihlali iddialarına dayanmaktadır. İlk derece mahkemesi kararının kaldırılması için istinaf başvurusu yapılmıştır. İstinaf başvurusu reddedilmiştir. HMK'nin 355, 389, 390/3, 353/1-b.1 ve 362/1-f maddeleri uygulanmıştır."
+}

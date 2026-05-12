@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2021_218.pdf",
+        "court_name": "İstanbul 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2021/218",
+        "karar_no": "2023/46",
+        "case_subject": "Marka hakkına tecavüz ve haklı reketin tespiti",
+        "dava_tarihi": "20/12/2016",
+        "karar_tarihi": "16/02/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının davacı markasını izinsiz ve hukuka aykırı kullanarak markasına tecavüz ve haklı reket oluşturduğunu iddia etmiştir. Davalının web siteleri, sosyal medya hesapları ve reklamlarında davacı markasını kullanması, kullanıcılar arasında kafa karışıklığına yol açmıştır.",
+        "reasoning_text": "Mahkeme, davalının davacı markasını izinsiz kullanarak markaya tecavüz ve haklı reket oluşturduğunu tespit etmiştir. Davalının bu eylemleri, tüketiciler arasında kafa karışıklığına yol açmış ve davacı markasının itibarını zedelemiştir. Mahkeme, davalının eylemlerinin 6769 sayılı SMK ve HMK 389 vd. maddeleri kapsamında haklı reket oluşturduğunu ve davacı markasına tecavüz yaptığını karar vermiştir.",
+        "verdict_text": "1-DAVANIN KABÜLÜNE, 2-Davalının davacıya ait tescilli marka hakkına tecavüzün ve haklı reketin tespitine, durdurulmasına, önlenmesine, 3-Kaldırma kararı sonrasında alınan bilirkişi raporu kapsamına göre ... alan adı internet sitelerinin yayında olmadığı anlaşılığından bu alan adları yönünden erişim engellenmesi talebi konusu kalmadığından karar verilmesine yer olmadığına, 4-6769 sayılı SMK'nun 159 ve HMK 389 vd. maddeleri kapsamında www.volego.com alan adı yönlendirilmesi suretiyle halen ... üzerinden yayın yapıldığından keza alınan bilirkişi raporlarında iltisat teşkil eden kullanımlarda bulunduğu gözetilerek ... sitesi üzerinden link verilmesi suretiyle ... markası ile çağrışım yapacak markasal kullanımların tedbiren önlenmesine, davalılara ihlal teşkil eden kullanımların kaldırılması için gerekçeli kararın yazılarak teblig tarihinden itibaren 3 aylık süre verilmesine, belirlenen sürede içerikler çıkarılmadığı takdirde siteye erişimin kalıcı olarak engellenmesine, 5-50.000 TL terminatın karar kesinleştiğinde DAVACIYA iadesine, 6-Sosyal medya hesaplarında kapalı olduğu gözetilerek engellenmesi yönündeki istem konusu kaldığından bu yönde karar verilmesine yer olmadığına, 7-179,90 TL ilam harcının peşin harctan mahsubu ile eksik kalan 150,70 TL. harcin davalılardan tahsiline, 8-Avukatlık ücret tarife uyarına 15.000 TL vekalet ücretinin davalılardan alınarak davacıya verilmesine, 9-Davacı tarafın yargılama giderlerinden olan 29,20 TL başvuru harcı 29,20 TL peşin harç, Bozma öncesi ve sonrası 3.275 TL bilirkişi ve tebligat ve müzekkere masrafı, olmak üzere toplam 3.333,40 TL yargılama giderinin davalılardan alınarak davacıya verilmesine, 10-Taraflarca fazla yatırılan gider avansının hüküm kesinleştiğinde ve talebi halinde iadesine, Dair verilen karar davacı ve davalı vekillerinin yüzüne karşı, gerekçeli kararın tarafılara tebliginden itibaren 2 haftalık süre içinde İSTANAF YASA yolu açık olmak üzere karar verilip tefhim kulındı, hazır olanlara duruşma zaptundan örnek verildi. 16/02/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı SMK",
+            "HMK 389 vd. maddeleri",
+            "556 sayılı KHK",
+            "TMK 2. Maddesi",
+            "TTK 54 vd. maddeleri",
+            "HKH 12. Maddesi",
+            "HKH 61/a ve 9. Maddesi",
+            "HKH 266 Maddesi",
+            "İSTANAF YASA"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davalının davacı markasını izinsiz kullanarak markaya tecavüz ve haklı reket oluşturduğunu tespit etti. Davalının eylemleri, tüketiciler arasında kafa karışıklığına yol açtı ve davacı markasının itibarını zedeledi. Mahkeme, davalının eylemlerinin 6769 sayılı SMK ve HMK 389 vd. maddeleri kapsamında haklı reket oluşturduğunu ve davacı markasına tecavüz yaptığını karar verdi.",
+    "summary_for_model": "Mahkeme, davalının davacı markasını izinsiz kullanarak markaya tecavüz ve haklı reket oluşturduğunu tespit etti. Davalının eylemleri, tüketiciler arasında kafa karışıklığına yol açtı ve davacı markasının itibarını zedeledi. Mahkeme, davalının eylemlerinin 6769 sayılı SMK ve HMK 389 vd. maddeleri kapsamında haklı reket oluşturduğunu ve davacı markasına tecavüz yaptığını karar verdi. Davalılara 50.000 TL terminat ve 179,90 TL ilam harcı tahsil edildi."
+}

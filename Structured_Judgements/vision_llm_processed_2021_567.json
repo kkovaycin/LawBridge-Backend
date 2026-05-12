@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2021_567.pdf",
+        "court_name": "T.C. BAKIRKÖY 2. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/567 Esas",
+        "karar_no": "2022/6",
+        "case_subject": "Marka (Tecavüzün Giderilmesi İstemli)",
+        "dava_tarihi": "04/10/2021",
+        "karar_tarihi": "07/02/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesi ile, müvekkili olan firma adına tescilli marka ve sosyal medya hesaplarının bulunduğunu iddia etti. Davacı, davalı yanın marka ile ilgili ihlalleri ve hak ihlalleri nedeniyle tecavüz ve haklı rekabeti bozan eylemlerini durdurulmasını talep etti.",
+        "reasoning_text": "Davacı vekilinin talepleri kabul edilmedi. Davanın kabulüne karar verildi ve davacı vekilinin vergi ve vekalet ücreti talepleri reddedildi. Davacı lehine vergi ve vekalet ücreti talebi kabul edilmedi.",
+        "verdict_text": "1-Davalılar vekilinin kabul beyani doğrultusunda davacının davasının KABULÜNE, 2-Alınması gereken 80,70 TL harçtan peşin alınan 59,30 TL harçın mahsubu ile bakiye 21,40 TL harçın davalılardan alınarak hazinede iade kaydına, 3-Davacı vekilinin vergi ve vekalet ücreti talepleri yönünden feragati doğrultusunda davacı lehine vergi ve vekalet ücreti takdirine yer olmadığına, 4-Kalan gider avansının karar kesinleştiğinde yatıran tarafa iadesine, Gerekçeli kararın tebliği üzerinden 2 haftalık süre içerisinde İstanbul Bölge Adliye Mahkemesi nezdiinde istinaf yolu açık olmak üzere karar verildi. 07/02/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 308 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı yanın marka ihlalleri nedeniyle tecavüz ve hak ihlalleri nedeniyle dava açtı. Mahkeme davayı kabul etti ancak davacı vekilinin vergi ve vekalet ücreti taleplerini reddetti.",
+    "summary_for_model": "Davacı vekilinin talepleri reddedildi. Davanın kabulüne karar verildi ve davacı vekilinin vergi ve vekalet ücreti talepleri reddedildi. Davacı lehine vergi ve vekalet ücreti talebi kabul edilmedi."
+}

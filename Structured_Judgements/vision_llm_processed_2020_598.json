@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2020_598.pdf",
+        "court_name": "BAKIRKÖY 1. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2020/598 Esas",
+        "karar_no": "2020/899",
+        "case_subject": "Tescilsiz tasarım ve internetteki satış engeli talebi",
+        "dava_tarihi": "12/12/2019",
+        "karar_tarihi": "04/06/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekili aracılığıyla, davalının Instagram sayfasında tescilsiz tasarımları sattığını iddia etmiştir. İlk derece mahkemesi, davacının talebini reddetmiştir çünkü davacı tarafından tescilsiz tasarımların Türkiye'de kamuya sunulmadığı ve yaklaşıksız ispat koşulunun sağlanmadığı gerekçesiyle.",
+        "reasoning_text": "Mahkeme, 6769 Sayılı Sınai Mülkiyet Kanunu 159. maddesi (2) fıkrasına dayanarak tescilsiz tasarımların korunmasına ilişkin hükmü değerlendirmiştir. Mahkeme, ilk derece mahkemesinin kararı usul ve esas yönünden hukuka aykırı bulunmuştur.",
+        "verdict_text": "Gerekçe ayrıntılı kararda açıklandığı üzere; 1-6100 sayılı HMK'nin 353/1-b-1 maddesi gereğince talep eden vekilin yerinde görülmeyen istinaf isteminin ES ASTAN REDDİNE, 2-Harc peşin alındığından yeniden harç alınmasına yer olmadığına, 3-İstinaf incelemesi duruşmasız yapıldığından avukatlık ücreti takdirine yer olmadığına, 4-Talep eden tarafça yapılan masrafların üzerinde bırakılmasına, 5-Artan gider avanslarının karar kesinleştiğinde ve talep halinde taraflara iadesine, Dair; dosya üzerinde yapılan inceleme sonucu 04/06/2020 tarihinde oy birliği ile kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 Sayılı Sınai Mülkiyet Kanunu",
+            "6100 sayılı Hukuk Muhakemeleri Kanunu",
+            "5846 sayılı Fikri ve Sanat Eserleri Kanunu",
+            "Türk Ticaret Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının Instagram sayfasında tescilsiz tasarımları sattığını iddia etti. İlk derece mahkemesi talebi reddetti çünkü davacı tarafından tescilsiz tasarımların Türkiye'de kamuya sunulmadığı ve ispat koşulunun sağlanmadığı gerekçesiyle. Yüksek mahkeme ilk derece kararını hukuka aykırı buldu.",
+    "summary_for_model": "Dava, tescilsiz tasarım ve internetteki satış engeli talebini konu alıyor. İlk derece mahkemesi talebi reddetmiştir. Yüksek mahkeme ilk derece kararını usul ve esas yönünden hukuka aykırı bulmuştur. 6769 Sayılı Sınai Mülkiyet Kanunu ve 6100 sayılı Hukuk Muhakemeleri Kanunu'na dayanılarak karar verilmiştir."
+}

@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2020_672.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2020/672 Esas",
+        "karar_no": "2022/1068",
+        "case_subject": "Fikir Ve Sanat Eseri (Tecavüzün Tesbiti İstemi)",
+        "dava_tarihi": "08/10/2019",
+        "karar_tarihi": "15/06/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, sosyal medyada yayınladığı yazılar ve tartışmalar nedeniyle meslek birliği üyeliğinden ihraç edildiğini iddia etmiştir. Davacı, ihracın önlenmesini ve var olan eserlerinin korunmasını talep etmiştir. Davacı, sosyal medya platformu Facebook üzerinden meslek birliği ve kurulları hakkındaki yazısının test edilmesiyle birlikte değerlendirmelerin sonucunda üyelikten çıkarılmasına karar verildiğini belirtmiştir.",
+        "reasoning_text": "Mahkeme, davacının sosyal medyada yaptığı yayınların meslek birliği üyeliğinin duruşuyla bağdaşmayacağı ve disiplin cezası gerektiren fiilin bulunduğu kabul edilmiştir. Mahkeme, davacının sosyal medya üzerinden yapılan yayınların ihracın gerekçesi olarak kabul edildiğini ve disiplin yönergesinin 8/d maddesine göre üyelikten çıkarılma cezasının verildiğini açıklamıştır.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Davalı vekilinin istinaf talebinin HMK'nun 353/1-b-1 maddesi uyarınca ESASTAN REDDİNE, 2-Alınması gereken 80,70 TL harçtan, pesin alınan 54,40 TL harçın mahsubu ile bakiye 26,30 TL harçın davaldan alınarak hazineye irat kaydına, 3-Davalı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, 4-Istinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dair, dosya üzerinde yapılan inceleme sonucunda, HMK'nun 361.maddesi uyarınca tebliğden itibaren iki haftalık süre içerisinde Yargıtay ilgili hukuk dairesinde temyiz yolu açık olmak üzere oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "TCK",
+            "Yönetim Kurulu",
+            "Hayiyet Kurulu",
+            "Üye Disiplin Yönergesi 8/d"
+        ]
+    },
+    "summary_for_human": "Davacı, sosyal medyada yaptığı yayınlar nedeniyle meslek birliği üyeliğinden ihraç edildiğini iddia etmiştir. Mahkeme, ihracın gerekçesi olarak sosyal medya yayınlarını kabul ederek üyelikten çıkarılma cezasına karar vermiştir.",
+    "summary_for_model": "Davacı, sosyal medya yayınları nedeniyle meslek birliği üyeliğinden ihraç edildiğini iddia etmiştir. Mahkeme, ihracın gerekçesi olarak sosyal medya yayınlarını kabul ederek üyelikten çıkarılma cezasına karar vermiştir. Davacı vekilinin istinaf talebi reddedildi."
+}

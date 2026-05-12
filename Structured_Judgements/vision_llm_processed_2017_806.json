@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2017_806.pdf",
+        "court_name": "T.C. İstanbul Anadolu 1. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2017/806",
+        "karar_no": "2018/320",
+        "case_subject": "Tazminat davası",
+        "dava_tarihi": "09/06/2016",
+        "karar_tarihi": "03/04/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davacı şirketin mobil iletişim hizmeti sunduğunu, toplumsal sorumluluk bilinci ile kültür, sanat, spor gibi alanlarda proje desteği verdiğini, çocukların eğitimini desteklemek amacıyla projeler desteklediğini iddia etmiştir. Davacı şirketin, vakfına ait olduğu söylenen yerlerde vuku bulan tecavüz skandalının davacı şirkete karşı çarpıtıldığını, sosyal medyada davacı şirketin adına kâr alma kampanyası yapıldığını, davacı şirketin tecavüzcü sponsoru olarak nitelendirildiğini iddia etmiştir. Davacı, davacı şirketin @dilhanguven adlı kişisel Twitter hesabından davacı şirketin tecavüz suçuna ortak olduğu gibi son derece hakısız aşağılayıcı ve tahkir edici ifadelerde bulunduğunu, davacı şirketi tecavüzcü sponsoru olarak nitelendirdiğini belirtmiştir.",
+        "reasoning_text": "Davacı vekili, davacı şirketin sosyal medyada yaptığı paylaşımda eleştiri ve serserze bulunduğunu, müvekkilinin yapmış olduğu paylaşımın tamamen kişilik haklarına saldırdığını veya hakaret içermediğini iddia ederek haklı davanın reddine karar verilmesini talep etmiştir. Davacı vekili, davacı şirketin ticari itibarı ihlal edildiğini, TTK'nun 55. maddesi kapsamında gerçekte aykırı ve incitici beyanlarla davacı şirketin rakiplerinin rekabette öne çıkarmak suretiyle haklı rekabete sebep verdiği iddiasına dayanarak manevi tazminat istemesine ilişkin davayı savunmuştur.",
+        "verdict_text": "1-Davanın REDDİNE, 2-Alınması gerekli 35,90 TL harçının peşin alınan 170,78-TL harçtan mahsubu ile bakiye 134,88-TL harçın karar kesinleştiğinde ve talep halinde davacı tarafa iadesine, 3-Davalı lehine AAÜT uyarınca takdir olunan 2.180,00-TL ücreti vekaletin davacidan alınarak, davalya verilmesine, 4-Davacının yaptığı yargılama giderlerinin kendi üzerinde bırakılmasına, 5-Bakiye gider avansının karar kesinleştiğinde yatıran tarafa iadesine, Dair, davacı vekilinin yüzüne karşı, davalı tarafın yokluğunda kararın tebliğiinden itibaren 2 hafta içerisinde İstinaf yolu açık olmak üzere verilen karar açıkça okunup, usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK'nun 55. maddesi",
+            "Avrupa İnsan Hakları Sözleşmesinin 10. Maddesi",
+            "Anayasanın 26. Maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davacı şirketin sosyal medyada tacizci ifadeler yayınladığını iddia ederek manevi tazminat talep etti. Mahkeme, davacı şirketin ifadelerinin hakaret veya küçümseme niteliğinde olmadığını ve haklı rekabet amacı taşamadığını kararlaştırarak davayı reddetmiştir.",
+    "summary_for_model": "Davacı, davacı şirketin sosyal medyada tacizci ifadeler yayınladığını iddia ederek manevi tazminat talep etti. Mahkeme, davacı şirketin ifadelerinin hakaret veya küçümseme niteliğinde olmadığını ve haklı rekabet amacı taşamadığını kararlaştırarak davayı reddetmiştir. Davacı vekilinin ücreti ve giderler davacı tarafından ödenmiştir."
+}

@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2020_713.pdf",
+        "court_name": "İzmir Bölge Adlıye Mahkemesi",
+        "esas_no": "2020/713",
+        "karar_no": "2021/1125",
+        "case_subject": "Marka tecavüzü, haksız rekabet ve manevi tazminat davası",
+        "dava_tarihi": "25/10/2018",
+        "karar_tarihi": "04/11/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, markanın haksız kullanıldığını ve manevi tazminat talep etti. Davalı, markanın önceden dayalı hak sahibi olduğunu iddia etti. Marka tescilinin öncesi ve sonrası kullanım tartışmalarına yer verildi.",
+        "reasoning_text": "Mahkeme, HMK'nın 353. ve 356. maddeleri çerçevesinde dava incelendi. Marka tecavüzünün önlenmesi, haksız rekabet ve manevi tazminat taleplerinin temelli olduğu tespit edildi. İstinaf talepleri reddedildi.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere\n1-İzmir Fikri ve Sınai Haklar Hukuk Mahkemesinin 25/10/2018 tarihli, 2018/26 Esas ve 2018/199 karar sayılı kararına karşı davacı-karşı davalı vekili istinaf başvurusu sebeplerinin HMK'nın 353/1-b/1 maddesi uyarınca ES ASTAN REDDİNE,\n2-İstinaf yargılama sırasında duruşma açılmadığından karşılıklı taraflar yararına istinaf vekalet ücreti verilmesine yer olmadığına,\n3-Ajistinaf kanun yoluna başvuran davacı-karşı davalı vekili tarafından alınması gereken 59,30 TL harçtan başlangıçta alınan 35,90 TL'nin mahsubu ile bakiye kalan 23,40 TL'nin davacıdan alınarak hazineye girer kaydına,\nb)Davacı karşı davalı vekili tarafından yatırılmış olduğu istinaf kanun yoluna başvuru harcı olan 98,10 TL'nin hazineye girer yazılmasına,\n4-İstinaf yoluna başvuran tarafın yapmış olduğu istinaf yargılama giderlerinin üzerlerinde bırakılmasına,\n5-Kullanılmayan istinaf gider avansının resen HMK'nun 333. Maddesi gereğince yatıran tarafa İADESİNE,\n6-Gerekli kararın tebliği işlemlerinin kararın temyize tabi bulunması nedeniyle Dairemiz tarafından yerine getirilmesine,\nDair; dosya üzerinde yapılan inceleme neticesinde HMK'nun 361. maddesi uyarınca gerekçeli kararın tebliğinden itibaren 2 haftalık süre zarfinda Yargıtay 11. Hukuk Dairesi nezdiinde temyiz yolu açık olmak üzere oy birliği ile karar verildi. 04/11/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nın 353. ve 356. maddeleri",
+            "HMK'nın 353/1-b/1 maddesi",
+            "HMK'nun 333. Maddesi",
+            "HMK'nun 361. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, markanın haksız kullanıldığını iddia etti ve manevi tazminat talep etti. Mahkeme, marka tecavüzünün önlenmesi ve haksız rekabetin temelli olduğunu tespit etti. İstinaf talepleri reddedildi.",
+    "summary_for_model": "Marka tecavüzü ve haksız rekabet davası. HMK'nın 353. ve 356. maddeleri çerçevesinde incelendi. İstinaf talepleri reddedildi. Marka tescilinin öncesi ve sonrası kullanım tartışmalarına yer verildi."
+}

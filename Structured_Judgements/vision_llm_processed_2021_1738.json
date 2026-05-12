@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2021_1738.pdf",
+        "court_name": "İstanbul Anadolu 8. Aslıye Ticaret Mahkemesi",
+        "esas_no": "1350",
+        "karar_no": "971",
+        "case_subject": "İtiraz İptali (Ticari Satımdan Kaynaklanan)",
+        "dava_tarihi": "25/05/2021",
+        "karar_tarihi": "17/09/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, sosyal medya anlaşmasının imzalanması, anlaşmanın konusu olan sosyal medya hizmetlerinin sağlanması, anlaşmanın 3 aylık süre için geçerli olması ve bu süre içinde sosyal medya işlerinin harici olarak yürütülmesi gibi hususları iddia etmiştir. Davalı vekili ise anlaşmanın dışında yapılan hizmetlerin ücretlendirilmediğini ve davacı tarafından flash bellek içeriğine karşı tebliginin saklı tutulmasını talep etmiştir.",
+        "reasoning_text": "Mahkeme, anlaşmanın konusu olan sosyal medya hizmetlerinin teknik bilgisayıcıca planlanmadığını ve anlaşma kapsamı dışında yapılan hizmetlerin ücretlendirilmediğini tespit etmiştir. Taraflar arasında bir anlaşma ilişkisi bulunmasına rağmen, anlaşma kapsamında yer almayan hizmetlerin ücretlendirilmediği ve bu hizmetlerin anlaşma ile karıştırılmadığı görülmektedir. Bu durumda, taraflar arasında bir ücret kararlaştırılmadan yapılan işlerin ücreti hak kazanmayacağı ve bu işlerin ücreti talep edilemeyeceği sonucuna varılmıştır.",
+        "verdict_text": "İstanbul Anadolu 8. Aslıye Ticaret Mahkemesi, davacı vekilinin istinaf başvurusunun esas olarak reddine karar vermiştir. Davacı vekilinin istinaf başvurusunun 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 353/1.b.1 maddesi gereğince esastan reddine, 2-Harçlar Kanunu gereğince davalı tarafından yatırılan istinaf başvuru harcının hazineden gelir kaydına, yatırılan 1.245,36 TL karar harcından, alınması gerekli 615,40 TL harcin mahsubu ile arta kalan 629,96 TL harcin ilk derece mahkemesine davalıya iadesine, 3-İstinaf yargılama giderlerinin davalı üzerinde brakılmasına, 4-İstinaf yargılama sırasında duruşma açılmadığından vekalet ücreti takdirine yer olmadığına, 5-Kararın ilk derece mahkemesinde taraflara tebligine, Dosya üzerinde yapılan inceleme sonucunda, 6100 sayılı Hukuk Muhakemeleri Kanununun 362/1.a maddesi gereğince kesin olmak üzere oy birliği ile karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hukuk Muhakemeleri Kanunu",
+            "2-Harçlar Kanunu",
+            "492 sayılı Harçlar Kanunu",
+            "TTK maddesi 20",
+            "TTK maddesi 18, f.2 hükmü"
+        ]
+    },
+    "summary_for_human": "Davacı, sosyal medya anlaşmasının imzalanması ve anlaşmanın konusu olan hizmetlerin sağlanması gibi iddiaları ile dava açmıştır. Davalı ise anlaşmanın dışında yapılan hizmetlerin ücretlendirilmediğini iddia etmiştir. Mahkeme, anlaşmanın konusu olan hizmetlerin teknik bilgisayıcıca planlanmadığını ve anlaşma kapsamı dışında yapılan hizmetlerin ücretlendirilmediğini tespit ederek davacı vekilinin istinaf başvurusunu esas olarak reddetmiştir.",
+    "summary_for_model": "Davacı, sosyal medya anlaşmasının imzalanması ve anlaşmanın konusu olan hizmetlerin sağlanması gibi iddiaları ile dava açmıştır. Davalı ise anlaşmanın dışında yapılan hizmetlerin ücretlendirilmediğini iddia etmiştir. Mahkeme, anlaşmanın konusu olan hizmetlerin teknik bilgisayıcıca planlanmadığını ve anlaşma kapsamı dışında yapılan hizmetlerin ücretlendirilmediğini tespit ederek davacı vekilinin istinaf başvurusunu esas olarak reddetmiştir. Taraflar arasında bir anlaşma ilişkisi bulunmasına rağmen, anlaşma kapsamında yer almayan hizmetlerin ücretlendirilmediği ve bu hizmetlerin anlaşma ile karıştırılmadığı görülmektedir."
+}

@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2019_1488.pdf",
+        "court_name": "İstanbul Anadolu 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2019/1488 Esas",
+        "karar_no": "2022/134 Karar",
+        "case_subject": "Marka (Marka Hükmüsüzlüğünden Kaynaklanan)",
+        "dava_tarihi": "02/04/2019",
+        "karar_tarihi": "02/02/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının 2007'den beri ticari faaliyetinde markayı kullanmasını, 2013'te işletme belgesi almasını ve 2013'te markayı davacı adına tescil etmesini iddia ediyor. Davalılar ise davacı adına tescilli markaların TÜRK PATENT VE MARKA KURUMU'ndan internet sitesinde sorgulandığında çıktığını, davacı adına kayıtlı markaların davaya konu markanın ilk başvuru tarihinden sonra tescil edildiğini iddia ediyorlar.",
+        "reasoning_text": "Mahkeme, davacı adına tescilli markaların davalı tarafından kullanıldığını ve davalıların davacı adına tescilli markaları kullanmak için hakları olmadığını tespit etti. Davalıların davacı adına tescilli markaları kullanmaları, davacı adına tescilli markaların davalı tarafından kullanılmasına son verilmesi için ilgililere ihbarname çekildiği için kabul edildi.",
+        "verdict_text": "İstanbul Anadolu 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi 02.04.2019 tarihli 2017/333 E. - 2019/107 K.sayılı kararıyla; \"...davacının işletme adında \"...\" ibaresini 2013 yılının 11. ayundan itibaren kullandığı tespit edilmişse de, bu kullanımın markası bir kallym veya ödülün dağıtılabileceği bir durumda da \"...\" ibaresini kullanmak için davacı tarafından kullanılmasına izin verilmediği, davacı tescili ticaret ünvanında da \"...\" ibaresini kullanmak için davalıların \"...\" markasını tescil ettirdikleri, bu markanın davacı tarafından 2011 yılından bu yana kullanıldığını belirterek, davalılara ait \"...\" markasının hükmüsüzlüğüne ve sicilden terkine karar verilmesini talep ve dava etmiştir.\""
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Kurumu 353",
+            "Hukuk Kurumu 356",
+            "KHK 35/1",
+            "KHK 42/1-a",
+            "TMK 2. Maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının davacı adına tescilli markaları kullanmasını iddia ediyor. Mahkeme, davalıların davacı adına tescilli markaları kullanmalarına izin verilmediğini ve davalıların davacı adına tescilli markaları kullanmalarına son verilmesi için ilgililere ihbarname çekildiğini tespit etti.",
+    "summary_for_model": "Davacı, davalının davacı adına tescilli markaları kullanmasını iddia ediyor. Mahkeme, davalıların davacı adına tescilli markaları kullanmalarına izin verilmediğini ve davalıların davacı adına tescilli markaları kullanmalarına son verilmesi için ilgililere ihbarname çekildiğini tespit etti. Davalıların davacı adına tescilli markaları kullanmaları, davacı adına tescilli markaların davalı tarafından kullanılmasına son verilmesi için ilgililere ihbarname çekildiği için kabul edildi."
+}

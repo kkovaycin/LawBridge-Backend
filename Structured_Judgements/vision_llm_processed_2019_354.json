@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2019_354.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2019/354",
+        "karar_no": "2019/476",
+        "case_subject": "Marka (Tecavüzün Teşbiti İstemi)",
+        "dava_tarihi": "06/03/2019",
+        "karar_tarihi": "06/03/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın internet sitesinde tecavüz teşkil eden içeriklerinin yayımını önlemek için ihtiyatı tedbir talebi etti. Mahkeme, bu talebin değerlendirilmesinin teknik hususlar gerektirdiğini belirleyerek, davacı vekilinin istinaf talebini kabul etti.",
+        "reasoning_text": "Mahkeme, davanın teknik incelenmesi gerekliliğini vurgulayarak, davacı vekilinin istinaf talebini kabul etti. Davanın teknik ve hukuki değerlendirmesi için rapor alınması gerektiği belirtildi.",
+        "verdict_text": "HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacı vekilinin istinaf talebinin KABULÜNE, 2-İstanbul 2.Fikri ve Sınai Haklar Hukuk Mahkemesinin 2018/560 esas sayılı dosyasında verilen 17/12/2018 tarihli ihtiyatı tedbirin reddine dair kararının KALDIRILMASINA, 3-Yukarıda gerekçede belirtiltiği gibi işlem yapılıp bir karar verilmek üzere dosyanın ilk derece mahkemesine İADESİNE, 4-İstinaf peşin harcının talebi halinde davacıya iadesine, 5-İstinaf aşamasında davacı tarafından yapılan yargılama gideri olan 121,30 TL istinaf yoluna başvurma harcının davaldan alınarak davacıya verilmesine, 6-İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, Dosya üzerinden yapılan inceleme sonucu oy birliği ile HMK'nun 362/1-f maddesi uyarınca kesin olarak karar verildi. 06/03/2019"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nun 362/1-f maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin istinaf talebini kabul etti ve davanın teknik incelenmesi için rapor alınmasını gerektirdi. İstinaf peşin harcı davacıya iade edildi.",
+    "summary_for_model": "Davacı vekilinin istinaf talebi kabul edildi. Teknik incelenme için rapor alınması gereklidir. İstinaf peşin harcı davacıya iade edildi. HMK'nun 362/1-f maddesi uygulanmıştır."
+}

@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2022_2357.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 14. Hukuk Dairesi",
+        "esas_no": "2022/2357",
+        "karar_no": "2023/77",
+        "case_subject": "İhtiyati Haciz",
+        "dava_tarihi": "15/11/2022",
+        "karar_tarihi": "26/01/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "İhtiyati haciz talebini değerlendiren ilk derece mahkemesi, davacının vekili tarafından istinaf kanunu yoluyla başvurulan dava dosyasını inceledi. Davacı, ticari anlaşma çerçevesinde 4.000 karton ürün ve 200 karton ürünün gönderilmesini talep etti. Karşı tarafın bu gönderimi reddetmesi, telefon ve WhatsApp üzerinden yapılan görüşmelerin kanıtlanması ve soruşturmanın devam etmesi nedeniyle, ilk derece mahkemesi ihityati haciz talebini kabul etti.",
+        "reasoning_text": "İlk derece mahkemesi, ihityati haciz talebinin İİK'nin 257. maddesine uygunluğunu değerlendirdi. Talebin reddi için istinaf başvurusu yapıldı. İstinaf incelemesi sırasında, HMK'nin 355. maddesi ve İİK'nin 258. maddesi çerçevesinde talebin usul ve yasaya uygunluğunun incelendiği belirtildi. Alacaklı vekili tarafından sunulan delillerin yetersiz olduğu ve ilk derece mahkemesinin kararının doğru olduğu sonucuna varıldı.",
+        "verdict_text": "Gerekçesi yukarıda açıklanmıştır üzere, 1-HMK'nin 353/1.b.1 ve İİK'nin 258/3 maddeleri uyarınca, ihityati tedbir talep eden vekilin istinaf başvurusunun esastan reddine, 2-Alacaklı vekili tarafından yatırılan istinaf başvuru harçlarının Hazineye iad kaydına; bakiye 99,20 TL istinaf karar harçının alacaklıdan tahsiline, 3-Alacaklı vekili tarafından istinaf kanun yoluyla başvuru için yapılan masrafların kendi üzerinde bırakılmasına, 4-Gerekçeli kararın ilk derece mahkemesince taraflara tebliği, 5-Dosyanın, kararı veren ilk derece mahkemesine gönderilmesine dair; HMK'nin 353/1.b.1 ve İİK'nin 258/3. maddeleri uyarınca dosya üzerinden yapılan inceleme sonucunda, oybirliğiyle ve kesin olarak karar verildi. 26.01.2023 KANUN YOLU: HMK'nin 362/1.f ve İİK'nin 258/3 maddeleri uyarınca karar kesindir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İİK'nin 257. Maddesi",
+            "İİK'nin 258. Maddesi",
+            "HMK'nin 355. Maddesi",
+            "HMK'nin 353/1.b.1 Maddesi",
+            "HMK'nin 362/1.f Maddesi"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, ihityati haciz talebini ilk derece mahkemede kabul etti. Davacı, ticari anlaşma çerçevesinde ürün gönderilmesini talep etti ancak karşı taraf reddetti. İlk derece mahkemesi, talebin İİK'nin 257. maddesine uygunluğunu değerlendirdi ve ihityati haciz talebini kabul etti. Karşı taraf, istinaf kanunu yoluyla başvuruda bulundu ancak istinaf incelemesi sonucunda talebin reddine karar verildi. Karar, HMK'nin 353/1.b.1 ve İİK'nin 258/3 maddeleri çerçevesinde verildi.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, ihityati haciz talebini İİK'nin 257. maddesine dayanarak kabul etti. Talebin reddi için istinaf başvurusu yapıldı. İstinaf incelemesi, HMK'nin 355. maddesi ve İİK'nin 258. maddesi çerçevesinde yapıldı. Alacaklı vekili tarafından sunulan delillerin yetersiz olduğu ve ilk derece mahkemesinin kararının doğru olduğu sonucuna varıldı. Karar, HMK'nin 353/1.b.1 ve İİK'nin 258/3 maddeleri uyarınca verildi."
+}

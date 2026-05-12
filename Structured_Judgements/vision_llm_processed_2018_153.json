@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2018_153.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2025/440",
+        "karar_no": "2025/740",
+        "case_subject": "Haksız Rekabetin Tesbiti, Önlenmesi, Durdurulması, Kaldırılması, Men'i, Maddi ve Manevi Tazminat",
+        "dava_tarihi": "10/07/2024",
+        "karar_tarihi": "12/05/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekilinin adı ve yetkileriyle ilgili yanlış kullanımlar, haksız rekabet faaliyetleri ve davaya konu eylemlerle ilgili iddialar öne sürülmüştür. Davacı, davaya konu eylemlerin haksız rekabet olarak kabul edilmesini ve davalının zararları için maddi ve manevi tazminat talep etmiştir.",
+        "reasoning_text": "Mahkeme, davaya konu eylemlerin haksız rekabet olarak kabul edildiğini ve davalının zararları için maddi ve manevi tazminat talep edildiğini tespit etmiştir. Davacı vekilinin talep ettiği maddi ve manevi tazminat taleplerinin kabulüne karar verilmiştir.",
+        "verdict_text": "1-Davacı ve davalı şirket vekillerinin istinaf başvurularının kabulü ile Ankara 2. Fikri ve Sınai Haklar Hukuk Mahkemesi 10/07/2024 gün ve 2023/131 E. - 2024/355 K. sayılı kararının KALDIRILMASI; 2-Dosyanın, davanın yeniden görülmesi için mahkemesine İADESİNE; 3-Davacı ve davalı şirket vekillerinin diğer istinaf itirazlarının bu aşamada incelenmesine yer olmadığına; 4-Birleşen davada davalı Şirket tarafından istinaf başvurusunda peşin olarak yatırılan 4.294,00-TL nispi istinaf karar ve ilam harcının isteklinde anılan davalya iadesine; 5-Istinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına; 6-Istinaf aşamasında yapılan yargılama giderlerinin ilk derece mahkemesinde yapılacak yargılama da değerlendirilmesine; 7-Kararın tebliği ve harç işlemlerinin yerel mahkeme tarafından yaptırılmasına karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK (Türkiye Ticaret Kanunu)",
+            "SMK (Sınai Mülkiyet Kanunu)",
+            "Hukuk Muhakemeleri Kanunu",
+            "Anayasa",
+            "Yargıtay Hukuk Genel Kurulu Kararı",
+            "Yargıtay İçtihadi Birleştirme Kararı"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin haksız rekabet faaliyetleri ve davaya konu eylemlerle ilgili iddialarını kabul ederek davalının zararları için maddi ve manevi tazminat talep etti. Davacı vekilinin talep ettiği maddi ve manevi tazminat taleplerinin kabulüne karar verildi.",
+    "summary_for_model": "Mahkeme, davacı vekilinin haksız rekabet faaliyetleri ve davaya konu eylemlerle ilgili iddialarını kabul ederek davalının zararları için maddi ve manevi tazminat talep etti. Davacı vekilinin talep ettiği maddi ve manevi tazminat taleplerinin kabulüne karar verildi. Davacı ve davalı şirket vekillerinin istinaf başvurularının kabulüne ve dosyanın ilk derece mahkemesine iadesine karar verildi."
+}

@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2020_1179.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2016/369",
+        "karar_no": "2019/350",
+        "case_subject": "Alacak (Hizmet Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "19/04/2019",
+        "karar_tarihi": "18/01/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalıya otel websitesi SEO çalışması ve Google Adwords reklam hizmeti için 3.000 Euro + KDV ve 5.000 Euro + KDV ücret ödemesi talep etmiştir. Davalı, 2015 yılı için ödeme yapıldığını, ancak faturaların ödenmediğini iddia etmiştir. Davacı, davalıya 39.044,00 TL'lik borcun ödenmesini talep etmiştir.",
+        "reasoning_text": "İlke Derece Mahkemesi, davacı tarafından verilen hizmetin içeriği ve kapsamı saptanarak davalıya hizmetin verilmediği hususları aydınlatılmıştır. Davalı tarafından verilen hizmetin teknik olarak mümkün olmadığı ve davacı tarafından ödenmeyen ücretlerin davalıya ait olduğu tespit edilmiştir.",
+        "verdict_text": "Davacı lehine kısmen kabul edilmiştir. Davalıdan 19.283,43 TL'lik tutar alınacaktır."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353. maddesi",
+            "Harçlar Kanunu",
+            "Hukuk Muhakemeleri Kanunu"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, davacı tarafından otel websitesi SEO ve Google Adwords reklam hizmeti için ödenmeyen ücretlerin davalıya ait olduğunu tespit ederek davacı lehine kısmen karar vermiştir.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, davacı tarafından verilen hizmetin teknik olarak mümkün olmadığı ve davalı tarafından ödenmeyen ücretlerin davalıya ait olduğu tespit ederek davacı lehine kısmen karar vermiştir. Davalıdan 19.283,43 TL'lik tutar alınacaktır."
+}

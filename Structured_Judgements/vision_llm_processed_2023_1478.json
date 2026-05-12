@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2023_1478.pdf",
+        "court_name": "İstanbul 3. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2023/1347",
+        "karar_no": "2023/75 E",
+        "case_subject": "Menfi Tespit (Fikri Ve Sanat Eseri Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "17/07/2023",
+        "karar_tarihi": "08/11/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dilekçesinde MESAM Yönetim Kurulu Başkanı'nın hakaret ve iftiralara yer verdiğini iddia etti. Davacı, MESAM'ın üyelikten çıkarma kararının durdurulmasını talep etti.",
+        "reasoning_text": "Mahkeme, ilk derece kararının usul ve yasaya uygun olduğunu tespit etti. İstinaf talebinin reddine karar verildi.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1- Usul ve yasaya uygun İstanbul 3. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 17.07.2023 tarih ve 2023/75 E, sayılı ara kararına karşı davalı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2- 492 Sayılı Harçlar Kanunu gereğince alınması gereken 269,85 TL istinaf karar harcı davalı tarafından peşin yatırıldığından yeniden harç alınmasına yer olmadığına,3- Davalı tarafa istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına,4- İncelemenin duruşmasız olarak yapılması sebebiyle taraflara vekalet ücreti tayinine yer olmadığına,5- Taraflarca yatırılan gider avansından harçtanmayan kısmın karar kesinleştiğinde iadesine,6- Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin ilk derece Mahkemesinde yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/(1-f) ve 394/(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi. 08/11/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "2- 492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, MESAM Yönetim Kurulu Başkanı'nın hakaret ve iftiralara yer verdiğini iddia etti. Mahkeme ilk derece kararının usul ve yasaya uygun olduğunu tespit etti ve istinaf talebini reddetti.",
+    "summary_for_model": "Davacı vekili, MESAM Yönetim Kurulu Başkanı'nın hakaret ve iftiralara yer verdiğini iddia etti. Mahkeme ilk derece kararının usul ve yasaya uygun olduğunu tespit etti ve istinaf talebini reddetti. 6100 Sayılı HMK ve 2- 492 Sayılı Harçlar Kanunu'na dayanarak karar verildi."
+}

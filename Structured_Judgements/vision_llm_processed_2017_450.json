@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2017_450.pdf",
+        "court_name": "İstanbul 1. Fıkri ve Sanayi Haklar Hukuk Mahkemesi",
+        "esas_no": "2017/450",
+        "karar_no": "2018/231",
+        "case_subject": "Marka hakkına tecavüz ve haksız rekabetin tesbiti, meni, refi",
+        "dava_tarihi": "20/12/2016",
+        "karar_tarihi": "24/05/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, davaların müvekkil adına tescilli ve tanınmış şekil markaları üzerindeki tescilsiz, izinsiz ve hukuka aykırı kullanım file yarattığı marka hakkına tecavüz ve haksız rekabetin tesbiti, meni, refi taleplerini ile 6769 sayılı SM ve HMK m, 389 gereğince söz konusu fillerin durdurulması ve web sitelerine ve davacı markasının görsellerinde kullanıldığı anlaşılan özel hizmetler ve Facebook ve Linkedin hesaplarındaki ibareli markaların ve logolarının site içeriklerinden çıkartılması taleplerini ileri sürmüştür.",
+        "reasoning_text": "Davacı vekili, davaların müvekkil adına tescilli ve tanınmış şekil markalarının izinsiz ve hukuka aykırı olarak kendi kartvizitlerinde ve kendisini \"SERVİSİ olarak tanıtmakta olduğunu savunmuştur. Davacı vekili, davaların müvekkil adına tescilli ve tanınmış şekil markalarının kullanımının, markanın ihlalini teşkil ettiğini ve haksız kazanç elde ettiğini iddia etmiştir. Mahkeme, davacı vekilinin iddialarını kabul ederek davaların müvekkil adına tescilli ve tanınmış şekil markalarının kullanımının haksız rekabet oluşturduğunu tespit etmiştir.",
+        "verdict_text": "1-Davaların davacıya ait tescilli marka hakkına tecavüzün ve haksız rekabetin tesbitine, durdurulmasına, önlenmesine, II-6769 sayılı SMK'nun 159 ve HMK 389 vd. maddeleri kapsamında verilen 30.12.2016 tarihli tedbirin devamına, 50.000 TL terminatın karar kesinleştiğinde DAVACIYA iaadesine, (davaların 6769 sayılı SM ve HMK m, 389 gereğince söz konusu fillerin durdurulması ve web sitelerine ve davacı markasının görsellerinde kullanıldığı anlaşılan özel hizmetler ve Facebook ve Linkedin hesaplarındaki ibareli markaların ve logolarının site içeriklerinden çıkartılması taleplerine kadar Türkiye'de erişimin engellenmesi hususunda verilen tedbirin devamına) 2-35,90 TL ilam harcının peşin harctan mahsubu ile ekşi kalan 6,70 TL, harçın davalardan tahsiline, 3-Avukatlık ücret tarife uyarına 3.145 TL, vekalet ücretinin davalardan alınarak davacıya verilmesine 4-Davacı tarafın yargılama giderlerinden olan 29,20 TL başvuru harcı 29,20 peşin harç 205,40 TL tebligat ve müzekkere masrafı toplam 263,80 TL yargılama giderinin davalardan alınarak davacıya verilmesine, 5-Tarafalca fazla yatırılan gider avansının hükmün kesinleştiğinde ve talep halinde iaadesine, Dair verilen karar davacı ve davalı vekillerinin yüzüne karşı, gerekli kararın taraflara tebliginden itibaren 2 haftalık süre içinde İSTANF YASA yolu açık olmak üzere karar verilip tefhim kilındı, hazır olanlara duruşma zaptından örnek verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 sayılı Sanayi Mülkiyeti Kanunu",
+            "556 sayılı Markaların Korunması Hakkında Kanun",
+            "Türk Ticaret Kanunu",
+            "Türk Patent Enstitüsü",
+            "Türk Ticaret Kanunu 55. madde",
+            "Türk Ticaret Kanunu 54. madde"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin iddialarını kabul ederek davaların müvekkil adına tescilli ve tanınmış şekil markalarının izinsiz ve hukuka aykırı kullanımını haksız rekabet olarak tespit etti. Davacıya 50.000 TL terminat, 35,90 TL ilam harcı, 3.145 TL avukatlık ücreti ve 263,80 TL yargılama gideri tahsil edildi.",
+    "summary_for_model": "Mahkeme, davacı vekilinin iddialarını kabul ederek davaların müvekkil adına tescilli ve tanınmış şekil markalarının izinsiz ve hukuka aykırı kullanımını haksız rekabet olarak tespit etti. Davacıya 50.000 TL terminat, 35,90 TL ilam harcı, 3.145 TL avukatlık ücreti ve 263,80 TL yargılama gideri tahsil edildi. Davacı vekili, davaların müvekkil adına tescilli ve tanınmış şekil markalarının kullanımının haksız rekabet oluşturduğunu iddia etmiştir."
+}

@@ -1,0 +1,26 @@
+{
+  "meta_data": {
+    "file_name": "2023_1067.pdf",
+    "court_name": "İSTANBUL BÖLGE ADLİYE MAHKEMESİ 16. HUKUK DAİRESİ",
+    "esas_no": "2023/1067",
+    "karar_no": "2025/407",
+    "case_subject": "Markaya Tecavüzün ve Haksız Rekabetin Tespiti, Men, Ref, Unvan Terkini ve Tazminat",
+    "dava_tarihi": "Bilinmiyor (İlk derece: 2021/231)",
+    "karar_tarihi": "18/03/2025"
+  },
+  "rrl_segments": {
+    "facts_text": "ÖZET: Davacı, davalı ile aralarında bir iş birliği sözleşmesi olduğunu, davalının rekabet yasağına aykırı davranarak aynı sektörde faaliyet gösterdiğini, kendisine ait markayı ve ticaret unvanını haksız kullandığını iddia ederek ceza-i şart, tazminat ve unvan terkini talep etmiştir. Davalı ise sözleşmeyi dil bariyeri (Arapça/Türkçe) nedeniyle anlamadan imzaladığını, bahse konu markanın yurt dışında kendisine ait olduğunu ve önceye dayalı hak sahibi olduğunu savunmuştur.",
+    "reasoning_text": "ÖZET: İlk derece mahkemesi ceza-i şartı kabul etmiş ancak marka tecavüzü iddiasını reddetmiştir. İstinaf incelemesinde; davalının Türkçe bilmediği ve sözleşmenin iradesini yansıtmadığı yönündeki itirazlarının yeterince araştırılmadığı, sözleşme asıllarının incelenmediği ve uzman mütalaası ile bilirkişi raporu arasında davalının üstün hak sahipliği konusunda çelişki bulunduğu tespit edilmiştir. Eksik inceleme nedeniyle kararın kaldırılmasına karar verilmiştir.",
+    "verdict_text": "İlk derece mahkemesi kararının KALDIRILMASINA, dosyanın yeniden incelenmek üzere mahkemesine İADESİNE karar verilmiştir."
+  },
+  "structural_features": {
+    "mentioned_laws": [
+      "HMK Madde 353",
+      "HMK Madde 355",
+      "SMK Madde 6/6",
+      "HMK Madde 353/1-a-6"
+    ]
+  },
+  "summary_for_human": "Davacı, eski iş ortağının rakip firma kurarak kendi markasını kullandığını iddia edip dava açmış. Yerel mahkeme kısmen ceza vermiş ama marka ihlali yok demiş. Üst mahkeme (İstinaf), davalının 'Ben Türkçe bilmiyorum, sözleşmeyi anlamadım' savunmasının ve markanın kime ait olduğu konusundaki raporların yeterince incelenmediğini belirterek kararı bozmuş ve dosyayı geri göndermiş.",
+  "summary_for_model": "Dava, rekabet yasağı ihlali ve marka tecavüzüne dayalı tazminat istemidir. Yerel mahkemece ceza-i şart kabul edilmiş, marka tecavüzü reddedilmiştir. BAM, HMK 353/1-a-6 uyarınca yaptığı incelemede; davalının irade sakatlığı (dil bariyeri) savunmasının ve SMK 6/6 bağlamında önceye dayalı üstün hak iddiasının bilirkişi raporları arasındaki çelişki giderilmeden hükme esas alındığını belirterek eksik inceleme nedeniyle kararı kaldırmıştır."
+}

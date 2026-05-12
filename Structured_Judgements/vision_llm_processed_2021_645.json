@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2021_645.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2015/418",
+        "karar_no": "2019/872",
+        "case_subject": "İtiraz İptali (Hizmet Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "03/10/2019",
+        "karar_tarihi": "22/10/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı ile davacı arasındaki anlaşma gereğince davanın sosyal medyada tanıtım çalışmalarının yapılması için 15/05/2014 tarihinde sözleşme ile davacıya verildiğini iddia etmiştir. Davacı, sözleşme gereğince edimlerini yerine getirdiğini, çalışmaların tam ve eksiksiz olarak yerine getirdiğini, davalıya yapılan iş bedeli olarak 15/08/2014 tarihinde 19.416,19 TL bedelli faturanın gönderildiğini, davanın yine de borcunu ödemediği üzerinde alacağı tahsili amacı ile sayılı takip dosyası ile davalı aleyhine icra takibi başlatıldıklarını, davanın itiraz ederek takibi durdurduğunu, alacağı tahsili amacı ile icra dosyasina yapılan itiraz iptali, takibin kaldığı yerden devamına karar verilmesini talep ve dava etmiştir.",
+        "reasoning_text": "Mahkeme, taraflar arasında tanıtım amaçlı film/video hazırlanması, yönetim ve tanıtım işlemlerine dair sözleşme kapsamında ticari ilişkinin mevcut olduğunu, alacağı davalıya fatura edildiği ancak davalı tarafından davacı şirkete ödemede bulunmadığı, dava konusu icra takibi yapıldığı, itiraz üzerine takibin durduğu, bilirkişi incelemesinde takip talebine dayanak olan faturada yer alan işlemlerden sosyal medya danışmanlık ve komünite yönetim hizmeti için talep edilen 8.000,00 TL ve bu bedelin KDV'si olarak hesaplanan 1.440,00 TL toplamı olan 9.440,00 TL lik talep yönünden davacı tarafın alacak taleplerinin haklı olduğu belirlenmiştir.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere:1-Davacı vekilinin istinaf başvurusunun KABULÜNE,2-İstanbul 12. Aslıye Ticaret Mahkemesi'nin 03/10/2019 tarih, 2015/418 Esas, 2019/872 Karar sayılı kararının KALDIRILMASI,3-Dosyanın Dairemiz kararına uygun şekilde incelenerek yeniden bir karar verilmek üzere yerel mahkemeye GÖNDERILMESİNE,4-Davacı tarafından yatırılan istinaf karar harcının istekte halinde kendisine İADESİNE,5-Davacı tarafa yapılan istinaf yargılama giderinin ilk derece mahkemesince yeniden verilecek kararda DİKKATE ALINMASINA,6-İstinaf yargılama sırasında duruşma açılmadığından vekalet ücreti takdirine YER OLMADIĞINA,Dair, dosya üzerinden yapılan inceleme sonucunda, 6100 sayılı HMK'nın 353/1-a-6 maddesi gereğince KESİN olmak üzere 22/10/2024 tarihinde oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TBK 470",
+            "6100 sayılı HMK'nın 353/1-a-6 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalıya sosyal medyada tanıtım hizmetleri için fatura edilen tutarı ödemediği için dava açmıştır. Mahkeme, davacı tarafından yapılan hizmetlerin haklı olduğunu ve davalıya ödemesi gereken tutarı belirlemiştir.",
+    "summary_for_model": "Davacı, davalıya sosyal medyada tanıtım hizmetleri için fatura edilen tutarı ödemediği için dava açmıştır. Mahkeme, davacı tarafından yapılan hizmetlerin haklı olduğunu ve davalıya ödemesi gereken tutarı belirlemiştir. Davacı vekilinin istinaf başvurusu kabul edilmiş ve yerel mahkemeye geri gönderilmiştir."
+}

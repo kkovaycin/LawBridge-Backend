@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2024_234.pdf",
+        "court_name": "T.C. Ankara Bölge Adliye Mahkemesi",
+        "esas_no": "2024/234",
+        "karar_no": "2024/530",
+        "case_subject": "Tazminat davası ve görevsizlik kararı",
+        "dava_tarihi": "31/10/2023",
+        "karar_tarihi": "04/04/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davada Ankara 4.Asliye Ticaret, Ankara 44.Asliye Hukuk ve Ankara 1.Fikri ve Sınai Haklar Hukuk Mahkemelerince ayrı ayrı görevsizlik kararı verildi. Ankara Bölge Adliye Mahkemesi 22.Hukuk Dairesi, dava vekilinin istinaf başvurusunu HMK'nun 353/1-b.1 maddesi uyarınca esastan reddetti.",
+        "reasoning_text": "6100 sayılı Hukuk Muhakemeleri Kanunu'nun 21, 22 ve 23/2 maddeleri uyarınca, Ankara 44.Asliye Hukuk Mahkemesi'nin görevli olduğu hususu kesinleşti. Ankara Bölge Adliye Mahkemesi'nin kararının mahkemeleri bağlayıcı olduğu kabul edildi.",
+        "verdict_text": "ANKARA BÖLGE ADLİYE MAHKEMESİ KARARI: Ankara 44.Asliye Hukuk Mahkemesi YARGI YERİ OLARAK BELİRLENMESİNE, Dosyanın merci tayini talebinde bulunan Mahkemeye gönderilmesine, Dosya üzerinde yapılan inceleme sonucunda, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 362/1-c maddesi gereğince kesin olmak üzere oy birliği ile 04.04.2024 tarihinde karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hukuk Muhakemeleri Kanunu",
+            "353/1-b.1 maddesi",
+            "362/1-c maddesi",
+            "5070 Sayılı Yasa"
+        ]
+    },
+    "summary_for_human": "Ankara Bölge Adliye Mahkemesi, Ankara 44.Asliye Hukuk Mahkemesi'nin görevli olduğu hususu kesinleştiği için, dava dosyasının Ankara 44.Asliye Hukuk Mahkemesi'ne gönderilmesine karar verdi.",
+    "summary_for_model": "Karar, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 21, 22 ve 23/2 maddeleri uyarınca verildi. Ankara Bölge Adliye Mahkemesi'nin kararının mahkemeleri bağlayıcı olduğu kabul edildi. Ankara 44.Asliye Hukuk Mahkemesi'nin görevli olduğu hususu kesinleşti."
+}

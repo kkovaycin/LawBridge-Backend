@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2018_893.pdf",
+        "court_name": "T.C. İstanbul Anadolu 7. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2018/424",
+        "karar_no": "2019/391",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "27/05/2016",
+        "karar_tarihi": "02/04/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının sosyal ağ hesabında tecavüzcü destekçisi olduğu iddiasıyla haksız rekabet iddiasında bulundu. Davalının paylaşımları, TTK 55. maddesine dayanarak manevi tazminat talep edildi.",
+        "reasoning_text": "Mahkeme, davalının paylaşımlarının TTK 55. maddesine uygunluğunu kabul ederek manevi tazminat kararı verdi. Davalının sosyal ve ekonomik durumu dikkate alındı.",
+        "verdict_text": "1-Davanın KİSMEN KABUL, KİSMEN REDDİNE, 2-2000 TL. manevi tazminat bedelinin dava tarihinden itibaren işleyecek yasal faizle birlikte davalıdan tahsili ile davacıya ödünmesine, 3-Fazlada dair istemin REDDİNE, 4-Harçlar Kanunu uyarınca alınması gerekli 136,62 TL. harçın peşin alınan 170,78 TL. Harçtan mahsubu ile fazladan alınan 34,16 TL. Harçın talep halinde karar kesinleştiğinde davacıya iadesine, 5-Davacı tarafından yapılan toplam 338,42 TL. Yargılama giderinden red/kabul oranına göre 67,68 TL.sinin davalıdan alınarak davacıya verilmesine, bakiye giderin davacı üzerinde bırakılmasına, 6-Hüküm tarihindeki AAÜT uyarınca kabul edilen manevi tazminat yönünden 2.000,00 TL. vekalet ücretinin davalıdan alınarak davacıya verilmesine, 7-Hüküm tarihindeki AAÜT uyarınca reddedilen manevi tazminat yönünden 2.000,00 TL. Vekalet ücretinin davacıdan alınarak davalına verilmesine, 8--HMK 333 ve gider avansı tarifesinin 5. maddesi gereğince gider avansının kullanılmayan kısmının kararın kesinleşmesinden sonra ve talebi halinde davacı tarafa iadesine, Kararın taraflara tebliğinden itibaren 2 hafta içinde İstinaf yoluna başvurma yolu açık olmak üzere verilen karar taraf vekillerinin yüzlerine karşı açıkça okunup anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 55",
+            "Harçlar Kanunu",
+            "HMK 333"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının sosyal ağda tecavüzcü destekçisi olduğu iddiasıyla haksız rekabet davası açtı. Mahkeme, davalının paylaşımlarının TTK 55. maddesine uygunluğunu kabul ederek 2000 TL manevi tazminat kararı verdi.",
+    "summary_for_model": "Davacı, davalının sosyal ağda tecavüzcü destekçisi olduğu iddiasıyla haksız rekabet davası açtı. Mahkeme, TTK 55. maddesine dayanarak manevi tazminat kararı verdi. Davalının sosyal ve ekonomik durumu dikkate alındı."
+}

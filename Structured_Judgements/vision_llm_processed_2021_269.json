@@ -1,0 +1,36 @@
+{
+    "meta_data": {
+        "file_name": "2021_269.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 14. Hukuk Dairesi",
+        "esas_no": "2021/269",
+        "karar_no": "2024/304",
+        "case_subject": "Tazminat (Rücuen Tazminat)",
+        "dava_tarihi": "05/11/2020",
+        "karar_tarihi": "29/02/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, dava dilekçesinde özetle; müvekkili şirkette Nakliyat Emtea Sigortası Abonman Policesi ile taşıma risklerine karşı sigorta örtüsü alınan dava dışı ... A.Ş.'ne ait emteanın davalı tarafından temin edilen araç yüklendiğini, ancak emteanın alıcıya ulaşmadığını, yapılan ekspertiz incelemesi sonucunda emteanın yüklendiği tür ruhsat ve plakasının ve sürücüye ait sürücü belgesinin daha sahte olduğunu ve sigortalı emteanın çalındığını anlaşıldığını, müvekkiline 381.926,43 TL tazminatın ödenerek sigortalısının haklarına halef olduğunu, davalya yapılan başvurudan sonuç alınmadığını ileri sürerek, 381.926,43 TL'nin ödeme tarihi olan 02.08.2017 tarihinden itibaren işleyecek avans faizi ile birlikte tahsiline karar verilmesini talep etmiştir.",
+        "reasoning_text": "Davacı vekili, savunmasında özetle; davanın haksız olduğunu, müvekkiline husumet yöneltilemeyeceğini, müvekkili şirketin birçok fabrika ve tesisin taşıma ve personel taşmacılığını yaptığını, bu taşmaların ilgili firmalarla yapılan sözleşmeler kapsamında yapıldığını, dava dilekçesi ekindeki belgelere göre dava konusu olayın yaşandığı aracın müvekkiline ait olmadığını, bu araç ile yapılan taşmanın müvekkiline yapılmadığını, aracın müvekkiline kiralanmadığını, temin edilmediğini ve yönlendirilmediğini, belgelere göre hırsızlama yapılan araç üzerindeki plaka ve ehliyetin sahtecilik suretiyle çoğaltıldığını, ancak müvekkilinin bu araç ve sürücüsi ile ilgisi bulunmadığını, müvekkilinin dava konusu taşıma işini yapmadığını, müvekkilinin sigortalı ... Şirketin bir kısmı mallarını taşımasının tüm faaliyetlerden sorumlu tutulacağını anlama gelmediğini, müvekkili şirketin ortakları ve çalışanları arasında ... isimli bir kişi bulunmadığını, dosyadaki belgelere ve soruşturma evraklarına göre müvekkilinin taşıma ile ilgisi bulunmadığını ve bu taşıma nedeniyle müvekkili şirkete bir sorumluluk yüklenemeyeceğini, davacının, müvekkili ile sigortalı arasında hizmet sözleşmesi ilişkisi bulunduğunu kanıtlaması gerektiğini, davanın tankla ispat edilemeyeceğini savunarak, davanın reddini istemiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-HMK'nın 353/1.b.1. maddesi uyarınca, davalı vekilinin istinaf başvurusunun esastan reddine,2-Davalı tarafından yatırılan istinaf başvuru harçlarının Hazineye gelir kaydına, bakiye 19.565,00 TL istinaf karar harcının davaldan tahsiline,3-Davalı tarafından istinaf kanun yoluna başvuru için yapılan masrafların kendi üzerlerinde bırakılmasına,4-Gerekçeli kararın Dairemiz Yazı İşleri Müdürlüğüne taraflara tebliğine,5-Karar kesinleştikten sonra dosyanın, kararı veren ilk derece mahkemesine gönderilmesine dair;HMK'nun 353/1.b.1 maddesi uyarınca dosya üzerinde yapılan inceleme sonucunda, tarihinde, oybirliğiyle ve temyizi kabul olmak üzere karar verildi.29.02.2024"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK m.879",
+            "TTK m.875",
+            "TTK m.876",
+            "TTK m.880",
+            "TTK m.882/2",
+            "TTK m.886",
+            "TTK m.1472",
+            "TTK m.3095",
+            "TTK m.850",
+            "TBK m.1",
+            "TBK m.547",
+            "BK m.552",
+            "HMK m.353/1.b.1",
+            "HMK m.355"
+        ]
+    },
+    "summary_for_human": "Davacı, sigortalı emteanın çalındığını ve müvekkiline tazminat ödenmesini talep ediyor. Mahkeme, davacı vekilinin istinaf başvurusunu reddetti ve davalı vekilinin istinaf başvuru harçlarını ödemesine karar verdi.",
+    "summary_for_model": "Davacı vekili, sigortalı emteanın çalındığını iddia ediyor ve müvekkiline tazminat ödenmesini talep ediyor. Mahkeme, davacı vekilinin istinaf başvurusunu reddetti ve davalı vekilinin istinaf başvuru harçlarını ödemesine karar verdi. Davanın temyizi kabul edilmedi."
+}

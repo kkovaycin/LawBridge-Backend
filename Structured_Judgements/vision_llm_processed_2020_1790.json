@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2020_1790.pdf",
+        "court_name": "İstanbul 2.Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2020/1790 Esas",
+        "karar_no": "2020/1969 Karar",
+        "case_subject": "İhtiyati Tedbir Talepleri",
+        "dava_tarihi": "14/07/2020",
+        "karar_tarihi": "20/11/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekilinin internet sitesinde ve sosyal medya hesaplarında sari-mor renk kombinasyonu kullanan markaların durdurulmasını talep etmiştir. Karşı taraf, bu markaların farklı olduğu ve ticari faaliyetlerin farklı olduğu iddia etmiştir.",
+        "reasoning_text": "Mahkeme, markaların benzerliği ve ticari faaliyetlerin farklılığına bakarak taleplerin reddedilmesine karar vermiştir. İstinaf başvurusu reddedilmiştir.",
+        "verdict_text": "İstanbul 2.Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 14.07.2020 tarihli kararıyla; taleplerin reddedilmesine, taleplerin reddedilmesine ve istinaf başvurusunun reddedilmesine karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hüküm Kanunu",
+            "6769 sayılı Sınai Mülkiyet Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, vekilinin internet sitesinde ve sosyal medya hesaplarında sari-mor renk kombinasyonu kullanan markaların durdurulmasını talep etmiştir. Mahkeme, markaların farklı olduğu ve ticari faaliyetlerin farklı olduğu gerekçesiyle talepleri reddetmiştir.",
+    "summary_for_model": "Davacı, vekilinin internet sitesinde ve sosyal medya hesaplarında sari-mor renk kombinasyonu kullanan markaların durdurulmasını talep etmiştir. Mahkeme, markaların farklı olduğu ve ticari faaliyetlerin farklı olduğu gerekçesiyle talepleri reddetmiştir. İstinaf başvurusu reddedilmiştir."
+}

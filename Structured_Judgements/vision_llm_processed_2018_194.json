@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2018_194.pdf",
+        "court_name": "T.C. İSTANBUL 1. ASLİYE TİCARET MAHKEMESİ",
+        "esas_no": "2018/194 Esas",
+        "karar_no": "2019/257 Karar",
+        "case_subject": "İtirazın iptali (Hizmet Sözleşmesinden Kaynaklanan)",
+        "dava_tarihi": "28/02/2018",
+        "karar_tarihi": "27/03/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, davalı ile 25/04/2016 tarihinde Facebook, Instagram, Twitter hesaplarının yönetilmesi ile davalıya profil oluşturulması konusunda sözleşme imzalandığını, anlaşma sonrası vekil tarafından davalıya hizmetlerin verildiğini ve 13.469,47 TL alacak olduklarını, davalı tarafından ödeme yapılmadığını iddia etmiştir. Davalı tarafından gönderilen 27/12/2016 tarihli ihbarname ile sözleşmenin feshedildiğini, bu nedenle cari hesap ekstreinden kaynaklanan alacakların tahsili amacıyla dava açıldığını belirtmiştir.",
+        "reasoning_text": "Mahkeme, dava dosyasının incelenmesinde davacı alacaklının davalıdan takip sebebi itibarile alacaklı olup olmadığını, alacaklı ise miktarının tesbit konularından kaynaklanmakta olduğunu ve davacı tarafından borçların ödenmediğini tespit etmiştir. Davacı ile davalı arasında 25/04/2016 tarihinde sözleşme akdedildiğini ve bu sözleşmenin davalı tarafından 27/12/2016 tarihli ihbarname ile 27/01/2017 tarihinde feshedildiğini, sözleşmenin 3.4 maddesi ile ilk 6 ay hariç en az 30 gün önceden yazılı olarak bildirilmek kaydıyla fesih yetkisi içerisinde gerçekleştiğini, bu nedenle sözleşmenin akdi ile sözleşmenin feshi arasında sözleşmenin 9 ay açıkta kaldığını tespit etmiştir.",
+        "verdict_text": "HÜKÜM: Gerekeçsi yukarıda belirtiltiği üzere;\nDavanın kısmen KABULÜ İLE,\nDavalının ... 24. İcra m ... esas sayılı takip dosyasına konu itirazının 8.159,47 TL asıl alacak bakımından iptali ile takibin takip talepnamesinde şartlarla DEVAMINA,\nFazlaya ilişkin kısımn REDDİNE,\nİİK m.67/2 kapsamında 1.631,89 TL tazminatından davaldan alınarak davacıya VERİLMESİNE,\nDavacı alacaklının kötüniyeti ispat edilemediğinden davalının tazminat talebinin REDDİNE,\nKara tarihinde yürürlükte bulunan Harçlar Tarifesi gereğince kabul edilen miktar üzerinden hesaplanan 557,37 TL nispi karar harcının peşin yatırılan 162,68 TL harçtan mahsubu ile noksan kalan 394,64 TL harçın davaldan tahsili ile hazineye gelir kaydına,\nDavacı lehine karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi gereğince red edilen miktar üzerinden hesaplanan 2.725,00 TL maktu vekalet ücretinin davacıdan tahsili ile davalıya verilmesine,\nDavalı lehine karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi gereğince red edilen miktar üzerinden hesaplanan 2.725,00 TL maktu vekalet ücretinin davacıdan tahsili ile davalıya verilmesine,\nDavacı tarafından yapılan toplam 1.383,00 TL yargılama giderinden davanın kabul red miktar ve oranı göz önüne alınarak hesaplanan 837,78 TL yargılama gideri ile 162,68 TL peşin harç ve 31,40 TL başvuru harcı toplamı 1.031,86 TL'nin davaldan tahsili ile davacıya verilmesine, bakiye kısmın davacı üzerinde bırakılmasına,\nTarafılara yatırılan bakiye gider avansının kararın kesinleşmesi halinde yatırana iaadesine,\nTaraf vekillerinin yüzüne karşı, gerekeli kararın tebliğ tarihinden itibaren iki hafta içinde başvurulması halinde İSTİNAF yolu açık olmak üzere karar verildi. 27/03/2019"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İİK 67. madde",
+            "İİK m.67/2"
+        ]
+    },
+    "summary_for_human": "Davacı, davalıya hizmetler verdiğini iddia ediyor ve ödenmeyen alacak için dava açtı. Mahkeme, davanın kısmen kabul edilmesini, davalıya 8.159,47 TL alacak bakımından iptali ile takibin devamını, fazlaya ilişkin kısımın reddini ve 1.631,89 TL tazminatın davacıya verilmesini kararlaştırdı.",
+    "summary_for_model": "Davacı, davalıya hizmetler verdiğini iddia ediyor ve ödenmeyen alacak için dava açtı. Mahkeme, davanın kısmen kabul edilmesini, davalıya 8.159,47 TL alacak bakımından iptali ile takibin devamını, fazlaya ilişkin kısımın reddini ve 1.631,89 TL tazminatın davacıya verilmesini kararlaştırdı. Davacı alacaklının kötüniyeti ispat edilemediğinden davalının tazminat talebinin reddine karar verildi."
+}

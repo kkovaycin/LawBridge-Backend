@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2020_293.pdf",
+        "court_name": "İstanbul Anadolu 7. Aşlıye Ticaret Mahkemesi",
+        "esas_no": "2018/727",
+        "karar_no": "2021/560",
+        "case_subject": "Haksız rekabet davası",
+        "dava_tarihi": "27/11/2018",
+        "karar_tarihi": "29/04/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; davalı, davacı şirketiyle 26.02.2015 tarihli belirsiz süreli iş sözleşmesi ile davacı, Merkez Asya Bölgesinde satış uzmanı olarak görevlendirildiği ve 20.03.2015 tarihinde davacı şirkete işe başladığı, davalı, Merkez Asya ülkelerindeki satış müşterilerinin tüm bilgilerine sahip olduğu, davacı tarafından istifa noticesinde iş akdinin 03.04.2018 tarihinde sonlandığı, davalı'nın, işten ayrıldığı tarihe kadar hak ettiği bütün ücret haklarını almış olduğu, davacı şirketten hizmet akdinden ve yasal haklarından dolayı herhangi bir ayni, nakdi ya da sosyal hak ve alacağını kalmadığını beyan ederek ibraname verdiği, davalı 03.04.2018 tarihinde müvekkil şirketten istifa ettikten sonra 2 yıl geçmeden, müvekkil şirket ile aynı ticaret-hizmet alanında istigal eden, İstanbul'da faaliyet gösteren ... Ltd. Şti'de Bölge Satış Müdürü olarak işe başladığı, davacı şirketteki pozisyon ve bölge ile aynı pozisyon ve bölge olan Merkez Asya Bölgesinde görevlendirildiği, davacı şirket müşterilerinin bilgilerini haksız rekabet oluşturacak şekilde kullanacağını, 40.000-TL cezai sartin, dava tarihinden itibaren işleyecek yasal faizi ile birlikte, davacıdan tahsili ile davacıya ödenmesini talep ve dava etmiştir.",
+        "reasoning_text": "İlk derece Mahkemesi kararı, davanın TBK 444 maddesinden kaynaklanan haksız rekabet davası hükmü gereğince incelenmesi gerektiği, davalı'nın taraflar arasında düzenlenen 26.02.2015 tarihli belirsiz süreli iş sözleşmesi ile 20.03.2015 tarihinde çalışmaya başladığı, 03.04.2018 tarihinde işten ayrıldığı bu hususun taraflar arasında ihtilafsız olduğu, taraflar arasındaki sözleşmenin 12/1 maddesinde gerek hizmet akdinin sona ermesinden itibaren 2 yıl içerisinde davalı'nın aynı hizmet alanında Türkiye sınırları içinde rekabet edeceği hususu düzenlenmişti. Davalı'nın 22.05.2018 tarihinde Azerbaycan'ın Bakü şehrinde Satış ve Servis Yöneticisi olarak çalışmaya başladığı, taraflarca sunulan delillerin incelenmesi hukuki vasiflandirmaya iliskin olmasi nedeniyle dosyamizda bilirkişi incelenmesi gerek bulunmadigi, davaci ile davali arasindaki sozlesme rekabet yasasinin is aktinin sona ermesinden sonraki donemde ileriye yonelik yapma edimini iceren akit niteliginde oldugu, sozlesmenin 12/1 md. de coğrafi alana yonelik bir kusturama getirildigi, TBK 445/1 maddesi geregince boyle bir duzenleme calisinin ekonomik gelecegini hakkaniyete aykiri olarak tehlikeye dusurecek nitelikte olup yasal duzenlemeye aykiri oldugu gibi, Anayasamizda ongorulen calisma ozgurlugu ilkesine aykiri oldugu, davali'nin calistigi isyerinin de Azerbaycan Bakü de olmasi nedeniyle haksiz rekabetin kosullarini bulunmadigi anlasilmakla davanin reddine, karar verilmistir.",
+        "verdict_text": "Yukarıda ayrintisi ile açıklanan nedenlerle;1-Davacı vekilinin istinaf başvurusunun HMK'nın 353(1b-1) maddesi uyarınca ESASTAN REDDİNE.2-Bağlanışta davacı tarafından yatırılan 44,40 TL harcin mahsubu ile bakiye 14,90 TL. istinaf karar harcinin davacidan alınarak hazineye irat kaydına.3-Davacı tarafından istinaf aşamasında yapılan yargılama giderlerinin kendi üzerinde bırakılmasına.Dair, dosya üzerinden yapılan inceleme sonunda, HMK'nın 362(1-a). maddesi uyarınca kesin olarak oy birliğiyle karar verildi. 29/04/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TBK 444",
+            "TBK 444/1",
+            "TBK 444/2",
+            "TBK 445/1",
+            "HMK 353(1b-1)",
+            "HMK 355",
+            "HMK 362(1-a)"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı'nın istifasından sonra aynı ticaret-hizmet alanında İstanbul'da faaliyet gösteren bir şirkette çalışmaya başladığını iddia ederek haksız rekabet davası açmıştır. İlk derece mahkemesi, davalı'nın Azerbaycan'da çalıştığı için haksız rekabetin koşullarının sağlanmadığını kararlaştırmıştır.",
+    "summary_for_model": "Dava, TBK 444 ve 445 maddeleri çerçevesinde haksız rekabet iddiası üzerine kurulmuştur. İlk derece mahkemesi, davalı'nın Azerbaycan'da çalıştığı için haksız rekabetin koşullarının sağlanmadığını tespit ederek davayı reddetmiştir. İstinaf talebi HMK 353(1b-1) maddesi uyarınca reddedilmiştir."
+}

@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2023_97.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2023/97",
+        "karar_no": "2023/60",
+        "case_subject": "İhtiyati tedbir talebi ve istinaf davası",
+        "dava_tarihi": "08/12/2022",
+        "karar_tarihi": "26/01/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, vekil tarafından verilen hizmetlerin kullanıcı tarafından kullanıldığı ve kart bilgileri kullanıcının kendisi tarafından girildiği iddia edildi. Banka tarafından yapılan işlemlerin kart sahibi tarafından gerçekleştirildiği ve dolandırıcılık suçunun şüphesi olduğu belirtildi.",
+        "reasoning_text": "İhtiyati tedbir talebinin reddedilmesi, davacının iddialarının yetersiz olduğu ve mahkemenin kararının hukuka uygun olduğu gerekçeleriyle savunuldu. İstinaf başvurusu reddedildi.",
+        "verdict_text": "İstinaf kararının reddine karar verildi. İstinaf başvurusunda bulunan vekil tarafından yapılan itirazlar kabul edilmedi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 sayılı Hukuk Muhakemeleri Kanunu (HMK)",
+            "HMK'nin 389/1, 390/3, 355 ve 362(1)f maddeleri"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, vekil tarafından verilen hizmetlerde dolandırıcılık suçunun şüphesi nedeniyle ihityati tedbir talebini reddetmiştir. İstinaf başvurusu da reddedilmiştir.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, vekil tarafından verilen hizmetlerde dolandırıcılık suçunun şüphesi nedeniyle ihityati tedbir talebini reddetmiştir. İstinaf başvurusu, HMK'nin ilgili maddeleri uyarınca reddedildi."
+}

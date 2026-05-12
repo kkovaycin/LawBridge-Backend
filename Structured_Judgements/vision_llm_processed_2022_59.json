@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_59.pdf",
+        "court_name": "İzmir Aslıye Ticaret Mahkemesi",
+        "esas_no": "2022/41",
+        "karar_no": "2022/44",
+        "case_subject": "Haksız rekabet ve ticari hak ihlalleri",
+        "dava_tarihi": "08/04/2021",
+        "karar_tarihi": "13/01/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davanın 24/01/2018 ve 20/06/2019 tarihli ticari faaliyetlerini, 11/04/2020 ve 31/10/2020 tarihli iş ilişkilerini ve 30/10/2018 tarihli evlenmeyi iddia etmiştir. Davanın vekili, davanın eski eşinin iş yerinde çalıştığını, 16/10/2020 tarihli anlaşmalı boşanmayı ve ticari hak ihlallerini savunmuştur.",
+        "reasoning_text": "Mahkeme, davanın Çeşme Aslıye Hukuk Mahkemesi'nde görüldüğünü ve İzmir Aslıye Ticaret Mahkemesi'ne gönderildiğini açıklamıştır. Mahkeme, davanın ticari dava olduğuna karar vermiş ve davanın İzmir Bölge Adliye Mahkemesi 6. Hukuk Dairesi'ne gönderilmesini kararlaştırmıştır.",
+        "verdict_text": "Dair, tarafların yokluklarında, dosya üzerinden yapılan inceleme sonucunda kesin olmak üzere karar verildi. 13/01/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hakimler ve Savcılar Genel Kurulu Kararı",
+            "Yargıtay Hukuk Genel Kurulu Kararı",
+            "Türkiye Cumhuriyeti Anayasası",
+            "Hukuk Muhakemeleri Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı, davanın ticari hak ihlallerini iddia etmiştir. Mahkeme, davayı İzmir Aslıye Ticaret Mahkemesi'nden İzmir Bölge Adliye Mahkemesi'ne göndermiştir.",
+    "summary_for_model": "Davacı, davanın ticari hak ihlallerini iddia etmiştir. Mahkeme, davayı İzmir Aslıye Ticaret Mahkemesi'nden İzmir Bölge Adliye Mahkemesi'ne göndermiştir. Davanın vekili, davanın eski eşinin iş yerinde çalıştığını ve ticari hak ihlallerini savunmuştur."
+}

@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2023_3347.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2023/423",
+        "karar_no": "2023/575",
+        "case_subject": "Tazminat",
+        "dava_tarihi": "18/10/2023",
+        "karar_tarihi": "18/10/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, manevi tazminat davalarında görevli mahkeme Asliye Hukuk Mahkemesi olduğunu iddia etti. Davacı, vekilinin şirketin kişilik haklarını ağır bir şekilde zedelediğini, davayı provokatif açıklamalarla desteklediğini ve vekilinin şirketin ticari itibarına zarar verdiğini iddia etti. Davacı, vekilinin şirkete yönelik ifadelerin kullanıldığını ve bu ifadelerin davanın tazminat sorumluluğunu doğurduğunu belirtti.",
+        "reasoning_text": "İlk Derece Mahkemesi, davanın ticari dava olarak sayılması için tarafların her ikisinin de ticari işletmesiyle ilgili olması gerektiğini vurguladı. Tarafların ticari işletmesiyle ilgili olup olmamasına bakılmaksızın, davanın Asliye Ticaret Mahkemesi'ne gönderilmesi gerektiği belirtildi. Davanın usulüne uygun şekilde incelenmesi ve değerlendirilmesi için mahkemeye gönderilmesi kararı verildi.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere; 1- Davacı vekilinin istinaf talebinin yukarıda açıklanan sebeplerle KABULÜ ile, İstanbul 14. Asliye Ticaret Mahkemesinin 11/07/2023 tarih, 2023/423 Esas - 2023/575 Karar sayılı kararının 6100 Sayılı HMK'nın 353/1-a/6. maddesi gereğince KALDIRILMASININA, 2- Dosyanın, yukarıda gösterilen biçimde inceleme ve değerlendirme yapmak üzere mahkemesine GÖNDERİLMESİNE, 3- İstinaf yasa yoluna başvuran tarafından peşin olarak yatırılan istinaf karar ve ilam harcının talep halinde kendisine iaadesine, 4- İncelemenin duruşmasız olarak yapılması sebebiyle taraflara vekalet ücreti tayinine yer olmadığına, 5- Taraflarca yatırılan gider avansından harcanmayan kısmın karar kesinleştiğinde iaadesine, 6- İstinaf yasa yoluna başvuran tarafından istinaf aşamasında yapılan giderlerin ilk derece mahkemesinde verilecek nihai kararda dikkate alınmasına, 6100 Sayılı HMK'nın 353/1-a/6 ve 362/1/g maddeleri gereğince dosya üzerinde yapılan inceleme sonucunda ve kesin olmak üzere, oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu (HMK)",
+            "6102 Sayılı Türk Ticaret Kanunu",
+            "6325 Sayılı Kanun",
+            "6100 Sayılı HMK'nın 353/1-a/6 ve 362/1/g maddeleri"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, davacı vekilinin istinaf talebini kabul ederek ilk derece mahkemesinin kararını kaldırdı. Davanın Asliye Ticaret Mahkemesi'ne gönderilmesi ve inceleme yapılması kararı verildi. Tarafların ticari işletmesiyle ilgili olup olmamasına bakılmaksızın davanın Asliye Ticaret Mahkemesi'ne gönderilmesi gerektiği vurgulandı.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, davacı vekilinin istinaf talebini kabul ederek ilk derece mahkemesinin kararını kaldırdı. Davanın Asliye Ticaret Mahkemesi'ne gönderilmesi ve inceleme yapılması kararı verildi. Tarafların ticari işletmesiyle ilgili olup olmamasına bakılmaksızın davanın Asliye Ticaret Mahkemesi'ne gönderilmesi gerektiği vurgulandı. 6100 Sayılı HMK ve 6102 Sayılı Türk Ticaret Kanunu'na dayanılarak karar verildi."
+}

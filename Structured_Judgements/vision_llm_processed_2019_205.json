@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2019_205.pdf",
+        "court_name": "T.C. Ankara Batı Aslîye Ticaret Mahkemesi",
+        "esas_no": "2019/205 Esas",
+        "karar_no": "2019/659",
+        "case_subject": "Haksız rekabetten kaynaklanan manevi tazminat talebi",
+        "dava_tarihi": "02/03/2017",
+        "karar_tarihi": "05/11/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacılar, davalı şirketin eğitim kurumunun müdürü olan davalı tarafından işletilen kolejin, bir başka eğitim kurumuna satıldığını iddia etmektedir. Bu durumun, davalı şirketin müvekkili tarafından kolejde eğitim gören öğrencilerin velileri arasında yayıldığını ve bu durumun davalı şirketin itibarını zedelediğini iddia edilmektedir. Davacılar, davalı şirketin bu davranışının haksız rekabet oluşturduğunu ve davalı şirketin manevi tazminat ödemesi gerektiğini talep etmektedir.",
+        "reasoning_text": "Mahkeme, davacıların iddialarını değerlendirerek, davalı şirketin davranışlarının haksız rekabet oluşturmadığını ve davacıların talebinin reddedildiğini kararlaştırmıştır. Mahkeme, davalı şirketin davranışlarının haksız rekabet kurallarına aykırı olmadığını ve davacıların talebinin temelsiz olduğunu tespit etmiştir.",
+        "verdict_text": "HÜKÜM : Gerekçesi yukarıda açıklandığı üzere;\n1-Davanın REDDİNE,\n2-Harçlar Kanunu gereği alınması gereken 44,40 TL karar ve ilam harçının peşin alınan 683,10 TL harçtan mahsubu ile bakiye 638,70 TL harçın karar kesinleştiğinde ve talep halinde davacıya iadesine,\n3-Davacı tarafından sarf edilen yargılama giderlerinin üzerinde bırakılmasına, bakiye gider avansının karar kesinleştiğinde davacıya iadesine,\n4-Davalıların kendisini vekil ile temsil ettirdiği görülmekle karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi gereğince hesap edilen 2.725,00 TL vekalet ücretinin davacılardan alınarak davalılara verilmesine,\nDair, davacılar vekili ile davalılar vekilinin yüzüne karşı, kararın tebliğinden itibaren iki hafta içerisinde mahkememize sunulacak, ya da mahkememize gönderilmek üzere bir başka mahkemeye ibraz edilecek bir dilekçeyle başvuru yapılmak suretiyle, Ankara Bölge Adliye Mahkemeleri ilgili Hukuk Dairesi nezdinde istinaf kanun yolu açık olmak üzere karar verildi. 05/11/2019"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6102 sayılı T.T.K.",
+            "Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir eğitim kurumunun başka bir kuruma satılması nedeniyle ortaya çıkan haksız rekabet iddiasını konu almaktadır. Davacılar, bu satışın davalı şirketin itibarını zedelediğini ve manevi tazminat talep etmektedir. Ancak mahkeme, davalı şirketin davranışlarının haksız rekabet kurallarına aykırı olmadığını ve davacıların talebinin temelsiz olduğunu kararlaştırmıştır. Sonuç olarak, dava reddedilmiş ve davacıya herhangi bir tazminat ödenmeyecek şekilde karar verilmiştir.",
+    "summary_for_model": "Dava, eğitim kurumunun satılması nedeniyle haksız rekabet iddiasını içerir. Davacılar, davalı şirketin davranışının itibarını zedelediğini ve manevi tazminat talep etmektedir. Mahkeme, davalı şirketin davranışlarının haksız rekabet kurallarına aykırı olmadığını ve davacıların talebinin temelsiz olduğunu tespit ederek davayı reddetmiştir. Karar, Harçlar Kanunu ve 6102 sayılı Ticaret Kanunu'na dayanarak verilmiştir."
+}

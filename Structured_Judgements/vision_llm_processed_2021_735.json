@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2021_735.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 17. Hukuk Dairesi",
+        "esas_no": "2021/735",
+        "karar_no": "2021/799",
+        "case_subject": "İhtiyati haciz talebinin reddi ve istinaf",
+        "dava_tarihi": "13/01/2021",
+        "karar_tarihi": "24/06/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Talep eden vekili, 27/11/2020 tarihli dilekçesinde; mülkili şirket ile borçlu şirket arasında 01/09/2020 - 01/09/2021 tarihleri kapsayan sözleşme akdedildiğini, sözleşmenin ikinci maddesi gereğince mülkili şirketin borçlu şirket ürünlerinin yurt içinde ve yurt dışında satılması ve pazarlanması gibi hizmetlerini sağlamayı taahhüt ettiğini, mülkili şirketin sözleşmede üzerine düşen tüm yükümlülüklerini eksiksiz olarak ifa ettiğini, ancak borçlu şirket adına düzenlenen toplam üç adet e-arşiv faturada 18.585,00 TL miktarının ödendiğini, bakiye miktar olan 213.745,20 TL'nin ise bugüne kadar ödendirmediğini, faturalara süresi içerisinde itiraz edilmediğini, 24/11/2020 tarihli ihbarname ile faturalardaki alacakların vadesi geçtiği ve bir gün içinde ödenmesinin bildirildiğini, gerek whatsapp ve gerekse mail yazışmaları ile borcun ödeneceğinin bildirildiğini ancak ödenmediğini iddia ederek, borçunun borca yetecek miktardaki menkul, gayrimenkullerle üçüncü şahıslardaki hak ve alacaklarının uygun bir teminat karşılığında ihtiyaten hacize karar verilmesini talep etmiştir.",
+        "reasoning_text": "Mahkeme, İK'nın 258. maddesinin ikinci cümlesi gereğince, alacaklının alacağını ve icabında haciz sebepleri hakkında mahkemeye kanaat getirecek delilleri göstermeye mecbur olduğu, dosya kapsamından, talep eden ile karşı taraf arasında ticari ilişkinin varlığı dikkate alındığında, salt fatura düzenlenmesinin, teslim alan imzası olsa dahi karşı taraf şirket yetkilisine ait olup olmadığı, karşı taraf çalışkanı olup olmadığı, taraflar arasında borç ilişkisi olduğuunu kanıtlamaya yeterli olmadığı, taraflar arasında süregelen bir ticari ilişki kapsamında sadece bir fatura dayanarak gösterilerek ihtiyati hacze hükmüdelemeyeceği, (İstanbul Bölge Adliye Mahkemesi 14 Hukuk Dairesi 2019/2046 E. 2019/1508 K. Sayılı ilami, İstanbul Bölge Adliye Mahkemesi 17. Hukuk Dairesi 2020/1162 E. 2020/1168 sayılı ilami) anılan kanun maddeleri, dosya kapsamındaki mevcut bilgi ve belgeler dikkate alındığında; faturaya dayalı alacakta talep edenin muaccel ve kuvvetle muhtemel bir alacakının bulunduğuna mahkemeye kanaat getirilememiş olduğu, faturalar ile ilgili alacakın varlığının yargılamayı gerektirdiği ve anılan alacak kalemleri ile ilgili olarak İK'nun 257 ve devamı maddelerinde öngörülen koşullar gerçekleşmediği, davacının iddiasını yaklaşık ispat ile ispat edemediği, borçunun mal kaçırdığı iddialarının ise soyut olduğu, somut delillere dayanmadığı gerekçesiyle ihtiyati haciz talebinin reddine karar verilmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklanmış üzere; 1- Talep eden vekilinin istinaf başvurusunun KABULÜNE, 2- İstanbul Anadolu 7. Asliye Ticaret Mahkemesinin 2020/453 D.İş Esas, 2020/460 D. İş Karar ve 13/01/2021 tarihli ek kararın KALDIRILMASININA, a-)İhtiyati haciz talebinin REDDİNE, b-)Harçlar kanunu uyarınca alınması gereken 59,30 TL harçtan, peşin alınan 54,40 TL harçın mahsubu ile bakiye 4,90 TL'nin ihtiyati haciz talep edenden alınarak hazineye gelir kaydına, c-)İhtiyati haciz talep eden tarafından yatırılmış gider avansından kullanılmayan kısmın, talep halinde iadesine, 3- Hüküm tarihinde yürürlükte bulunan 492 sayılı Harçlar Kanununa bağlı tarife gereğince alınması gereken 59,30 TL istinaf karar harcı peşin olarak alındığından harç konusunda karar verilmesine yer olmadığına, 4-İstinaf incelemesi sırasında duruşma açılmadığından vekalet ücreti hakkında karar verilmesine yer olmadığına, 5-Talep eden tarafından yapılan istinaf yargılama giderlerinin ,hükümün kaldırılma nedeni de göz önünde bulundurularak kendi üzerinde bırakılmasına, Dosya üzerinde yapılan inceleme sonucunda, 6100 sayılı Hukuk Muhakemeleri Kanununun 362/1/f bendi ve ayrıca İİK 258/2 .fıkrası gereğince kesin olmak üzere düzeltilerek oybirliği ile karar verildi.24/06/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İstanbul Bölge Adliye Mahkemesi 14 Hukuk Dairesi 2019/2046 E. 2019/1508 K. Sayılı ilami",
+            "İstanbul Bölge Adliye Mahkemesi 17. Hukuk Dairesi 2020/1162 E. 2020/1168 sayılı ilami",
+            "İK'nın 258. maddesi",
+            "İK'nun 257. maddesi",
+            "6100 sayılı Hukuk Muhakemeleri Kanunu",
+            "2004 sayılı İcra ve İflas Kanunu",
+            "492 sayılı Harçlar Kanunu",
+            "İstanbul Anadolu 7. Asliye Ticaret Mahkemesi 2020/453 D.İş Esas, 2020/460 D. İş Karar",
+            "İstanbul Bölge Adliye Mahkemesi 17. Hukuk Dairesi 2020/1162 E. 2020/1168 sayılı ilami"
+        ]
+    },
+    "summary_for_human": "Mahkeme, borçlu şirketin faturalarını ödemediği iddiasıyla talep eden vekilin ihtiyati haciz talebini reddetmiştir. Mahkeme, talep eden vekilin borçlu şirkete karşı yeterli delil sunmadığını ve faturaların tek başına borç ilişkisini kanıtlamadığını belirtmiştir. Ayrıca, talep eden vekilin iddialarının somut delillere dayanmadığını ve borcun mal kaçırdığı iddialarının soyut olduğunu vurgulamıştır. Sonuç olarak, mahkeme talebin reddine karar vermiştir.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi 17. Hukuk Dairesi, İK'nın 258. maddesi ve 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 357. maddesi uyarınca, talep eden vekilin borçlu şirkete karşı ihtiyati haciz talebini reddetmiştir. Talep eden vekili, borçlu şirketin faturalarını ödemediğini iddia etmiştir. Ancak mahkeme, faturaların tek başına borç ilişkisini kanıtlamadığını ve talep eden vekilin iddialarının somut delillere dayanmadığını belirtmiştir. Ayrıca, borcun mal kaçırdığı iddialarının soyut olduğunu ve somut delillere dayanmadığını vurgulamıştır. Sonuç olarak, mahkeme talebin reddine karar vermiştir. İstinaf başvurusu kabul edilmiş ve ilk derece mahkemesi kararının kaldırılmasına karar verilmiştir."
+}

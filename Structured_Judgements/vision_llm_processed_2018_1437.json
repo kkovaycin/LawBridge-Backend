@@ -1,0 +1,31 @@
+{
+    "meta_data": {
+        "file_name": "2018_1437.pdf",
+        "court_name": "İstanbul Anadolu 4. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2017/860",
+        "karar_no": "2020/460",
+        "case_subject": "Manevi Tazminat (Haksız Rekabetten Kaynaklanan)",
+        "dava_tarihi": "05/04/2018",
+        "karar_tarihi": "07/05/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilinin eğitimde verdiği desteğin bir Vakfa ait olduğu söylenen yerlerde vuku bulan tecavüz olayı nedeniyle çarpıtılarak sosyal medyada karalama kampanyasına dönüştürüldüğünü, davacının twitter hesabından 'taahhütüm var dua edin yoksa pedofili sponsoru şerefsizler! adınız ve gün gelecek yargılanaksınız.' şeklinde paylaşımda bulunduğunu, davacının müvekkilinin tecavüz desteği olduğu davada ithamda bulunduğunu iddia etti.",
+        "reasoning_text": "İlk derece mahkemesi, davacının faaliyetlerini ve ticari işlerini yanlış, yanlıtıcı veya gereksiz yere suçlayıcı niteliğinde olduğu için haksız rekabet teşkil ettiğini tespit etti. Davacı şirketin manevi tazminat talebini kabul edilebileceği zarar derecesine dikkat edilerek manevi tazminatın takdir edildiği gerekçesiyle davanın kısmen kabulüne karar verildi.",
+        "verdict_text": "İstanbul Bölge Adlıye Mahkemesi 12. Hukuk Dairesi tarafından verilen ilk derece mahkeme kararı, davacının manevi tazminat talebini kısmen kabul ederek 500 TL manevi tazminat verilmesine karar verdi. Davacı vekilinin istinaf dilekçesinde, ilk derece mahkemesinin hükmünün tazminat miktarı yönünden kaldırılması istendi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Ceza Kanunu (TCK) 25. madde",
+            "Ticaret Kanunu (TTK) 55, 56. maddeler",
+            "Ticaret Kanunu (TTK) 58. madde",
+            "Avrupa İnsan Hakları Sözleşmesi 10. madde",
+            "Türk Anayasası 26. madde",
+            "Ticaret Kanunu (TTK) 55/1-a madde",
+            "Ticaret Kanunu (TTK) 56. madde",
+            "Hukuk Muhakemesi Kanunu (HMK) 353(1)b-1 madde",
+            "Hukuk Muhakemesi Kanunu (HMK) 362(1-a) madde"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkilinin tecavüz iddiaları ve sosyal medyada yanlış açıklamalar nedeniyle haksız rekabet iddiasıyla manevi tazminat talep etti. İlk derece mahkemesi, davacının faaliyetlerinin haksız rekabet teşkil ettiğini tespit ederek 500 TL manevi tazminat verilmesine karar verdi.",
+    "summary_for_model": "Dava, haksız rekabet nedeniyle manevi tazminat talebini içermektedir. İlk derece mahkemesi, davacının faaliyetlerinin haksız rekabet teşkil ettiğini tespit ederek 500 TL manevi tazminat verilmesine karar verdi. İstinaf sürecinde tazminat miktarı ve hükmün kaldırılması talepleri bulunmaktadır."
+}

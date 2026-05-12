@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2017_680.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2014/1335",
+        "karar_no": "2018/106",
+        "case_subject": "İtirazın İptali",
+        "dava_tarihi": "23/11/2016",
+        "karar_tarihi": "30/01/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının müvekkiline 68 denye iplikleri kilosu 2,00 USD'den satması, buna karşılık müvekkilin de bu ipliklerden üreteceği raset kumaşları kilosu 3,00 USD'den satması, ayrıca 75 denye iplikten imal edeceği kumaşları da 3,13 USD'den davalya satmasının kararlaştırıldığını iddia etmiştir. Davalı vekili ise, davacının iplikleri kabul etmediğini, davalının cari hesap borcunu ödemediğini ve icra takibine itiraz ettiğini savunmuştur.",
+        "reasoning_text": "Mahkeme, davacının iplikleri ayıp olarak tanımladığını, davalının bu iplikleri teslim etmediğini ve davalının cari hesap borcunu ödemediğini tespit etmiştir. Ayrıca, davalının iplikleri teslim etmediği için davacı tarafından dava açıldığını ve davalının icra takibine itiraz ettiğini de değerlendirmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi açıklanmış olduğu üzere; 1-İstanbul 8. Asliye Ticaret Mahkemesi'nin 23/11/2016 tarih ve 2014/1335 esas, 2016/867 karar sayılı kararında usul ve esas yönünden yasaya aykırı bir durum bulunmadığına göre, davalı vekilinin istinaf başvurusunun HMK'nin 353/1-b-1 maddesi gereğince esastan REDDİNE, 2-Alınması gereken 11.839,96 TL nisbi istinaf karar ve ilam harcından davalı tarafından peşin olarak yatırılan 2.959,99 TL harcin mahsubu ile bakiye 8.879,97 TL harcin davalidan alınarak HAZİNEYE GELİR KAYDINA, 3-Davalı tarafından yapılan istinaf yargılama giderlerinin üzerinde bırakılmasına, 4-İstinaf incelemesi sırasında duruşma açılmadığından davacı yararına vekalet ücreti takdirine yer olmadığına, Dosya üzerinde yapılan inceleme sonucunda, 6100 sayılı HMK'nin 361. maddesi gereğince kararın tebliği tarihinden itibaren 2 hafta içerisinde Yargıtay'da temiz yolu açık olmak üzere 30/01/2018 tarihinde oybirliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nin 353/1-b-1 maddesi",
+            "HMK'nin 361. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının iplikleri teslim etmediğini ve cari hesap borcunu ödemediğini iddia etmiştir. Mahkeme, davacının iddialarını kabul etmiş ve davalının istinaf başvurusunu reddetmiştir.",
+    "summary_for_model": "Davacı, davalının iplikleri teslim etmediğini ve cari hesap borcunu ödemediğini iddia etmiştir. Mahkeme, davacının iddialarını kabul etmiş ve davalının istinaf başvurusunu reddetmiştir. Davalı vekilinin istinaf başvurusu HMK'nin 353/1-b-1 maddesi gereğince esastan reddedilmiştir."
+}

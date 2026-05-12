@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2019_1022.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2019/1022",
+        "karar_no": "2019/1033",
+        "case_subject": "Tespit (D.İş)",
+        "dava_tarihi": "09/11/2018",
+        "karar_tarihi": "10/05/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının markasını sosyal medya hesaplarında ve ticari evraklarında kullanmasını önlemek için itiyatı tedbir talep etti. Mahkeme, davalının markasını kullanmanın markaya tecavüz ve haksız rekabet oluşturduğunu tespit etti.",
+        "reasoning_text": "Mahkeme, itiyatı tedbirin uygunluğunu ve davalının itirazının reddedilmesini gerekçelendirdi. İstinaf talebinin kabul edilmesi ve davanın duruşma açılmasına karar verildi.",
+        "verdict_text": "İstanbul 1.FSHHM'nin 04.03.2019 tarihli 2018/210 D.İş sayılı kararının itiyatı tedbir talebinin kabul edildiği, aleyhine tedbir kararı verilen vekilin itiraz ettiği, itiraz üzerine ilk derece mahkemesinin dosya üzerinde inceleme yaparak 20.03.2019 tarihli ara kararıyla itirazın reddedildiği görülmüştür. 6100 sayılı HMK'nın 353/1-a-6 maddesi uyarınca oybirliğiyle kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "HMK 356",
+            "HMK 389-390",
+            "HMK 394/1",
+            "HMK 394/2",
+            "HMK 353/1-a-6",
+            "6100 sayılı HMK"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markasını sosyal medya ve ticari evraklarında kullanmasını önlemek için itiyatı tedbir talep etti. Mahkeme, davalının markasını kullanmanın markaya tecavüz ve haksız rekabet oluşturduğunu tespit etti ve itiyatı tedbir talebini kabul etti.",
+    "summary_for_model": "Davacı, davalının markasını sosyal medya ve ticari evraklarında kullanmasını önlemek için itiyatı tedbir talep etti. Mahkeme, davalının markasını kullanmanın markaya tecavüz ve haksız rekabet oluşturduğunu tespit etti ve itiyatı tedbir talebini kabul etti. İstinaf talebinin kabul edilmesi ve davanın duruşma açılmasına karar verildi."
+}

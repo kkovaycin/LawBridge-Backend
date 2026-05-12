@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2018_1565.pdf",
+        "court_name": "İstanbul Anadolu Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2018/1565",
+        "karar_no": "2018/1188",
+        "case_subject": "Marka (Maddi Tazminat İstemli)",
+        "dava_tarihi": "21/05/2018",
+        "karar_tarihi": "21/05/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı vekili ile davacı arasında ortaklık ilişkisi olduğunu iddia etti. Davacı vekili, davalı vekili tarafından kullanılan görsellerin hak sahibi olduğunu ve davacı tarafından kullanıldığını iddia etti. Davalı vekili ise bu iddiaları reddetti.",
+        "reasoning_text": "Mahkeme, davacı vekili tarafından yapılan itiraz ve taleplerin reddedildiğini, davalı vekili tarafından yapılan istinaf talebinin kabul edildiğini ve davacı vekili tarafından yapılan itirazın reddedildiğini karar verdi.",
+        "verdict_text": "Davalar vekili istinaf talebinin KABULÜNE, İstanbul Anadolu Fikri ve Sınai Haklar Hukuk Mahkemesi'nin 14/02/2018 günlü ihtiyati tedbire itirazının reddi ve 20/10/2017 günlü ihtiyati tedbir kararlarının KALDIRILMASININA, Davallar tarafından yatırılan istinaf peşin harcının isteği halinde kendisine iadesine, Davallar tarafından yapılan 98,10 TL istinaf yoluna başvurma harci ile 183,00 TL posta ve dosya fotokopi masrafı olmak üzere toplam 281,10 TL'nin davacılardan alınarak davallara verilmesine, İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına Dosya üzerinden yapılan inceleme sonucu oy birliği ile 6100 sayılı HMK'nın 362/1-f maddesi gereğince kesin olarak karar verildi.21/05/2018"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK'nun 613.maddesi",
+            "TTK'nun 626.maddesi",
+            "FSEN 4",
+            "6100 sayılı HMK'nın 362/1-f maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekili tarafından yapılan itiraz ve taleplerin reddedildiğini, davalı vekili tarafından yapılan istinaf talebinin kabul edildiğini ve davacı vekili tarafından yapılan itirazın reddedildiğini karar verdi.",
+    "summary_for_model": "Mahkeme, davacı vekili tarafından yapılan itiraz ve taleplerin reddedildiğini, davalı vekili tarafından yapılan istinaf talebinin kabul edildiğini ve davacı vekili tarafından yapılan itirazın reddedildiğini karar verdi. Davacı vekili tarafından yapılan itiraz ve taleplerin reddedildiğini, davalı vekili tarafından yapılan istinaf talebinin kabul edildiğini ve davacı vekili tarafından yapılan itirazın reddedildiğini karar verdi."
+}

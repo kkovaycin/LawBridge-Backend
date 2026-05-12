@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_604.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2018/1207",
+        "karar_no": "2020/446",
+        "case_subject": "Ticari Netlikteki Hizmet Sözleşmesinden Kaynaklanan İtirazın İptali",
+        "dava_tarihi": "22/05/2024",
+        "karar_tarihi": "02/10/2020"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; davacı ile davalı arasında imzalanan \"Sosyal Medya Mecraları Planlama ve Yönetim Danışmanlığı Hizmet Sözleşmesi\"ve \"Sosyal Medya Mecraları Planlama ve Yönetim Danışmanlığı Hizmet Sözleşmeleri\"nden kaynaklı hizmet bedeli fatura alacaklarının tahsili için yapılan takibe vaki, davalının haksız itirazın iptali, takibin devamı ve %20 den az olmak üzere icra inkar tazminatı ile sorumlu tutulmasını talep ve dava etmiştir.",
+        "reasoning_text": "Mahkeme, davacı vekili cevabında özetle; her ne kadar davacı tarafından müvekkile ait \"...\"ve \"...\"programlarına ilişkin olarak taraflar arasında akdedilen iki ayrı danışmanlık hizmet sözleşmesinden kaynaklı hizmet bedeli alacağının ödenmediğinden bahisle alacak talebinde bulunmuş ise de davacının beyanlarının gerçeği yansıtmadığı, davacı tarafından ilerisi sürdüğü şekilde bir hizmet alımının söz konusu olmadığı gibi davacı yanıl edilmenlerini de gereği gibi ifa etmediğini, dolayısıyla ücret alacağının oluşmadığını, ayrıca taraflar arasında akdedilen sözleşmenin 4.1. Maddesinde aylık hizmet bedelinin aynı zamanda hak ve lisans devirleri karşılık telif bedeli olduğu açıkça düzenlenmesine rağmen davacı yanıl sözleşmenin 5.2 maddesi gereğince müvekkile devri gereken fikir mülkiyeti ilişkin haklarında ih tara rağmen yapmadığını, davacı tarafından gönderdiği faturalarda kendilerine iaade edildiğini beyana haksız ve mesnetsiz davanın reddini, davacının kötü niyet nedeniyle %20 den az olmak üzere kötü niyet tazminatı ile sorumlu tutulmasını talep etmiştir.",
+        "verdict_text": "İSTİNAF SEBEPLERİ 1-Davacı vekili yasal süre içinde sunmuş olduğu istinaf dilekçesinde özetle; davalının istinaf başvurusunun reddine karar verilmesi gerektiği, hatalı tespitlerde bulunan bilirkişi raporunun hükm esas alındığı, ... ve ... numaralı faturaların düzenlenmesinin yerinde olmadığına dair mahkeme tespitinin dosya kapsamina uygun olmadığı, davacının sözleşmeyi kusursuz bir şekilde ifa ettiği, Ağustos ayında davalı şirketin herhangi bir talebi olmaması durumunun davacının hizmet borçunu kusursuz bir şekilde ifa ettiği sonucunu değiştirmediği, zira davacı şirketin davalının taleplerini almaya her an hazır şekilde beklediği, o ay ait davalı şirketten herhangi bir talep gelmediği nedeniyle davacının ücret alamayacağı yönündeki tespitin taraflar arasında sözleşmeye aykırılık teşkil ettiği, ... numaralı fatura yönünden ise davacının itirazlarının dikkate alınmadığı, davacının google plus sayfası ve facebook sayfası konusunda hizmette bulunduğu, bu hizmetlerle ilgili olarak toplu olarak kestiği fatura davalı şirkete ilettiği, ancak bilirkişi heyeti'nin herhangi bir tespite bulunmadığı, davacının ifasının gerçekleştirdiği hizmetlerin yönünden hakkaniyet kurallarına uygun olacak şekilde herhangi bir tarihte fatura düzenleme hakkına sahip olduğu, nitekim google plus sayfa yönetimi için tarafların bir ücret kararlaştırılması durumunda dahi davacının ücret alacağını belirtilmiştir. 2-Davalı vekili yasal süre içinde sunmuş olduğu istinaf dilekçesinde özetle; tarafın ticari defter ve belgelerinin incelenmediği, iddia edilen görsellerin davalı tarafça talep edildiğinin ispatlanması gerektiği, davacının hazırladığı tasarımların fikri mülkiyeti davalıya devretmediği ve devretmeyi dahi teklif etmediği, ihtilaf konusu alacağın takip tarihi itibarıyla muaccel hale gelmediği belirtilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "492 Sayılı Harçlar Kanunu",
+            "Harçlar Kanunu Genel Tebliği"
+        ]
+    },
+    "summary_for_human": "Davacı, davalıya ait sosyal medya hizmetleri için fatura alacaklarını tahsil etmek istemektedir. Davalı ise bu hizmetlerin gerçekleşmediğini ve davacının kötü niyetle davayı açtığını iddia ediyor. Mahkeme, davacının haklı olduğunu ve davalının kötü niyet tazminatı ödemesi gerektiğini kararlaştırmıştır.",
+    "summary_for_model": "Davacı, davalıya ait sosyal medya hizmetleri için fatura alacaklarını tahsil etmek istemektedir. Davalı ise bu hizmetlerin gerçekleşmediğini ve davacının kötü niyetle davayı açtığını iddia ediyor. Mahkeme, davacının haklı olduğunu ve davalının kötü niyet tazminatı ödemesi gerektiğini kararlaştırmıştır. Davacı vekili, davalı vekili ve bilirkişi raporları incelenmiştir."
+}

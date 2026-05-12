@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2018_3502.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2018/3502 Esas",
+        "karar_no": "2021/1348",
+        "case_subject": "Marka haklarına tecavüz ve haksız rekabet davası",
+        "dava_tarihi": "14/09/2015",
+        "karar_tarihi": "01/07/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının internet sitesinde \"aklinda ne varsa o senin\" sloganını kullanmasının markaya tecavüz ve haksız rekabet oluşturduğunu iddia etmiştir. Davalının bu sloganı kendi internet sitesinde ve diğer sitelerde reklam olarak kullanması, davacının markasına zarar verdiği iddia edilmiştir.",
+        "reasoning_text": "Mahkeme, davalının sloganın markasal niteliğe sahip olmadığını ve davacının hak ihlalini kanıtlayamadığını tespit etmiştir. Davalının sloganı, markaya tecavüz ve haksız rekabet oluşturmadığı için dava reddedilmiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Davacı - birleşen davalı vekilinin istinaf talebinin KISMEN KABÜLÜNE, KISMEN REDDİNE, 2-İstanbul 2.Fikri ve Sanat Hakları Hukuk Mahkemesi'nin 07/11/2017 gün, 2017/208 Esas, 2017/312 Karar sayılı kararının KALDIRILMASINA, 3-Asıl davada;a)Davacı ... San. ve Tic. Ltd. Sti. tarafından davalı şirkete açılan marka haklarına tecavüzün tespiti, durdurulması, önlenmesi, maddi tazminat talebi davanın REDDİNE,b)Alınması gereken 59,30 TL harçtan, peşin alınan 27,70 TL harçın mahsubu ile bakiye 31,60 TL harçın davaldan alınarak hazineye gelir kaydına, c) Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca davacı yararına hesap olan 2.860,00 TL vekalet ücretinin davaldan alınarak kendisini vekille temsil ettiren davacıya verilmesine, d) Davacı tarafından yapılan 100,00 TL posta gideri ile 62,80 TL (peşin+başvuru harci olmak üzere toplam 162,80 TL) yargılama giderinin davaldan alınarak davacıya verilmesine, e) Davacı tarafından yapılan yargılama giderlerinin kendi üzerinde bırakılmasına,5-İstinaf Yargılamasında; a) istinaf peşin harcının talebi halinde davacı - birleşen davalıya iaadesine, b) istinaf aşamasında davacı - birleşen davalı tarafından yapılan yargılama gideri olan 196,20 TL istinaf yoluna başvurma harci ile 60,50 TL posta ve tebligat masrafı olmak üzere toplam 256,70 TL'nin davacı - birleşen davacıdan alınarak davacı - birleşen davalıya verilmesine, c)İstinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına, 6-Gerek ilk derecede gerekse istinaf aşamasında yatırılan gider avanslarından kullanılmayan kısımların karar kesinleştiğinde yatıran tarafa iaadesine, Dair, dosya üzerinde yapılan inceleme sonucunda, HMK'nun 361.maddesi uyarınca tebligden itibaren iki haftalık süre içerisinde Yargıtay İlgili hukuk dairesinde temyiz yolu açık olmak üzere oy birliği ile karar verildi.01/07/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "556 Sayılı KHK",
+            "35 ve 38. maddeler",
+            "2.maddeler",
+            "361.maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının internet sitesinde \"aklinda ne varsa o senin\" sloganını kullanmasının markasına tecavüz ve haksız rekabet oluşturduğunu iddia etti. Mahkeme, davalının sloganın markasal niteliğe sahip olmadığını ve davacının hak ihlalini kanıtlayamadığını tespit etti. Dolayısıyla dava reddedildi.",
+    "summary_for_model": "Davacı, davalının internet sitesinde \"aklinda ne varsa o senin\" sloganını kullanmasının markaya tecavüz ve haksız rekabet oluşturduğunu iddia etti. Mahkeme, davalının sloganın markasal niteliğe sahip olmadığını ve davacının hak ihlalini kanıtlayamadığını tespit etti. Dolayısıyla dava reddedildi."
+}

@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2021_1168.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ BAM 20. HUKUK DAİRESİ",
+        "esas_no": "2021/1168",
+        "karar_no": "2023/1102",
+        "case_subject": "YİK Tasarım Kararı iptali",
+        "dava_tarihi": "18/05/2021",
+        "karar_tarihi": "06/10/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkili tarafından 2020/02781/1 sayılı tasarının başvurusunda bulunduğunu, başvurularının 6769 sayılı SMK'nin 64/6-d maddesi uyarınca reddedildiğini iddia etmiştir. Tasarım Araştırma ve İnceleme Raporunda yer alan linkin yayım tarihinin 11/04/2020 olduğunu, müvekkilin ise söz konusu ürünü 28/03/2020 tarihinde piyasaya sürdüğünü, linkin yer aldığı sosyal sayfa sahibinin mürekkilinin ürünlerini gördükten sonra benzerlerini satışa çıkardığını, hatta dava dışı sahsın kullanıdığı facebook sayfasındaki görselin mürekkilin kendişinin çektikleri, mürekkilin bu resmi çektikten sonra ürünlerin satışını yapan dava dışı ... işimli kişiye gönderdiğini iddia etmiştir.",
+        "reasoning_text": "Mahkeme, ilk derece mahkemesi kararının hukuka uygun olup açılan davanın reddinin gerektiğiği savunarak, davanın reddini istemiştir. Mahkeme, dava konusu tasarımın ilk defa davacının talebi ile dosya kapsamında mahkemeye ifadesine başvurulan tank tarafından, kamuya sunulması dışında, kamuya sunulmadığı, kamuya sunulan tasarımın davacının tescil başvuru tarihi olan 16.04.2020 den önce ve fakat başvurudan önceki 12 aylık süre içerisinde kaldığı, bu itibarla SMK'nın 57/2. maddesi hükümünden faydalanabilecek bir kamuya suma olduğuğu, SMK'nın 64/6. maddesinin d fikrasına göre başvurunun reddinin yerinde olduğu anlaşılmakla, davalı ... vekilinin istinaf başvurusunun esas yönünden reddine dair hüküm kurmak gerekmiştir.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda belirtildiği üzerine;\n1-Davalı ... vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğiçe ES ASTAN REDDİNE,\n2-Harçlar Kanunu uyarınca alınması gereken 269,85-TL maktu istinaf karar ve ilam harçından, davalı ... vekili tarafından istinaf başvurusunda yatırılan 59,30-TL istinaf karar ve ilam harçının mahsubu ile bakiye 210,55-TL'nin davalı ... tahsili ile Hazineye irat kaydına,\n3-Istinaf aşamasında davalı ... tarafından yapılan yargılama giderlerinin davalı ... ühdesinde birakılmasına,\n4-Istinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına,\nDaır, dosya üzerinde yapılan inceleme sonucunda oybirliği ile 28/09/2023 tarihinde HMK 361. maddesi uyarınca kararın tebliğinden itibaren iki hafta içerisinde Yargıtay temyiz yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SMK 57/2",
+            "SMK 64/6",
+            "HMK 353/1-b.1",
+            "HMK 361",
+            "Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, müvekkili tarafından yapılan tasarımın SMK 64/6-d maddesi uyarınca reddedildiği iddiasında bulundu. Mahkeme, ilk derece mahkemesi kararının hukuka uygun olup açılan davanın reddinin gerektiğiği savunarak, davanın reddini istemiştir.",
+    "summary_for_model": "Davacı vekili, müvekkili tarafından 2020/02781/1 sayılı tasarımın SMK 64/6-d maddesi uyarınca reddedildiği iddiasında bulundu. Mahkeme, ilk derece mahkemesi kararının hukuka uygun olup açılan davanın reddinin gerektiğiği savunarak, davanın reddini istemiştir. Mahkeme, dava konusu tasarımın ilk defa davacının talebi ile dosya kapsamında mahkemeye ifadesine başvurulan tank tarafından, kamuya sunulması dışında, kamuya sunulmadığı, kamuya sunulan tasarımın davacının tescil başvuru tarihi olan 16.04.2020 den önce ve fakat başvurudan önceki 12 aylık süre içerisinde kaldığı, bu itibarla SMK'nın 57/2. maddesi hükümünden faydalanabilecek bir kamuya suma olduğu, SMK'nın 64/6. maddesinin d fikrasına göre başvurunun reddinin yerinde olduğu anlaşılmakla, davalı ... vekilinin istinaf başvurusunun esas yönünden reddine dair hüküm kurmak gerekmiştir."
+}

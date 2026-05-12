@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2020_2313.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 17. Hukuk Dairesi",
+        "esas_no": "2020/2313",
+        "karar_no": "2024/324",
+        "case_subject": "Güvenlik Sistemi Yazılım Hazırlanması, Sistemin Devri ve Bakımı sözleşmesi imzalanması ve yazılımın teslim edilmemesi nedeniyle dava",
+        "dava_tarihi": "07/10/2020",
+        "karar_tarihi": "07/03/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde; müvekkili ile davalı şirket arasında Güvenlik Sistemi Yazılım Hazırlanması, Sistemin Devri ve Bakımı sözleşmesi imzalandığını, sözleşmeye göre yazılımın 30 gün içinde tamamlanacağını, zorunluluk halinde ise bu süreyi 15 gün ilave edileceğini, hazırlanan yazılımın da en geç 1 ay içinde müvekkiline devredileceğini, ancak davalının, süre geçmesine rağmen edimini yerine getiremediğini, bu nedenle müvekkilince, sözleşmenin feshedilerek yapılan ödemenin iadesinin talep edildiğini, ancak davalı tarafından kabul edilmediğini belirterek fazlayı dair talep ve dava hakları saklı kalmak kaydıyla davalı şirkete haksız ödenen alacağın 17.000,00 TL'lik kısmının sözleşmenin fesih tarihi olan ihbar tarihinden itibaren işleyecek avans faizi ile birlikte iadesine karar verilmesini talep ve dava etmiştir.",
+        "reasoning_text": "İlk derece mahkemesi; taraflar arasında sözleşmeye konu yazılımın davacıya devredilmediği hususunda bir uyumazlık olmadığını, uyumazlığın, yazılımın, sözleşmede öngörülen süre içinde hazırlanıp hazırlanmadığı, davalının bu aşamada bir gecikmesinin olup olmadığı ve sözleşmenin fesihinin haksız olup olmadığı noktasında toplandığını, alınan her iki bilirkişi raporu ile de, davalının yazılım sistemini hazırlamaya başladıktan sonra davacı tarafından değişikliklerin talep edildiği, değişiklik talepleri ile birlikte yazılımın süresi içinde yerine getirildiğinin tespit edildiği, davalının, edimin ifasında temerrüde düşmediği, bu nedenle davacının, sözleşmeyi feshetmekte haksız olduğu ve ödenen bedelin iadesini talep edemeyeceği gerekçesiyle davanın reddine dair karar vermiştir.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere, 1-İstanbul 3. Aslıye Ticaret Mahkemesinin 2018/210 Esas, 2020/425 Karar sayılı ve 07/10/2020 tarihli kararı usul ve esas yönünden hukuka uygun bulunduğundan, 6100 sayılı Hukuk Usülü Muhakemeleri Kanununun 353/1b-1 bendi gereğince davacı vekilinin istinaf başvurusunun esasatan REDDİNE, 2-Hüküm tarihinde yürürlükte bulunan 492 sayılı Harçlar Kanunu gereğince alınması gereken 427,60 TL maktu istinaf karar harcından davacı tarafından peşin olarak yatırılan 54,40 TL harcin mahsubu ile bakiye 373,20 TL harcin davacıdan tahsili ile HAZİNEYE İRAT KAYDINA, 3-Davacı taraflıca yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, Dosya üzerinde yapılan işlemlerin 6100 sayılı Hukuk Usülü Muhakemeleri Kanununun 353't. bendiyle ilgilidir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "353. Madde",
+            "492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Bu dava, bir yazılım şirketi ile bir güvenlik sistemi yazılımı hazırlanması, devri ve bakımı sözleşmesi konulu bir anlaşma çerçevesinde ortaya çıkmıştır. Davacı, sözleşme gereği yazılımın belirli bir sürede tamamlanmasını ve devrini talep etmiştir. Ancak yazılımın zamanında teslim edilmemesi nedeniyle davacı, sözleşmenin feshedilerek ödenen bedelin iadesini talep etmiştir. İlk derece mahkemesi, yazılımın zamanında hazırlanmadığı ve davalının edimin ifasında temerrüde düşmediği gerekçesiyle davacının talebini reddetmiştir. Davacı, bu kararı istinaf ederek yüksek mahkemeye taşımıştır. Yüksek mahkeme, ilk derece mahkemesinin kararının usul ve esas yönünden hukuka uygun olduğunu kabul ederek istinaf talebini reddetmiştir.",
+    "summary_for_model": "Dava, Güvenlik Sistemi Yazılım Hazırlanması, Sistemin Devri ve Bakımı sözleşmesi çerçevesinde, yazılımın zamanında teslim edilmemesi nedeniyle açılmıştır. İlk derece mahkemesi, yazılımın süre içinde hazırlanmadığı ve davalının edimin ifasında temerrüde düşmediği gerekçesiyle davacının talebini reddetmiştir. İstinaf mahkemesi, ilk derece mahkemesinin kararının usul ve esas yönünden hukuka uygun olduğunu kabul ederek istinaf talebini reddetmiştir. Temel hukuki dayanaklar: 6100 Sayılı Hukuk Muhakemeleri Kanunu, 353. Madde, 492 Sayılı Harçlar Kanunu."
+}

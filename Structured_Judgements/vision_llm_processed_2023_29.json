@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2023_29.pdf",
+        "court_name": "İstanbul Anadolu 1. Fıkri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2023/29",
+        "karar_no": "2023/435",
+        "case_subject": "Marka tecavüzüne karşı ihtiyatı tedbir talebi ve dava açılması",
+        "dava_tarihi": "04/10/2022",
+        "karar_tarihi": "10/03/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, Avrupa Birliği'ne üye ülkelerde yaşayan nitelikli personel ihtiyacını karşılamak amacıyla hizmet veren bir aracı şirketi olarak faaliyet gösterdiğini iddia etti. Davacı, davalı tarafından kullanıldığı iddia edilen markanın ve internet sitesinin kullanılmasına karşı ihtiyatı tedbir talebi etti. Davalı, davacı tarafından kullanıldığı iddia edilen markanın ve internet sitesinin kullanılmasına karşı dava açtı.",
+        "reasoning_text": "İstanbul Anadolu Cumhuriyet Başsavcılığı tarafından soruşturma başlatıldı. Davacı, davalı tarafından kullanıldığı iddia edilen markanın ve internet sitesinin kullanılmasına karşı ihtiyatı tedbir talebi etti. Davacı, davalı tarafından kullanıldığı iddia edilen markanın ve internet sitesinin kullanılmasına karşı dava açtı. Davacı, davalı tarafından kullanıldığı iddia edilen markanın ve internet sitesinin kullanılmasına karşı ihtiyatı tedbir talebi etti.",
+        "verdict_text": "İhtiyatı tedbir talebinin kısmen kabulüne karar verildi. Davacı tarafından kullanıldığı iddia edilen markanın ve internet sitesinin kullanılmasına karşı ihtiyatı tedbir talebi kabul edildi. Davacı tarafından kullanıldığı iddia edilen markanın ve internet sitesinin kullanılmasına karşı dava açılmasına karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK) 353. Maddesi",
+            "İstanbul Anadolu Cumhuriyet Başsavcılığı 2022/17383 Soruşturma Numarası"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı tarafından kullanıldığı iddia edilen markanın ve internet sitesinin kullanılmasına karşı ihtiyatı tedbir talebi etti. Davacı, davalı tarafından kullanıldığı iddia edilen markanın ve internet sitesinin kullanılmasına karşı dava açtı. İstanbul Anadolu Cumhuriyet Başsavcılığı tarafından soruşturma başlatıldı.",
+    "summary_for_model": "Davacı, davalı tarafından kullanıldığı iddia edilen markanın ve internet sitesinin kullanılmasına karşı ihtiyatı tedbir talebi etti. Davacı, davalı tarafından kullanıldığı iddia edilen markanın ve internet sitesinin kullanılmasına karşı dava açtı. İstanbul Anadolu Cumhuriyet Başsavcılığı tarafından soruşturma başlatıldı. Davacı, davalı tarafından kullanıldığı iddia edilen markanın ve internet sitesinin kullanılmasına karşı ihtiyatı tedbir talebi etti."
+}

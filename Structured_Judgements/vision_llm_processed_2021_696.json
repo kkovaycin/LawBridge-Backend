@@ -1,0 +1,33 @@
+{
+    "meta_data": {
+        "file_name": "2021_696.pdf",
+        "court_name": "T.C. ANKARA 7. AŞLİYE TİCARET MAHKEMESİ",
+        "esas_no": "2021/696",
+        "karar_no": "2022/188",
+        "case_subject": "Haksız rekabetten kaynaklanan manevi tazminat davası",
+        "dava_tarihi": "24/11/2021",
+        "karar_tarihi": "30/03/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davayı haklı olarak açmıştır. Müvekkilin bilşim sektöründe faaliyet gösteren bir firma olması, dünya çapında popülerliği ve milyonlarca kişinin kullandığı uygulaması, davacının sosyal medya hesapları üzerinden müvekkili aitt uygulama hakkındaki güvenilirliğini zedelemek amacıyla tweetler paylaşması, davacının attığı tweetler sebebiyle müvekkilin ciddî zarara uğraması ve dönümelz zararlara yol açması iddia edilmiştir.",
+        "reasoning_text": "Davacı vekili, davayı haklı olarak açmıştır. Davanın konusu, TBK'da tanımlanan bir dava konusu olarak kabul edilmiştir. Davacı vekili, davayı Fikri ve Sınai Haklar Hukuku Mahkemesi'ne göndermek için talep etmiştir. Davanın reddi, davanın mahkemeye görevsizlik nedeniyle usulden reddedilmesi ve davanın Ankara Fikri ve Sınai Haklar Mahkemesi'ne gönderilmesi talep edilmiştir.",
+        "verdict_text": "1-DAVANIN MAHKEMEMİZİN GÖREVŞİZLİĞİ NEDENİYLE USULDEN REDDİNE, 2-Kararın kesinleşmesi ve iki haftalık yasal sürede talep edilmesi halinde dosyanın görevli Ankara Fikri ve Sınai Haklar Mahkemesi'NE GÖNDERİLMESİNE, 3- Yargılama giderleri ve vekalet ücretinin HMK.323 ve 331 maddeleri uyarınca görevli ve yetkili mahkeme tarafından değerlendirilmesine, Dair davacı vekilinin ve davalı vekilinin yüzüne karşı kararın tebliğinden itibaren 2 haftalık sürede verilecek dilekçe ile istinaf yolu açık olmak üzere oybirliği ile verilen karar açıkça okunup, usulen anlatıldı. 30/03/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6769 Sayılı Sınai Mülkiyet Kanunu 156/1 Maddesi",
+            "Fikri ve Sınai Haklar Mahkemesi, 5846 sayılı Yasa'nın 76. Maddesi",
+            "Fikri ve Sanat Eserleri Kanunu",
+            "551 sayılı Patent Haklarının Korunması",
+            "554 sayılı Endüstriyel Tasarımların Korunması",
+            "555 sayılı Coğrafi İşaretlerin Korunması",
+            "556 sayılı Markaların Korunması Hakkında Kanun",
+            "Hükümlerdeki Kararnameler",
+            "Hâkimler ve Savcılar Yüksek Kurulu'nun (HSYK) 24.03.2005 tarihli ve 188 sayılı kararı",
+            "HMK 114/1-c ve HMK 115/2 maddesi",
+            "HMK.323 ve 331 maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, müvekkilinin haklarını ihlal ettiği iddia edilen bir uygulama nedeniyle haksız rekabet davası açmıştır. Mahkeme, davanın mahkemeye görevsizlik nedeniyle usulden reddedilmesini ve davanın Ankara Fikri ve Sınai Haklar Mahkemesi'ne gönderilmesini kararlaştırmıştır.",
+    "summary_for_model": "Davacı vekili, davayı haklı olarak açmıştır. Davanın konusu, TBK'da tanımlanan bir dava konusu olarak kabul edilmiştir. Davanın reddi, davanın mahkemeye görevsizlik nedeniyle usulden reddedilmesi ve davanın Ankara Fikri ve Sınai Haklar Mahkemesi'ne gönderilmesi talep edilmiştir. Davanın reddi, davanın mahkemeye görevsizlik nedeniyle usulden reddedilmesi ve davanın Ankara Fikri ve Sınai Haklar Mahkemesi'ne gönderilmesi talep edilmiştir."
+}

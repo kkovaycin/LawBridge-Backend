@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2022_511.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi, 12. Hukuk Dairesi",
+        "esas_no": "2019/286",
+        "karar_no": "2025/298",
+        "case_subject": "Haksız rekabet davası",
+        "dava_tarihi": "13/07/2021",
+        "karar_tarihi": "27/02/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilinin davacıya kazandırdığını iddia etti. Davacı, müvekkilinin davacıya zarar verdiğini, davacıya zarar verdiğini iddia etti. Davacı, davanın reddine karar verilmesini istedi.",
+        "reasoning_text": "Mahkeme, davanın reddine karar verdi. Davacı vekili, davanın reddine karşı istinaf başvurusu yaptı. Mahkeme, davanın reddine karar verdi.",
+        "verdict_text": "DAVAYI REDDİNE KARAR VERİLMİŞTİR. ESAS TANIM: Davanın reddine karar verilmiştir. DAVAYI REDDİNE KARAR VERİLMİŞTİR."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK'nin 56. maddesi",
+            "TTK'nin 55. maddesi",
+            "TTK'nin 62. maddesi",
+            "Türkiye Cumhuriyeti Anayasası'nın Çalışma ve Sözleşme Hürriyeti başlıklı 48 ve devam maddeleri",
+            "HMK'nin 353(1)b-1 maddesi",
+            "HMK'nin 361/1. maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin davacıya kazandırdığını iddia ettiği davayı reddetti. Davacı vekili, davanın reddine karşı istinaf başvurusu yaptı. Mahkeme, davanın reddine karar verdi.",
+    "summary_for_model": "Davacı vekili, müvekkilinin davacıya kazandırdığını iddia etti. Davacı, davanın reddine karar verilmesini istedi. Mahkeme, davanın reddine karar verdi. Davacı vekili, davanın reddine karşı istinaf başvurusu yaptı. Mahkeme, davanın reddine karar verdi. TTK'nin 56. maddesi, TTK'nin 55. maddesi, TTK'nin 62. maddesi, Türkiye Cumhuriyeti Anayasası'nın Çalışma ve Sözleşme Hürriyeti başlıklı 48 ve devam maddeleri, HMK'nin 353(1)b-1 maddesi, HMK'nin 361/1. maddesi kullanıldı."
+}

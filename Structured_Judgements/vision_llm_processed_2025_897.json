@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2025_897.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2025/897",
+        "karar_no": "2025/1030",
+        "case_subject": "Marka Hakkına Tecavüzden Kaynaklanan",
+        "dava_tarihi": "12/03/2025",
+        "karar_tarihi": "12/03/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının sahibi olduğu Instagram hesabının yayınının durdurulmasını talep etti. İlk derece mahkemesi, davanın esasını çözmek için tedbir kararı vermeyecek şekilde karar verdi. İstinaf talebi reddedildi.",
+        "reasoning_text": "İstinaf talebi, davanın esasını çözmek için tedbir kararı verilebileceği iddiasına dayanıyordu. Ancak, mahkeme, davanın esasını çözmek için tedbir kararı verilebileceği iddiasını reddetti. HMK'nın 390/son maddesi uyarınca, yaklaşıkspat koşulları mevcut olmadığı için tedbir talebi reddedildi.",
+        "verdict_text": "ESASTAN REDDİNE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gereken 615,40 TL istinaf karar harcı davacı tarafından peşin yatırıldığından yeniden harç alınmasına yer olmadığına, 3-Davacı taraflarca istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, 4-İncelemenin durusmasız olarak yapılması sebebiyle taraflara vekalet ücreti tayinine yer olmadığına, 5-Taraflarca yatırılan gider avansından harçnmayan kısmın karar kesinleştiğinde iadesine, 6-Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin İlk derece Mahkemesince yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/(1)- maddesi gereğince, davanın esasını çözmek için tedbir kararı verilebileceği iddiasına dayanarak istinaf talebi reddedildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nın 390/son maddesi",
+            "HMK'nın 355. Maddesi",
+            "HMK'nın 353/1-b/1 maddesi",
+            "6100 Sayılı HMK'nın 353/1-b/1. maddesi",
+            "6100 Sayılı HMK'nın 362/(1)- maddesi",
+            "2-492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, davanın esasını çözmek için tedbir kararı verilebileceği iddiasını reddetti. İstinaf talebi, HMK'nın 390/son maddesi uyarınca, yaklaşıkspat koşulları mevcut olmadığı için reddedildi.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, davanın esasını çözmek için tedbir kararı verilebileceği iddiasını reddetti. İstinaf talebi, HMK'nın 390/son maddesi uyarınca, yaklaşıkspat koşulları mevcut olmadığı için reddedildi. HMK'nın 353/1-b/1 maddesi ve 6100 Sayılı HMK'nın 362/(1)- maddesi uyarınca, istinaf talebi reddedildi."
+}

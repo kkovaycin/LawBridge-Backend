@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2021_212.pdf",
+        "court_name": "T.C. İSTANBUL 3. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2021/212",
+        "karar_no": "2022/18",
+        "case_subject": "Markaya Tecavüz ve Haksız Rekabetin Teşpiti, Önlenmesi",
+        "dava_tarihi": "12/07/2019",
+        "karar_tarihi": "03/03/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde, davacının markasına tecavüz ve haksız rekabet iddialarını ortaya attı. Davacı, davalının markasını ve ürün modellerini kullanmak, reklam yapmak ve sosyal medyada satışa sunmak gibi eylemlerinin haksız rekabet oluşturduğunu iddia etti. Davacı ayrıca, davalının Facebook hesabının davacı markasına ait olduğunu ve bu hesap üzerinden satışa sunmanın önlenmesi gerektiğini talep etti.",
+        "reasoning_text": "Mahkeme, davacının iddialarını değerlendirerek, davalının markasına tecavüz ve haksız rekabet oluşturduğunu tespit etti. Mahkeme, davalının davacı markasını kullanmak, reklam yapmak ve sosyal medyada satışa sunmanın haksız rekabet oluşturduğunu ve bu eylemlerin önlenmesini gerektiğini karar verdi.",
+        "verdict_text": "HÜKÜM: Gerekeçi yukarıda açıklanmış üzere\n1-DAVANIN KABÜLÜNE\n2-Davanın eyleminin, davacının marka tescilden doğan haklarına tecavüz ve haksız rekabet teşkil ettiğini tespitine, önlenmesine, sonuçlarının ortadan kaldırılmasına,\n3-Davacının ... tescil numaralı markasına ve özgün ürün modellerine iltisab yaratan ürünlerin üretiminin, satışının, dağıtımının, ithal ve ihracının, yurt içinde ve yurtdışında satışa sunulmasının ve sair her türlü kullanımının önlenmesine,\n4-Davacının ... tescil numaralı markasına ve ürün modellerine iltisab oluşturan davalya ait ürünlerin, ilan, reklam, broşür, afiş ve sair her türlü tanıtım malzemesinin, basılı kağıtlar ve sair her türlü ticari evrakın ve bu şekilde bastrılmış olan materyallere el konulmasına ve kararın kesinleşmesi sonunda masrafi davaldan alınmak sureti ile imhasına,\n5-Davalının, davacının şekil markası ve özgün ürün modelleri ile iltisab yaratan ürünleri ... isimli Facebook hesabı başta olmak üzere, bütün sosyal medyada satışa sunmasının ve kullanmasının önlenmesine,\n6-... 2. Fikri ve Sınai Haklar Hukuk Mahkemesi'nin ... D.İş dosyasında 28/06/2019 tarihinde verilen ihtiyati tedbir kararının, karar kesinleşinceye kadar devamına,\n7-Karar kesinleştiğinde hüküm özetinin Türkiye'de tiraji yüksek bir gazetede bir kez ilanına masrafın davaldan tahsiline,\n8-80,70 TL İlam harcından peşin harcin mahsubu ile eksis 36,30 TL harcin davaldan tahsiline,\n9-Avukatlık ücret tarife uyarına 7.375,00 TL vekalet ücretinin davaldan alınarak davacıya verilmesine,\n10-Davacı tarafından yaptığı 44,40 TL başvuru harcı, 44,40 peşin harç, 88,80 TL tebligat ve müzekkere masrafı olmak üzere toplam 129,20 TL vergi ve vergi giderinin davaldan alınarak davacıya verilmesine,\n11-Davacı tarafından fazla yatırılan gider avansının karar kesinleştiğinde ve talep halinde iadesine,\nDair davacı vekili ve davalının yüzüne karşı gerekçeli kararın tebliginden itibaren iki haftalık süre içinde İSTİNAF YASA YOLU AÇIK olmak üzere verilen karar açıkça okundu, usulen anlatıldı. 03/03/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "SİNAİ MÜLKİYET KANUNU",
+            "TÜRK TİCARET KANUNU",
+            "TÜRK MEDENİ KANUNU",
+            "TÜRK BORÇLAR KANUNU"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının markasını ve ürün modellerini kullanmak, reklam yapmak ve sosyal medyada satışa sunmanın haksız rekabet oluşturduğunu iddia etti. Mahkeme, davalının bu eylemlerinin haksız rekabet oluşturduğunu tespit etti ve bu eylemlerin önlenmesini kararlaştırdı.",
+    "summary_for_model": "Davacı, davalının markasına tecavüz ve haksız rekabet iddialarını ortaya attı. Mahkeme, davalının markasını kullanmak, reklam yapmak ve sosyal medyada satışa sunmanın haksız rekabet oluşturduğunu tespit etti ve bu eylemlerin önlenmesini kararlaştırdı."
+}

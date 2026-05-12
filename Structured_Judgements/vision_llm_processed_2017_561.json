@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2017_561.pdf",
+        "court_name": "T.C. BAKIRKÖY 1. FİKRİ VE SANATİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2017/561",
+        "karar_no": "2019/183",
+        "case_subject": "Faydali Model Belgesinin Hükümsüzlüğü",
+        "dava_tarihi": "03/11/2017",
+        "karar_tarihi": "16/05/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, faydalı model belgesinin koruma kapsamına tecavüz ettiğini iddia ediyor. Müvekkili şirketin ürünlerinin davacı firmanın ürünüyle benzerlik taşıdığını, internet sitesinde tanıtım yapıldığını ve hak ihlali olduğunu savunuyor.",
+        "reasoning_text": "Mahkeme, davacı-karşı davalı arasındaki teknik ve yenilik unsurlarının farklı olduğunu tespit etti. Faydalı model belgesinin tescil tarihinden önce üretilen ve satılan ürünün davacı-karşı davalı tarafından farklı olarak üretildiğini belirledi.",
+        "verdict_text": "Davacı-karşı davalı adına tescilli faydalı model belgesinin hükümsüzlüğü kararı verildi. Davacı-karşı davalı adına tescilli faydalı model belgesinin yenilik ve teknik bilene duruma uygun olmadığı tespit edildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Patent ve Marka Kurumu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı-karşı davalı arasındaki teknik ve yenilik unsurlarının farklı olduğunu tespit ederek faydalı model belgesinin hükümsüzlüğünü kararlaştırdı.",
+    "summary_for_model": "Mahkeme, davacı-karşı davalı arasındaki teknik ve yenilik unsurlarının farklı olduğunu tespit ederek faydalı model belgesinin hükümsüzlüğünü kararlaştırdı. Davacı-karşı davalı tarafından üretilen ürünün davacı firmanın ürünüyle benzerlik taşımadığı tespit edildi."
+}

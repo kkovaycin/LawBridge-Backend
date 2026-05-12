@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2021_1416.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2021/1416",
+        "karar_no": "2023/872",
+        "case_subject": "Endüstriyel Tasarım Hakkına Tecavüz ve Haksız Rekabetin Tesbiti, Durdurulması, Önlennmesi, Maddi ve Manevi Tazminat",
+        "dava_tarihi": "11/12/2020",
+        "karar_tarihi": "07/06/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekili aracılığıyla, müvekkili firmanın TPMK nezdiinde tescilli bir tasarım ile iltisat yaratan derecede birebir benzeyen ürünler sattığını iddia etmiştir. Bu ürünler, davacı vekilinin tescilli tasarımına tecavüz ve haksız rekabet oluşturduğu için dava açılmıştır. Karşı dava, davacı vekilinin tescilli tasarımını önceden tasarlayıp sattığını iddia ederek dava reddetmiştir.",
+        "reasoning_text": "Mahkeme, davacı vekilinin tescilli tasarımını önceden tasarlayıp sattığını, ancak bu tasarımın yenilik ve ayırt edici özelliği olmadığını tespit etmiştir. Ayrıca, davacı vekilinin tescilli tasarımını anonim bir ürün olarak sunması ve bu tasarımın diğer firmalar tarafından da kullanılmasına izin verilmesi nedeniyle, davacı vekilinin tescilli tasarımını tecavüz etmediği sonucuna varmıştır.",
+        "verdict_text": "Davacı-karşı davası reddine, davacı-karşı davası kabulüne, davacı-karşı davacı vekilinin davacı-karşı davasının tescil başvurusundan önce 25/10/2016 tarihinde 903 kodlu ürününü tasarlayıp sattığını iddia ettiği için dava reddine, davacı-karşı davacı vekilinin davacı-karşı davasının tescil başvurusundan önce 25/10/2017 tarihinde aynı ürünü küçük nüans farklıyla güncelleyip 1154 kodluyla tekrar sattığını iddia ettiği için dava reddine karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353. ve 356. maddeleri",
+            "1-6100 sayılı HMK'nın 353/1-b-1 maddesi"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davacı vekilinin tescilli tasarımını önceden tasarlayıp sattığını ancak bu tasarımın yenilik ve ayırt edici özelliği olmadığını tespit ederek dava reddetmiştir. Davacı-karşı davası kabul edilmiştir.",
+    "summary_for_model": "Mahkeme, davacı vekilinin tescilli tasarımını önceden tasarlayıp sattığını ancak bu tasarımın yenilik ve ayırt edici özelliği olmadığını tespit ederek dava reddetmiştir. Davacı-karşı davası kabul edilmiştir. HMK 353. ve 356. maddeleri ve 1-6100 sayılı HMK'nın 353/1-b-1 maddesi bahsedilmiştir."
+}

@@ -1,0 +1,40 @@
+{
+    "meta_data": {
+        "file_name": "2024_496.pdf",
+        "court_name": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2023/199 E.",
+        "karar_no": "2024/856",
+        "case_subject": "Marka (Marka Hakkına Tecavüzden Kaynaklanan)",
+        "dava_tarihi": "17/01/2024",
+        "karar_tarihi": "13/05/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının markasını ihlal ettiğini iddia ediyor. Davalının internet siteleri ve sosyal medya hesaplarında davacının markasını kullanması, bankacılık faaliyetleri için lisans alınmaması ve markanın kötüye kullanılması iddia edilmektedir.",
+        "reasoning_text": "Mahkeme, davalının markasını ihlal ettiğini tespit etti. Davalının markasını kullanması, bankacılık faaliyetleri için lisans alınmaması ve markanın kötüye kullanılması nedeniyle ihlalin gerçekleştiği tespit edildi.",
+        "verdict_text": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi, davalının markasını ihlal ettiğini tespit ederek davacı lehine karar verdi. Davalının markasını kullanması, bankacılık faaliyetleri için lisans alınmaması ve markanın kötüye kullanılması nedeniyle ihlalin gerçekleştiği tespit edildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu 353/1-b/1. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu 362/(1)-f. ve 394/(5). maddeleri",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu 390/3. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu 389/1. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu 355. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu 353/1-b/1. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu 362/(1)-f. ve 394/(5). maddeleri",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu 353/1-b/1. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu 390/3. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu 389/1. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu 355. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu 353/1-b/1. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu 362/(1)-f. ve 394/(5). maddeleri",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu 353/1-b/1. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu 390/3. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu 389/1. maddesi",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu 355. maddesi"
+        ]
+    },
+    "summary_for_human": "İstanbul Anadolu 1. Fikri ve Sınai Haklar Hukuk Mahkemesi, davalının markasını ihlal ettiğini tespit etti. Davalının markasını kullanması, bankacılık faaliyetleri için lisans alınmaması ve markanın kötüye kullanılması nedeniyle ihlalin gerçekleştiği tespit edildi.",
+    "summary_for_model": "Mahkeme, davalının markasını ihlal ettiğini tespit etti. Davalının markasını kullanması, bankacılık faaliyetleri için lisans alınmaması ve markanın kötüye kullanılması nedeniyle ihlalin gerçekleştiği tespit edildi. Davacı lehine karar verildi."
+}

@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_782.pdf",
+        "court_name": "Antalya Bölge Adliye Mahkemesi",
+        "esas_no": "Esas numarası belirtilmemiş",
+        "karar_no": "Karar numarası belirtilmemiş",
+        "case_subject": "Haksız Rekabetin Tesbiti, Önlenmesi, Maddi ve Manevi Tazminat",
+        "dava_tarihi": "17/01/2020",
+        "karar_tarihi": "30/06/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davacı müvekkili şirketin yetkili olduğu markanın sahibi olduğunu iddia ediyor. Şirketin davacı müvekkili şirketin yetkilisi olarak hareket ettiğini, ancak davacı müvekkili şirketin yetkilisi olarak hareket etmediğini savunuyor. Davacı müvekkili şirketin davacı müvekkili şirketin yetkilisi olarak hareket ettiğini iddia ediyor.",
+        "reasoning_text": "Mahkeme, davacı müvekkili şirketin davacı müvekkili şirketin yetkilisi olarak hareket ettiğini kabul ediyor. Davacı müvekkili şirketin davacı müvekkili şirketin yetkilisi olarak hareket ettiğini iddia ediyor. Davacı müvekkili şirketin davacı müvekkili şirketin yetkilisi olarak hareket ettiğini iddia ediyor.",
+        "verdict_text": "HÜKÜM: Gerekçeleri yukarıda açıkladığı üzere; 1-Asıl davanın davacı ... ve Ticaret Limited Şirketi vekili ve davalı ... vekilinin ilk Derece Mahkemesi kararına ilişkin istinaf başvurularının ESASTAN KABÜLÜNE, 2-6100 Sayılı HMK'nın 353/1-a. maddesi gereğince Antalya 3. Asliye Ticaret Mahkemesi'nin 17/01/2020 tarihli ... Esas ve... Karar sayılı kararının KALDIRILMASINA, 3-Davanın yeniden görülmesi için dosyayı Antalya 3. Asliye Ticaret Mahkemesi'ne GÖNDERİLMESİNE, 4-492 Sayılı Kanun gereğince davacı ve davalı tarafından peşin olarak yatırılan istinaf karar harçlarının istem halinde ilk Derece Mahkemesi'ne İADESİNE, 5-Tarafarca, yanlıp, istinaf vargılamasının ilk Derece Mahkemesi'ne yanlıp, vargılamasına sonuçunda, dikkate ALINMASINA, 6-Istinaf incelemesi duruşmasız yapıldığından taraflar lehine istinaf vekalet ücreti takdirine YER OLMADIĞINA, 7-6100 Sayılı HMK'nun 333. maddesi gereğince peşin alınan ve harcanmayan istinaf gider avansının ilk Derece Mahkemesi'ne İADESİNE, 8-Kararın İlk Derece Mahkemesi'ne taraflara TEBLİĞİNE, Dair; dosya üzerinden yapılan inceleme sonucunda, 6100 Sayılı HMK'nun 362/1-a. maddesi uyarınca kesin olmak üzere oybirliğiyle karar verildi, 30/06/2025"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "6102 Sayılı Türk Ticaret Kanunu",
+            "492 Sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "Davacı, davacı müvekkili şirketin yetkilisi olarak hareket ettiğini iddia ediyor. Mahkeme, davacı müvekkili şirketin davacı müvekkili şirketin yetkilisi olarak hareket ettiğini kabul ediyor.",
+    "summary_for_model": "Davacı, davacı müvekkili şirketin yetkilisi olarak hareket ettiğini iddia ediyor. Mahkeme, davacı müvekkili şirketin davacı müvekkili şirketin yetkilisi olarak hareket ettiğini kabul ediyor. Davacı müvekkili şirketin davacı müvekkili şirketin yetkilisi olarak hareket ettiğini iddia ediyor."
+}

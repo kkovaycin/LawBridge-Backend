@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2020_353.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "3. FİKRİ VE SANAT HAKLARI HUKUK MAHKEMESİ",
+        "karar_no": "28/11/2019",
+        "case_subject": "FSEK'na Dayalı Maddi ve Manevi Tazminat",
+        "dava_tarihi": "28/11/2019",
+        "karar_tarihi": "27/12/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının internet sitesinde eserin indirilmesini önlemek için taleplerde bulundu. Davalı vekili ise eserin indirilmediğini savundu. Mahkeme, eserin 1.500 kez indirildiğini kabul etti ancak bu durumun davacı tarafından iddia edilen hak ihlaliyle ilgili olmadığını tespit etti.",
+        "reasoning_text": "Mahkeme, FSEK 68. maddesine dayanarak telif ve manevi tazminat taleplerini reddetti. Davacı vekilinin taleplerinin eserin indirilme sayısına dayalı olduğunu ve bu sayının davacı tarafından iddia edilen hak ihlaliyle ilgili olmadığını belirledi.",
+        "verdict_text": "GEREKÇESİ YUKARIDA BELİRTİLDİĞİ ÜZERİNE;\n1-Davacı ve davalı vekillerinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ES ASTAN REDDİNE,\n2-Davacıdan alınması gereken 59,30 TL maktu istinaf karar ve ilam harcından, davacı tarafından istinaf başvurusunda yatırılan 54,40 TL istinaf karar ve ilam harcının mahsubu ile bakiye 4,90 TL'nin davacıdan tahsili ile hazineye irat kaydına,\n3-Davalı kurum harçtan muaf olduğundan bu hususta karar verilmesine yer olmadığına,\n4-Istinaf aşamasında taraflar tarafından yapılan yargılama giderlerinin taraflar üzerinde bırakılmasına,\n5-Istinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına,\nDosya üzerinde yapılan inceleme sonucunda oybirliği ile 02/12/2021 tarihinde HMK 361. maddesi uyarınca kararın tebliğiinden itibaren iki hafta içerisinde Yargıtay temiz yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "FSEK 14/1",
+            "FSEK 23/1",
+            "FSEK 68",
+            "FSEK 70/1",
+            "HMK 355",
+            "HMK 361",
+            "Yargıtay 11. Hukuk Dairesi 13.12.2018 tarihli sayılı ilamı"
+        ]
+    },
+    "summary_for_human": "Davacı, internet sitesinde eserin indirilmesini önlemek için taleplerde bulundu. Mahkeme, eserin 1.500 kez indirildiğini kabul etti ancak bu durumun davacı tarafından iddia edilen hak ihlaliyle ilgili olmadığını belirledi ve talepleri reddetti.",
+    "summary_for_model": "Davacı, internet sitesinde eserin indirilmesini önlemek için taleplerde bulundu. Mahkeme, eserin indirilme sayısına dayalı taleplerini reddetti. FSEK 68. maddesine dayanarak telif ve manevi tazminat taleplerini kabul etmedi."
+}

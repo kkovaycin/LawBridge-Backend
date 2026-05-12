@@ -1,0 +1,32 @@
+{
+    "meta_data": {
+        "file_name": "2018_481.pdf",
+        "court_name": "T.C. İstanbul Anadolu 4. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2018/481",
+        "karar_no": "2019/331",
+        "case_subject": "Tazminat (Haksız Fil Den Kaynaklanan)",
+        "dava_tarihi": "06/05/2016",
+        "karar_tarihi": "21/03/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı şirketi, çocuk eğitimi destek projeleriyle tanınmıştı ancak çocuk taciz suçundan suçlu bulundu. Davacı, tacizciye finansal destek verdiği iddia edildi. Davacı, tacizciye destek verdiği için haksız fil suçundan dava açıldı.",
+        "reasoning_text": "Davacı, tacizciye destek verdiği için haksız rekabet ve taciz suçundan dava açıldı. Davacı, tacizciye destek verdiği için manevi tazminat ödemesi istendi. Davacı, davayı inkâr etti.",
+        "verdict_text": "Davacıya karşı 500 TL manevi tazminat, dava giderleri ve vekalet ücretleri ödenmesi kararı verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TMK'nin 24. Maddesi",
+            "TMK'nin 25. Maddesi",
+            "TBK'nin 49. Maddesi",
+            "TBK'nin 58. Maddesi",
+            "TTK'nin 55. Maddesi",
+            "TTK'nin 56. Maddesi",
+            "Avrupa İnsan Hakları Sözleşmesi'nin 10. Maddesi",
+            "Türkiye Cumhuriyeti Anayasası'nın 26. Maddesi",
+            "Türk Medeni Kanunu'nun 24. Maddesi",
+            "Yargıtay Hukuk Genel Kurulu'nun 01/01/2012 tarih, 2011/4-687 Esas, 2012/26 Karar"
+        ]
+    },
+    "summary_for_human": "Davacı şirketi, çocuk tacizciye destek verdiği için haksız fil ve taciz suçundan dava açıldı. Davacı, suçlamaları reddetti. Mahkeme, davacıya karşı 500 TL manevi tazminat ve dava giderleri ödemesi kararı verdi.",
+    "summary_for_model": "Davacı şirketi, çocuk tacizciye destek verdiği için haksız fil ve taciz suçundan dava açıldı. Davacı, suçlamaları reddetti. Mahkeme, davacıya karşı 500 TL manevi tazminat ve dava giderleri ödemesi kararı verdi. Davacı, davayı inkâr etti."
+}

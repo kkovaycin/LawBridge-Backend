@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2019_1336.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2019/1336",
+        "karar_no": "2021/522",
+        "case_subject": "YİDK Kararının İptali ve Marka Hüküm Süzlüğü",
+        "dava_tarihi": "18/06/2019",
+        "karar_tarihi": "30/04/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilin \"...\" ve \"...\" ibareli markaların sahibi olduğunu, \"...\" ibareli markasının tanınmış olduğunu, davalının \"...\" ibareli marka başvurusuna yaptıkları itirazin nihai olarak YİDK tarafından reddedildiğini iddia etmiştir. Davacı vekili, taraf markalarının benzer olmadığını, YİDK kararının usul ve yasaya uygun bulunduğunu savunarak davanın reddini istemiştir.",
+        "reasoning_text": "Mahkeme, davacının itirazının mesnet olarak \"...\" ibareli markanın benzersizliğini, mahkemeye yalnızca itirazlara mesnet olarak \"...\" ibareli markanın dikkate alındığını, dava konusu markanın tescil kapsamına yer alan mal ve hizmetlerin müvekkilin itirazına mesnet markalarının tescil kapsamında bulunduğunu, müvekkilin \"...\" ibareli markalarının tanınmış olduğunu iddia etmiştir.",
+        "verdict_text": "Gerekçesi yukarıda belirtildiği üzere; 1-HMK'nın 353/1-a-6. maddesi gereğince davacı vekilinin istinaf itirazlarının KABULÜ ile, Ankara 1. Fikri ve Sınai Haklar Hukuk Mahkemesi'ne verilen 18/06/2019 tarih ve \"...\" sayılı kararının KALDIRILMASINA; 2-Dosyanın, davanın yeniden görülmesi için mahkemesine İADESİNE, 3-Davacı vekilinin istinaf itirazlarının bu aşamada incelenmesine yer olmadığına, 4-Davacı tarafından yatırılan 44,40 TL maktu istinaf karar ve ilam harcının iste halinde davacıya iadesine, 5-Istinaf aşamasında duruşma açılmadığından taraflar lehine vekalet ücreti takdirine yer olmadığına, 6-Istinaf aşamasında yapılan yargılama giderlerinin ilk derece mahkemesince yapılacak yargılama da değerlendirilmesine, 7-Kararın tebliğ ve harç işlemlerinin yerel mahkeme tarafından yapılmasına, Dosya üzerinde yapılan inceleme sonucunda oybirliği ile 09/04/2021 tarihinde HMK 353/1-a-6 maddesi uyarınca KESİN olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nın 353/1-a-6. maddesi",
+            "Anayasa'nın 141. maddesi",
+            "HMK'nın 297. maddesi",
+            "HMK'nın 6100 sayılı maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, YİDK kararının iptali ve markanın hüküm süzlüğü için dava açtı. Mahkeme, davacı vekilinin itirazlarının kabul edilmediğini ve dosyanın ilk derece mahkemesine iade edildiğini kararlaştırdı.",
+    "summary_for_model": "Dava, YİDK kararının iptali ve marka hüküm süzlüğü için açıldı. Mahkeme, davacı vekilinin itirazlarının kabul edilmediğini ve dosyanın ilk derece mahkemesine iade edildiğini kararlaştırdı. HMK 353/1-a-6 maddesi uyarınca karar verildi."
+}

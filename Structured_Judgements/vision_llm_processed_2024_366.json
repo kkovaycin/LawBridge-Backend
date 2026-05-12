@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2024_366.pdf",
+        "court_name": "T.C. ADANA BÖLGE ADLIYE MAHKEMESİ 9. HUKUK DAİRESİ",
+        "esas_no": "2024/366",
+        "karar_no": "2024/797",
+        "case_subject": "İş akdi kapsamında işcinin rekabete aykırılık iddiasına dayalı dava",
+        "dava_tarihi": "20/09/2023",
+        "karar_tarihi": "14/05/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilin 13.09.2011'den itibaren davacı şirkette büro elemanı olarak çalıştığını, 03.07.2021'de işten ayrıldığını ve müvekkilin davacı şirkete ait müşteri verilerini kullanmadığını iddia etmiştir. Davacı, müvekkilin rekabet yasağı sözleşmesi ihlali nedeniyle dava açmıştır.",
+        "reasoning_text": "İlk derece mahkemesi, davacı vekilinin iddialarını kabul etmemiş ve davayı görevsizlik kararı ile reddetmiştir. İstinaf mahkemesi, davacı vekilinin iddialarını kabul etmiş ve davayı ilk derece mahkemesine geri göndermiştir. İstinaf mahkemesi, davacı vekilinin iddialarını kabul etmiş ve davayı ilk derece mahkemesine geri göndermiştir.",
+        "verdict_text": "Dava dosyanın yeniden yargılama için Mersin 2.Aşlıye Ticaret Mahkemesi'ne GÖNDERİLMESİNE, 492 Sayılı Harçlar Kanunu gereğince peşin alınan 427,60 TL istinaf karar harcının kararın kesinleşmesi ile talebe İADESİNE, Davacı tarafından istinaf için yapılan yargılama giderinin esas hükmü ile birlikte ilk derece mahkemesince karara BAĞLANMASININA, 6100 Sayılı HMK'nun 333. maddesi gereğince peşin alınan ve harcamayan giderin ilk Derece Mahkemesine İADESİNE, İnceleme dosya üzerinden yapıldığından leh ve vekalet ücreti takdirine YER OLMADIĞINA, 6100 sayılı HMK'nun 7035 sayılı yasanın 30. maddesiyle değişik 359/4 maddesi gereğince kararın kesin olması nedeniyle ilk derece mahkemesince taraf vekillerine TEBLİĞİNE, Dair, 6100 sayılı HMK'nun 353/1-a/6 maddesi gereğince dosya üzerinde yapılan inceleme sonucunda oybirliğiyle kesin olmak üzere 14/05/2024 tarihinde karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Türk Borçlar Kanunu",
+            "Ticaret Mahkemeleri Kanunu",
+            "İş Mahkemeleri Kanunu",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, müvekkilin rekabet yasağı ihlali nedeniyle dava açmıştır. İlk derece mahkemesi davayı reddetmiştir. İstinaf mahkemesi davayı ilk derece mahkemesine geri göndermiştir. İstinaf mahkemesi, davacı vekilinin iddialarını kabul etmiş ve davayı ilk derece mahkemesine geri göndermiştir.",
+    "summary_for_model": "Dava, iş akdi kapsamında işcinin rekabete aykırılık iddiasına dayanıyor. İlk derece mahkemesi davayı reddetmiş, istinaf mahkemesi davayı ilk derece mahkemesine geri göndermiş. İstinaf mahkemesi, davacı vekilinin iddialarını kabul etmiş ve davayı ilk derece mahkemesine geri göndermiş."
+}

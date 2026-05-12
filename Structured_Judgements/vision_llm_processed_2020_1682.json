@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2020_1682.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi",
+        "esas_no": "2019/387",
+        "karar_no": "2020/44",
+        "case_subject": "Davacı vekili tarafından davalının hak ihlali iddiası ve istinaf talebi",
+        "dava_tarihi": "22/01/2020",
+        "karar_tarihi": "26/10/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalının müşterilerine ait çağrı merkezinde müşteri temsilcisi olarak çalıştığını, sözleşmesini haksız olarak feshettiğini ve iş yerine gelmeyerek işten ayrıldığını iddia etmiştir. Davalı vekili ise, davacı şirketin müşterilerine, kamuoyuna ya da tüketicilere gönderilmediğini, şirket çalışanları olarak bilinen kapalı bir gruba gönderildiğini savunmuştur.",
+        "reasoning_text": "İlk derece mahkemesi, davalının davacı şirketin yöneticilerine yönelik davayı reddetmiştir. İstinaf mahkemesi, davalının davacı şirketin yöneticilerine yönelik davranışlarının hak ihlali oluşturmadığını ve davacı vekilinin istinaf talebini reddetmiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle: 1-Davacı vekilinin istinaf başvurusunun HMK'nın 353/1(b)-1 maddesi uyarınca ESASTAN REDDİNE, 2-Davacı tarafından başvuru sırasında istinaf kararı harç peşin olarak yatırıldığından başka harç alınmasına yer olmadığına,3-Davacı tarafından istinaf aşamasında yapılan yargılama giderlerinin kendi üzerinde bırakılmasına, 4-Kararın, HMK'nın 359/4 maddesi uyarınca Dairemiz Yazı İşleri Müdürlüğü'ne taraflara resen tebliği, Daire, dosya üzerinden yapılan inceleme sonunda, gerekeli kararın taraflara tebliğiğinden itibaren 2(iki) hafta içerisinde Yargıtay'a temyiz yasa yolu açık olmak üzere oy birliğiyle karar verildi. 26/10/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6102 sayılı Türk Ticaret Kanunu m. 55/I-b-2 ve 3",
+            "HMK'nın 353/1(b)-1 maddesi",
+            "HMK'nın 359/4 maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, davalının müşterilerine ait çağrı merkezinde çalıştığını iddia etmiştir. İstinaf mahkemesi, davalının davranışlarının hak ihlali oluşturmadığını ve davayı reddetmiştir.",
+    "summary_for_model": "Davacı vekili, davalının müşterilerine ait çağrı merkezinde çalıştığını iddia etmiştir. İstinaf mahkemesi, davalının davranışlarının hak ihlali oluşturmadığını ve davayı reddetmiştir. Davacı vekilinin istinaf talebi reddedilmiştir."
+}

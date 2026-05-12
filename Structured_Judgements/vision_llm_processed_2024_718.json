@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2024_718.pdf",
+        "court_name": "T.C. Ankara Bölge Adliye Mahkemesi 25. Hukuk Dairesi",
+        "esas_no": "2024/718",
+        "karar_no": "2025/1222",
+        "case_subject": "Saldırının Teşhiti ve Düzeltilme Metni Yayınlanması",
+        "dava_tarihi": "17/11/2023",
+        "karar_tarihi": "17/06/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili tarafından dava dilekçesinde açıklanan haberin, vekilinin kişisel haklarına saldırdığı iddia edildi. Haber, gazetenin fiziki nüshasında ve internet sitesinde yayınlandı. Savunma, haberin hak ihlali olmadığını ve kamu yararına olduğunu savundu.",
+        "reasoning_text": "İlk derece mahkemesi, davanın yetkisiz yerde açıldığını ve vekilinin hak ihlalini iddia etmenin kötü niyetli olduğunu tespit etti. İstinaf başvurusu, dava sürecindeki eksiklikler ve vekilinin hak ihlali iddiasının temelsizliği nedeniyle kabul edilmedi.",
+        "verdict_text": "Davacı vekilinin istinaf başvurusu reddedildi. Davanın yeniden görülmesi için dosyanın Ankara 2. Asliye Ticaret Mahkemesi'ne gönderilmesi, davacı tarafından yatırılan istinaf kararı ve ilam harcının talep edilmesi, ve diğer istinaf nedenlerinin bu aşamada incelenmemesi kararı verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu 353/1-a-4",
+            "Hukuk Muhakemeleri Kanunu 355",
+            "Hukuk Muhakemeleri Kanunu 320",
+            "Hukuk Muhakemeleri Kanunu 321",
+            "Hukuk Muhakemeleri Kanunu 359/3"
+        ]
+    },
+    "summary_for_human": "İlk derece mahkemesi, davacı vekilinin istinaf başvurusunu reddetti. Davanın yetkisiz yerde açıldığı ve vekilinin hak ihlali iddiasının temelsiz olduğu tespit edildi. Davanın yeniden görülmesi için dosyanın başka bir mahkemeye gönderilmesi kararı verildi.",
+    "summary_for_model": "İlk derece mahkemesi, davacı vekilinin istinaf başvurusunu reddetti. Davanın yetkisiz yerde açıldığı ve vekilinin hak ihlali iddiasının temelsiz olduğu tespit edildi. Davanın yeniden görülmesi için dosyanın Ankara 2. Asliye Ticaret Mahkemesi'ne gönderilmesi kararı verildi. Hukuk Muhakemeleri Kanunu'nun 353/1-a-4, 355, 320, 321 ve 359/3 maddeleri uygulanmıştır."
+}

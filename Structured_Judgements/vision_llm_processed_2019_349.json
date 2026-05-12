@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2019_349.pdf",
+        "court_name": "İstanbul 9. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2019/349",
+        "karar_no": "2019/994",
+        "case_subject": "Haksız rekabet ve ticari zarar tazminatı davası",
+        "dava_tarihi": "01/07/2019",
+        "karar_tarihi": "02/07/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalının LinkedIn hesabını kullanmak suretiyle haksız rekabet eylemlerinde bulunduğunu iddia etmiştir. Davacı, davalının ticari verilere erişerek ticari zarar verdiğini ve 10.000 TL maddi tazminat ile 10.000 TL ceza koçulunun talep ettiğini belirtmiştir.",
+        "reasoning_text": "Mahkeme, davaların birleştirilmesinin HUKK'nın 166/1. maddesine uygun olduğunu ve davaların birleştirilmesinin ekonomik ve usul avantajları sağlayacağını değerlendirmiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Bu dava dosyasının HMK'nun 166.maddesi gereğince İstanbul ... Aslıye Ticaret Mahkemesinin ... Esas sayılı dosyası ile birleştirilmesine, Esas kaydının birleştirme nedeniyle kapatılmasına, 2-Yargılamanın İstanbul ... Aslıye Ticaret Mahkemesinin ... Esas sayılı dosyası üzerinden devamına ve birleştirmenin bu Mahkemeye bildirilmesine, Dosya üzerinde yapılan inceleme sonucunda; esas hükümle birlikte istinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HUKK'nın 166/1. maddesi",
+            "5070 sayılı Kanun"
+        ]
+    },
+    "summary_for_human": "Davacı, davalının LinkedIn hesabını kullanarak haksız rekabet yaptığını iddia etmiştir. Mahkeme, davaların birleştirilmesini uygun bulmuştur.",
+    "summary_for_model": "Davacı, davalının LinkedIn hesabını kullanarak haksız rekabet yaptığını iddia etmiştir. Mahkeme, HUKK'nın 166/1. maddesine dayanarak davaların birleştirilmesini uygun bulmuştur."
+}

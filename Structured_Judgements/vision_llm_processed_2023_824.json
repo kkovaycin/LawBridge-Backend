@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2023_824.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 44. Hukuk Dairesi",
+        "esas_no": "2023/824",
+        "karar_no": "2023/598",
+        "case_subject": "İhtiyati Tedbir",
+        "dava_tarihi": "26/09/2022",
+        "karar_tarihi": "31/05/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Talep eden vekil, müvekkilinin markasına tecavüz ve haklı olmayan rekabet oluşturmak için Telegram ve Instagram hesaplarında hak ihlaline dair içerikler paylaştığını iddia etmiştir. İlk derece mahkemesi, bu iddiaları değerlendirerek teknik ve hukuki gerekçelerle istinaf talebini reddetmiştir.",
+        "reasoning_text": "İstanbul 3. Fıkri ve Sınai Haklar Hukuk Mahkemesi, talebin istinaf sebeplerini inceledi ve 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b/1. maddesine dayanarak istinaf talebini reddetmiştir. Mahkeme, talebin teknik ve hukuki gerekçelerinin yetersiz olduğunu ve ilk derece kararının usul ve yasa çerçevesinde doğru olduğunu tespit etmiştir.",
+        "verdict_text": "Gerekçesi yukarıda açıklandığı üzere; 1-Usul ve yasaya uygun İstanbul 3.Fıkri ve Sınai Haklar Hukuk Mahkemesi'nin 07.04.2023 tarih ve 2022/118 Değişik İş sayılı kararına karşı talep eden vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gereken 179,90-TL istinaf karar harcı talep eden vekili tarafından peşin yatırıldığından yeniden harç alınmasına yer olmadığına, 3-Talep eden tarafça istinaf aşamasında yapılan yargılama giderlerinin üzerinde bırakılmasına, 4-İncelemenin durusmaz olarak yapılması sebebiyle taraflara vekalet ücreti tayinine yer olmadığına, 5-Taraflarca yatırılan gider avansından harçnmayan kısmın karar kesinleştiğinde iadesine, 6-Karar tebliği, harç tahsil müzekkeresi düzenlenmesi, harç ve avans iadesi işlemlerinin ilk derece Mahkemesinde yerine getirilmesine, 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince, dosya üzerinde yapılan inceleme sonucunda ve 6100 Sayılı HMK'nın 362/(1)-f. ve 394/(5). maddeleri gereğince, kesin olmak üzere oy birliğiyle karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (6100 Sayılı)",
+            "Türk Ticaret Kanunu (TTK)",
+            "Sınai Mülkiyet Kanunu",
+            "Anayasa (26. madde)",
+            "Harçlar Kanunu (2-492 Sayılı)"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adlıye Mahkemesi, bir şirketin markasına tecavüz ve haklı olmayan rekabet oluşturmak için sosyal medya hesaplarında içerikler paylaşan kişilere karşı istinaf talebini reddetmiştir. Mahkeme, talebin teknik ve hukuki gerekçelerinin yetersiz olduğunu ve ilk derece kararının doğru olduğunu tespit etmiştir.",
+    "summary_for_model": "İstanbul Bölge Adlıye Mahkemesi, bir şirketin markasına tecavüz ve haklı olmayan rekabet oluşturmak için sosyal medya hesaplarında içerikler paylaşan kişilere karşı istinaf talebini reddetmiştir. Mahkeme, talebin teknik ve hukuki gerekçelerinin yetersiz olduğunu ve ilk derece kararının usul ve yasa çerçevesinde doğru olduğunu tespit etmiştir. Talep eden vekil, istinaf talebini 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b/1. maddesine dayanarak yapmıştır."
+}

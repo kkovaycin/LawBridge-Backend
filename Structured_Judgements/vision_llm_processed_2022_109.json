@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2022_109.pdf",
+        "court_name": "T.C. İSTANBUL 1. FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2022/109 Esas",
+        "karar_no": "2023/72",
+        "case_subject": "Marka hakkına tecavüz ve haksız rekabet davası",
+        "dava_tarihi": "20/04/2022",
+        "karar_tarihi": "21/03/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, dava dilekçesinde davalının ticaret unvanının esas unsuru olan markayı ihlal ettiğini iddia etmiştir. İddialara göre davalının markaları kullanması, davalının kötü niyetli olduğu iddia edilmiştir.",
+        "reasoning_text": "Mahkeme, davalının markaları kullanmasının davacıya ait ticaret unvanından kaynaklandığını ve davalının kötü niyetli olduğunu tespit etmiştir. Mahkeme ayrıca davalının ihlal ve haksız rekabet oluşturduğunu karar vermiştir.",
+        "verdict_text": "1-20/03/2023 Tarihli dilekçe ekinde sunulan ve taraflar arasında imzalanan sulh metninin TASDIKİNE, SULH NEDENİYLE ESAS HAKKINDA KARAR VERİLMESİNE YER OLMADIĞINA, 2-..4.FSHHM'nin ..dış sayılı dosyasında yatırılan terminatin karar kesinleştiğinde iaadesine, 3-Tarafların yapmış olduğu yargılama giderlerinin kendi üzerinde buralmasına, 4-Tarafların vekalet ücreti konusunda talepleri olmadığından bu hususta karar verilmesine yer olmadığına, Dair karar taraf vekillerinin yüzüne karşı gerekçeli kararın tebliğinden itibaren iki haftalık süre içinde İSTINAFA YASA YOLU AÇIK OLMAK ÜZERE VERİLEN KARAR AÇIKÇA OKUNDU, USULEN ANALTILDI. 21/03/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "4.FSHHM"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davalının markaları ihlal ettiğini ve haksız rekabet oluşturduğunu tespit ederek davacıya ait ticaret unvanından kaynaklanan markaların kullanımını durdurulmasını ve önlenmesini kararlaştırmıştır.",
+    "summary_for_model": "Mahkeme, davalının markaları ihlal ettiğini ve haksız rekabet oluşturduğunu tespit ederek davacıya ait ticaret unvanından kaynaklanan markaların kullanımını durdurulmasını ve önlenmesini kararlaştırmıştır. Davalının kötü niyetli olduğu iddia edilmiştir."
+}

@@ -1,0 +1,28 @@
+{
+    "meta_data": {
+        "file_name": "2020_38.pdf",
+        "court_name": "T.C. İZMİR FİKRÎ VE SİNAÎ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2020/38",
+        "karar_no": "2021/150",
+        "case_subject": "Marka Hakkina Tecavüz ve Haksız Rekabetin Teşbiti, Durdurulması, Önleneceği",
+        "dava_tarihi": "13/05/2020",
+        "karar_tarihi": "22/09/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, 2017'de Sığacık'ta kurdukları otelinin markasını kullanan davalı karşı davacının hak ihlali iddia etti. Davalı karşı davacı, markanın önceden kullanıldığını ve benzerlik nedeniyle hak ihlali olmadığını savundu.",
+        "reasoning_text": "Mahkeme, davalı karşı davacının markayı önceki tarihte kullandığını ve benzerlik nedeniyle hak ihlali olmadığını tespit etti. Davacı karşı davacının markayı kullanma hakı olmadığı için davayı kabul etmedi.",
+        "verdict_text": "Davacı-karşı davalların davasının reddine, Davacı-karşı davacı adına tescilli markanın hükmüsüzlüğü ile sicilinden terkine karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Sinal Mülkiyet Kanunu",
+            "Yine TTK 55 vd maddeleri",
+            "SMK 149. Maddesi",
+            "SMK 150. Maddesi",
+            "6769 sayılı SMK'nin 25. Maddesi",
+            "İstinaf Kanunu"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davalı karşı davacının markayı önceki tarihte kullandığını ve benzerlik nedeniyle hak ihlali olmadığını tespit etti. Davacı karşı davacının markayı kullanma hakı olmadığı için davayı kabul etmedi.",
+    "summary_for_model": "Davacı, davalı karşı davacının markayı kullanma hakı olmadığı için davayı açtı. Mahkeme, davalı karşı davacının markayı önceki tarihte kullandığını ve benzerlik nedeniyle hak ihlali olmadığını tespit etti. Davacı karşı davacının markayı kullanma hakı olmadığı için davayı kabul etmedi."
+}

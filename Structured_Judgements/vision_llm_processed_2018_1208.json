@@ -1,0 +1,23 @@
+{
+    "meta_data": {
+        "file_name": "2018_1208.pdf",
+        "court_name": "İstanbul 6. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2018/1208",
+        "karar_no": "2019/375",
+        "case_subject": "Haksız rekabetten kaynaklanan tazminat davası",
+        "dava_tarihi": "11/12/2018",
+        "karar_tarihi": "10/04/2019"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, Ultra Görüntüleme şirketi tarafından Facebook grubunda haksız rekabet oluşturulmasını iddia ediyor. Şirketin Türkiye'de radyoloji teknisyenleri için bir meslek örgütü olarak faaliyet gösterdiğini, ancak bu grubun ticari amaçla kullanıldığını ve haksız rekabet oluşturduğunu iddia ediyor. Davacı, bu durumdan dolayı 30.000 TL tazminat talep ediyor.",
+        "reasoning_text": "Mahkeme, davacının davasını yetkisiz mahkemeye verdiğini tespit etti. Davacı, davayı İstanbul Aslıye Ticaret Mahkemesi'ne vermişti ancak davanın yetkili mahkemesi Bakırköy Aslıye Ticaret Mahkemesiydi. Mahkeme, bu nedenle davayı usulen reddetmeye karar verdi.",
+        "verdict_text": "HÜKÜM / Gereğcesi yukarıda izah olduğu üzere;\n1-Davacının davasının mahkememizin yetkisiz olması nedeniyle usulen reddine, yetki ilk itirazin kabulüne,\n2-HMK'nun 20. mad. uyarınca kararın kesinleşmesinden itibaren 2 hafta içinde taraflardan birinin usulen başvurusu halinde dava dosyasının yetkili BAKIRKÖY NÖBETÇİ ASLİYE TİCARET MAHKEMESİ'NE gönderilmesine,\n3-Yargılama giderlerinin yetkili mahkemesine hüküm altına alınmasına, HMK 20 maddesi gereğince yetkisizlik kararının kesinleşmesinden itibaren 2 hafta içinde başvuru yapılmaz ise davanın açılmamış sayılmasına karar verileceği ve yargılama giderleri konusunda karar verileceğinin ihtarına,\nDair, davalı asıl ...'nun yüzüne karşı, diğer tarafın yokluğunda mahkememize yazılı / sözlü başvuru ile zabıt katibince tutanağa geçirilmek suretiyle kararın tebliğ tarihinden itibaren 2 haftalık yasal süre içerisinde İstanbul BAM'a gönderilmek üzere istinaf yasa yolu açık olmak üzere yapılan tahkikat sonucunda karar verildi. Karar usulen açıklandı, okundu.\nKatipler ...\n,e-imzalıdır\nHakim ...\n,e-imzalıdır"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemesi Kanunu (HMK) 20. madde"
+        ]
+    },
+    "summary_for_human": "Davacı, bir şirketin Facebook grubunda haksız rekabet oluşturduğunu iddia ediyor ve 30.000 TL tazminat talep ediyor. Mahkeme, davayı yetkisiz mahkemeye verdiği için reddetti.",
+    "summary_for_model": "Davacı, Ultra Görüntüleme şirketi tarafından Facebook grubunda haksız rekabet oluşturulduğunu iddia ediyor. Mahkeme, davayı yetkisiz mahkemeye verdiği için reddetti. HMK 20. maddeye dayanarak karar verildi."
+}

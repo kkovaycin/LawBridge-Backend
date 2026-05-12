@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_1613.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi 14. Hukuk Dairesi",
+        "esas_no": "2022/1613",
+        "karar_no": "2022/1134",
+        "case_subject": "İhtiyati haciz talebi",
+        "dava_tarihi": "05/07/2022",
+        "karar_tarihi": "15/09/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "İhtiyati haciz talep eden alacaklılar vekili, alacaklıların borçlu şirkete para göndermesini talep etmiştir. İlk derece mahkemesi, ihityati haciz talebini reddetmiştir. İstinaf başvurusu ile ilk derece kararın kaldırılması talep edilmiştir.",
+        "reasoning_text": "İstinaf başvurusu, İK'nin 258/3 ve HMK'nın 353/1.b.2 maddeleri uyarınca kabul edilmiştir. İlk derece mahkemesinin ihityati haciz talebini reddeden kararının kaldırılması ve ihityati haciz talebinin kabulüne karar verilmiştir.",
+        "verdict_text": "İhtiyati haciz talep eden/alacaklılar vekilinin istinaf başvurusu İK'nin 258/3 ve HMK'nın 353/1.b.2 maddeleri uyarınca kabul edilmiştir. İlk derece mahkemesinin istinafa konu 05/07/2022 tarihli kararının kaldırılmasına, ihityati haciz talebi hakkında Dairemizce yeniden karar verilmesine, bu doğrultuda; 1-İhtiyati haciz talep edenler vekilinin ihityati haciz talebinin İK'nin 257 ve devamı maddeleri uyarınca kabulü ile karşı taraf/borçlunun 51.390,93 TL alacağı karşılamaya yeterli miktardaki haczi kabul menkul ve gayrimenkul malları ile üçüncü kişilerdeki hak ve alacaklarının ihityaten haczine, 2-İK'nin 259. maddesi uyarınca takdiren %15 oranında belirlenen 7.708,63 TL nakdi teminat ilk derece mahkemesi veznesine yatırıldığında ya da aynı tutarda kesin ve süreksiz banka teminat mektubu ibraz edildiğinde, kararın infazı için bir suretinin ilk derece mahkemesi tarafından, ihityati haciz talep edenler vekiline verilmesine, 3-Kararın yetkili icra müdürlüğüne infazına, 4-Karar tarihindeki AAÜT uyarınca belirlenen 2.400,00 TL maktu avukatlık ücretinin, esas hakkındaki takip ya da davada haklı çıkmaları kaydıyla, karşı taraf/borçludan alınıp alacaklılara verilmesine, 5-İstinaf kanun yoluyla başvuran alacaklılar tarafından yatırılan 220,70 TL istinaf başvuru harcının Hazineye gelir kaydına; 80,70 TL istinaf peşin karar harcının ise karar kesinleştiğinde ve talep halinde, ilk derece mahkemesince, ihityati haciz talep edenlere iadesine,6-İhtiyati haciz talep edenler tarafından yapılan 220,70 TL istinaf başvuru harci gideri, 50,00 TL posta gideri olmak üzere toplam 270,70 TL istinaf kanun yolu giderinin, esas hakkındaki takip ya da davada haklı çıkmaları kaydıyla, karşı taraf/borçludan alınıp alacaklılara verilmesine, 7-Gerekçeli kararın, ilk derece mahkemesince taraflara tebliğine, 8-Dosyanın, karar veren ilk derece mahkemesine gönderilmesine dair; HMK'nın 353/1.b.2 ve İK'nin 258/3. maddeleri uyarınca dosya üzerinde yapılan inceleme sonucunda, oy birliğiyle ve kesin olarak karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "İK'nin 257, 258, 259 maddeleri",
+            "HMK'nın 353/1.b.2 maddesi",
+            "İstinaf Kanunu"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, ihityati haciz talebini ilk derece mahkemesinin reddetmesini kaldırdı ve alacaklıların talebini kabul etti. Borçlu şirketin para göndermediği ve dolandırıcılık iddiaları nedeniyle, alacaklıların hakları ihityaten haczedildi. Karar, istinaf başvurusu kabul edilerek verildi.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, ilk derece mahkemesinin ihityati haciz talebini reddeden kararını kaldırdı ve talebi kabul etti. İK'nin 258/3 ve HMK'nın 353/1.b.2 maddeleri uyarınca istinaf başvurusu kabul edildi. Alacaklıların borçlu şirkete para göndermesi talep edildi ve dolandırıcılık iddiaları nedeniyle hakları ihityaten haczedildi."
+}

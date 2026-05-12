@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2024_1474.pdf",
+        "court_name": "İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "esas_no": "2024/37 E. - 2024/38 K.",
+        "karar_no": "2024/1939",
+        "case_subject": "İhtiyati Tedbir",
+        "dava_tarihi": "04/03/2024",
+        "karar_tarihi": "28/11/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "İddialar, vekilin markasını kullanan ve sosyal platformlarda paylaşım yapan davacıya karşı ihityati tedbir talebiyle sonuçlanmıştır. Vekil, markasını 43. sınıfta tescilli olarak kullanmış ve 44. sınıfta kullanmamıştır.",
+        "reasoning_text": "İhtiyati tedbir talebi, davacının markasını kullanan vekilin ihityati tedbir talebinin reddedilmesi için yetersiz olduğu gerekçesiyle reddedilmiştir. Mahkeme, vekilin markasını kullanan davacının hak ihlali olmadığını ve ihityati tedbirin gerekliliğini reddetmiştir.",
+        "verdict_text": "İstinaf kararının esas ve usul yönünden kusursuz olduğu için, ilk derece mahkemesi kararının reddine karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Sınai Mülkiyet Kanunu (SMK)",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu",
+            "Hukuk Muhakemeleri Kanunu (HMK)"
+        ]
+    },
+    "summary_for_human": "İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi, vekilin markasını kullanan davacıya karşı ihityati tedbir talebini reddetmiştir. Mahkeme, vekilin markasını kullanan davacının hak ihlali olmadığını ve ihityati tedbirin gerekliliğini reddetmiştir.",
+    "summary_for_model": "İstanbul Anadolu 2. Fikri ve Sınai Haklar Hukuk Mahkemesi, vekilin markasını kullanan davacıya karşı ihityati tedbir talebini reddetmiştir. Mahkeme, vekilin markasını kullanan davacının hak ihlali olmadığını ve ihityati tedbirin gerekliliğini reddetmiştir. İstinaf kararının esas ve usul yönünden kusursuz olduğu için, ilk derece mahkemesi kararının reddine karar verilmiştir."
+}

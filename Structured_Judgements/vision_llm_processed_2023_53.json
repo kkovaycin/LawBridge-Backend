@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2023_53.pdf",
+        "court_name": "T.C. Sakarya Bölge Adliye Mahkemesi 7. Hukuk Dairesi",
+        "esas_no": "2022/186",
+        "karar_no": "2023/455",
+        "case_subject": "İhtiyati hacze karşı itiraz",
+        "dava_tarihi": "28/09/2022",
+        "karar_tarihi": "20/03/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, sigortalı Site Lojistik A.Ş.'ye karşı 30 palet 5760 adet her biri 4 lt'lik teneke ayçiçek yağı cinsinden eşyaların kaybolduğunu iddia etmiştir. Davacı, sigorta şirketi tarafından sigortalanmış olan eşyaların kaybolduğunu ve bu nedenle sigorta şirketi tarafından sigortanın iptali talep edildiğini belirtmiştir. Davacı, sigorta şirketi tarafından sigortanın iptali talebinin haklı olmadığını savunmuştur.",
+        "reasoning_text": "Mahkeme, ilk derece mahkemesinin itiraz edilen kararına bakmıştır. İlk derece mahkemesinin itiraz edilen kararı, itiraz edilen itirazın reddine karar vermiştir. Mahkeme, itiraz edilen itirazın reddine karar vermiştir çünkü itiraz edilen itirazın esasını oluşturan delillerin yetersiz olduğu ve itiraz edilen itirazın esasını destekleyen delillerin eksik olduğu görülmektedir.",
+        "verdict_text": "İlki derece mahkemesinin 19/09/2022 tarihli ara kararla itiyatı hacze karar verilmiştir. İtiraz üzerine yapılan duruşmalı incelemeden sonra 10/11/2022 tarihli ara kararla itirazın reddine karar verilmiştir. Karar karşı itiyatı hacze itiraz eden Arıbağı ... Ltd. Şti. vekili tarafından istinaf yoluna başvurulmuştur."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK)",
+            "İcra ve İflas Kanunu",
+            "İş Kanunu",
+            "Ticaret Kanunu",
+            "İstinaf Kanunu"
+        ]
+    },
+    "summary_for_human": "Bu dava, sigortalı eşyaların kaybolması nedeniyle sigorta şirketi tarafından sigortanın iptali talep edilen bir durumdur. Davacı, sigorta şirketi tarafından sigortanın iptali talebinin haklı olmadığını savunmuştur. İlk derece mahkemesi, itiraz edilen itirazın reddine karar vermiştir. İkinci derece mahkemesi de ilk derece mahkemesinin kararını onaylamıştır.",
+    "summary_for_model": "Dava, sigortalı eşyaların kaybolması nedeniyle sigorta şirketi tarafından sigortanın iptali talep edilen bir durumdur. İlk derece mahkemesi, itiraz edilen itirazın reddine karar vermiştir. İkinci derece mahkemesi de ilk derece mahkemesinin kararını onaylamıştır. İtiraz edilen itirazın esasını destekleyen delillerin eksik olduğu ve itiraz edilen itirazın esasını oluşturan delillerin yetersiz olduğu görülmektedir. HMK 353, 356, 1472, TBK 49, İK 257, 265, İcra ve İflas Kanunu 258 maddeleri ve İstinaf Kanunu esas olarak kullanılmıştır."
+}

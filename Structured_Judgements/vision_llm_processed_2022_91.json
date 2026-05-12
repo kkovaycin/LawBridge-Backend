@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2022_91.pdf",
+        "court_name": "İstanbul Bölge Adlıye Mahkemesi 16. Hukuk Dairesi",
+        "esas_no": "2022/91 Esas",
+        "karar_no": "2022/426",
+        "case_subject": "Endüstriyel Tasarım (Maddi Tazminat İstemi) | Endüstriyel Tasarım (Manevi Tazminat İstemi)",
+        "dava_tarihi": "17/03/2022",
+        "karar_tarihi": "17/03/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davalı şirketin 2014-2017 yılları arasında konvansiyonel ve sifonik çatı drenaj ürünleri ve aksesuarlarını Türkiye'de dağıttığını iddia ediyor. Davacı, davalı vekilinin bu ürünlerin tasarımını yaparken hak ihlali yaptığını, özellikle renk ve tasarım benzerlikleri nedeniyle hak ihlali olduğunu iddia ediyor.",
+        "reasoning_text": "Mahkeme, davacı vekilinin iddialarını değerlendirerek, davalı vekilinin ürün tasarımlarının hak ihlali oluşturduğunu tespit etti. Davacı vekilinin istinaf taleplerinin reddedildiğini ve dava sonucunda davacıya maddi ve manevi tazminat verildiğini kararlaştırdı.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Davacı vekilinin istinaf talebinin HMK'nun 353/1-b-1 maddesi uyarınca ESASTAN REDDİNE, 2-Alınması gereken 80,70 TL harçtan, pesin alınan 59,30 TL harçın mahsubu ile bakiye 21,40 TL harçın davalıdan alınarak hazinede irat kaydına, 3-Davalı tarafından yapılan istinaf yargılama giderlerinin kendi üzerinde bırakılmasına, 4-Istinaf incelemesi duruşmalı yapılmadığından vekalet ücreti takdirine yer olmadığına. Dair, dosya üzerinde yapılan inceleme sonunda, oy birliğiyle kesin olarak karar verildi.17/03/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK 353",
+            "TTK 61",
+            "HMK 389-390",
+            "TTK 56.md/lc",
+            "Sinal Mülkiyet Kanunu 159.maddesi",
+            "6769 sayılı Sınal Mülkiyet Kanunu",
+            "6102 sayılı TTK"
+        ]
+    },
+    "summary_for_human": "Davacı, davalı şirketin ürün tasarımlarını kullanırken hak ihlali yaptığını iddia ediyor. Mahkeme, davacı vekilinin iddialarını kabul ederek davacıya maddi ve manevi tazminat verdi.",
+    "summary_for_model": "Davacı vekili, davalı şirketin ürün tasarımlarını kullanırken hak ihlali yaptığını iddia ediyor. Mahkeme, davacı vekilinin iddialarını kabul ederek davacıya maddi ve manevi tazminat verdi. Davacı vekilinin istinaf talepleri reddedildi."
+}

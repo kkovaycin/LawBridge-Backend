@@ -1,0 +1,27 @@
+{
+    "meta_data": {
+        "file_name": "2020_868.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2019/157",
+        "karar_no": "2022/1609",
+        "case_subject": "Haksız reklam ve hak ihlali davası",
+        "dava_tarihi": "02/03/2020",
+        "karar_tarihi": "17/11/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, davalı vekili aracılığıyla sosyal medyada hak ihlali iddiasıyla dava açtı. Davacı, davalı tarafından Instagram hesaplarında yayımlanan mesajların hak ihlali oluşturduğunu iddia etti. Davalı, bu iddialara karşı savundu ve davanın reddini talep etti.",
+        "reasoning_text": "Mahkeme, davalı tarafından yapılan mesajların hak ihlali oluşturduğunu tespit etti. Davalı tarafından yayımlanan mesajların, davacıya ait markanın kötüye kullanılması ve hak ihlali oluşturduğuna karar verildi. Davacıya 5.000 TL manevi tazminat verilmesine karar verildi.",
+        "verdict_text": "Davacı lehine kararlaştırılmıştır. Davalı tarafından yapılan mesajların hak ihlali oluşturduğu tespit edilmiştir. Davacıya 5.000 TL manevi tazminat verilmesine karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 55/1.a.1",
+            "TTK 56",
+            "TBK 58",
+            "HMK 353(1)b-1",
+            "HMK 361/1"
+        ]
+    },
+    "summary_for_human": "Mahkeme, davalı tarafından Instagram hesaplarında yapılan mesajların hak ihlali oluşturduğunu tespit etti ve davacıya 5.000 TL manevi tazminat verilmesine karar verdi.",
+    "summary_for_model": "Davacı, davalı tarafından Instagram hesaplarında yapılan mesajların hak ihlali oluşturduğunu iddia etti. Mahkeme, bu iddiaları kabul etti ve davacıya 5.000 TL manevi tazminat verilmesine karar verdi."
+}

@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2020_423.pdf",
+        "court_name": "T.C. İSTANBUL 1.FİKRİ VE SİNAİ HAKLAR HUKUK MAHKEMESİ",
+        "esas_no": "2020/423",
+        "karar_no": "2021/354",
+        "case_subject": "Manevi Tazminat Talebi",
+        "dava_tarihi": "28/12/2020",
+        "karar_tarihi": "24/09/2021"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, vekilinin İngilizce öğretmenliği mesleğini icra ettiğini iddia ediyor. 25.06.2017'de medyada yayınlanan haberlerde, davacının fotoğrafının kullanıldığını ve bu durumun davacının elemine neden olduğunu iddia ediyor. Davacı, 10.000 TL manevi tazminat talep ediyor.",
+        "reasoning_text": "Mahkeme, davanın usulden reddine karar verdi. Davanın zaman aşımına uğradığını ve davanın gereksiz olarak açıldığını tespit etti. Davanın fotoğrafının kullanılmasına dair iddiaların yetersiz olduğu ve davanın hak ihlali iddiasının reddedildiği belirtildi.",
+        "verdict_text": "HÜKÜM: Gerekeci yukarıda açıklandığı üzere\n1-MAHKEMEMİZİN GÖREVİZLİĞİNE, DAVANIN USULDEN REDDİNE,\n2-HMK 20.madde uyarınca, süresi içinde kanun yoluna başvurulmayarak kesinleşmesi halinde kararın kesinleşme tarihinden, kanun yoluna başvurulmuş ise bu başvurunun reddi kararının tebliği tarihinden itibaren iki haftalık süre içinde Mahkemeye müracaat edilmesi halinde dosyanın yetkili ve görevli İSTANBUL NÖBETÇİ ASLİYE HUKUK MAHKEMESİNE GÖNDERİLMESİNE,\n3-Harg, yargılama gideri ve vekalet ücretinin görevli Mahkemeye değerlendirilmesine,\nDair tarafların/vekillerinin yokluğunda, gerekçeli kararın tebliği tarihinden itibaren 2 HAFTA içerisinde İSTANBUL BÖLGE ADLİYE MAHKEMELERİ nezdinde İSTİNAF YASA yolu açık olmak üzere dosya üzerinde yapılan inceleme sonucunda karar verildi. 24/09/2021"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "5846 sayılı FSEK",
+            "6098 sayılı Türk Borçlar Kanunu",
+            "4721 sayılı Türk Medeni Kanunu",
+            "TBK 72.madde",
+            "HMK 114-1c madde",
+            "HMK 20.madde",
+            "5846 sayılı Yasa'nın 76. maddesi"
+        ]
+    },
+    "summary_for_human": "Davacı, fotoğrafının medyada kullanılması nedeniyle elem duyduğunu iddia ediyor ve 10.000 TL manevi tazminat talep ediyor. Mahkeme, davanın usulden reddine karar verdi ve davanın zaman aşımına uğradığını tespit etti.",
+    "summary_for_model": "Davacı, fotoğrafının medyada kullanılması nedeniyle elem duyduğunu iddia ediyor. Mahkeme, davanın usulden reddine karar verdi ve davanın zaman aşımına uğradığını tespit etti. Davanın fotoğrafının kullanılmasına dair iddiaların yetersiz olduğu ve davanın hak ihlali iddiasının reddedildiği belirtildi."
+}

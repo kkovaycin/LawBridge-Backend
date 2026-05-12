@@ -1,0 +1,30 @@
+{
+    "meta_data": {
+        "file_name": "2017_986.pdf",
+        "court_name": "T.C. İstanbul Anadolu 8. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2017/986",
+        "karar_no": "2018/413",
+        "case_subject": "Manevi Tazminat",
+        "dava_tarihi": "10/05/2018",
+        "karar_tarihi": "10/05/2018"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davacının müvekkiline ait Twitter hesabının sosyal medyada ağır bir ithamda bulunduğunu iddia etmiştir. Davacı, bu hesabın davacının kendisiyle ilgili bir paylaşıma sahip olduğunu ve bu paylaşımın davacının müvekkiline ait olduğunu iddia etmiştir. Davacı, bu paylaşımın davacının müvekkiline ait olduğunu iddia ederek manevi tazminat talep etmiştir.",
+        "reasoning_text": "Davacı vekili, davacının müvekkiline ait Twitter hesabının davacının kendisiyle ilgili bir paylaşıma sahip olduğunu iddia etmiştir. Davacı, bu paylaşımın davacının müvekkiline ait olduğunu iddia ederek manevi tazminat talep etmiştir. Davacı vekili, bu paylaşımın davacının müvekkiline ait olduğunu iddia ederek manevi tazminat talep etmiştir. Davacı vekili, bu paylaşımın davacının müvekkiline ait olduğunu iddia ederek manevi tazminat talep etmiştir.",
+        "verdict_text": "1-Davanın KISMEN KABÜLÜ ile, 1.000,00 TL manevi tazminatın dava tarihinden itibaren işleyecek yasal faizi ile davalidan tahsiline, 2-Alınması gereken 68,31 TL karar harcının başlangıçta yatırılan 170,78 TL harctan mahsubu ile 102,47 TL fazla harcin karar kesinleştiğinde ve talep halinde davacı tarafa iadesine, 3-Davacı tarafça yatırılan 68,31 TL peşin harcin davalı tarafından tahsili ile davacı tarafa ödenmesine, 4-Davacı tarafından yapılan 34,25 TL ilk dava masrafı, 143,00 TL tebliği ve müzekkere gideri olmak üzere toplam 177,25 TL yargılama giderinin kabul-red oranına göre 17,73 TL'sinin davalidan tahsili ile davacı tarafa ödenmesine, kalanın davacı üzerinde bırakılmasına, 5-Davalı tarafça yapılan yargılama gideri olmadığından bu konuda karar verilmesine yer olmadığına, 6-Davacı kendisini vekille temsil ettirmiş olduğundan karar tarihinde yürürlükte olan AAÜT 10. ve 13.maddeleri uyarınca 1.000,00 TL vekalet ücretinin davalidan alınarak davacıya verilmesine, 7-Davalı kendisini vekille temsil ettirmiş olduğundan karar tarihinde yürürlükte olan AAÜT 10. ve 13.maddeleri uyarınca 1.000,00 TL vekalet ücretinin davacıdan alınarak davalya verilmesine, 8-Taraflarca dosyaya yatırılan ve sarf edilmeyen gider avansının karar kesinleştiğinde ve talep halinde yatıran tarafa iadesine, Dair, taraf vekillerinin yüzlerine karşı, gerekçeli kararın tebliğiğinden itibaren 2 haftalık süre içinde istinaf yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TMK'nun 25.maddesi",
+            "TBK'nun 49. ve 58. maddeleri",
+            "TTK'nun 55., 56.maddeleri",
+            "Avrupa İnsan Hakları Sözleşmesi'nin 10.maddesi",
+            "T.C. Anayasası'nın 26.maddesi",
+            "6102 sayılı TTK'nun 55/1-a maddesi",
+            "TBK'nun 58/1.maddesi",
+            "AAÜT 10. ve 13.maddeleri"
+        ]
+    },
+    "summary_for_human": "Davacı, davacının müvekkiline ait Twitter hesabının ağır bir ithamda bulunduğunu iddia ederek manevi tazminat talep etmiştir. Mahkeme, davacının müvekkiline ait Twitter hesabının davacının kendisiyle ilgili bir paylaşıma sahip olduğunu kabul ederek 1.000,00 TL manevi tazminat kararı vermiştir.",
+    "summary_for_model": "Davacı, davacının müvekkiline ait Twitter hesabının davacının kendisiyle ilgili bir paylaşıma sahip olduğunu iddia ederek manevi tazminat talep etmiştir. Mahkeme, bu iddianın haklı olduğunu kabul ederek 1.000,00 TL manevi tazminat kararı vermiştir. Karar, davacının müvekkiline ait Twitter hesabının davacının kendisiyle ilgili bir paylaşıma sahip olduğunu ve bu paylaşımın davacının müvekkiline ait olduğunu kabul etmektedir."
+}

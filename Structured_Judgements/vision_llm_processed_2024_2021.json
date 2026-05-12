@@ -1,0 +1,29 @@
+{
+    "meta_data": {
+        "file_name": "2024_2021.pdf",
+        "court_name": "İstanbul Anadolu 9. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2024/719",
+        "karar_no": "2025/9",
+        "case_subject": "İhtiyati tedbir talebinin reddi ve dava konusu paylaşımların engellenmesi",
+        "dava_tarihi": "27/09/2024",
+        "karar_tarihi": "07/01/2025"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkiline ait mağaza aleyhinde davalı internet kullanıcılarının sosyal medya hesaplarında asılsız içerikler paylaştığını iddia ediyor. Bu içerikler, müvekkilin ticari itibarına zarar verdiği için dava açıldı. İhtiyati tedbir talebiyle erişim engeli istendi.",
+        "reasoning_text": "Mahkeme, dava dilencesinde haklı bir ihtimal bulunmadığını ve haklılık kanıtı eksik olduğunu belirledi. İhtiyati tedbir talebinin reddine karar verildi. TTK 61. maddesi ve HMK 353(1)b-1 maddesi uyarınca dava reddedildi.",
+        "verdict_text": "İhtiyati tedbir talebinin reddine, Peşin harçın mahsubuna başkaca harç alınmasına yer olmadığına, dosya üzerinde yapılan inceleme sonucunda HMK 362(1)-f maddesi uyarınca kesin olmak üzere oy birliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK 61",
+            "TTK 55/1/a",
+            "TTK 61/1",
+            "HMK 353(1)b-1",
+            "HMK 362(1)-f",
+            "HMK 389",
+            "HMK 390/3"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, müvekkiline ait mağaza aleyhinde asılsız içerikler paylaşımını iddia etti. Mahkeme, dava dilencesinde haklı bir ihtimal bulunmadığını belirleyerek ihtiyati tedbir talebini reddetti.",
+    "summary_for_model": "Dava konusu paylaşımların engellenmesi için yapılan ihtiyati tedbir talebi reddedildi. Mahkeme, dava dilencesinde haklılık kanıtı eksik olduğunu ve TTK 61. maddesi uyarınca karar verdi."
+}

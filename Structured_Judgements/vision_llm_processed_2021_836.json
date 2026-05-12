@@ -1,0 +1,37 @@
+{
+    "meta_data": {
+        "file_name": "2021_836.pdf",
+        "court_name": "T.C. İzmir 5. Aslıye Ticaret Mahkemesi",
+        "esas_no": "2021/836",
+        "karar_no": "2022/834",
+        "case_subject": "Ticari Şirket (Tasfiyeye İlişkin)",
+        "dava_tarihi": "16/11/2021",
+        "karar_tarihi": "28/09/2022"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, şirketin yönetim kurulu üyelerinin görev sürelerinin dolması, yönetim kurulu üyelerinin sorumluluğunun araştırılması ve şirketin fesih talebini içeriyor. Davacı ayrıca şirketin organ eksikliğinden dolayı fesih talebinde bulundu.",
+        "reasoning_text": "Mahkeme, şirketin yönetim kurulu üyelerinin görev sürelerinin dolması ve organ eksikliğinden dolayı şirketin fesih talebini kabul etti. Davacının diğer talepleri ise reddedildi.",
+        "verdict_text": "Yukarda Açıklanan Sebeple; Davacının davasını KISMEN KABULÜ ile, Davacının şirketin yönetimi için yönetici kayyım tayin edilmesi ve bu yönetici kayyımın şirketi yönetmesi talebinin davacının diğer talepleri de dikkate alınarak mevcut yönetiminin yeni yönetim kurulu seçilene kadar görevini devam ettirebileceği, genel kurulun toplanarak bu konuda karar alabileceği, ancak tarafların şirketin devamı konusunda anlaşamadıklarından ve her iki ortakın da %50 pay sahibi olup diğer ortakla birlikte çalışmayı istemediğinden taraflar arasında el ve gönül birliğinin ortadan kalktığından davacının yönetim kayyımı atanması talebinin şirketin mevcut hali ile sonuç doğurmayacağı şirketin bu şekilde ilaniyeye yürütülmesi mümkün olmadığından talebinin reddine, Davacının diğer talebi olan şirkete özel denetçi atanması talebinin ise yasal olarak unsurlarının oluşmadığı, şirketten bilgi alınması için başvuruların TTK m. 437/5 e uygun olarak yapılmadığı ve özel denetçi atanacak konunun belirlenerek somutlaştırılmadığı, şirketin tüm idari ve mali işlemlerin denetim konusu içine konulduğu, oysaki bu taleplerin ancak bilgi alma ve inceleme kapsamında değerlendirilmesi gerektiğinden davacının bu talebinin reddine, Davacının diğer taleplerinden olan TTK m. 530'a dayalı olarak dava konusu şirketin organlarından olan yönetim kurulu seçilmemiş olması ve ayrıca TTK m. 531 e göre haklı sebep nedeniyle şirketin fesihini talep ettiği, davalı tarafından da şirketin birlikte idare edilemediğinin, kabul ve ikrar edildiği, dosyaya sunulan delillerle her iki tarafın şirketi birlikte idare etmek iradesinin ortadan kalktığı, şirkette her iki tarafın %50 hisse sahibi olup, şirketi birlikte yönetme sorumluluğa katlanma kar elde etme ve paylaşma amacının gerçekleşemeyeceği tespit edildiğinden her iki tarafında şirketin öncelikle fesih ve başka bir çözüm tarzının gerçekleştirilmesi talebi değerlendirilerek her iki ortakın %50 pay sahibi olduğu dikkate alındığında şirketin birlikte idare edilemeyeceğinden şirketin fesihine ve tasfiyesine, Tasfiye memuru olarak SMMM ...'in atanmasına, Tasfiye memuruna 10.000,00 TL ücret takdirine tasfiye ücretinin şirket tarafından karşılanmasına, Harçlar Kanunu gereğince alınması gerekli 80,70 TL harçtan dava açılışında alınan 59,30 TL peşin harcin mahsubu ile eksik alınan 21,40 TL harcin davalıdan tahsili ile hazineye irat kaydına, Davacı tarafından yargılama gideri olarak yapılan başvuru harcı 59,30 TL ve peşin harç 59,30 TL ile yazışma ve tebligat gideri 70,60 TL ve bilirkisi ücreti 3.000,00 TL olmak üzere toplam 3.189,20 TL'nin davanın kabul-red oranına göre 1.594,60 TL'sinin davalıdan alınarak davacıya verilmesine, kalan miktarın davacı üzerinde bırakılmasına, Davalı taraf kendisini vekil ile temsil ettirdiğinden red edilen miktar üzerinden AAÜT'nin 13/1. maddesine göre belirlenen 9.200,00 TL vekalet ücretinin davacıdan tahsili ile vekili yararına davalıya verilmesine, HMK m. 333 gereği gider avansından artanın karar kesinleştiğinde ve talep halinde yatırana iaadesine, Dair, taraf vekillerinin yüzüne karşı ve gerekli kararın taraflara tebliginden itibaren özel denetçi atanması yönündeki kararın kesin olmak üzere olmak üzere diğer kısımlar yönünden 2 haftalık yasal süresi içerisinde İstinaf yasa yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı. 28/09/2022"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "TTK m. 530",
+            "TTK m. 531",
+            "TTK m. 437/5",
+            "TTK m. 438",
+            "TTK m. 395",
+            "TTK m. 396",
+            "TTK m. 370/2",
+            "TTK m. 367",
+            "TTK m. 420",
+            "TTK m. 433",
+            "TTK m. 375",
+            "TTK m. 392",
+            "Harçlar Kanunu",
+            "AAÜT 13/1. madde",
+            "HMK m. 333"
+        ]
+    },
+    "summary_for_human": "Mahkeme, şirketin yönetim kurulu üyelerinin görev sürelerinin dolması ve organ eksikliğinden dolayı şirketin fesih talebini kabul etti. Davacının diğer talepleri ise reddedildi.",
+    "summary_for_model": "Mahkeme, şirketin yönetim kurulu üyelerinin görev sürelerinin dolması ve organ eksikliğinden dolayı şirketin fesih talebini kabul etti. Davacının diğer talepleri ise reddedildi. TTK m. 530 ve 531'e dayanarak şirketin fesihine karar verildi."
+}

@@ -1,0 +1,26 @@
+{
+    "meta_data": {
+        "file_name": "2022_172.pdf",
+        "court_name": "T.C. İSTANBUL BÖLGE ADLİYE MAHKEMESİ 16. HUKUK DAİRESİ",
+        "esas_no": "2022/343",
+        "karar_no": "2023/1826",
+        "case_subject": "Tescilsiz Endüstriyel Tasarıma Tecavüz, Tazminat",
+        "dava_tarihi": "03/12/2021",
+        "karar_tarihi": "07/12/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı, 28 Ekim 2019'da Instagram üzerinden yayınladığı kadın elbisesi tasarımını tescilsiz olarak kullandığını iddia ediyor. Tasarımın 2020/73 sayılı dosya ile tescilsiz olduğu tespit edildi. Davacı, tasarımın ticari faaliyetlerinde kullanıldığını ve maddi zarar gördüğünü iddia ediyor.",
+        "reasoning_text": "Mahkeme, tasarımın tescilsiz olduğu ve ticari faaliyetlerde kullanıldığı tespitini doğruladı. Ancak, tasarımın ilk kez Türkiye'de kamuya sunulmadan önce internette yayınlandığı için yenilik unsuru bulunmadığı ve tescilsiz tasarım koruma şartlarını karşılamadığı sonucuna vardı.",
+        "verdict_text": "Davacının tescilsiz tasarım hakkına tecavüz iddiası reddedildi. Davacı vekilinin istinaf talebi de reddedildi. Davacıya 269,85 TL harçtan, peşin alınan 80,70 TL harçın mahsubu ile bakiye 189,15 TL harç verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Sınai Mülkiyet Kanunu (SMK)",
+            "Fikir ve Sanat Eserleri Kanunu (FSEK)",
+            "Türk Ticaret Kanunu (TTK)",
+            "Hukuk Muhakemesi Kanunu (HMK)"
+        ]
+    },
+    "summary_for_human": "Davacı, 2019'da Instagram'da yayınladığı kadın elbisesi tasarımının tescilsiz olarak kullanıldığını iddia etti. Mahkeme, tasarımın tescilsiz olduğunu ancak ilk kez internette yayınlandığı için yenilik unsuru bulunmadığını ve tescilsiz tasarım koruma şartlarını karşılamadığını karar verdi.",
+    "summary_for_model": "Dava, tescilsiz tasarım ve ticari hak ihlali iddiasını içeriyor. Mahkeme, tasarımın tescilsiz olduğunu ancak yenilik unsuru eksikliği nedeniyle tescilsiz tasarım koruma şartlarını karşılamadığını tespit etti. İstinaf talebi reddedildi."
+}

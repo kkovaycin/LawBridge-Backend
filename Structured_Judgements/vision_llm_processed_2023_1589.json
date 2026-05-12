@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2023_1589.pdf",
+        "court_name": "T.C. İZMİR BÖLGE ADLİYE MAHKEMESİ 11. HUKUK DAİRESİ",
+        "esas_no": "2021/143 E. - 2023/61 K.",
+        "karar_no": "2023/1635",
+        "case_subject": "Tasarımın Hükümsüzlüğü, Markanın Hükümsüzlüğü",
+        "dava_tarihi": "13/05/2021",
+        "karar_tarihi": "13/11/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, davaların 13.05.2021'de Türk Patent Marka Kurumu'na başvurularak tescil edildiğini iddia etmiştir. Ancak tescilin körü niyetli olduğu ve tasarımın ilk olarak Almanya'da tescil edildiği belirtilmiştir. Tasarımın Türkiye'de kullanım hakları için yasal izinler verildiği, ancak bu izinlerin davacı vekilinin ticari faaliyet göstermediği iddia edilmiştir.",
+        "reasoning_text": "İlk derece mahkemesi, davacı vekilinin 22.03.2023 tarihli duruşmaya katılmadığı için davayı açılmamış olarak kararlaştırmıştır. İstinaf başvurusu, Hukuk Muhakemeleri Kanunu'nun 353/1-b-1 maddesi uyarınca esastan reddedilmiştir. Davacı vekilinin istinaf başvurusunun usul ve esas yönünden hukuka uygun olmadığı tespit edilmiştir.",
+        "verdict_text": "Yukarıda açıklanan nedenlerle; 1-Davacı vekilinin istinaf başvurusunun Hukuk Muhakemeleri Kanunu'nun 353/1-b-1 maddesi uyarınca ESAS TAN REDDİNE, 2-Davacı yönünden istinaf karar harcı olan 269,85 TL peşin alındığından yeniden alınmasına yer olmadığına, 3-İstinaf başvurusu nedeniyle davacının yaptığı giderlerin kendi üzerinde bırakılmasına, Dosya üzerinden yapılan inceleme neticesinde, kararın tebliğiğinden itibaren iki hafta içinde Yargıtay İli Hukuk Daireisinde temyiz yolu açık olmak üzere oybirliği ile karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu 353/1-b-1",
+            "Hukuk Muhakemeleri Kanunu 150",
+            "Hukuk Muhakemeleri Kanunu 355"
+        ]
+    },
+    "summary_for_human": "İzmir Bölge Adliye Mahkemesi, davacı vekilinin istinaf başvurusunu reddetmiştir. Davacı vekilinin duruşmaya katılmaması ve istinaf başvurusunun usul ve esas yönünden hukuka uygun olmaması nedeniyle, davanın açılmamış olarak kararlaştırılmıştır.",
+    "summary_for_model": "İstinaf başvurusu, Hukuk Muhakemeleri Kanunu'nun 353/1-b-1 maddesi uyarınca esastan reddedildi. Davacı vekilinin duruşmaya katılmaması ve istinaf başvurusunun usul ve esas yönünden hukuka uygun olmaması nedeniyle, davanın açılmamış olarak kararlaştırılmıştır."
+}

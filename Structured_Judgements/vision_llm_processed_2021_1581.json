@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2021_1581.pdf",
+        "court_name": "İstanbul Bölge Adliye Mahkemesi",
+        "esas_no": "2020/282",
+        "karar_no": "2021/265",
+        "case_subject": "Tazminat (Haksız Fiilden Kaynaklanan)",
+        "dava_tarihi": "10/03/2021",
+        "karar_tarihi": "22/02/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili dava dilekçesinde özetle; davalı tarafın kitaplardaki ifadelerin kamuoyunu yanıltarak davacı şirkete intiba ve sansasyon yaratmaya çalıştığını, davacı şirketin haklarına tecavüz ettiğini iddia etmiştir. Davalı vekili ise davacı şirketin ifadelerinin hukuka aykırı olduğunu, davanın twitter paylaşımının konusu ve kitap satışlarının esası ağırllğı teşkil ettiğini savunmuştur.",
+        "reasoning_text": "İstanbul 19. Asliye Ticaret Mahkemesi, davacı vekilinin istinaf talebini kabul ederek ilk derece mahkemesi kararını kaldırmıştır. Karar, 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-a/6. maddesi ve 150. maddesi uyarınca verilmiştir. Davacı vekilinin vekaletname süresinin dolması ve usulsüz tebligat nedeniyle istinaf talebinin kabulüne karar verilmiştir.",
+        "verdict_text": "GEREĞİ DÜŞÜNÜLDÜ: Davacı vekilinin istinaf talebinin kabulü ile, İstanbul 19. Asliye Ticaret Mahkemesi'nin 2020/282 Esas - 2021/265 Karar sayılı kararının kaldırılmasına, dosyanın ilk derece mahkemesine gönderilmesine, istinaf yasa yoluna başvuran tarafından peşin olarak yatırılan 59,30 TL istinaf karar ve ilam harçının talebi halinde kendisine iadesine, istinaf incelemesi dosya üzerinde yapılması sebebiyle avukatlık ücreti takdirine yer verilmeye, istinaf yasa yoluna başvuran tarafından istinaf aşamasında yapılan giderlerin ilk derece mahkemesince verilecek nihai kararda dikkate alınmasına, karar tebliği, harç tahsil müzekkeresi düzenlenmesine, harç ve avans iadesi işlemlerinin İlk Derece Mahkemesince yerine getirilmesine karar verilmiştir."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "Hukuk Muhakemeleri Kanunu (HMK)",
+            "7201 Sayılı Tebligat Kanunu",
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu"
+        ]
+    },
+    "summary_for_human": "İstanbul Bölge Adliye Mahkemesi, davacı vekilinin istinaf talebini kabul ederek ilk derece mahkemesi kararını kaldırdı. Karar, vekaletname süresinin dolması ve usulsüz tebligat nedeniyle verildi. Davacı vekilinin istinaf talebinin kabulüne karar verildi.",
+    "summary_for_model": "İstanbul Bölge Adliye Mahkemesi, davacı vekilinin istinaf talebini kabul ederek ilk derece mahkemesi kararını kaldırdı. Karar, 6100 Sayılı HMK'nin 353/1-a/6. ve 150. maddeleri uyarınca verildi. Davacı vekilinin vekaletname süresinin dolması ve usulsüz tebligat nedeniyle istinaf talebinin kabulüne karar verildi."
+}

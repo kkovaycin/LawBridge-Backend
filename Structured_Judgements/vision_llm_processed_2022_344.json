@@ -1,0 +1,25 @@
+{
+    "meta_data": {
+        "file_name": "2022_344.pdf",
+        "court_name": "T.C. ANKARA BÖLGE ADLİYE MAHKEMESİ 20. HUKUK DAİRESİ",
+        "esas_no": "2022/344",
+        "karar_no": "2024/640",
+        "case_subject": "Eser Sahipliğinden Kaynaklanan Haklara Tecavüzün Refi, Önlenmesi, Maddi ve Manevi Tazminat",
+        "dava_tarihi": "13/01/2022",
+        "karar_tarihi": "29/03/2024"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkilinin mali haklarına sahip olduğu kitapların davalı tarafından fotokopi yoluyla çoğaltılıp satışa sunulduğunu iddia etmiştir. Davalı, bu iddialara karşı savunmasında, kitapların fotokopilerinin davalı tarafından oluşturulduğunu, davacının mahkemeye sunduğu paket içeriğinin iddiaları ispatlamaya yetersiz olduğunu ve davanın ispat edemediğini savunmuştur.",
+        "reasoning_text": "Mahkeme, davacının iddialarının kantı olarak kabul edilmediğini, davanın iddialarının ispat edilemediğini ve davanın haklarının ihlal edildiğini ispat edemediğini değerlendirmiştir. Ayrıca, davanın davacı vekilinin istinaf başvurusunun esas yönünden reddini kararlaştırmıştır.",
+        "verdict_text": "Gerekçesi yukarıda belirtildiği üzere;\n1-Davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince ESASTAN REDDİNE,\n2-Alınması gereken 427,60 TL maktu istinaf karar ve ilam harcından, davacı taraflıca istinaf başvurusunda yatırılan 80,70 TL istinaf karar ve ilam harcının mahsubu ile kalan 346,90 TL bakiye harcın davacidan tahsili ile Hazineye irat kaydına,\n3-Istinaf aşamasında davacı tarafından yapılan yargılama giderlerinin kendi uhdesinde bırakılmasına,\n4-Istinaf aşamasında duruşma açılmadığından taraflara vekalet ücreti takdirine yer olmadığına,\nDair, dosya üzerinde yapılan inceleme sonucunda oybirliği ile 29/03/2024 tarihinde HMK 361. maddesi uyarınca kararın tebliginden itibaren iki hafta içerisinde TEMİYİ yolu açık olmak üzere karar verildi."
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "HMK'nın 353/1-b.1 maddesi",
+            "HMK'nın 355. madde",
+            "HMK'nın 361. madde"
+        ]
+    },
+    "summary_for_human": "Davacı vekili, müvekkilinin kitaplarının davalı tarafından fotokopi yoluyla çoğaltılıp satıldığını iddia etti. Mahkeme, bu iddiaların ispat edilemediğini ve davanın haklarının ihlal edildiğini ispat edemediğini tespit etti. Davacı vekilinin istinaf başvurusu reddedildi.",
+    "summary_for_model": "Davacı vekili, müvekkilinin kitaplarının davalı tarafından fotokopi yoluyla çoğaltılıp satıldığını iddia etti. Mahkeme, bu iddiaların ispat edilemediğini ve davanın haklarının ihlal edildiğini ispat edemediğini tespit etti. Davacı vekilinin istinaf başvurusu reddedildi. HMK'nın 353/1-b.1, 355 ve 361 maddeleri uygulanmıştır."
+}

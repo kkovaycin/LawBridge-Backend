@@ -1,0 +1,24 @@
+{
+    "meta_data": {
+        "file_name": "2023_1588.pdf",
+        "court_name": "Antalya Bölge Adliye Mahkemesi 11. Hukuk Dairesi",
+        "esas_no": "İstinaf Esası",
+        "karar_no": "Gerekçeli Karar",
+        "case_subject": "İtirazın İptali (Ticari Satımdan Kaynaklanan)",
+        "dava_tarihi": "17/03/2023",
+        "karar_tarihi": "13/07/2023"
+    },
+    "rrl_segments": {
+        "facts_text": "Davacı vekili, müvekkili ile davalı arasındaki ticari ilişki sebebiyle müvekkili olan şirketin davalı borçluya faturada yer alan strip mermer fayans satışı yaptığını, müvekkili tarafından düzenlenen fatura ve davalının müvekkiline işbu faturadan ve ticari ilişkiden kaynaklanan 37.170,00 TL tutarında ana para borcu bulunduğunu iddia etmiştir. Davacı vekili, davalının müvekkiline ödeme yapmadığını, faturadan kaynaklı alacağı için Denizi 9. İcra Dairesinin icra takibi başlatıldığını, davalı tarafından icra takibine haklı olarak itiraz edildiğini, sosyal medya üzerinden borçlu firmanın tüm makinelerin satışa sunduğunu ve mal kaçırma ihtimalinin bulunduğunu iddia etmiştir.",
+        "reasoning_text": "Mahkeme, davacı vekilinin istinaf dilekçesinde ilk derece mahkemesinin gerekçesinde belirtilen somut dosya kapsamında davalı tarafından çekilen herhangi bir ihtarname ve bir kısım ödemenin davalı tarafından alındığına ilişkin dayanak belgenin bulunmadığını, alakasız olmayan tespitlerde bulunarak yaklaşık ispat koşulunun sağlanmadığından bahisle ihtiyati haciz taleplerinin reddine karar verildiğini, bu kararın açıkça hukuka aykırı olduğunu ve müvekkilin davalıya strip mermer fayans satışı yapması nedeniyle takip edilen faturanın düzenlendiğini, bu faturanın ödenmemesi üzerine takibin başlatıldığını, davalı tarafından otomatik olarak faturanın kabul şeklinde kayıtlarına alındığını, müvekkili şirketin müdürü ve davalı şirketin yetkilisinin whatsapp yazışmalarından satılan malların teslim edildiğini ve borcun varlığının ikrar edildiğini, bu nedenle ihtiyati haciz kararı verilmesi gerektiğini, yazılı şekilde ret kararı verilmesinin Yargıtay içtihatlarına aykırı olduğunu istinaf nedenleri olarak ileri sürmüştür.",
+        "verdict_text": "HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin İlk Derece Mahkemesi kararına ilişkin istinaf başvurusunun ESASTAN REDDİNE, 2-492 Sayılı Harçlar Kanunu gereğince alınması gerekli 269,85 TL maktu istinaf karar harcından peşin olarak yatırılan 179,90 TL harç mahsubu ile bakiye 89,95 TL istinaf karar harcının davacıdan tahsili ile Hazineye GELİR KAYDINA, harç tahsil müzekkeresinin ilk derece mahkemesince YAZILMASININA, 3-Davacının istinaf başvurusu nedeniyle yapılan yargılama masraflarının kendi üzerinde BIRAKILMASININA, 4-Kullanılmayan istinaf gider avansının 6100 Sayılı HMK'nın 333. maddesi uyarınca İlk Derece Mahkemesince talebi halinde ilgisine İADESİNE, 5-Istinaf incelemesi dosya üzerinden yapıldığından davalı lehine vekalet ücreti takdirine YER OLMADIĞINA, 6-Kararın İlk Derece Mahkemesi tarafından taraflara TEBLİĞİNE, Dair, 6100 sayılı HMK'nın 353/1-b-1. maddesi gereğince dosya üzerinde yapılan inceleme sonucunda oybirliğiyle, 6100 Sayılı HMK'nın 362/1-f. maddesi gereğince kesin olarak karar verildi.13/07/2023"
+    },
+    "structural_features": {
+        "mentioned_laws": [
+            "6100 Sayılı Hukuk Muhakemeleri Kanunu (HMK)",
+            "492 Sayılı Harçlar Kanunu"
+        ]
+    },
+    "summary_for_human": "Bu davada, davacı vekili, müvekkili olan şirketin davalı borçluya fatura ile satılan strip mermer fayans için ödemeyi talep etmiştir. İlk derece mahkemesi, davalı tarafından fatura ödenmediği için icra takibi başlatılmış ve davalı tarafından itiraz edilmişti. Mahkeme, davacı vekilinin istinaf dilekçesinde ilk derece mahkemesinin kararının açıkça hukuka aykırı olduğunu, özellikle davalı tarafından fatura otomatik olarak kabul edildiğini ve borcun varlığına dair kanıtların eksik olduğunu öne sürmüştür. Mahkeme, istinaf başvurusunun reddine karar vermiş ve davacı vekilinin harç ödemesini talep etmiştir.",
+    "summary_for_model": "Davacı vekili, müvekkili olan şirketin davalı borçluya fatura ile satılan strip mermer fayans için ödemeyi talep etmiştir. İlk derece mahkemesi, davalı tarafından fatura ödenmediği için icra takibi başlatılmış ve davalı tarafından itiraz edilmişti. Mahkeme, davacı vekilinin istinaf dilekçesinde ilk derece mahkemesinin kararının açıkça hukuka aykırı olduğunu, özellikle davalı tarafından fatura otomatik olarak kabul edildiğini ve borcun varlığına dair kanıtların eksik olduğunu öne sürmüştür. Mahkeme, istinaf başvurusunun reddine karar vermiş ve davacı vekilinin harç ödemesini talep etmiştir. HMK m. 355/1, HMK m. 353/1-b-1, HMK m. 362/1-f, 492 Sayılı Harçlar Kanunu ve 6100 Sayılı HMK'nın 333. maddesi ve 355. maddesi kullanılmıştır."
+}
