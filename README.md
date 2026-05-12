@@ -4,17 +4,24 @@ FastAPI tabanlı LawBridge backend servisidir. Frontend tarafındaki `NEXT_PUBLI
 
 ## Modeller
 
-Backend model dosyalarını repoya kopyalamaz. Verdiğiniz klasörler varsayılan olarak backend klasörünün kardeş dizinlerinde aranır:
+Backend model dosyalarını proje içindeki `models/` klasöründen okur. Bu repo GitHub'a model ağırlıklarıyla gönderilecekse Git LFS kullanılmalıdır.
 
 | Servis | Varsayılan path |
 | --- | --- |
-| Sentiment | `../Sentiment/sentiment_berturk_model` |
-| Intent | `../Intent/intent_berturk_model` |
-| Legal | `../Legal/lawbridge_legal_model` |
-| Reasoning / semantic search | `../MiniLM_weak_summary_to_reasoning_seed42_ep7_msl256` |
+| Sentiment | `models/sentiment_berturk_model` |
+| Intent | `models/intent_berturk_model` |
+| Legal | `models/lawbridge_legal_model` |
+| Reasoning / semantic search | `models/MiniLM_weak_summary_to_reasoning_seed42_ep7_msl256` |
 | Karar dataseti | `Structured_Judgements` |
 
-Gerekirse `.env` dosyasında bu pathleri değiştirebilirsiniz.
+Gerekirse `.env` dosyasında bu pathleri değiştirebilirsiniz. `.env` içindeki göreli pathler backend proje köküne göre çözülür.
+
+Git LFS ayarı `.gitattributes` içinde model ağırlıkları için tanımlıdır. Yeni bir bilgisayarda ilk kez çalışırken:
+
+```bash
+git lfs install
+git lfs pull
+```
 
 `Structured_Judgements` klasöründeki `vision_llm_processed_*.json` dosyaları otomatik okunur. Bu klasör yoksa backend eski 8 kayıtlık seed emsal listesini fallback olarak kullanır.
 

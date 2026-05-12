@@ -1,0 +1,8 @@
+class,TN,FP,FN,TP
+Olumsuz,639,132,84,522
+Öfke / Kızgınlık,825,97,66,389
+Nötr,966,44,69,298
+Olumlu,1078,40,38,221
+Hayal Kırıklığı,1139,113,37,88
+Alay / İroni,1153,122,42,60
+Üzüntü / Endişe,1178,113,31,55

@@ -19,12 +19,5 @@ htmlcov/
 
 data/analyses.json
 
-# Keep local model artifacts out of Git. Configure their paths with .env.
-*.safetensors
-*.bin
-*.pt
-*.pth
-*.onnx
-
 .DS_Store
 Thumbs.db
