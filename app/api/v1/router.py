@@ -20,6 +20,7 @@ from app.services.analysis import AnalysisService
 from app.services.applications import create_application_draft
 from app.services.classifiers import ModelLoadError
 from app.services.registry import get_model_registry
+from app.services.youtube import YouTubeCommentError
 
 
 router = APIRouter()
@@ -51,6 +52,8 @@ def analyze(request: AnalyzeRequest) -> AnalysisResponse:
         response = AnalysisService(registry()).analyze(request)
     except ModelLoadError as exc:
         raise HTTPException(status_code=status.HTTP_503_SERVICE_UNAVAILABLE, detail=str(exc)) from exc
+    except YouTubeCommentError as exc:
+        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(exc)) from exc
 
     if request.save:
         registry().store.save(response)

@@ -25,6 +25,19 @@ git lfs pull
 
 `Structured_Judgements` klasöründeki `vision_llm_processed_*.json` dosyaları otomatik okunur. Bu klasör yoksa backend eski 8 kayıtlık seed emsal listesini fallback olarak kullanır.
 
+## YouTube Yorum Analizi
+
+`/api/v1/analyze` endpointine `sourceType: "youtube-comment"` ve bir YouTube video linki gönderildiğinde backend video ID'sini çıkarır, YouTube Data API üzerinden üst seviye yorumları çeker ve her yorumu mevcut sentiment, intent ve legal modelleriyle analiz eder.
+
+Bu özellik için `.env` içinde YouTube Data API anahtarı gerekir:
+
+```bash
+YOUTUBE_API_KEY=...
+YOUTUBE_MAX_COMMENTS=25
+```
+
+API anahtarı yoksa YouTube linki verilen analizlerde backend açık bir hata döndürür. YouTube yorumu doğrudan metin olarak girilirse normal metin analizi gibi çalışır.
+
 ## Kurulum
 
 ```bash

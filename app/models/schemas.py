@@ -101,6 +101,30 @@ class ActionLink(APIModel):
     variant: str = Field(pattern="^(primary|secondary)$")
 
 
+class YouTubeCommentAnalysis(APIModel):
+    id: str
+    author: str | None = None
+    text: str
+    published_at: str | None = None
+    like_count: int = 0
+    risk_level: RiskLevel
+    risk_label: str
+    legal_topic: str
+    analysis_type: AnalysisType
+    primary_legal_label: str
+    primary_legal_score: float
+
+
+class YouTubeAnalysisStats(APIModel):
+    video_id: str
+    comment_count: int
+    flagged_count: int
+    high_risk_count: int
+    medium_risk_count: int
+    low_risk_count: int
+    analyzed_comment_limit: int
+
+
 class AnalysisCardResult(APIModel):
     risk_level: str
     legal_topic: str
@@ -108,6 +132,8 @@ class AnalysisCardResult(APIModel):
     recommended_actions: list[str]
     precedent_suggestion: str
     actions: list[ActionLink]
+    youtube_stats: YouTubeAnalysisStats | None = None
+    youtube_comments: list[YouTubeCommentAnalysis] = Field(default_factory=list)
 
 
 class PrecedentRecord(APIModel):

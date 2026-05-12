@@ -1,6 +1,7 @@
 from fastapi.testclient import TestClient
 
 from app.main import app
+from app.services.youtube import extract_youtube_video_id
 
 
 client = TestClient(app)
@@ -32,3 +33,25 @@ def test_precedents_contract():
     assert len(payload) >= 1000
     assert {"id", "title", "court", "date", "summary", "tags", "riskLevel", "saved"}.issubset(payload[0])
     assert payload[0]["id"].startswith("judgement-")
+
+
+def test_extract_youtube_video_id_from_common_urls():
+    assert extract_youtube_video_id("https://www.youtube.com/watch?v=dQw4w9WgXcQ") == "dQw4w9WgXcQ"
+    assert extract_youtube_video_id("https://youtu.be/dQw4w9WgXcQ?t=42") == "dQw4w9WgXcQ"
+    assert extract_youtube_video_id("https://www.youtube.com/shorts/dQw4w9WgXcQ") == "dQw4w9WgXcQ"
+    assert extract_youtube_video_id("not a youtube link") is None
+
+
+def test_youtube_video_analysis_requires_api_key_before_loading_models():
+    response = client.post(
+        "/api/v1/analyze",
+        json={
+            "text": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "sourceType": "youtube-comment",
+            "analysisType": "insult-threat",
+            "save": False,
+        },
+    )
+
+    assert response.status_code == 400
+    assert "YOUTUBE_API_KEY" in response.json()["detail"]

@@ -7,6 +7,7 @@ from app.models.schemas import ModelInfo
 from app.services.classifiers import MultiLabelClassifier, read_labels_from_config
 from app.services.precedents import PrecedentService
 from app.services.storage import AnalysisStore
+from app.services.youtube import YouTubeCommentClient
 
 
 class ModelRegistry:
@@ -35,6 +36,11 @@ class ModelRegistry:
             model_path=settings.reasoning_model_path,
             dataset_dir=settings.judgements_dataset_dir,
             device=settings.model_device,
+        )
+        self.youtube = YouTubeCommentClient(
+            api_key=settings.youtube_api_key,
+            max_comments=settings.youtube_max_comments,
+            timeout_seconds=settings.youtube_request_timeout_seconds,
         )
         self.store = AnalysisStore(settings.analysis_store_path)
 
@@ -94,6 +100,8 @@ class ModelRegistry:
                     "datasetPath": str(self.settings.judgements_dataset_dir),
                     "datasetAvailable": self.settings.judgements_dataset_dir.exists(),
                     "precedentCount": self.precedents.count,
+                    "youtubeCommentsConfigured": self.youtube.configured,
+                    "youtubeMaxComments": self.settings.youtube_max_comments,
                 },
             ),
         ]
