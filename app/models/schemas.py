@@ -228,3 +228,21 @@ class ApplicationDraftResponse(APIModel):
     title: str
     draft: str
     warnings: list[str]
+
+
+class UserProfileRequest(APIModel):
+    display_name: str | None = Field(default=None, max_length=200)
+    email: str | None = Field(default=None, max_length=320)
+    phone: str | None = Field(default=None, max_length=80)
+    city: str | None = Field(default=None, max_length=120)
+    bio: str | None = Field(default=None, max_length=1000)
+
+    @field_validator("display_name", "email", "phone", "city", "bio")
+    @classmethod
+    def strip_optional(cls, value: str | None) -> str | None:
+        return value.strip() if value and value.strip() else None
+
+
+class UserProfileResponse(UserProfileRequest):
+    id: str
+    provider: str = "firebase"

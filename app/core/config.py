@@ -34,6 +34,9 @@ class Settings(BaseSettings):
     youtube_api_key: str | None = None
     youtube_max_comments: int = Field(default=25, ge=1, le=100)
     youtube_request_timeout_seconds: int = Field(default=15, ge=1, le=60)
+    database_url: str | None = None
+    supabase_database_url: str | None = None
+    auto_create_db_tables: bool = True
     analysis_store_path: Path = PROJECT_ROOT / "data" / "analyses.json"
 
     @model_validator(mode="after")
@@ -77,6 +80,14 @@ class Settings(BaseSettings):
             return None
         token = self.hf_token.strip()
         return token or None
+
+    @property
+    def postgres_url(self) -> str | None:
+        url = self.database_url or self.supabase_database_url
+        if not url:
+            return None
+        normalized = url.strip()
+        return normalized or None
 
 
 @lru_cache

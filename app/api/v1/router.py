@@ -1,4 +1,6 @@
-from fastapi import APIRouter, HTTPException, Query, status
+from urllib.parse import unquote
+
+from fastapi import APIRouter, Depends, Header, HTTPException, Query, status
 
 from app.core.config import get_settings
 from app.models.schemas import (
@@ -15,11 +17,14 @@ from app.models.schemas import (
     PrecedentSearchRequest,
     RiskLevel,
     TextRequest,
+    UserProfileRequest,
+    UserProfileResponse,
 )
 from app.services.analysis import AnalysisService
 from app.services.applications import create_application_draft
 from app.services.classifiers import ModelLoadError
 from app.services.registry import get_model_registry
+from app.services.storage import RequestUser
 from app.services.youtube import YouTubeCommentError
 
 
@@ -28,6 +33,27 @@ router = APIRouter()
 
 def registry():
     return get_model_registry()
+
+
+def current_user(
+    x_lawbridge_user_id: str | None = Header(default=None),
+    x_lawbridge_user_email: str | None = Header(default=None),
+    x_lawbridge_user_name: str | None = Header(default=None),
+    x_lawbridge_auth_provider: str | None = Header(default="firebase"),
+) -> RequestUser:
+    return RequestUser(
+        id=_decode_header(x_lawbridge_user_id) or "anonymous",
+        email=_decode_header(x_lawbridge_user_email),
+        display_name=_decode_header(x_lawbridge_user_name),
+        provider=_decode_header(x_lawbridge_auth_provider) or "firebase",
+    )
+
+
+def _decode_header(value: str | None) -> str | None:
+    if value is None:
+        return None
+    stripped = value.strip()
+    return unquote(stripped) if stripped else None
 
 
 @router.get("/health", response_model=HealthResponse, tags=["system"])
@@ -47,7 +73,10 @@ def models() -> ModelsResponse:
 
 
 @router.post("/analyze", response_model=AnalysisResponse, tags=["analysis"])
-def analyze(request: AnalyzeRequest) -> AnalysisResponse:
+def analyze(
+    request: AnalyzeRequest,
+    user: RequestUser = Depends(current_user),
+) -> AnalysisResponse:
     try:
         response = AnalysisService(registry()).analyze(request)
     except ModelLoadError as exc:
@@ -56,29 +85,48 @@ def analyze(request: AnalyzeRequest) -> AnalysisResponse:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(exc)) from exc
 
     if request.save:
-        registry().store.save(response)
+        registry().store.save(response, user=user)
 
     return response
 
 
 @router.get("/analyses", response_model=list[AnalysisRecord], tags=["analysis"])
-def list_analyses() -> list[AnalysisRecord]:
-    return registry().store.list()
+def list_analyses(user: RequestUser = Depends(current_user)) -> list[AnalysisRecord]:
+    return registry().store.list(user=user)
 
 
 @router.get("/analyses/{analysis_id}", response_model=AnalysisResponse, tags=["analysis"])
-def get_analysis(analysis_id: str) -> AnalysisResponse:
-    analysis = registry().store.get(analysis_id)
+def get_analysis(
+    analysis_id: str,
+    user: RequestUser = Depends(current_user),
+) -> AnalysisResponse:
+    analysis = registry().store.get(analysis_id, user=user)
     if analysis is None:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Analiz bulunamadı")
     return analysis
 
 
 @router.delete("/analyses/{analysis_id}", status_code=status.HTTP_204_NO_CONTENT, tags=["analysis"])
-def delete_analysis(analysis_id: str) -> None:
-    deleted = registry().store.delete(analysis_id)
+def delete_analysis(
+    analysis_id: str,
+    user: RequestUser = Depends(current_user),
+) -> None:
+    deleted = registry().store.delete(analysis_id, user=user)
     if not deleted:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Analiz bulunamadı")
+
+
+@router.get("/profile", response_model=UserProfileResponse, tags=["profile"])
+def get_profile(user: RequestUser = Depends(current_user)) -> UserProfileResponse:
+    return registry().store.get_profile(user=user)
+
+
+@router.put("/profile", response_model=UserProfileResponse, tags=["profile"])
+def update_profile(
+    request: UserProfileRequest,
+    user: RequestUser = Depends(current_user),
+) -> UserProfileResponse:
+    return registry().store.save_profile(request, user=user)
 
 
 @router.post("/classify/sentiment", response_model=ClassificationResponse, tags=["classification"])

@@ -27,6 +27,7 @@ htmlcov/
 *-server.err.log
 
 data/analyses.json
+data/users.json
 
 .DS_Store
 Thumbs.db

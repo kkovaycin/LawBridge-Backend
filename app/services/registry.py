@@ -7,7 +7,7 @@ from app.models.schemas import ModelInfo
 from app.services.classifiers import MultiLabelClassifier, read_labels_from_config
 from app.services.model_sources import model_ref_available, model_ref_kind
 from app.services.precedents import PrecedentService
-from app.services.storage import AnalysisStore
+from app.services.storage import build_analysis_store
 from app.services.youtube import YouTubeCommentClient
 
 
@@ -48,7 +48,11 @@ class ModelRegistry:
             max_comments=settings.youtube_max_comments,
             timeout_seconds=settings.youtube_request_timeout_seconds,
         )
-        self.store = AnalysisStore(settings.analysis_store_path)
+        self.store = build_analysis_store(
+            database_url=settings.postgres_url,
+            analysis_store_path=settings.analysis_store_path,
+            auto_create_db_tables=settings.auto_create_db_tables,
+        )
 
     def load_all(self) -> None:
         self.sentiment.predict("model warmup", top_k=1)

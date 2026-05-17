@@ -41,6 +41,21 @@ YOUTUBE_MAX_COMMENTS=25
 
 API anahtarı yoksa YouTube linki verilen analizlerde backend açık bir hata döndürür. YouTube yorumu doğrudan metin olarak girilirse normal metin analizi gibi çalışır.
 
+## Supabase / PostgreSQL
+
+Kaydedilen analizler ve kullanıcı özeti varsayılan olarak Supabase Postgres'e yazılacak şekilde hazırlanmıştır. `.env` içinde `DATABASE_URL` veya `SUPABASE_DATABASE_URL` doluysa backend JSON dosyası yerine Postgres kullanır. Boş bırakılırsa eski `data/analyses.json` fallback'i çalışır.
+
+Supabase Dashboard > Project Settings > Database bölümünden connection string alın ve `sslmode=require` ile ekleyin:
+
+```env
+DATABASE_URL=postgresql://postgres.<project-ref>:<password>@aws-0-eu-central-1.pooler.supabase.com:6543/postgres?sslmode=require
+AUTO_CREATE_DB_TABLES=true
+```
+
+`AUTO_CREATE_DB_TABLES=true` ise backend ilk veritabanı işleminde `lawbridge_users` ve `lawbridge_analyses` tablolarını oluşturur. İsterseniz aynı şemayı Supabase SQL Editor içinde manuel çalıştırmak için `db/supabase_schema.sql` dosyasını kullanabilirsiniz.
+
+Frontend ve mobil uygulama Firebase kullanıcı bilgisini backend'e `X-LawBridge-User-Id`, `X-LawBridge-User-Email` ve `X-LawBridge-User-Name` header'larıyla gönderir. Backend analizleri bu kullanıcı id'sine göre listeler, getirir ve siler.
+
 ## Kurulum
 
 ```bash
@@ -78,6 +93,8 @@ http://127.0.0.1:8000/docs
 | `GET` | `/api/v1/analyses` | Kaydedilmiş analizleri listeler |
 | `GET` | `/api/v1/analyses/{id}` | Tek analiz döndürür |
 | `DELETE` | `/api/v1/analyses/{id}` | Analizi siler |
+| `GET` | `/api/v1/profile` | Giriş yapan kullanıcının profil bilgisini döndürür |
+| `PUT` | `/api/v1/profile` | Profil bilgisini Postgres'e kaydeder |
 | `POST` | `/api/v1/classify/sentiment` | Sentiment modeli |
 | `POST` | `/api/v1/classify/intent` | Intent modeli |
 | `POST` | `/api/v1/classify/legal` | Legal modeli |
