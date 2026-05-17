@@ -9,6 +9,15 @@ env/
 .env
 .env.local
 
+# Model weights are loaded from Hugging Face at runtime.
+models/
+hf-cache/
+.huggingface/
+*.safetensors
+*.pt
+*.pth
+*.onnx
+
 .pytest_cache/
 .ruff_cache/
 .mypy_cache/

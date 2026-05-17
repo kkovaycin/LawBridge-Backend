@@ -5,6 +5,7 @@ from functools import lru_cache
 from app.core.config import get_settings
 from app.models.schemas import ModelInfo
 from app.services.classifiers import MultiLabelClassifier, read_labels_from_config
+from app.services.model_sources import model_ref_available, model_ref_kind
 from app.services.precedents import PrecedentService
 from app.services.storage import AnalysisStore
 from app.services.youtube import YouTubeCommentClient
@@ -14,28 +15,33 @@ class ModelRegistry:
     def __init__(self) -> None:
         settings = get_settings()
         self.settings = settings
+        hf_token = settings.hf_token_value
         self.sentiment = MultiLabelClassifier(
             key="sentiment",
             model_path=settings.sentiment_model_path,
             device=settings.model_device,
             max_length=settings.max_sequence_length,
+            hf_token=hf_token,
         )
         self.intent = MultiLabelClassifier(
             key="intent",
             model_path=settings.intent_model_path,
             device=settings.model_device,
             max_length=settings.max_sequence_length,
+            hf_token=hf_token,
         )
         self.legal = MultiLabelClassifier(
             key="legal",
             model_path=settings.legal_model_path,
             device=settings.model_device,
             max_length=settings.max_sequence_length,
+            hf_token=hf_token,
         )
         self.precedents = PrecedentService(
             model_path=settings.reasoning_model_path,
             dataset_dir=settings.judgements_dataset_dir,
             device=settings.model_device,
+            hf_token=hf_token,
         )
         self.youtube = YouTubeCommentClient(
             api_key=settings.youtube_api_key,
@@ -60,10 +66,10 @@ class ModelRegistry:
 
     def available_status(self) -> dict[str, bool]:
         return {
-            "sentiment": self.settings.sentiment_model_path.exists(),
-            "intent": self.settings.intent_model_path.exists(),
-            "legal": self.settings.legal_model_path.exists(),
-            "reasoning": self.settings.reasoning_model_path.exists(),
+            "sentiment": model_ref_available(self.settings.sentiment_model_path),
+            "intent": model_ref_available(self.settings.intent_model_path),
+            "legal": model_ref_available(self.settings.legal_model_path),
+            "reasoning": model_ref_available(self.settings.reasoning_model_path),
         }
 
     def model_info(self) -> list[ModelInfo]:
@@ -71,32 +77,39 @@ class ModelRegistry:
             ModelInfo(
                 key="sentiment",
                 path=str(self.settings.sentiment_model_path),
-                available=self.settings.sentiment_model_path.exists(),
+                available=model_ref_available(self.settings.sentiment_model_path),
                 loaded=self.sentiment.loaded,
-                labels=read_labels_from_config(self.settings.sentiment_model_path),
+                labels=self.sentiment.labels
+                or read_labels_from_config(self.settings.sentiment_model_path, hf_token=self.settings.hf_token_value),
+                extra={"sourceType": model_ref_kind(self.settings.sentiment_model_path)},
             ),
             ModelInfo(
                 key="intent",
                 path=str(self.settings.intent_model_path),
-                available=self.settings.intent_model_path.exists(),
+                available=model_ref_available(self.settings.intent_model_path),
                 loaded=self.intent.loaded,
-                labels=read_labels_from_config(self.settings.intent_model_path),
+                labels=self.intent.labels
+                or read_labels_from_config(self.settings.intent_model_path, hf_token=self.settings.hf_token_value),
+                extra={"sourceType": model_ref_kind(self.settings.intent_model_path)},
             ),
             ModelInfo(
                 key="legal",
                 path=str(self.settings.legal_model_path),
-                available=self.settings.legal_model_path.exists(),
+                available=model_ref_available(self.settings.legal_model_path),
                 loaded=self.legal.loaded,
-                labels=read_labels_from_config(self.settings.legal_model_path),
+                labels=self.legal.labels
+                or read_labels_from_config(self.settings.legal_model_path, hf_token=self.settings.hf_token_value),
+                extra={"sourceType": model_ref_kind(self.settings.legal_model_path)},
             ),
             ModelInfo(
                 key="reasoning",
                 path=str(self.settings.reasoning_model_path),
-                available=self.settings.reasoning_model_path.exists(),
+                available=model_ref_available(self.settings.reasoning_model_path),
                 loaded=self.precedents.loaded,
                 labels=[],
                 extra={
                     "type": "sentence-transformers semantic search",
+                    "sourceType": model_ref_kind(self.settings.reasoning_model_path),
                     "datasetPath": str(self.settings.judgements_dataset_dir),
                     "datasetAvailable": self.settings.judgements_dataset_dir.exists(),
                     "precedentCount": self.precedents.count,

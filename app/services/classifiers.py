@@ -6,6 +6,11 @@ from threading import Lock
 from typing import Any
 
 from app.models.schemas import ClassificationResponse, LabelScore
+from app.services.model_sources import (
+    is_local_model_ref,
+    pretrained_model_source,
+    resolve_local_model_path,
+)
 
 
 class ModelLoadError(RuntimeError):
@@ -17,38 +22,65 @@ def _read_json(path: Path) -> Any:
         return json.load(file)
 
 
-def read_labels_from_config(model_path: Path) -> list[str]:
-    config_path = model_path / "config.json"
-    if not config_path.exists():
+def _labels_from_id2label(id2label: Any) -> list[str]:
+    if not isinstance(id2label, dict):
         return []
 
-    config = _read_json(config_path)
-    id2label = config.get("id2label", {})
-    return [
-        label
-        for _, label in sorted(
-            ((int(index), label) for index, label in id2label.items()),
-            key=lambda item: item[0],
-        )
-    ]
+    labels: list[tuple[int, str]] = []
+    for index, label in id2label.items():
+        try:
+            labels.append((int(index), str(label)))
+        except (TypeError, ValueError):
+            continue
+
+    return [label for _, label in sorted(labels, key=lambda item: item[0])]
+
+
+def read_labels_from_config(
+    model_ref: str,
+    hf_token: str | None = None,
+    *,
+    fetch_remote: bool = False,
+) -> list[str]:
+    if is_local_model_ref(model_ref):
+        config_path = resolve_local_model_path(model_ref) / "config.json"
+        if not config_path.exists():
+            return []
+
+        config = _read_json(config_path)
+        return _labels_from_id2label(config.get("id2label", {}))
+
+    if not fetch_remote:
+        return []
+
+    try:
+        from transformers import AutoConfig
+
+        config = AutoConfig.from_pretrained(model_ref, token=hf_token)
+    except Exception:
+        return []
+
+    return _labels_from_id2label(getattr(config, "id2label", {}))
 
 
 class MultiLabelClassifier:
     def __init__(
         self,
         key: str,
-        model_path: Path,
+        model_path: str,
         device: str = "auto",
         max_length: int = 512,
         default_threshold: float = 0.5,
+        hf_token: str | None = None,
     ) -> None:
         self.key = key
-        self.model_path = model_path
+        self.model_path = str(model_path).strip()
         self.device_setting = device
         self.max_length = max_length
         self.default_threshold = default_threshold
-        self.labels = read_labels_from_config(model_path)
-        self.thresholds = self._load_thresholds()
+        self.hf_token = hf_token
+        self.labels = read_labels_from_config(self.model_path, hf_token=hf_token)
+        self.thresholds: dict[str, float] = {}
         self._tokenizer = None
         self._model = None
         self._device = None
@@ -114,38 +146,47 @@ class MultiLabelClassifier:
             if self.loaded:
                 return
 
-            if not self.model_path.exists():
-                raise ModelLoadError(f"{self.key} model path bulunamadı: {self.model_path}")
+            local_only = is_local_model_ref(self.model_path)
+            source = pretrained_model_source(self.model_path)
+            if local_only and not Path(source).exists():
+                raise ModelLoadError(f"{self.key} model path bulunamadi: {source}")
 
-            import torch
-            from transformers import AutoModelForSequenceClassification, AutoTokenizer
+            try:
+                import torch
+                from transformers import AutoModelForSequenceClassification, AutoTokenizer
 
-            device_name = self._resolve_device(torch)
-            self._device = torch.device(device_name)
-            self._tokenizer = AutoTokenizer.from_pretrained(
-                self.model_path,
-                local_files_only=True,
-                use_fast=True,
-            )
-            self._model = AutoModelForSequenceClassification.from_pretrained(
-                self.model_path,
-                local_files_only=True,
-            )
+                token_kwargs = {"token": self.hf_token} if self.hf_token else {}
+                device_name = self._resolve_device(torch)
+                self._device = torch.device(device_name)
+                self._tokenizer = AutoTokenizer.from_pretrained(
+                    source,
+                    local_files_only=local_only,
+                    use_fast=True,
+                    **token_kwargs,
+                )
+                self._model = AutoModelForSequenceClassification.from_pretrained(
+                    source,
+                    local_files_only=local_only,
+                    **token_kwargs,
+                )
+            except ModelLoadError:
+                raise
+            except Exception as exc:
+                raise ModelLoadError(f"{self.key} modeli yuklenemedi ({source}): {exc}") from exc
+
             self._model.to(self._device)
             self._model.eval()
+            self.thresholds = self._load_thresholds()
 
             if not self.labels:
                 config = getattr(self._model, "config", None)
                 id2label = getattr(config, "id2label", {}) if config else {}
-                self.labels = [
-                    label
-                    for _, label in sorted(id2label.items(), key=lambda item: int(item[0]))
-                ]
+                self.labels = _labels_from_id2label(id2label)
 
     def _resolve_device(self, torch_module: Any) -> str:
         if self.device_setting == "cuda":
             if not torch_module.cuda.is_available():
-                raise ModelLoadError("MODEL_DEVICE=cuda seçildi ancak CUDA kullanılamıyor")
+                raise ModelLoadError("MODEL_DEVICE=cuda secildi ancak CUDA kullanilamiyor")
             return "cuda"
 
         if self.device_setting == "auto" and torch_module.cuda.is_available():
@@ -154,7 +195,22 @@ class MultiLabelClassifier:
         return "cpu"
 
     def _load_thresholds(self) -> dict[str, float]:
-        threshold_path = self.model_path / "thresholds.json"
+        if is_local_model_ref(self.model_path):
+            threshold_path = resolve_local_model_path(self.model_path) / "thresholds.json"
+        else:
+            try:
+                from huggingface_hub import hf_hub_download
+
+                threshold_path = Path(
+                    hf_hub_download(
+                        repo_id=self.model_path,
+                        filename="thresholds.json",
+                        token=self.hf_token,
+                    )
+                )
+            except Exception:
+                return {}
+
         if not threshold_path.exists():
             return {}
 

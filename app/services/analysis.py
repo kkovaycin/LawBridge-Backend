@@ -59,10 +59,12 @@ class AnalysisService:
         self.registry = registry
 
     def analyze(self, request: AnalyzeRequest) -> AnalysisResponse:
-        if request.source_type == AnalyzeSourceType.youtube_comment:
-            video_id = extract_youtube_video_id(request.text)
-            if video_id:
-                return self._analyze_youtube_video(request, video_id)
+        video_id = extract_youtube_video_id(request.text)
+        if video_id:
+            youtube_request = request.model_copy(
+                update={"source_type": AnalyzeSourceType.youtube_comment}
+            )
+            return self._analyze_youtube_video(youtube_request, video_id)
 
         evaluation = self._evaluate_text(request.text, request.analysis_type)
         precedent_matches = self.registry.precedents.search(request.text, top_k=3)

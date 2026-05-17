@@ -20,10 +20,12 @@ class Settings(BaseSettings):
     api_v1_prefix: str = "/api/v1"
     cors_origins: str = "http://localhost:3000,http://127.0.0.1:3000"
 
-    sentiment_model_path: Path = PROJECT_ROOT / "models" / "sentiment_berturk_model"
-    intent_model_path: Path = PROJECT_ROOT / "models" / "intent_berturk_model"
-    legal_model_path: Path = PROJECT_ROOT / "models" / "lawbridge_legal_model"
-    reasoning_model_path: Path = PROJECT_ROOT / "models" / "MiniLM_weak_summary_to_reasoning_seed42_ep7_msl256"
+    hf_token: str | None = None
+    sentiment_model_path: str = "lawbridge/sentiment-berturk"
+    intent_model_path: str = "lawbridge/intent-berturk"
+    legal_model_path: str = "lawbridge/lawbridge-legal-model"
+    retrieval_model_path: str | None = None
+    reasoning_model_path: str = "lawbridge/turkish-legal-precedent-retrieval"
     judgements_dataset_dir: Path = PROJECT_ROOT / "Structured_Judgements"
 
     model_device: str = Field(default="auto", pattern="^(auto|cpu|cuda)$")
@@ -36,11 +38,19 @@ class Settings(BaseSettings):
 
     @model_validator(mode="after")
     def resolve_project_paths(self) -> "Settings":
+        if self.retrieval_model_path and self.retrieval_model_path.strip():
+            self.reasoning_model_path = self.retrieval_model_path.strip()
+
         for field_name in (
             "sentiment_model_path",
             "intent_model_path",
             "legal_model_path",
             "reasoning_model_path",
+        ):
+            value = getattr(self, field_name)
+            setattr(self, field_name, value.strip())
+
+        for field_name in (
             "judgements_dataset_dir",
             "analysis_store_path",
         ):
@@ -60,6 +70,13 @@ class Settings(BaseSettings):
             for origin in self.cors_origins.split(",")
             if origin.strip()
         ]
+
+    @property
+    def hf_token_value(self) -> str | None:
+        if not self.hf_token:
+            return None
+        token = self.hf_token.strip()
+        return token or None
 
 
 @lru_cache

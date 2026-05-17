@@ -7,24 +7,29 @@ from threading import Lock
 from app.data.judgements import load_judgement_dataset
 from app.data.precedents import PRECEDENTS
 from app.models.schemas import PrecedentMatch, PrecedentRecord, RiskLevel
+from app.services.model_sources import (
+    is_local_model_ref,
+    model_ref_available,
+    pretrained_model_source,
+)
 
 
 TURKISH_TRANSLATION = str.maketrans(
     {
-        "ç": "c",
-        "ğ": "g",
-        "ı": "i",
+        "\u00e7": "c",
+        "\u011f": "g",
+        "\u0131": "i",
         "i": "i",
-        "ö": "o",
-        "ş": "s",
-        "ü": "u",
-        "Ç": "c",
-        "Ğ": "g",
+        "\u00f6": "o",
+        "\u015f": "s",
+        "\u00fc": "u",
+        "\u00c7": "c",
+        "\u011e": "g",
         "I": "i",
-        "İ": "i",
-        "Ö": "o",
-        "Ş": "s",
-        "Ü": "u",
+        "\u0130": "i",
+        "\u00d6": "o",
+        "\u015e": "s",
+        "\u00dc": "u",
     }
 )
 
@@ -38,10 +43,17 @@ def tokenize(value: str) -> set[str]:
 
 
 class PrecedentService:
-    def __init__(self, model_path: Path, dataset_dir: Path, device: str = "auto") -> None:
-        self.model_path = model_path
+    def __init__(
+        self,
+        model_path: str,
+        dataset_dir: Path,
+        device: str = "auto",
+        hf_token: str | None = None,
+    ) -> None:
+        self.model_path = str(model_path).strip()
         self.dataset_dir = dataset_dir
         self.device_setting = device
+        self.hf_token = hf_token
         self._model = None
         self._embeddings = None
         self._records: list[PrecedentRecord] | None = None
@@ -100,7 +112,7 @@ class PrecedentService:
         return next((item for item in self.records if item.id == precedent_id), None)
 
     def search(self, text: str, top_k: int = 3) -> list[PrecedentMatch]:
-        if self.model_path.exists():
+        if model_ref_available(self.model_path):
             try:
                 return self._semantic_search(text, top_k=top_k)
             except Exception:
@@ -157,13 +169,21 @@ class PrecedentService:
             if self.loaded:
                 return
 
-            if not self.model_path.exists():
-                raise FileNotFoundError(f"Reasoning model path bulunamadı: {self.model_path}")
+            local_only = is_local_model_ref(self.model_path)
+            source = pretrained_model_source(self.model_path)
+            if local_only and not Path(source).exists():
+                raise FileNotFoundError(f"Reasoning model path bulunamadi: {source}")
 
             from sentence_transformers import SentenceTransformer
 
             device = self._resolve_device()
-            self._model = SentenceTransformer(str(self.model_path), device=device)
+            token_kwargs = {"token": self.hf_token} if self.hf_token else {}
+            try:
+                self._model = SentenceTransformer(source, device=device, **token_kwargs)
+            except TypeError:
+                if not self.hf_token:
+                    raise
+                self._model = SentenceTransformer(source, device=device, use_auth_token=self.hf_token)
             corpus = [self._precedent_text(precedent) for precedent in self.records]
             self._embeddings = self._model.encode(corpus, normalize_embeddings=True)
 

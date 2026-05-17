@@ -1,8 +1,0 @@
-{
-  "subset_accuracy": 0.5679012345679012,
-  "hamming_accuracy": 0.8933499325656189,
-  "f1_micro": 0.76059618071728,
-  "f1_macro": 0.677350774318841,
-  "precision_micro": 0.7118570183086312,
-  "recall_micro": 0.8165
-}
