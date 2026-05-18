@@ -142,9 +142,14 @@ class PrecedentRecord(APIModel):
     court: str
     date: str
     summary: str
+    full_text: str | None = None
     tags: list[str]
     risk_level: RiskLevel
     saved: bool = False
+
+
+class PrecedentSaveRequest(APIModel):
+    saved: bool
 
 
 class PrecedentMatch(APIModel):

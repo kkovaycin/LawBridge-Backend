@@ -51,6 +51,17 @@ class AnalysisStore:
     ) -> UserProfileResponse:
         raise NotImplementedError
 
+    def saved_precedent_ids(self, user: RequestUser | None = None) -> set[str]:
+        raise NotImplementedError
+
+    def set_precedent_saved(
+        self,
+        precedent_id: str,
+        saved: bool,
+        user: RequestUser | None = None,
+    ) -> bool:
+        raise NotImplementedError
+
     @staticmethod
     def _record_from_analysis(analysis: AnalysisResponse) -> AnalysisRecord:
         return AnalysisRecord(
@@ -71,6 +82,7 @@ class FileAnalysisStore(AnalysisStore):
     def __init__(self, path: Path) -> None:
         self.path = path
         self.users_path = path.with_name("users.json")
+        self.saved_precedents_path = path.with_name("saved_precedents.json")
         self._lock = Lock()
 
     def list(self, user: RequestUser | None = None) -> list[AnalysisRecord]:
@@ -156,6 +168,32 @@ class FileAnalysisStore(AnalysisStore):
             self._write_users(profiles)
             return _profile_response(user, next_profile)
 
+    def saved_precedent_ids(self, user: RequestUser | None = None) -> set[str]:
+        owner_id = _owner_id(user)
+        raw_items = self._read_saved_precedents().get(owner_id, [])
+        if not isinstance(raw_items, list):
+            return set()
+        return {str(item) for item in raw_items if str(item).strip()}
+
+    def set_precedent_saved(
+        self,
+        precedent_id: str,
+        saved: bool,
+        user: RequestUser | None = None,
+    ) -> bool:
+        owner_id = _owner_id(user)
+        normalized_precedent_id = precedent_id.strip()
+        with self._lock:
+            saved_precedents = self._read_saved_precedents()
+            current_ids = set(saved_precedents.get(owner_id, []))
+            if saved:
+                current_ids.add(normalized_precedent_id)
+            else:
+                current_ids.discard(normalized_precedent_id)
+            saved_precedents[owner_id] = sorted(current_ids)
+            self._write_saved_precedents(saved_precedents)
+        return saved
+
     def _items_for_owner(self, owner_id: str) -> list[dict]:
         return [
             item
@@ -193,6 +231,20 @@ class FileAnalysisStore(AnalysisStore):
         self.users_path.parent.mkdir(parents=True, exist_ok=True)
         with self.users_path.open("w", encoding="utf-8") as file:
             json.dump(profiles, file, ensure_ascii=False, indent=2)
+
+    def _read_saved_precedents(self) -> dict[str, list[str]]:
+        if not self.saved_precedents_path.exists():
+            return {}
+
+        with self.saved_precedents_path.open("r", encoding="utf-8") as file:
+            data = json.load(file)
+
+        return data if isinstance(data, dict) else {}
+
+    def _write_saved_precedents(self, saved_precedents: dict[str, list[str]]) -> None:
+        self.saved_precedents_path.parent.mkdir(parents=True, exist_ok=True)
+        with self.saved_precedents_path.open("w", encoding="utf-8") as file:
+            json.dump(saved_precedents, file, ensure_ascii=False, indent=2)
 
 
 class PostgresAnalysisStore(AnalysisStore):
@@ -352,6 +404,50 @@ class PostgresAnalysisStore(AnalysisStore):
             provider=row[6],
         )
 
+    def saved_precedent_ids(self, user: RequestUser | None = None) -> set[str]:
+        owner_id = _owner_id(user)
+        self._upsert_user(user)
+        with self._connect() as connection:
+            with connection.cursor() as cursor:
+                cursor.execute(
+                    """
+                    select precedent_id
+                    from lawbridge_saved_precedents
+                    where owner_id = %s
+                    """,
+                    (owner_id,),
+                )
+                return {row[0] for row in cursor.fetchall()}
+
+    def set_precedent_saved(
+        self,
+        precedent_id: str,
+        saved: bool,
+        user: RequestUser | None = None,
+    ) -> bool:
+        owner_id = _owner_id(user)
+        self._upsert_user(user)
+        with self._connect() as connection:
+            with connection.cursor() as cursor:
+                if saved:
+                    cursor.execute(
+                        """
+                        insert into lawbridge_saved_precedents (owner_id, precedent_id, created_at)
+                        values (%s, %s, now())
+                        on conflict (owner_id, precedent_id) do nothing
+                        """,
+                        (owner_id, precedent_id),
+                    )
+                else:
+                    cursor.execute(
+                        """
+                        delete from lawbridge_saved_precedents
+                        where owner_id = %s and precedent_id = %s
+                        """,
+                        (owner_id, precedent_id),
+                    )
+        return saved
+
     def _upsert_user(self, user: RequestUser | None) -> None:
         normalized_user = user or RequestUser()
         owner_id = normalized_user.normalized_id
@@ -428,6 +524,16 @@ create table if not exists lawbridge_analyses (
 
 create index if not exists lawbridge_analyses_owner_created_idx
     on lawbridge_analyses (owner_id, created_at desc);
+
+create table if not exists lawbridge_saved_precedents (
+    owner_id text not null references lawbridge_users(id) on delete cascade,
+    precedent_id text not null,
+    created_at timestamptz not null default now(),
+    primary key (owner_id, precedent_id)
+);
+
+create index if not exists lawbridge_saved_precedents_owner_created_idx
+    on lawbridge_saved_precedents (owner_id, created_at desc);
 """
 
 

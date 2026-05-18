@@ -52,6 +52,21 @@ def test_file_store_persists_user_profile(tmp_path):
     assert loaded.bio == "Short bio"
 
 
+def test_file_store_scopes_saved_precedents_by_user(tmp_path):
+    store = FileAnalysisStore(tmp_path / "analyses.json")
+    alice = RequestUser(id="alice")
+    bob = RequestUser(id="bob")
+
+    assert store.saved_precedent_ids(user=alice) == set()
+
+    assert store.set_precedent_saved("judgement-1", saved=True, user=alice) is True
+    assert store.saved_precedent_ids(user=alice) == {"judgement-1"}
+    assert store.saved_precedent_ids(user=bob) == set()
+
+    assert store.set_precedent_saved("judgement-1", saved=False, user=alice) is False
+    assert store.saved_precedent_ids(user=alice) == set()
+
+
 def _analysis(analysis_id: str) -> AnalysisResponse:
     classification = ClassificationResponse(
         model_key="sentiment",

@@ -28,6 +28,7 @@ htmlcov/
 
 data/analyses.json
 data/users.json
+data/saved_precedents.json
 
 .DS_Store
 Thumbs.db

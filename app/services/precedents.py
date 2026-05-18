@@ -89,8 +89,12 @@ class PrecedentService:
         query: str | None = None,
         risk_level: RiskLevel | None = None,
         saved: bool | None = None,
+        saved_ids: set[str] | None = None,
     ) -> list[PrecedentRecord]:
-        records = self.records
+        records = [
+            self._with_user_state(item, saved_ids=saved_ids)
+            for item in self.records
+        ]
 
         if risk_level is not None:
             records = [item for item in records if item.risk_level == risk_level]
@@ -108,8 +112,20 @@ class PrecedentService:
 
         return records
 
-    def get_precedent(self, precedent_id: str) -> PrecedentRecord | None:
-        return next((item for item in self.records if item.id == precedent_id), None)
+    def get_precedent(
+        self,
+        precedent_id: str,
+        saved_ids: set[str] | None = None,
+        include_full_text: bool = False,
+    ) -> PrecedentRecord | None:
+        precedent = next((item for item in self.records if item.id == precedent_id), None)
+        if precedent is None:
+            return None
+        return self._with_user_state(
+            precedent,
+            saved_ids=saved_ids,
+            include_full_text=include_full_text,
+        )
 
     def search(self, text: str, top_k: int = 3) -> list[PrecedentMatch]:
         if model_ref_available(self.model_path):
@@ -198,6 +214,19 @@ class PrecedentService:
 
     def _precedent_text(self, precedent: PrecedentRecord) -> str:
         return self._corpus_by_id.get(precedent.id) or self._visible_precedent_text(precedent)
+
+    def _with_user_state(
+        self,
+        precedent: PrecedentRecord,
+        saved_ids: set[str] | None,
+        include_full_text: bool = False,
+    ) -> PrecedentRecord:
+        updates = {
+            "saved": precedent.id in saved_ids if saved_ids is not None else precedent.saved,
+        }
+        if include_full_text:
+            updates["full_text"] = self._precedent_text(precedent)
+        return precedent.model_copy(update=updates)
 
     @staticmethod
     def _visible_precedent_text(precedent: PrecedentRecord) -> str:

@@ -14,6 +14,7 @@ from app.models.schemas import (
     ModelsResponse,
     PrecedentMatch,
     PrecedentRecord,
+    PrecedentSaveRequest,
     PrecedentSearchRequest,
     RiskLevel,
     TextRequest,
@@ -165,25 +166,73 @@ def classify_legal(request: TextRequest) -> ClassificationResponse:
         raise HTTPException(status_code=status.HTTP_503_SERVICE_UNAVAILABLE, detail=str(exc)) from exc
 
 
-@router.get("/precedents", response_model=list[PrecedentRecord], tags=["precedents"])
+@router.get(
+    "/precedents",
+    response_model=list[PrecedentRecord],
+    response_model_exclude_none=True,
+    tags=["precedents"],
+)
 def list_precedents(
     query: str | None = Query(default=None, max_length=300),
     risk_level: RiskLevel | None = Query(default=None),
     saved: bool | None = Query(default=None),
+    user: RequestUser = Depends(current_user),
 ) -> list[PrecedentRecord]:
+    saved_ids = registry().store.saved_precedent_ids(user=user)
     return registry().precedents.list_precedents(
         query=query,
         risk_level=risk_level,
         saved=saved,
+        saved_ids=saved_ids,
     )
 
 
-@router.get("/precedents/{precedent_id}", response_model=PrecedentRecord, tags=["precedents"])
-def get_precedent(precedent_id: str) -> PrecedentRecord:
-    precedent = registry().precedents.get_precedent(precedent_id)
+@router.get(
+    "/precedents/{precedent_id}",
+    response_model=PrecedentRecord,
+    response_model_exclude_none=True,
+    tags=["precedents"],
+)
+def get_precedent(
+    precedent_id: str,
+    user: RequestUser = Depends(current_user),
+) -> PrecedentRecord:
+    saved_ids = registry().store.saved_precedent_ids(user=user)
+    precedent = registry().precedents.get_precedent(
+        precedent_id,
+        saved_ids=saved_ids,
+        include_full_text=True,
+    )
     if precedent is None:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Emsal kaydı bulunamadı")
     return precedent
+
+
+@router.put(
+    "/precedents/{precedent_id}/saved",
+    response_model=PrecedentRecord,
+    response_model_exclude_none=True,
+    tags=["precedents"],
+)
+def set_precedent_saved(
+    precedent_id: str,
+    request: PrecedentSaveRequest,
+    user: RequestUser = Depends(current_user),
+) -> PrecedentRecord:
+    precedent = registry().precedents.get_precedent(precedent_id)
+    if precedent is None:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Emsal kaydÄ± bulunamadÄ±")
+
+    registry().store.set_precedent_saved(precedent_id, saved=request.saved, user=user)
+    saved_ids = {precedent_id} if request.saved else set()
+    updated_precedent = registry().precedents.get_precedent(
+        precedent_id,
+        saved_ids=saved_ids,
+        include_full_text=True,
+    )
+    if updated_precedent is None:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Emsal kaydÄ± bulunamadÄ±")
+    return updated_precedent
 
 
 @router.post("/precedents/search", response_model=list[PrecedentMatch], tags=["precedents"])
