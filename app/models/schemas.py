@@ -211,7 +211,7 @@ class ModelsResponse(APIModel):
 
 
 class PrecedentSearchRequest(TextRequest):
-    pass
+    top_k: int = Field(default=50, ge=1, le=100)
 
 
 class ApplicationDraftRequest(APIModel):

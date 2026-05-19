@@ -127,14 +127,34 @@ class PrecedentService:
             include_full_text=include_full_text,
         )
 
-    def search(self, text: str, top_k: int = 3) -> list[PrecedentMatch]:
+    def search(
+        self,
+        text: str,
+        top_k: int = 3,
+        saved_ids: set[str] | None = None,
+    ) -> list[PrecedentMatch]:
         if model_ref_available(self.model_path):
             try:
-                return self._semantic_search(text, top_k=top_k)
+                matches = self._semantic_search(text, top_k=top_k)
             except Exception:
-                return self._keyword_search(text, top_k=top_k)
+                matches = self._keyword_search(text, top_k=top_k)
+        else:
+            matches = self._keyword_search(text, top_k=top_k)
 
-        return self._keyword_search(text, top_k=top_k)
+        if saved_ids is None:
+            return matches
+
+        return [
+            match.model_copy(
+                update={
+                    "precedent": self._with_user_state(
+                        match.precedent,
+                        saved_ids=saved_ids,
+                    )
+                }
+            )
+            for match in matches
+        ]
 
     def _semantic_search(self, text: str, top_k: int) -> list[PrecedentMatch]:
         self._ensure_loaded()

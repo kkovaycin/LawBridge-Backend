@@ -235,9 +235,22 @@ def set_precedent_saved(
     return updated_precedent
 
 
-@router.post("/precedents/search", response_model=list[PrecedentMatch], tags=["precedents"])
-def search_precedents(request: PrecedentSearchRequest) -> list[PrecedentMatch]:
-    return registry().precedents.search(request.text, top_k=request.top_k)
+@router.post(
+    "/precedents/search",
+    response_model=list[PrecedentMatch],
+    response_model_exclude_none=True,
+    tags=["precedents"],
+)
+def search_precedents(
+    request: PrecedentSearchRequest,
+    user: RequestUser = Depends(current_user),
+) -> list[PrecedentMatch]:
+    saved_ids = registry().store.saved_precedent_ids(user=user)
+    return registry().precedents.search(
+        request.text,
+        top_k=request.top_k,
+        saved_ids=saved_ids,
+    )
 
 
 @router.post("/applications/draft", response_model=ApplicationDraftResponse, tags=["applications"])
